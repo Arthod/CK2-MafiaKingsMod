@@ -1,0 +1,81 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_chelsea;Chelsea;Chelsea;Chelsea;;Chelsea;;;;;;;;;x
+d_chelsea_adj;Chelsean;;chelser;;;;;;;;;;;x
+d_cherysite;Cherysite;Cherysite;Cherysite;;Cherysite;;;;;;;;;x
+d_cherysite_adj;Cherysitean;;cherysiter;;;;;;;;;;;x
+d_clinton;Clinton;Clinton;Clinton;;Clinton;;;;;;;;;x
+d_clinton_adj;Clintonian;;clintoner;;;;;;;;;;;x
+d_columbus_circle;Columbus Circle;Columbus Circle;Columbus Circle;;Columbus Circle;;;;;;;;;x
+d_columbus_circle_adj;Columbus Circlean;;Columbus Circler;;;;;;;;;;;x
+d_community_college;Community College;Community College;Community College;;Community College;;;;;;;;;x
+d_community_college_adj;Community Collegean;;Community Colleger;;;;;;;;;;;x
+d_dewitt;DeWitt;DeWitt;DeWitt;;DeWitt;;;;;;;;;x
+d_dewitt_adj;DeWittian;;dewitter;;;;;;;;;;;x
+d_e_housten;E Housten;E Housten;E Housten;;E Housten;;;;;;;;;x
+d_e_housten_adj;E Houstenian;;E Houstener;;;;;;;;;;;x
+d_east_river_park;East River Park;East River Park;East River Park;;East River Park;;;;;;;;;x
+d_east_river_park_adj;East River Parkian;;East River Parker;;;;;;;;;;;x
+d_east_village;East Village;East Village;East Village;;East Village;;;;;;;;;x
+d_east_village_adj;East Villagean;;East Villager;;;;;;;;;;;x
+d_flatiron;Flatiron;Flatiron;Flatiron;;Flatiron;;;;;;;;;x
+d_flatiron_adj;Flatironian;;flatironer;;;;;;;;;;;x
+d_gansevoort;Gansevoort;Gansevoort;Gansevoort;;Gansevoort;;;;;;;;;x
+d_gansevoort_adj;Gansevoortian;;gansevoorter;;;;;;;;;;;x
+d_gramercy;Gramercy;Gramercy;Gramercy;;Gramercy;;;;;;;;;x
+d_gramercy_adj;Gramercian;;gramercer;;;;;;;;;;;x
+d_grand_street;Grand Street;Grand Street;Grand Street;;Grand Street;;;;;;;;;x
+d_grand_street_adj;Grand Streetian;;Grand Streeter;;;;;;;;;;;x
+d_greenwich;Greenwich;Greenwich;Greenwich;;Greenwich;;;;;;;;;x
+d_greenwich_adj;Greenwichian;;greenwicher;;;;;;;;;;;x
+d_hells_kitchen;Hell's Kitchen;Hell's Kitchen;Hell's Kitchen;;Hell's Kitchen;;;;;;;;;x
+d_hells_kitchen_adj;Hells Kitchenian;;Hell's Kitchener;;;;;;;;;;;x
+d_hudson_river_park;Hudson River Park;Hudson River Park;Hudson River Park;;Hudson River Park;;;;;;;;;x
+d_hudson_river_park_adj;Hudson River Parkian;;Hudson River Parker;;;;;;;;;;;x
+d_inner_town;Inner Town;Inner Town;Inner Town;;Inner Town;;;;;;;;;x
+d_inner_town_adj;Inner Townian;;Inner Towner;;;;;;;;;;;x
+d_james_slip;James Slip;James Slip;James Slip;;James Slip;;;;;;;;;x
+d_james_slip_adj;James Slipian;;James Sliper;;;;;;;;;;;x
+d_lincoln_square;Lincoln Square;Lincoln Square;Lincoln Square;;Lincoln Square;;;;;;;;;x
+d_lincoln_square_adj;Lincoln Squarean;;Lincoln Squarer;;;;;;;;;;;x
+d_lower_manhatten;Lower Manhatten;Lower Manhatten;Lower Manhatten;;Lower Manhatten;;;;;;;;;x
+d_lower_manhatten_adj;Lower Manhattenian;;Lower Manhattener;;;;;;;;;;;x
+d_madison_square;Madison Square;Madison Square;Madison Square;;Madison Square;;;;;;;;;x
+d_madison_square_adj;Madison Squarean;;Madison Squarer;;;;;;;;;;;x
+d_midtown;Midtown;Midtown;Midtown;;Midtown;;;;;;;;;x
+d_midtown_adj;Midtownian;;midtowner;;;;;;;;;;;x
+d_midtown_south;Midtown South;Midtown South;Midtown South;;Midtown South;;;;;;;;;x
+d_midtown_south_adj;Midtown Southian;;Midtown Souther;;;;;;;;;;;x
+d_new_york_university;New York University;New York University;New York University;;New York University;;;;;;;;;x
+d_new_york_university_adj;New York Universitian;;New York Universiter;;;;;;;;;;;x
+d_plaza;Plaza;Plaza;Plaza;;Plaza;;;;;;;;;x
+d_plaza_adj;Plazan;;plazer;;;;;;;;;;;x
+d_prince_streets;Prince Streets;Prince Streets;Prince Streets;;Prince Streets;;;;;;;;;x
+d_prince_streets_adj;Prince Streetsian;;Prince Streetser;;;;;;;;;;;x
+d_queensboro_bridge;Queensboro Bridge;Queensboro Bridge;Queensboro Bridge;;Queensboro Bridge;;;;;;;;;x
+d_queensboro_bridge_adj;Queensboro Bridgean;;Queensboro Bridger;;;;;;;;;;;x
+d_radio_row;Radio Row;Radio Row;Radio Row;;Radio Row;;;;;;;;;x
+d_radio_row_adj;Radio Rowian;;Radio Rower;;;;;;;;;;;x
+d_radio_row_north;Radio Row North;Radio Row North;Radio Row North;;Radio Row North;;;;;;;;;x
+d_radio_row_north_adj;Radio Row Northian;;Radio Row Norther;;;;;;;;;;;x
+d_stuyvesant_square;Stuyvesant Square;Stuyvesant Square;Stuyvesant Square;;Stuyvesant Square;;;;;;;;;x
+d_stuyvesant_square_adj;Stuyvesant Squarean;;Stuyvesant Squarer;;;;;;;;;;;x
+d_sutton_place;Sutton Place;Sutton Place;Sutton Place;;Sutton Place;;;;;;;;;x
+d_sutton_place_adj;Sutton Placean;;Sutton Placer;;;;;;;;;;;x
+d_the_battery;The Battery;The Battery;The Battery;;The Battery;;;;;;;;;x
+d_the_battery_adj;The Batterian;;The Batterer;;;;;;;;;;;x
+d_the_other_places;The Other places;The Other places;The Other places;;The Other places;;;;;;;;;x
+d_the_other_places_adj;The Other placesian;;The Other placeser;;;;;;;;;;;x
+d_times_square;Times Square;Times Square;Times Square;;Times Square;;;;;;;;;x
+d_times_square_adj;Times Squarean;;Times Squarer;;;;;;;;;;;x
+d_tudor_city;Tudor City;Tudor City;Tudor City;;Tudor City;;;;;;;;;x
+d_tudor_city_adj;Tudor Citian;;Tudor Citer;;;;;;;;;;;x
+d_turtle_bay;Turtle Bay;Turtle Bay;Turtle Bay;;Turtle Bay;;;;;;;;;x
+d_turtle_bay_adj;Turtle Baian;;Turtle Baer;;;;;;;;;;;x
+d_wall_street;Wall Street;Wall Street;Wall Street;;Wall Street;;;;;;;;;x
+d_wall_street_adj;Wall Streetian;;Wall Streeter;;;;;;;;;;;x
+d_washington_square_park;Washington Square Park;Washington Square Park;Washington Square Park;;Washington Square Park;;;;;;;;;x
+d_washington_square_park_adj;Washington Square Parkian;;Washington Square Parker;;;;;;;;;;;x
+d_worth_street;Worth Street;Worth Street;Worth Street;;Worth Street;;;;;;;;;x
+d_worth_street_adj;Worth Streetian;;Worth Streeter;;;;;;;;;;;x
+d_yorkville;Yorkville;Yorkville;Yorkville;;Yorkville;;;;;;;;;x
+d_yorkville_adj;Yorkvillean;;yorkviller;;;;;;;;;;;x

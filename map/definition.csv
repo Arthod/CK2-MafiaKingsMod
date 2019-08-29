@@ -1,0 +1,159 @@
+province;red;green;blue;x;x
+1;42;72;83;Statue of Liberty Departure;x
+2;126;39;134;Museum of Jewish Heritage;x
+3;0;114;90;Staten Island Ferry;x
+4;0;84;85;New York City Transit;x
+5;42;87;213;Wall Street;x
+6;84;75;211;East Fulton Street;x
+7;126;24;4;West Fulton Street;x
+8;126;78;84;Trinity Church;x
+9;84;90;86;Cortlandt Street;x
+10;168;81;212;City Radio;x
+11;42;165;18;Dey Street;x
+12;42;48;8;Vesey Street;x
+13;84;36;6;Rockfeller Park;x
+14;168;117;147;New York City Police Department;x
+15;84;111;146;Foley Square;x
+16;84;21;131;New York City Hall;x
+17;168;27;132;Chambers Street;x
+18;168;12;2;Worth Street;x
+19;0;15;130;Lafayette Street;x
+20;126;9;129;Franklin Street;x
+21;168;42;7;Warren Street;x
+22;42;33;133;Borough of Manhatten Community College;x
+23;0;30;5;N Moore Street;x
+24;42;108;223;Washington Street;x
+25;168;102;222;Grand Street;x
+26;42;93;143;Mercer Street;x
+27;126;174;29;Howard Street;x
+28;168;87;142;Greene Street;x
+29;168;132;22;Madison Street;x
+30;42;123;148;Division Street;x
+31;42;138;23;Eldridge Street Museum;x
+32;0;120;20;Columbus Park;x
+33;84;171;156;Mott Street;x
+34;126;129;149;Hester Street;x
+35;126;144;24;Steward Park;x
+36;84;126;21;Henry Street;x
+37;84;141;151;Jackson Street;x
+38;0;135;150;Broome Street;x
+39;0;180;30;Baruch Playground;x
+40;0;162;40;New York East River Park Track;x
+41;85;93;198;Consolidated Edison;x
+42;168;147;152;Rivington Street;x
+43;168;192;32;E Housten Street;x
+44;0;150;25;Delancey Street;x
+45;126;195;39;Eldridge Street;x
+46;84;192;166;Chrystie Street;x
+47;84;153;166;East Village;x
+48;84;93;6;North East Village;x
+49;126;156;39;West East Village;x
+50;42;174;163;Canal Park;x
+51;84;123;56;Hudson River Park;x
+52;84;177;36;New York City Fire Museum;x
+53;126;177;199;James Walker Park;x
+54;168;129;57;Cristopher Street;x
+55;42;171;198;Whitney Museum of American Art;x
+56;0;168;70;Greenwich Street;x
+57;84;175;71;Hudson Street;x
+58;126;162;69;Greenwich Ave;x
+59;168;165;197;Jones Street;x
+60;0;171;35;Varick Street;x
+61;168;168;162;Sullivan Street;x
+62;42;186;73;Washington Square Park;x
+63;0;207;175;New York University;x
+64;84;189;201;Mercer Playground;x
+65;84;0;176;Washington Square Village Apt;x
+66;126;3;49;Bond Street;x
+67;126;165;34;Prince Thompson Street;x
+68;168;183;37;Prince Wooster Street;x
+69;0;186;165;Prince Greene Street;x
+70;42;210;48;Astor Place;x
+71;42;93;198;The Copper Union;x
+72;169;3;167;Grand Central Terminal;x
+73;1;24;135;Pennsylvania Station;x
+74;42;156;68;Bryant Park;x
+75;84;160;195;TS Public LIbrary;x
+76;169;195;7;Lexington Street;x
+77;1;150;185;Unnamed Province 77;x
+78;1;177;225;Unnamed Province 78;x
+79;169;143;7;Unnamed Province 79;x
+80;0;183;200;Unnamed Province 80;x
+81;168;180;72;Unnamed Province 81;x
+82;0;135;205;Unnamed Province 82;x
+83;84;111;201;Unnamed Province 83;x
+84;168;87;197;Unnamed Province 84;x
+85;0;90;70;Unnamed Province 85;x
+86;126;117;39;Unnamed Province 86;x
+87;169;60;212;Unnamed Province 87;x
+88;42;165;168;Unnamed Province 88;x
+89;42;138;78;Unnamed Province 89;x
+90;42;150;38;Unnamed Province 90;x
+91;126;90;204;Unnamed Province 91;x
+92;85;99;141;Unnamed Province 92;x
+93;0;207;25;Unnamed Province 93;x
+94;127;102;14;Unnamed Province 94;x
+95;84;0;26;Unnamed Province 95;x
+96;126;48;34;Unnamed Province 96;x
+97;85;39;131;Unnamed Province 97;x
+98;84;198;151;Unnamed Province 98;x
+99;126;105;79;Unnamed Province 99;x
+100;42;99;78;Unnamed Province 100;x
+101;17;40;240;Unnamed Province 101;x
+102;169;120;17;Unnamed Province 102;x
+103;84;45;161;Unnamed Province 103;x
+104;169;105;142;Unnamed Province 104;x
+105;127;117;144;Unnamed Province 105;x
+106;85;114;16;Unnamed Province 106;x
+107;169;21;7;Unnamed Province 107;x
+108;127;189;64;Unnamed Province 108;x
+109;168;195;202;Unamed Province 109;x
+110;168;135;192;Unamed Province 110;x
+111;126;138;49;Unamed Province 111;x
+112;0;198;75;Unamed Province 112;x
+113;1;123;145;Unamed Province 113;x
+114;84;9;226;Unamed Province 114;x
+115;126;147;194;Unamed Province 115;x
+116;168;105;187;Unamed Province 116;x
+117;0;0;205;Unamed Province 117;x
+118;42;24;138;Unamed Province 118;x
+119;42;192;3;Unamed Province 119;x
+120;84;195;131;Unamed Province 120;x
+121;0;3;225;Unamed Province 121;x
+122;0;51;15;Unamed Province 122;x
+123;42;30;168;Unamed Province 123;x
+124;168;144;187;Unamed Province 124;x
+125;85;161;162;Unamed Province 125;x
+126;168;75;182;Unamed Province 126;x
+127;0;30;210;Unamed Province 127;x
+128;168;39;42;Unamed Province 128;x
+129;42;144;158;Unamed Province 129;x
+130;42;150;188;Unamed Province 130;x
+131;126;96;29;Unamed Province 131;x
+132;126;9;79;Unamed Province 132;x
+133;42;3;78;Unamed Province 133;x
+134;42;126;63;Unamed Province 134;x
+135;0;123;190;Unamed Province 135;x
+136;42;45;43;Unamed Province 136;x
+137;126;36;19;Unamed Province 137;x
+138;127;9;139;Unamed Province 138;x
+139;84;6;206;Unamed Province 139;x
+140;1;15;140;Unamed Province 140;x
+141;128;153;189;Unamed Province 141;x
+142;44;147;188;Unamed Province 142;x
+143;169;132;32;Unamed Province 143;x
+144;170;156;62;Unamed Province 144;x
+145;2;144;60;Unamed Province 145;x
+146;44;162;63;Unamed Province 146;x
+147;127;156;94;Unamed Province 147;x
+148;1;33;130;Unamed Province 148;x
+149;43;36;3;Unamed Province 149;x
+150;44;207;198;Unamed Province 150;x
+151;127;42;4;Unamed Province 151;x
+152;44;177;193;Unamed Province 152;x
+153;1;155;130;Unamed Province 153;x
+154;42;129;83;Jersey and Brooklyn;x
+155;168;162;27;South Island;x
+156;0;126;210;Central Park;x
+157;42;177;183;Lake Alaqol;x
+158;74;181;177;East Lake Alaqol;x

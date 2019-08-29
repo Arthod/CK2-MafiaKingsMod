@@ -1,0 +1,15 @@
+# c_grand_central_terminal
+
+# County Title
+title = c_grand_central_terminal
+
+# Settlements
+max_settlements = 1
+
+b_ad = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

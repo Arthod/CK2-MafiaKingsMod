@@ -1,0 +1,15 @@
+# c_washington_street
+
+# County Title
+title = c_washington_street
+
+# Settlements
+max_settlements = 1
+
+b_tin_zawatene = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

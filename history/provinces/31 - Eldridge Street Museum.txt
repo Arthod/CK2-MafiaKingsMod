@@ -1,0 +1,15 @@
+# c_eldridge_street_museum
+
+# County Title
+title = c_eldridge_street_museum
+
+# Settlements
+max_settlements = 1
+
+b_hhh = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

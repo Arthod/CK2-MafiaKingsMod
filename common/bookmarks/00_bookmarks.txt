@@ -1,0 +1,26 @@
+bm_rwby = {
+	name = "BM_RWBY"
+	desc = "BM_RWBY_INFO"
+	date = 800.7.18
+	custom_start = yes
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_5
+	
+	selectable_character = {
+		id = 1 # King of Vale
+		age = 35
+		name = ERA_CHAR_NAME_1
+		title = k_vale
+		title_name = ERA_VALE
+		
+		character = {
+			dna = dhcjffdbaaa
+			properties = ag0aea000000
+			religion="remnantan"
+			culture="valean"
+			government = parliamentary_government
+			dynasty=1
+		}
+	}
+}

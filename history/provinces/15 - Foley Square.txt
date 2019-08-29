@@ -1,0 +1,17 @@
+# c_foley_square
+
+# County Title
+title = c_foley_square
+
+# Settlements
+max_settlements = 3
+
+b_laghouat = castle
+b_messaad = city
+b_ghardaia = temple
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_south_island
+
+# County Title
+title = c_south_island
+
+# Settlements
+max_settlements = 1
+
+b_htththtdr = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

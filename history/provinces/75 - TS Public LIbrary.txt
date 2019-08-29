@@ -1,0 +1,15 @@
+# c_ts_public_library
+
+# County Title
+title = c_ts_public_library
+
+# Settlements
+max_settlements = 1
+
+b_wewew = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

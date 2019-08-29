@@ -1,0 +1,15 @@
+# c_chambers_street
+
+# County Title
+title = c_chambers_street
+
+# Settlements
+max_settlements = 1
+
+b_bechar = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

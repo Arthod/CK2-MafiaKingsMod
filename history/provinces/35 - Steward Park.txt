@@ -1,0 +1,15 @@
+# c_steward_park
+
+# County Title
+title = c_steward_park
+
+# Settlements
+max_settlements = 1
+
+b_fegh = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_unamed_province_122
+
+# County Title
+title = c_unamed_province_122
+
+# Settlements
+max_settlements = 1
+
+b_kno = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

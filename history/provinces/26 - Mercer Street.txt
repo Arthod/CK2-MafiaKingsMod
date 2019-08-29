@@ -1,0 +1,18 @@
+# c_mercer_street
+
+# County Title
+title = c_mercer_street
+
+# Settlements
+max_settlements = 4
+
+b_sankt_poelten = castle
+b_wr_neustadt = city
+b_amstetten = castle
+b_melk = temple
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

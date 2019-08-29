@@ -1,0 +1,18 @@
+# c_cortlandt_street
+
+# County Title
+title = c_cortlandt_street
+
+# Settlements
+max_settlements = 4
+
+b_constantine = castle
+b_el_khroub = city
+b_souk_ahras = temple
+#b_sedrata = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

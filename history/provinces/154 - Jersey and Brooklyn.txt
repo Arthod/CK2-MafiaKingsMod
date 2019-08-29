@@ -1,0 +1,15 @@
+# c_jersey_and_brooklyn
+
+# County Title
+title = c_jersey_and_brooklyn
+
+# Settlements
+max_settlements = 1
+
+b_tfhffht = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

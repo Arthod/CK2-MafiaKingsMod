@@ -1,0 +1,15 @@
+# c_astor_place
+
+# County Title
+title = c_astor_place
+
+# Settlements
+max_settlements = 1
+
+b_xczxcsdfzsd = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

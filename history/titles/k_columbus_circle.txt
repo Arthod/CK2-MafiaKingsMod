@@ -1,0 +1,6 @@
+# k_columbus_circle
+800.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+	holder = 1
+}

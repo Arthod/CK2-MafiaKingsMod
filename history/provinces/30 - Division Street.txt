@@ -1,0 +1,15 @@
+# c_division_street
+
+# County Title
+title = c_division_street
+
+# Settlements
+max_settlements = 1
+
+b_wsa = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

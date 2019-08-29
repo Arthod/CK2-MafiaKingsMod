@@ -1,0 +1,15 @@
+# c_cristopher_street
+
+# County Title
+title = c_cristopher_street
+
+# Settlements
+max_settlements = 1
+
+b_wrtyh = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

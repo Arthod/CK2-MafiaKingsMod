@@ -1,0 +1,15 @@
+# c_prince_wooster_street
+
+# County Title
+title = c_prince_wooster_street
+
+# Settlements
+max_settlements = 1
+
+b_xzxc = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

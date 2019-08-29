@@ -1,0 +1,15 @@
+# c_canal_park
+
+# County Title
+title = c_canal_park
+
+# Settlements
+max_settlements = 1
+
+b_z = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

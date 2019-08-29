@@ -1,0 +1,21 @@
+# c_grand_street
+
+# County Title
+title = c_grand_street
+
+# Settlements
+max_settlements = 7
+
+b_schoenbrunn = castle
+b_wien = city
+b_favoriten = city
+b_donaustadt = city
+b_stephansdom = temple
+b_floridsdorf = city
+b_ottakring = city
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

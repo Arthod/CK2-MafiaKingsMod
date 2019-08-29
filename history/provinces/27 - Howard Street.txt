@@ -1,0 +1,15 @@
+# c_howard_street
+
+# County Title
+title = c_howard_street
+
+# Settlements
+max_settlements = 1
+
+b_teststs = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

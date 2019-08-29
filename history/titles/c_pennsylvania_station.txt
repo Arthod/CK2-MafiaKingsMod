@@ -1,0 +1,10 @@
+# e_manhattan
+800.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+	holder = 1
+}
+860.1.1={
+	liege = k_times_square
+	holder = 1
+}

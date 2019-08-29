@@ -1,0 +1,15 @@
+# c_bond_street
+
+# County Title
+title = c_bond_street
+
+# Settlements
+max_settlements = 1
+
+b_q = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_sullivan_street
+
+# County Title
+title = c_sullivan_street
+
+# Settlements
+max_settlements = 1
+
+b_ertq = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

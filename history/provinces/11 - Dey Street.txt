@@ -1,0 +1,18 @@
+# c_dey_street
+
+# County Title
+title = c_dey_street
+
+# Settlements
+max_settlements = 4
+
+b_annaba = castle
+b_skikda = city
+b_guelma = temple
+b_el_kala = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

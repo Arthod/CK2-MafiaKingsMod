@@ -1,0 +1,15 @@
+# c_mercer_playground
+
+# County Title
+title = c_mercer_playground
+
+# Settlements
+max_settlements = 1
+
+b_wdqwd = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

@@ -1,0 +1,311 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_astor_place;Astor Place;Astor Place;Astor Place;;Astor Place;;;;;;;;;x
+c_astor_place_adj;Astor Placean;;Astor Placer;;;;;;;;;;;x
+c_baruch_playground;Baruch Playground;Baruch Playground;Baruch Playground;;Baruch Playground;;;;;;;;;x
+c_baruch_playground_adj;Baruch Playgroundian;;Baruch Playgrounder;;;;;;;;;;;x
+c_bond_street;Bond Street;Bond Street;Bond Street;;Bond Street;;;;;;;;;x
+c_bond_street_adj;Bond Streetian;;Bond Streeter;;;;;;;;;;;x
+c_borough_of_manhatten_community_college;Borough of Manhatten Community College;Borough of Manhatten Community College;Borough of Manhatten Community College;;Borough of Manhatten Community College;;;;;;;;;x
+c_borough_of_manhatten_community_college_adj;Borough of Manhatten Community Collegean;;Borough of Manhatten Community Colleger;;;;;;;;;;;x
+c_broome_street;Broome Street;Broome Street;Broome Street;;Broome Street;;;;;;;;;x
+c_broome_street_adj;Broome Streetian;;Broome Streeter;;;;;;;;;;;x
+c_bryant_park;Bryant Park;Bryant Park;Bryant Park;;Bryant Park;;;;;;;;;x
+c_bryant_park_adj;Bryant Parkian;;Bryant Parker;;;;;;;;;;;x
+c_canal_park;Canal Park;Canal Park;Canal Park;;Canal Park;;;;;;;;;x
+c_canal_park_adj;Canal Parkian;;Canal Parker;;;;;;;;;;;x
+c_central_park;Central Park;Central Park;Central Park;;Central Park;;;;;;;;;x
+c_central_park_adj;Central Parkian;;Central Parker;;;;;;;;;;;x
+c_chambers_street;Chambers Street;Chambers Street;Chambers Street;;Chambers Street;;;;;;;;;x
+c_chambers_street_adj;Chambers Streetian;;Chambers Streeter;;;;;;;;;;;x
+c_chrystie_street;Chrystie Street;Chrystie Street;Chrystie Street;;Chrystie Street;;;;;;;;;x
+c_chrystie_street_adj;Chrystie Streetian;;Chrystie Streeter;;;;;;;;;;;x
+c_city_radio;City Radio;City Radio;City Radio;;City Radio;;;;;;;;;x
+c_city_radio_adj;City Radian;;City Rader;;;;;;;;;;;x
+c_columbus_park;Columbus Park;Columbus Park;Columbus Park;;Columbus Park;;;;;;;;;x
+c_columbus_park_adj;Columbus Parkian;;Columbus Parker;;;;;;;;;;;x
+c_consolidated_edison;Consolidated Edison;Consolidated Edison;Consolidated Edison;;Consolidated Edison;;;;;;;;;x
+c_consolidated_edison_adj;Consolidated Edisonian;;Consolidated Edisoner;;;;;;;;;;;x
+c_cortlandt_street;Cortlandt Street;Cortlandt Street;Cortlandt Street;;Cortlandt Street;;;;;;;;;x
+c_cortlandt_street_adj;Cortlandt Streetian;;Cortlandt Streeter;;;;;;;;;;;x
+c_cristopher_street;Cristopher Street;Cristopher Street;Cristopher Street;;Cristopher Street;;;;;;;;;x
+c_cristopher_street_adj;Cristopher Streetian;;Cristopher Streeter;;;;;;;;;;;x
+c_delancey_street;Delancey Street;Delancey Street;Delancey Street;;Delancey Street;;;;;;;;;x
+c_delancey_street_adj;Delancey Streetian;;Delancey Streeter;;;;;;;;;;;x
+c_dey_street;Dey Street;Dey Street;Dey Street;;Dey Street;;;;;;;;;x
+c_dey_street_adj;Dey Streetian;;Dey Streeter;;;;;;;;;;;x
+c_division_street;Division Street;Division Street;Division Street;;Division Street;;;;;;;;;x
+c_division_street_adj;Division Streetian;;Division Streeter;;;;;;;;;;;x
+c_e_housten_street;E Housten Street;E Housten Street;E Housten Street;;E Housten Street;;;;;;;;;x
+c_e_housten_street_adj;E Housten Streetian;;E Housten Streeter;;;;;;;;;;;x
+c_east_fulton_street;East Fulton Street;East Fulton Street;East Fulton Street;;East Fulton Street;;;;;;;;;x
+c_east_fulton_street_adj;East Fulton Streetian;;East Fulton Streeter;;;;;;;;;;;x
+c_east_village;East Village;East Village;East Village;;East Village;;;;;;;;;x
+c_east_village_adj;East Villagean;;East Villager;;;;;;;;;;;x
+c_eldridge_street;Eldridge Street;Eldridge Street;Eldridge Street;;Eldridge Street;;;;;;;;;x
+c_eldridge_street_adj;Eldridge Streetian;;Eldridge Streeter;;;;;;;;;;;x
+c_eldridge_street_museum;Eldridge Street Museum;Eldridge Street Museum;Eldridge Street Museum;;Eldridge Street Museum;;;;;;;;;x
+c_eldridge_street_museum_adj;Eldridge Street Museumian;;Eldridge Street Museumer;;;;;;;;;;;x
+c_foley_square;Foley Square;Foley Square;Foley Square;;Foley Square;;;;;;;;;x
+c_foley_square_adj;Foley Squarean;;Foley Squarer;;;;;;;;;;;x
+c_franklin_street;Franklin Street;Franklin Street;Franklin Street;;Franklin Street;;;;;;;;;x
+c_franklin_street_adj;Franklin Streetian;;Franklin Streeter;;;;;;;;;;;x
+c_grand_central_terminal;Grand Central Terminal;Grand Central Terminal;Grand Central Terminal;;Grand Central Terminal;;;;;;;;;x
+c_grand_central_terminal_adj;Grand Central Terminalian;;Grand Central Terminaler;;;;;;;;;;;x
+c_grand_street;Grand Street;Grand Street;Grand Street;;Grand Street;;;;;;;;;x
+c_grand_street_adj;Grand Streetian;;Grand Streeter;;;;;;;;;;;x
+c_greene_street;Greene Street;Greene Street;Greene Street;;Greene Street;;;;;;;;;x
+c_greene_street_adj;Greene Streetian;;Greene Streeter;;;;;;;;;;;x
+c_greenwich_ave;Greenwich Ave;Greenwich Ave;Greenwich Ave;;Greenwich Ave;;;;;;;;;x
+c_greenwich_ave_adj;Greenwich Avean;;Greenwich Aver;;;;;;;;;;;x
+c_greenwich_street;Greenwich Street;Greenwich Street;Greenwich Street;;Greenwich Street;;;;;;;;;x
+c_greenwich_street_adj;Greenwich Streetian;;Greenwich Streeter;;;;;;;;;;;x
+c_henry_street;Henry Street;Henry Street;Henry Street;;Henry Street;;;;;;;;;x
+c_henry_street_adj;Henry Streetian;;Henry Streeter;;;;;;;;;;;x
+c_hester_street;Hester Street;Hester Street;Hester Street;;Hester Street;;;;;;;;;x
+c_hester_street_adj;Hester Streetian;;Hester Streeter;;;;;;;;;;;x
+c_howard_street;Howard Street;Howard Street;Howard Street;;Howard Street;;;;;;;;;x
+c_howard_street_adj;Howard Streetian;;Howard Streeter;;;;;;;;;;;x
+c_hudson_river_park;Hudson River Park;Hudson River Park;Hudson River Park;;Hudson River Park;;;;;;;;;x
+c_hudson_river_park_adj;Hudson River Parkian;;Hudson River Parker;;;;;;;;;;;x
+c_jackson_street;Jackson Street;Jackson Street;Jackson Street;;Jackson Street;;;;;;;;;x
+c_jackson_street_adj;Jackson Streetian;;Jackson Streeter;;;;;;;;;;;x
+c_james_walker_park;James Walker Park;James Walker Park;James Walker Park;;James Walker Park;;;;;;;;;x
+c_james_walker_park_adj;James Walker Parkian;;James Walker Parker;;;;;;;;;;;x
+c_jersey_and_brooklyn;Jersey and Brooklyn;Jersey and Brooklyn;Jersey and Brooklyn;;Jersey and Brooklyn;;;;;;;;;x
+c_jersey_and_brooklyn_adj;Jerseian;;Jersey and Brooklyner;;;;;;;;;;;x
+c_jones_street;Jones Street;Jones Street;Jones Street;;Jones Street;;;;;;;;;x
+c_jones_street_adj;Jones Streetian;;Jones Streeter;;;;;;;;;;;x
+c_lafayette_street;Lafayette Street;Lafayette Street;Lafayette Street;;Lafayette Street;;;;;;;;;x
+c_lafayette_street_adj;Lafayette Streetian;;Lafayette Streeter;;;;;;;;;;;x
+c_lexington_street;Lexington Street;Lexington Street;Lexington Street;;Lexington Street;;;;;;;;;x
+c_lexington_street_adj;Lexington Streetian;;Lexington Streeter;;;;;;;;;;;x
+c_madison_street;Madison Street;Madison Street;Madison Street;;Madison Street;;;;;;;;;x
+c_madison_street_adj;Madison Streetian;;Madison Streeter;;;;;;;;;;;x
+c_mercer_playground;Mercer Playground;Mercer Playground;Mercer Playground;;Mercer Playground;;;;;;;;;x
+c_mercer_playground_adj;Mercer Playgroundian;;Mercer Playgrounder;;;;;;;;;;;x
+c_mercer_street;Mercer Street;Mercer Street;Mercer Street;;Mercer Street;;;;;;;;;x
+c_mercer_street_adj;Mercer Streetian;;Mercer Streeter;;;;;;;;;;;x
+c_mott_street;Mott Street;Mott Street;Mott Street;;Mott Street;;;;;;;;;x
+c_mott_street_adj;Mott Streetian;;Mott Streeter;;;;;;;;;;;x
+c_museum_of_jewish_heritage;Museum of Jewish Heritage;Museum of Jewish Heritage;Museum of Jewish Heritage;;Museum of Jewish Heritage;;;;;;;;;x
+c_museum_of_jewish_heritage_adj;Museum of Jewish Heritagean;;Museum of Jewish Heritager;;;;;;;;;;;x
+c_n_moore_street;N Moore Street;N Moore Street;N Moore Street;;N Moore Street;;;;;;;;;x
+c_n_moore_street_adj;N Moore Streetian;;N Moore Streeter;;;;;;;;;;;x
+c_new_york_city_fire_museum;New York City Fire Museum;New York City Fire Museum;New York City Fire Museum;;New York City Fire Museum;;;;;;;;;x
+c_new_york_city_fire_museum_adj;New York City Fire Museumian;;New York City Fire Museumer;;;;;;;;;;;x
+c_new_york_city_hall;New York City Hall;New York City Hall;New York City Hall;;New York City Hall;;;;;;;;;x
+c_new_york_city_hall_adj;New York City Hallian;;New York City Haller;;;;;;;;;;;x
+c_new_york_city_police_department;New York City Police Department;New York City Police Department;New York City Police Department;;New York City Police Department;;;;;;;;;x
+c_new_york_city_police_department_adj;New York City Police Departmentian;;New York City Police Departmenter;;;;;;;;;;;x
+c_new_york_city_transit;New York City Transit;New York City Transit;New York City Transit;;New York City Transit;;;;;;;;;x
+c_new_york_city_transit_adj;New York City Transitian;;New York City Transiter;;;;;;;;;;;x
+c_new_york_east_river_park_track;New York East River Park Track;New York East River Park Track;New York East River Park Track;;New York East River Park Track;;;;;;;;;x
+c_new_york_east_river_park_track_adj;New York East River Park Trackian;;New York East River Park Tracker;;;;;;;;;;;x
+c_new_york_university;New York University;New York University;New York University;;New York University;;;;;;;;;x
+c_new_york_university_adj;New York Universitian;;New York Universiter;;;;;;;;;;;x
+c_north_east_village;North East Village;North East Village;North East Village;;North East Village;;;;;;;;;x
+c_north_east_village_adj;North East Villagean;;North East Villager;;;;;;;;;;;x
+c_pennsylvania_station;Pennsylvania Station;Pennsylvania Station;Pennsylvania Station;;Pennsylvania Station;;;;;;;;;x
+c_pennsylvania_station_adj;Pennsylvania Stationian;;Pennsylvania Stationer;;;;;;;;;;;x
+c_prince_greene_street;Prince Greene Street;Prince Greene Street;Prince Greene Street;;Prince Greene Street;;;;;;;;;x
+c_prince_greene_street_adj;Prince Greene Streetian;;Prince Greene Streeter;;;;;;;;;;;x
+c_prince_thompson_street;Prince Thompson Street;Prince Thompson Street;Prince Thompson Street;;Prince Thompson Street;;;;;;;;;x
+c_prince_thompson_street_adj;Prince Thompson Streetian;;Prince Thompson Streeter;;;;;;;;;;;x
+c_prince_wooster_street;Prince Wooster Street;Prince Wooster Street;Prince Wooster Street;;Prince Wooster Street;;;;;;;;;x
+c_prince_wooster_street_adj;Prince Wooster Streetian;;Prince Wooster Streeter;;;;;;;;;;;x
+c_rivington_street;Rivington Street;Rivington Street;Rivington Street;;Rivington Street;;;;;;;;;x
+c_rivington_street_adj;Rivington Streetian;;Rivington Streeter;;;;;;;;;;;x
+c_rockfeller_park;Rockfeller Park;Rockfeller Park;Rockfeller Park;;Rockfeller Park;;;;;;;;;x
+c_rockfeller_park_adj;Rockfeller Parkian;;Rockfeller Parker;;;;;;;;;;;x
+c_south_island;South Island;South Island;South Island;;South Island;;;;;;;;;x
+c_south_island_adj;South Islandian;;South Islander;;;;;;;;;;;x
+c_staten_island_ferry;Staten Island Ferry;Staten Island Ferry;Staten Island Ferry;;Staten Island Ferry;;;;;;;;;x
+c_staten_island_ferry_adj;Staten Island Ferrian;;Staten Island Ferrer;;;;;;;;;;;x
+c_statue_of_liberty_departure;Statue of Liberty Departure;Statue of Liberty Departure;Statue of Liberty Departure;;Statue of Liberty Departure;;;;;;;;;x
+c_statue_of_liberty_departure_adj;Statue of Liberty Departurean;;Statue of Liberty Departurer;;;;;;;;;;;x
+c_steward_park;Steward Park;Steward Park;Steward Park;;Steward Park;;;;;;;;;x
+c_steward_park_adj;Steward Parkian;;Steward Parker;;;;;;;;;;;x
+c_sullivan_street;Sullivan Street;Sullivan Street;Sullivan Street;;Sullivan Street;;;;;;;;;x
+c_sullivan_street_adj;Sullivan Streetian;;Sullivan Streeter;;;;;;;;;;;x
+c_the_copper_union;The Copper Union;The Copper Union;The Copper Union;;The Copper Union;;;;;;;;;x
+c_the_copper_union_adj;The Copper Unionian;;The Copper Unioner;;;;;;;;;;;x
+c_trinity_church;Trinity Church;Trinity Church;Trinity Church;;Trinity Church;;;;;;;;;x
+c_trinity_church_adj;Trinity Churchian;;Trinity Churcher;;;;;;;;;;;x
+c_ts_public_library;TS Public LIbrary;TS Public LIbrary;TS Public LIbrary;;TS Public LIbrary;;;;;;;;;x
+c_ts_public_library_adj;TS Public LIbrarian;;TS Public LIbrarer;;;;;;;;;;;x
+c_unamed_province_109;Unamed Province 109;Unamed Province 109;Unamed Province 109;;Unamed Province 109;;;;;;;;;x
+c_unamed_province_109_adj;Unamed Province 109ian;;Unamed Province 109er;;;;;;;;;;;x
+c_unamed_province_110;Unamed Province 110;Unamed Province 110;Unamed Province 110;;Unamed Province 110;;;;;;;;;x
+c_unamed_province_110_adj;Unamed Province 110ian;;Unamed Province 110er;;;;;;;;;;;x
+c_unamed_province_111;Unamed Province 111;Unamed Province 111;Unamed Province 111;;Unamed Province 111;;;;;;;;;x
+c_unamed_province_111_adj;Unamed Province 111ian;;Unamed Province 111er;;;;;;;;;;;x
+c_unamed_province_112;Unamed Province 112;Unamed Province 112;Unamed Province 112;;Unamed Province 112;;;;;;;;;x
+c_unamed_province_112_adj;Unamed Province 112ian;;Unamed Province 112er;;;;;;;;;;;x
+c_unamed_province_113;Unamed Province 113;Unamed Province 113;Unamed Province 113;;Unamed Province 113;;;;;;;;;x
+c_unamed_province_113_adj;Unamed Province 113ian;;Unamed Province 113er;;;;;;;;;;;x
+c_unamed_province_114;Unamed Province 114;Unamed Province 114;Unamed Province 114;;Unamed Province 114;;;;;;;;;x
+c_unamed_province_114_adj;Unamed Province 114ian;;Unamed Province 114er;;;;;;;;;;;x
+c_unamed_province_115;Unamed Province 115;Unamed Province 115;Unamed Province 115;;Unamed Province 115;;;;;;;;;x
+c_unamed_province_115_adj;Unamed Province 115ian;;Unamed Province 115er;;;;;;;;;;;x
+c_unamed_province_116;Unamed Province 116;Unamed Province 116;Unamed Province 116;;Unamed Province 116;;;;;;;;;x
+c_unamed_province_116_adj;Unamed Province 116ian;;Unamed Province 116er;;;;;;;;;;;x
+c_unamed_province_117;Unamed Province 117;Unamed Province 117;Unamed Province 117;;Unamed Province 117;;;;;;;;;x
+c_unamed_province_117_adj;Unamed Province 117ian;;Unamed Province 117er;;;;;;;;;;;x
+c_unamed_province_118;Unamed Province 118;Unamed Province 118;Unamed Province 118;;Unamed Province 118;;;;;;;;;x
+c_unamed_province_118_adj;Unamed Province 118ian;;Unamed Province 118er;;;;;;;;;;;x
+c_unamed_province_119;Unamed Province 119;Unamed Province 119;Unamed Province 119;;Unamed Province 119;;;;;;;;;x
+c_unamed_province_119_adj;Unamed Province 119ian;;Unamed Province 119er;;;;;;;;;;;x
+c_unamed_province_120;Unamed Province 120;Unamed Province 120;Unamed Province 120;;Unamed Province 120;;;;;;;;;x
+c_unamed_province_120_adj;Unamed Province 120ian;;Unamed Province 120er;;;;;;;;;;;x
+c_unamed_province_121;Unamed Province 121;Unamed Province 121;Unamed Province 121;;Unamed Province 121;;;;;;;;;x
+c_unamed_province_121_adj;Unamed Province 121ian;;Unamed Province 121er;;;;;;;;;;;x
+c_unamed_province_122;Unamed Province 122;Unamed Province 122;Unamed Province 122;;Unamed Province 122;;;;;;;;;x
+c_unamed_province_122_adj;Unamed Province 122ian;;Unamed Province 122er;;;;;;;;;;;x
+c_unamed_province_123;Unamed Province 123;Unamed Province 123;Unamed Province 123;;Unamed Province 123;;;;;;;;;x
+c_unamed_province_123_adj;Unamed Province 123ian;;Unamed Province 123er;;;;;;;;;;;x
+c_unamed_province_124;Unamed Province 124;Unamed Province 124;Unamed Province 124;;Unamed Province 124;;;;;;;;;x
+c_unamed_province_124_adj;Unamed Province 124ian;;Unamed Province 124er;;;;;;;;;;;x
+c_unamed_province_125;Unamed Province 125;Unamed Province 125;Unamed Province 125;;Unamed Province 125;;;;;;;;;x
+c_unamed_province_125_adj;Unamed Province 125ian;;Unamed Province 125er;;;;;;;;;;;x
+c_unamed_province_126;Unamed Province 126;Unamed Province 126;Unamed Province 126;;Unamed Province 126;;;;;;;;;x
+c_unamed_province_126_adj;Unamed Province 126ian;;Unamed Province 126er;;;;;;;;;;;x
+c_unamed_province_127;Unamed Province 127;Unamed Province 127;Unamed Province 127;;Unamed Province 127;;;;;;;;;x
+c_unamed_province_127_adj;Unamed Province 127ian;;Unamed Province 127er;;;;;;;;;;;x
+c_unamed_province_128;Unamed Province 128;Unamed Province 128;Unamed Province 128;;Unamed Province 128;;;;;;;;;x
+c_unamed_province_128_adj;Unamed Province 128ian;;Unamed Province 128er;;;;;;;;;;;x
+c_unamed_province_129;Unamed Province 129;Unamed Province 129;Unamed Province 129;;Unamed Province 129;;;;;;;;;x
+c_unamed_province_129_adj;Unamed Province 129ian;;Unamed Province 129er;;;;;;;;;;;x
+c_unamed_province_130;Unamed Province 130;Unamed Province 130;Unamed Province 130;;Unamed Province 130;;;;;;;;;x
+c_unamed_province_130_adj;Unamed Province 130ian;;Unamed Province 130er;;;;;;;;;;;x
+c_unamed_province_131;Unamed Province 131;Unamed Province 131;Unamed Province 131;;Unamed Province 131;;;;;;;;;x
+c_unamed_province_131_adj;Unamed Province 131ian;;Unamed Province 131er;;;;;;;;;;;x
+c_unamed_province_132;Unamed Province 132;Unamed Province 132;Unamed Province 132;;Unamed Province 132;;;;;;;;;x
+c_unamed_province_132_adj;Unamed Province 132ian;;Unamed Province 132er;;;;;;;;;;;x
+c_unamed_province_133;Unamed Province 133;Unamed Province 133;Unamed Province 133;;Unamed Province 133;;;;;;;;;x
+c_unamed_province_133_adj;Unamed Province 133ian;;Unamed Province 133er;;;;;;;;;;;x
+c_unamed_province_134;Unamed Province 134;Unamed Province 134;Unamed Province 134;;Unamed Province 134;;;;;;;;;x
+c_unamed_province_134_adj;Unamed Province 134ian;;Unamed Province 134er;;;;;;;;;;;x
+c_unamed_province_135;Unamed Province 135;Unamed Province 135;Unamed Province 135;;Unamed Province 135;;;;;;;;;x
+c_unamed_province_135_adj;Unamed Province 135ian;;Unamed Province 135er;;;;;;;;;;;x
+c_unamed_province_136;Unamed Province 136;Unamed Province 136;Unamed Province 136;;Unamed Province 136;;;;;;;;;x
+c_unamed_province_136_adj;Unamed Province 136ian;;Unamed Province 136er;;;;;;;;;;;x
+c_unamed_province_137;Unamed Province 137;Unamed Province 137;Unamed Province 137;;Unamed Province 137;;;;;;;;;x
+c_unamed_province_137_adj;Unamed Province 137ian;;Unamed Province 137er;;;;;;;;;;;x
+c_unamed_province_138;Unamed Province 138;Unamed Province 138;Unamed Province 138;;Unamed Province 138;;;;;;;;;x
+c_unamed_province_138_adj;Unamed Province 138ian;;Unamed Province 138er;;;;;;;;;;;x
+c_unamed_province_139;Unamed Province 139;Unamed Province 139;Unamed Province 139;;Unamed Province 139;;;;;;;;;x
+c_unamed_province_139_adj;Unamed Province 139ian;;Unamed Province 139er;;;;;;;;;;;x
+c_unamed_province_140;Unamed Province 140;Unamed Province 140;Unamed Province 140;;Unamed Province 140;;;;;;;;;x
+c_unamed_province_140_adj;Unamed Province 140ian;;Unamed Province 140er;;;;;;;;;;;x
+c_unamed_province_141;Unamed Province 141;Unamed Province 141;Unamed Province 141;;Unamed Province 141;;;;;;;;;x
+c_unamed_province_141_adj;Unamed Province 141ian;;Unamed Province 141er;;;;;;;;;;;x
+c_unamed_province_142;Unamed Province 142;Unamed Province 142;Unamed Province 142;;Unamed Province 142;;;;;;;;;x
+c_unamed_province_142_adj;Unamed Province 142ian;;Unamed Province 142er;;;;;;;;;;;x
+c_unamed_province_143;Unamed Province 143;Unamed Province 143;Unamed Province 143;;Unamed Province 143;;;;;;;;;x
+c_unamed_province_143_adj;Unamed Province 143ian;;Unamed Province 143er;;;;;;;;;;;x
+c_unamed_province_144;Unamed Province 144;Unamed Province 144;Unamed Province 144;;Unamed Province 144;;;;;;;;;x
+c_unamed_province_144_adj;Unamed Province 144ian;;Unamed Province 144er;;;;;;;;;;;x
+c_unamed_province_145;Unamed Province 145;Unamed Province 145;Unamed Province 145;;Unamed Province 145;;;;;;;;;x
+c_unamed_province_145_adj;Unamed Province 145ian;;Unamed Province 145er;;;;;;;;;;;x
+c_unamed_province_146;Unamed Province 146;Unamed Province 146;Unamed Province 146;;Unamed Province 146;;;;;;;;;x
+c_unamed_province_146_adj;Unamed Province 146ian;;Unamed Province 146er;;;;;;;;;;;x
+c_unamed_province_147;Unamed Province 147;Unamed Province 147;Unamed Province 147;;Unamed Province 147;;;;;;;;;x
+c_unamed_province_147_adj;Unamed Province 147ian;;Unamed Province 147er;;;;;;;;;;;x
+c_unamed_province_148;Unamed Province 148;Unamed Province 148;Unamed Province 148;;Unamed Province 148;;;;;;;;;x
+c_unamed_province_148_adj;Unamed Province 148ian;;Unamed Province 148er;;;;;;;;;;;x
+c_unamed_province_149;Unamed Province 149;Unamed Province 149;Unamed Province 149;;Unamed Province 149;;;;;;;;;x
+c_unamed_province_149_adj;Unamed Province 149ian;;Unamed Province 149er;;;;;;;;;;;x
+c_unamed_province_150;Unamed Province 150;Unamed Province 150;Unamed Province 150;;Unamed Province 150;;;;;;;;;x
+c_unamed_province_150_adj;Unamed Province 150ian;;Unamed Province 150er;;;;;;;;;;;x
+c_unamed_province_151;Unamed Province 151;Unamed Province 151;Unamed Province 151;;Unamed Province 151;;;;;;;;;x
+c_unamed_province_151_adj;Unamed Province 151ian;;Unamed Province 151er;;;;;;;;;;;x
+c_unamed_province_152;Unamed Province 152;Unamed Province 152;Unamed Province 152;;Unamed Province 152;;;;;;;;;x
+c_unamed_province_152_adj;Unamed Province 152ian;;Unamed Province 152er;;;;;;;;;;;x
+c_unamed_province_153;Unamed Province 153;Unamed Province 153;Unamed Province 153;;Unamed Province 153;;;;;;;;;x
+c_unamed_province_153_adj;Unamed Province 153ian;;Unamed Province 153er;;;;;;;;;;;x
+c_unnamed_province_100;Unnamed Province 100;Unnamed Province 100;Unnamed Province 100;;Unnamed Province 100;;;;;;;;;x
+c_unnamed_province_100_adj;Unnamed Province 100ian;;Unnamed Province 100er;;;;;;;;;;;x
+c_unnamed_province_101;Unnamed Province 101;Unnamed Province 101;Unnamed Province 101;;Unnamed Province 101;;;;;;;;;x
+c_unnamed_province_101_adj;Unnamed Province 101ian;;Unnamed Province 101er;;;;;;;;;;;x
+c_unnamed_province_102;Unnamed Province 102;Unnamed Province 102;Unnamed Province 102;;Unnamed Province 102;;;;;;;;;x
+c_unnamed_province_102_adj;Unnamed Province 102ian;;Unnamed Province 102er;;;;;;;;;;;x
+c_unnamed_province_103;Unnamed Province 103;Unnamed Province 103;Unnamed Province 103;;Unnamed Province 103;;;;;;;;;x
+c_unnamed_province_103_adj;Unnamed Province 103ian;;Unnamed Province 103er;;;;;;;;;;;x
+c_unnamed_province_104;Unnamed Province 104;Unnamed Province 104;Unnamed Province 104;;Unnamed Province 104;;;;;;;;;x
+c_unnamed_province_104_adj;Unnamed Province 104ian;;Unnamed Province 104er;;;;;;;;;;;x
+c_unnamed_province_105;Unnamed Province 105;Unnamed Province 105;Unnamed Province 105;;Unnamed Province 105;;;;;;;;;x
+c_unnamed_province_105_adj;Unnamed Province 105ian;;Unnamed Province 105er;;;;;;;;;;;x
+c_unnamed_province_106;Unnamed Province 106;Unnamed Province 106;Unnamed Province 106;;Unnamed Province 106;;;;;;;;;x
+c_unnamed_province_106_adj;Unnamed Province 106ian;;Unnamed Province 106er;;;;;;;;;;;x
+c_unnamed_province_107;Unnamed Province 107;Unnamed Province 107;Unnamed Province 107;;Unnamed Province 107;;;;;;;;;x
+c_unnamed_province_107_adj;Unnamed Province 107ian;;Unnamed Province 107er;;;;;;;;;;;x
+c_unnamed_province_108;Unnamed Province 108;Unnamed Province 108;Unnamed Province 108;;Unnamed Province 108;;;;;;;;;x
+c_unnamed_province_108_adj;Unnamed Province 108ian;;Unnamed Province 108er;;;;;;;;;;;x
+c_unnamed_province_77;Unnamed Province 77;Unnamed Province 77;Unnamed Province 77;;Unnamed Province 77;;;;;;;;;x
+c_unnamed_province_77_adj;Unnamed Province 77ian;;Unnamed Province 77er;;;;;;;;;;;x
+c_unnamed_province_78;Unnamed Province 78;Unnamed Province 78;Unnamed Province 78;;Unnamed Province 78;;;;;;;;;x
+c_unnamed_province_78_adj;Unnamed Province 78ian;;Unnamed Province 78er;;;;;;;;;;;x
+c_unnamed_province_79;Unnamed Province 79;Unnamed Province 79;Unnamed Province 79;;Unnamed Province 79;;;;;;;;;x
+c_unnamed_province_79_adj;Unnamed Province 79ian;;Unnamed Province 79er;;;;;;;;;;;x
+c_unnamed_province_80;Unnamed Province 80;Unnamed Province 80;Unnamed Province 80;;Unnamed Province 80;;;;;;;;;x
+c_unnamed_province_80_adj;Unnamed Province 80ian;;Unnamed Province 80er;;;;;;;;;;;x
+c_unnamed_province_81;Unnamed Province 81;Unnamed Province 81;Unnamed Province 81;;Unnamed Province 81;;;;;;;;;x
+c_unnamed_province_81_adj;Unnamed Province 81ian;;Unnamed Province 81er;;;;;;;;;;;x
+c_unnamed_province_82;Unnamed Province 82;Unnamed Province 82;Unnamed Province 82;;Unnamed Province 82;;;;;;;;;x
+c_unnamed_province_82_adj;Unnamed Province 82ian;;Unnamed Province 82er;;;;;;;;;;;x
+c_unnamed_province_83;Unnamed Province 83;Unnamed Province 83;Unnamed Province 83;;Unnamed Province 83;;;;;;;;;x
+c_unnamed_province_83_adj;Unnamed Province 83ian;;Unnamed Province 83er;;;;;;;;;;;x
+c_unnamed_province_84;Unnamed Province 84;Unnamed Province 84;Unnamed Province 84;;Unnamed Province 84;;;;;;;;;x
+c_unnamed_province_84_adj;Unnamed Province 84ian;;Unnamed Province 84er;;;;;;;;;;;x
+c_unnamed_province_85;Unnamed Province 85;Unnamed Province 85;Unnamed Province 85;;Unnamed Province 85;;;;;;;;;x
+c_unnamed_province_85_adj;Unnamed Province 85ian;;Unnamed Province 85er;;;;;;;;;;;x
+c_unnamed_province_86;Unnamed Province 86;Unnamed Province 86;Unnamed Province 86;;Unnamed Province 86;;;;;;;;;x
+c_unnamed_province_86_adj;Unnamed Province 86ian;;Unnamed Province 86er;;;;;;;;;;;x
+c_unnamed_province_87;Unnamed Province 87;Unnamed Province 87;Unnamed Province 87;;Unnamed Province 87;;;;;;;;;x
+c_unnamed_province_87_adj;Unnamed Province 87ian;;Unnamed Province 87er;;;;;;;;;;;x
+c_unnamed_province_88;Unnamed Province 88;Unnamed Province 88;Unnamed Province 88;;Unnamed Province 88;;;;;;;;;x
+c_unnamed_province_88_adj;Unnamed Province 88ian;;Unnamed Province 88er;;;;;;;;;;;x
+c_unnamed_province_89;Unnamed Province 89;Unnamed Province 89;Unnamed Province 89;;Unnamed Province 89;;;;;;;;;x
+c_unnamed_province_89_adj;Unnamed Province 89ian;;Unnamed Province 89er;;;;;;;;;;;x
+c_unnamed_province_90;Unnamed Province 90;Unnamed Province 90;Unnamed Province 90;;Unnamed Province 90;;;;;;;;;x
+c_unnamed_province_90_adj;Unnamed Province 90ian;;Unnamed Province 90er;;;;;;;;;;;x
+c_unnamed_province_91;Unnamed Province 91;Unnamed Province 91;Unnamed Province 91;;Unnamed Province 91;;;;;;;;;x
+c_unnamed_province_91_adj;Unnamed Province 91ian;;Unnamed Province 91er;;;;;;;;;;;x
+c_unnamed_province_92;Unnamed Province 92;Unnamed Province 92;Unnamed Province 92;;Unnamed Province 92;;;;;;;;;x
+c_unnamed_province_92_adj;Unnamed Province 92ian;;Unnamed Province 92er;;;;;;;;;;;x
+c_unnamed_province_93;Unnamed Province 93;Unnamed Province 93;Unnamed Province 93;;Unnamed Province 93;;;;;;;;;x
+c_unnamed_province_93_adj;Unnamed Province 93ian;;Unnamed Province 93er;;;;;;;;;;;x
+c_unnamed_province_94;Unnamed Province 94;Unnamed Province 94;Unnamed Province 94;;Unnamed Province 94;;;;;;;;;x
+c_unnamed_province_94_adj;Unnamed Province 94ian;;Unnamed Province 94er;;;;;;;;;;;x
+c_unnamed_province_95;Unnamed Province 95;Unnamed Province 95;Unnamed Province 95;;Unnamed Province 95;;;;;;;;;x
+c_unnamed_province_95_adj;Unnamed Province 95ian;;Unnamed Province 95er;;;;;;;;;;;x
+c_unnamed_province_96;Unnamed Province 96;Unnamed Province 96;Unnamed Province 96;;Unnamed Province 96;;;;;;;;;x
+c_unnamed_province_96_adj;Unnamed Province 96ian;;Unnamed Province 96er;;;;;;;;;;;x
+c_unnamed_province_97;Unnamed Province 97;Unnamed Province 97;Unnamed Province 97;;Unnamed Province 97;;;;;;;;;x
+c_unnamed_province_97_adj;Unnamed Province 97ian;;Unnamed Province 97er;;;;;;;;;;;x
+c_unnamed_province_98;Unnamed Province 98;Unnamed Province 98;Unnamed Province 98;;Unnamed Province 98;;;;;;;;;x
+c_unnamed_province_98_adj;Unnamed Province 98ian;;Unnamed Province 98er;;;;;;;;;;;x
+c_unnamed_province_99;Unnamed Province 99;Unnamed Province 99;Unnamed Province 99;;Unnamed Province 99;;;;;;;;;x
+c_unnamed_province_99_adj;Unnamed Province 99ian;;Unnamed Province 99er;;;;;;;;;;;x
+c_varick_street;Varick Street;Varick Street;Varick Street;;Varick Street;;;;;;;;;x
+c_varick_street_adj;Varick Streetian;;Varick Streeter;;;;;;;;;;;x
+c_vesey_street;Vesey Street;Vesey Street;Vesey Street;;Vesey Street;;;;;;;;;x
+c_vesey_street_adj;Vesey Streetian;;Vesey Streeter;;;;;;;;;;;x
+c_wall_street;Wall Street;Wall Street;Wall Street;;Wall Street;;;;;;;;;x
+c_wall_street_adj;Wall Streetian;;Wall Streeter;;;;;;;;;;;x
+c_warren_street;Warren Street;Warren Street;Warren Street;;Warren Street;;;;;;;;;x
+c_warren_street_adj;Warren Streetian;;Warren Streeter;;;;;;;;;;;x
+c_washington_square_park;Washington Square Park;Washington Square Park;Washington Square Park;;Washington Square Park;;;;;;;;;x
+c_washington_square_park_adj;Washington Square Parkian;;Washington Square Parker;;;;;;;;;;;x
+c_washington_square_village_apt;Washington Square Village Apt;Washington Square Village Apt;Washington Square Village Apt;;Washington Square Village Apt;;;;;;;;;x
+c_washington_square_village_apt_adj;Washington Square Village Aptian;;Washington Square Village Apter;;;;;;;;;;;x
+c_washington_street;Washington Street;Washington Street;Washington Street;;Washington Street;;;;;;;;;x
+c_washington_street_adj;Washington Streetian;;Washington Streeter;;;;;;;;;;;x
+c_west_east_village;West East Village;West East Village;West East Village;;West East Village;;;;;;;;;x
+c_west_east_village_adj;West East Villagean;;West East Villager;;;;;;;;;;;x
+c_west_fulton_street;West Fulton Street;West Fulton Street;West Fulton Street;;West Fulton Street;;;;;;;;;x
+c_west_fulton_street_adj;West Fulton Streetian;;West Fulton Streeter;;;;;;;;;;;x
+c_whitney_museum_of_american_art;Whitney Museum of American Art;Whitney Museum of American Art;Whitney Museum of American Art;;Whitney Museum of American Art;;;;;;;;;x
+c_whitney_museum_of_american_art_adj;Whitney Museum of American Artian;;Whitney Museum of American Arter;;;;;;;;;;;x
+c_worth_street;Worth Street;Worth Street;Worth Street;;Worth Street;;;;;;;;;x
+c_worth_street_adj;Worth Streetian;;Worth Streeter;;;;;;;;;;;x

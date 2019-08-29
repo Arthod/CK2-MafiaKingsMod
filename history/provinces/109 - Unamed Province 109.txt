@@ -1,0 +1,15 @@
+# c_unamed_province_109
+
+# County Title
+title = c_unamed_province_109
+
+# Settlements
+max_settlements = 1
+
+b_kakawa = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

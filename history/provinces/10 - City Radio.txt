@@ -1,0 +1,18 @@
+# c_city_radio
+
+# County Title
+title = c_city_radio
+
+# Settlements
+max_settlements = 4
+
+b_biskra = castle
+b_tolga = city
+b_el_kantara = temple
+#b_negrine = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

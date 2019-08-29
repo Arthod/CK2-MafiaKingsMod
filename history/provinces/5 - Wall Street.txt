@@ -1,0 +1,20 @@
+# c_wall_street
+
+# County Title
+title = c_wall_street
+
+# Settlements
+max_settlements = 6
+
+b_ouarhran = castle
+b_arzew = city
+b_sig = temple
+b_ain_temouchent = castle
+b_hamman_bouhadjar = city
+#b_beni_saf = temple
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

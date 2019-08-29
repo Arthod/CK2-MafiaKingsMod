@@ -1,0 +1,15 @@
+# c_west_east_village
+
+# County Title
+title = c_west_east_village
+
+# Settlements
+max_settlements = 1
+
+b_yyy = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

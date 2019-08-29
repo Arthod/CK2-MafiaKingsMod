@@ -1,0 +1,18 @@
+# c_trinity_church
+
+# County Title
+title = c_trinity_church
+
+# Settlements
+max_settlements = 4
+
+b_naama = castle
+b_mecheria = city
+b_ain_sefra = temple
+b_benoud = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

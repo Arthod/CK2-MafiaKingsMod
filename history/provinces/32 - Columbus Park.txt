@@ -1,0 +1,15 @@
+# c_columbus_park
+
+# County Title
+title = c_columbus_park
+
+# Settlements
+max_settlements = 1
+
+b_fe = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_unnamed_province_105
+
+# County Title
+title = c_unnamed_province_105
+
+# Settlements
+max_settlements = 1
+
+b_iadiuwakf = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

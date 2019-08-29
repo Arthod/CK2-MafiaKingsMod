@@ -1,0 +1,15 @@
+# c_prince_thompson_street
+
+# County Title
+title = c_prince_thompson_street
+
+# Settlements
+max_settlements = 1
+
+b_asxzxxx = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

@@ -1,0 +1,15 @@
+# c_baruch_playground
+
+# County Title
+title = c_baruch_playground
+
+# Settlements
+max_settlements = 1
+
+b_lkw = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

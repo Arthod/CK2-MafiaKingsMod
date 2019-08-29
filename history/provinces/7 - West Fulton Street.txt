@@ -1,0 +1,18 @@
+# c_west_fulton_street
+
+# County Title
+title = c_west_fulton_street
+
+# Settlements
+max_settlements = 4
+
+b_mascara = castle
+b_mohammadia = city
+b_saida = temple
+b_telagh = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

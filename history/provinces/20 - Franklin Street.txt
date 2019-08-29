@@ -1,0 +1,15 @@
+# c_franklin_street
+
+# County Title
+title = c_franklin_street
+
+# Settlements
+max_settlements = 1
+
+b_in_salah = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

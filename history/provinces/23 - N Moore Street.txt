@@ -1,0 +1,15 @@
+# c_n_moore_street
+
+# County Title
+title = c_n_moore_street
+
+# Settlements
+max_settlements = 1
+
+b_in_guezzam = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

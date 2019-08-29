@@ -1,0 +1,15 @@
+# c_henry_street
+
+# County Title
+title = c_henry_street
+
+# Settlements
+max_settlements = 1
+
+b_fer = castle
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

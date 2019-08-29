@@ -1,0 +1,16 @@
+# c_lafayette_street
+
+# County Title
+title = c_lafayette_street
+
+# Settlements
+max_settlements = 2
+
+b_timimoun = castle
+#b_adrar = city
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History

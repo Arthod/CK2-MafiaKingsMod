@@ -1,0 +1,17 @@
+# c_rockfeller_park
+
+# County Title
+title = c_rockfeller_park
+
+# Settlements
+max_settlements = 3
+
+b_touggout = castle
+b_el_oued = city
+b_djamaa = temple
+
+# Misc
+culture = turkish
+religion = catholic
+
+#History
