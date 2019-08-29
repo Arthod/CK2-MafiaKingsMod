@@ -1,5 +1,5 @@
-	name="RWBY"
-	path="mod/rwby"
+	name="organizedcrime"
+	path="mod/organizedcrime"
 	replace_path="gfx/flags"
 	replace_path="history/provinces"
 	replace_path="history/titles"
@@ -12,5 +12,5 @@
 	replace_path="common/landed_titles"
 	replace_path="common/trade_routes"
 	replace_path="common/province_setup"
-	picture = rwby.png
+	picture = oc.png
 }
