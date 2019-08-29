@@ -1,6 +1,6 @@
-bm_rwby = {
-	name = "BM_RWBY"
-	desc = "BM_RWBY_INFO"
+m_first = {
+	name = "m_first"
+	desc = "m_first_desc"
 	date = 800.7.18
 	custom_start = yes
 	
