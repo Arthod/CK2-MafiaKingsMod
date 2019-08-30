@@ -10,7 +10,7 @@ b_ouargla = castle
 b_rouissat = city
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

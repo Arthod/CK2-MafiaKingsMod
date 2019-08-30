@@ -12,7 +12,7 @@ b_el_eulma = temple
 b_ghozlane_msila = castle
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

@@ -15,7 +15,7 @@ b_floridsdorf = city
 b_ottakring = city
 
 # Misc
-culture = turkish
+culture = italian_american
 religion = catholic
 
 #History

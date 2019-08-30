@@ -12,7 +12,7 @@ b_souk_ahras = temple
 #b_sedrata = castle
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

@@ -13,7 +13,7 @@ b_remchi = castle
 b_maghinia = city
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

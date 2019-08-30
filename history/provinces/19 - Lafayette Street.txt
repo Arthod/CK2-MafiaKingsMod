@@ -10,7 +10,7 @@ b_timimoun = castle
 #b_adrar = city
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

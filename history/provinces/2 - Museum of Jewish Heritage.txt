@@ -12,7 +12,7 @@ b_tenes = temple
 #b_beni_haoua = castle
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

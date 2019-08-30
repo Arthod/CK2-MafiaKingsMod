@@ -9,7 +9,7 @@ max_settlements = 1
 b_utututut = castle
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

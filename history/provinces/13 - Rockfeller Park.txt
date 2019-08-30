@@ -11,7 +11,7 @@ b_el_oued = city
 b_djamaa = temple
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

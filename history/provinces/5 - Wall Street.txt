@@ -14,7 +14,7 @@ b_hamman_bouhadjar = city
 #b_beni_saf = temple
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

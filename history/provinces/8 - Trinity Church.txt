@@ -12,7 +12,7 @@ b_ain_sefra = temple
 b_benoud = castle
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History

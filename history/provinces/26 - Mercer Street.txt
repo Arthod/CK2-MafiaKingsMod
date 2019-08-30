@@ -12,7 +12,7 @@ b_amstetten = castle
 b_melk = temple
 
 # Misc
-culture = turkish
+culture = white_american
 religion = catholic
 
 #History
