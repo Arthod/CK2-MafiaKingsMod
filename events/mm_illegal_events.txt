@@ -190,3 +190,4 @@ character_event = {
 	immediate = {
 		add_trait = made_man
 	}
+}

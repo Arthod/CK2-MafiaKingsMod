@@ -17,7 +17,7 @@ technology = {
 		d_tremont
 		d_westchester
 	}
-	1800 = {
+	1900 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0

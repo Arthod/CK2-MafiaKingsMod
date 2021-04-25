@@ -10,7 +10,7 @@ technology = {
 		d_tottenville
 		d_westfield
 	}
-	1800 = {
+	1900 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0

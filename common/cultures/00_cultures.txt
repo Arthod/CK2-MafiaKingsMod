@@ -75,22 +75,37 @@ american = {
 	german = {
 		graphical_cultures = { germangfx }
 		color = { 0.5 0.5 0.5 }
+
+        male_names = { german_male_name }
+        female_names = { german_female_name }
 	}
 	french = {
 		graphical_cultures = { frankishgfx }
 		color = { 0 0.16 1 }
+
+        male_names = { french_male_name }
+        female_names = { french_female_name }
 	}
 	afro_american = {
 		graphical_cultures = { westafricangfx }
 		color = { 0.50 0.2 0 }
+
+        male_names = { afro_american_male_name }
+        female_names = { afro_american_female_name }
 	}
 	scandinavian = {
 		graphical_cultures = { englishgfx }
 		color = { 0.14 0.8 1 }
+
+        male_names = { scandinavian_male_name }
+        female_names = { scandinavian_female_name }
 	}
 	greek = {
 		graphical_cultures = { easterngfx }
 		color = { 1 0.4 1 }
+
+        male_names = { greek_male_name }
+        female_names = { greek_female_name }
 	}
 }
 
@@ -100,6 +115,9 @@ italian = {
 	unknown_italian = {
 		graphical_cultures = { italiangfx southerngfx }
 		color = { 0.80 0.50 0.40 }
+
+        male_names = { unkown_italian_male_name }
+        female_names = { unkown_italian_female_name }
 	}
 	sicilian = {
 		graphical_cultures = { italiangfx southerngfx }
@@ -133,7 +151,7 @@ italian = {
 		female_names = {
 			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
 			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
 			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
 			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
 			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
@@ -178,7 +196,7 @@ italian = {
 		female_names = {
 			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
 			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
 			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
 			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
 			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
@@ -223,7 +241,7 @@ italian = {
 		female_names = {
 			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
 			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
 			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
 			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
 			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
@@ -268,7 +286,7 @@ italian = {
 		female_names = {
 			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
 			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
 			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
 			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
 			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
@@ -313,7 +331,7 @@ italian = {
 		female_names = {
 			Adelasia Adele Adriana Albina Alessandra Alessia Alina Allegra Amalia Amanda Angelica Angelina Anita Anna 
 			Annalisa Annamaria Annetta Annunziata Antonella Antonietta Aria Aurora Barbara Beatrice Berenice Bettina 
-			Bianca Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
+			Bianca Camilla Carla Carolina Cassandra Caterina Cecilia Chiara Claudia Clelia Cristina Daria Diana 
 			Dina Dolores Donatella Donna Eleanora Elena Eliana Elisa Elvira Emilia Emma Erika Eugenia Eva Evangelista 
 			Fabia Federica Fernanda Fiamma Filippa Flavia Flora Fortunata Francesca Gabriella Gemma Germana Giada 
 			Gianna Giorgia Giovanna Giulia Giuliana Giulietta Giuseppina Gloria Graziella Greca Griselda Ida Ilaria 
@@ -333,6 +351,9 @@ irish = {
 	irish = {
 		color = { 0.29 1 0 }
 		graphical_cultures = { celticgfx }
+        
+        male_names = { irish_male_name }
+        female_names = { irish_female_name }
 	}
 }
 jewish = {
@@ -341,16 +362,25 @@ jewish = {
 	galizianer = {
 		graphical_cultures = { byzantinegfx }
 		color = { 0.95 0.95 0.95 }
+        
+        male_names = { galizianer_male_name }
+        female_names = { galizianer_female_name }
 	}
 	litvak = {
 		color = { 1 0.85 0 }
 		graphical_cultures = { byzantinegfx }
+        
+        male_names = { litvak_male_name }
+        female_names = { litvak_female_name }
 	}
 }
 slavic = {
 	czech = {
 		color = { 0.28 0 1 }
 		graphical_cultures = { westernslavicgfx }
+        
+        male_names = { slavic_male_name }
+        female_names = { slavic_female_name }
 	}
 }
 
@@ -358,13 +388,19 @@ chinese = {
 	chinese = {
 		color = { 211 44 44 }
 		graphical_cultures = { chinesegfx }
+        
+        male_names = { chinese_male_name }
+        female_names = { chinese_female_name }
 	}
 }
 
 native_american = {
-	nativ = {
+	native = {
 		color = { 200 44 44 }
 		graphical_cultures = { mesoamericangfx }
+        
+        male_names = { native_american_male_name }
+        female_names = { native_american_female_name }
 	}
 }
 
@@ -375,37 +411,64 @@ no_living_there = {
 	central_park = {
 		graphical_cultures = { duckgfx }
 		color = { 0.5 0.1 0 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	naval_base = {
 		graphical_cultures = { duckgfx }
 		color = { 0 1 1 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	iron_mine = {
 		graphical_cultures = { duckgfx }
 		color = { 0.8 0.2 0.8 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	resort = {
 		graphical_cultures = { duckgfx }
 		color = { 0.2 0.65 1 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	fort = {
 		graphical_cultures = { duckgfx }
 		color = { 0.6 0.6 0.6 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	port = {
 		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	zoo = {
 		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	cemetery = {
 		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 	swamp = {
 		graphical_cultures = { duckgfx }
 		color = { 0.2 0.1 0.2 }
+        
+        male_names = { none }
+        female_names = { none }
 	}
 }

@@ -8,13 +8,13 @@
 	add_trait="mustache_peppe"
 	add_trait="immigrant"
 
+	mother = 2
+	father = 3
+
     1867.05.02 = { birth=yes }
     1889.01.01 = { add_spouse=12 }
     1903.12.01 = { add_spouse=22 }
     1930.08.15 = { death=yes }
-	
-	mother = 2
-	father = 3
 }
 
 2 = {
@@ -26,15 +26,15 @@
     culture=sicilian
 
 	add_trait="immigrant"
+
+	mother = 18
+	father = 17
   
     1848.05.11 = { birth=yes }
     1848.05.11 = { create_bloodline = { type = mother_of_the_morello-teranova_family } }
     1860.01.01 = { add_spouse=3 }
     1873.01.01 = { add_spouse=4 }
     1941.06.20 = { death=yes }
-	
-	mother = 18
-	father = 17
 }
 
 3 = {
@@ -57,12 +57,13 @@
 
     religion=criminal
     culture=sicilian
-  
-    1847.07.06 = { birth=yes }
-    1909.07.10 = { death=yes }
+
 	
 	mother = 20
 	father = 19
+  
+    1847.07.06 = { birth=yes }
+    1909.07.10 = { death=yes }
 }
 
 5 = {
@@ -71,12 +72,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1874.01.01 = { birth=yes }
-    1876.01.01 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1874.01.01 = { birth=yes }
+    1876.01.01 = { death=yes }
 }
 
 6 = {
@@ -85,12 +86,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1886.05.01 = { birth=yes }
-    1922.05.08 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1886.05.01 = { birth=yes }
+    1922.05.08 = { death=yes }
 }
 
 7 = {
@@ -99,13 +100,13 @@
   
     religion=criminal
     culture=sicilian
+	
+	mother = 2
+	father = 4
   
     1888.07.20 = { birth=yes }
     1909.04.25 = { add_spouse=15}
     1938.02.20 = { death=yes }
-	
-	mother = 2
-	father = 4
 }
 
 8 = {
@@ -114,12 +115,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1890.01.06 = { birth=yes }
-    1916.09.07 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1890.01.06 = { birth=yes }
+    1916.09.07 = { death=yes }
 }
 
 9 = {
@@ -129,12 +130,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1876.01.18 = { birth=yes }
-    1946.01.01 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1876.01.18 = { birth=yes }
+    1946.01.01 = { death=yes }
 }
 
 10 = {
@@ -144,12 +145,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1880.07.30 = { birth=yes }
-    1946.01.01 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1880.07.30 = { birth=yes }
+    1946.01.01 = { death=yes }
 }
 
 11 = {
@@ -159,12 +160,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1892.08.19 = { birth=yes }
-    1915.10.14 = { death=yes }
 	
 	mother = 2
 	father = 4
+  
+    1892.08.19 = { birth=yes }
+    1915.10.14 = { death=yes }
 }
 
 12 = {
@@ -187,12 +188,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1891.01.01 = { birth=yes }
-    1892.01.01 = { death=yes }
 	
 	father = 1
 	mother = 12
+  
+    1891.01.01 = { birth=yes }
+    1892.01.01 = { death=yes }
 }
 
 14 = {
@@ -201,12 +202,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1892.11.01 = { birth=yes }
-    1912.01.01 = { death=yes }
 	
 	father = 1
 	mother = 12
+  
+    1892.11.01 = { birth=yes }
+    1912.01.01 = { death=yes }
 }
 
 15 = {
@@ -302,10 +303,10 @@
     religion=criminal
     culture=sicilian
   
+	father = 23
+
     1885.03.20 = { birth=yes }
     1967.01.01 = { death=yes }
-
-	father = 23
 }
 
 23 = {
@@ -313,12 +314,13 @@
     dynasty=20
   
     religion=criminal
-    culture=cat
+    culture=sicilian
   
     add_trait="immortal"
     add_trait="eunuch"
 	
     1860.01.01 = { birth=yes }
+    1967.01.01 = { death=yes }
 }
 
 24 = {
@@ -327,12 +329,12 @@
   
     religion=criminal
     culture=sicilian
-  
-    1882.01.01 = { birth=yes }
-    1899.01.01 = { add_spouse=9}
-    1923.01.18 = { death=yes }
 
 	father = 23
+  
+    1882.01.01 = { birth=yes }
+    1899.01.01 = { add_spouse=9 }
+    1923.01.18 = { death=yes }
 }
 
 25 = {
@@ -343,12 +345,12 @@
 
     religion=criminal
     culture=sicilian
+
+	father = 1
+	mother = 12	## Changed
   
     1872.02.28 = { birth=yes }
     1926.12.17 = { death=yes }
-
-	father = 2
-	mother = 3
 }
 
 
@@ -360,12 +362,12 @@
 
     religion=criminal
     culture=sicilian
-  
-    1909.04.23 = { birth=yes }
-    1980.01.01 = { death=yes }
 
 	father = 1
 	mother = 22
+  
+    1909.04.23 = { birth=yes }
+    1980.01.01 = { death=yes }
 }
 
 27 = {
@@ -374,12 +376,12 @@
 
     religion=criminal
     culture=sicilian
-  
-    1921.04.23 = { birth=yes }
-    1980.01.01 = { death=yes }
 
 	father = 1
 	mother = 22
+
+    1921.04.23 = { birth=yes }
+    1980.01.01 = { death=yes }
 }
 
 28 = {
@@ -388,13 +390,12 @@
 
     religion=upright
     culture=sicilian
+
+	father = 29
   
     1870.03.20 = { birth=yes }
     1898.01.01 = { add_spouse=25}
     1924.01.01 = { death=yes }
-
-	father = 29
-
 }
 
 29 = {
@@ -417,12 +418,12 @@
 	female = yes
     religion=upright
     culture=sicilian
-  
-    1899.01.01 = { birth=yes }
-    1960.01.01 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1899.01.01 = { birth=yes }
+    1960.01.01 = { death=yes }
 }
 
 31 = {
@@ -431,12 +432,12 @@
 
     religion=upright
     culture=sicilian
-  
-    1902.09.01 = { birth=yes }
-    1984.01.01 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1902.09.01 = { birth=yes }
+    1984.01.01 = { death=yes }
 }
 
 32 = {
@@ -446,12 +447,12 @@
 	female = yes
     religion=upright
     culture=sicilian
-  
-    1905.01.01 = { birth=yes }
-    1980.01.01 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1905.01.01 = { birth=yes }
+    1980.01.01 = { death=yes }
 }
 
 33 = {
@@ -460,12 +461,12 @@
 
     religion=upright
     culture=sicilian
-  
-    1907.03.18 = { birth=yes }
-    1988.05.06 = { death=yes }
 
 	father = 28
 	mother = 25
+  
+    1907.03.18 = { birth=yes }
+    1988.05.06 = { death=yes }
 }
 
 34 = {
@@ -475,12 +476,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1914.05.07 = { birth=yes }
-    1950.01.01 = { death=yes }
 	
 	mother = 21
 	father = 6
+  
+    1914.05.07 = { birth=yes }
+    1950.01.01 = { death=yes }
 }
 
 35 = {
@@ -490,12 +491,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1916.09.20 = { birth=yes }
-    1951.01.01 = { death=yes }
 	
 	mother = 21
 	father = 6
+  
+    1916.09.20 = { birth=yes }
+    1951.01.01 = { death=yes }
 }
 
 
@@ -518,12 +519,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1938.09.20 = { birth=yes }
-    1970.01.01 = { death=yes }
 	
 	mother = 34
 	father = 36
+  
+    1938.09.20 = { birth=yes }
+    1970.01.01 = { death=yes }
 }
 
 38 = {
@@ -533,12 +534,12 @@
 	female = yes
     religion=criminal
     culture=sicilian
-  
-    1939.01.01 = { birth=yes }
-    1971.01.01 = { death=yes }
 	
 	mother = 34
 	father = 36
+  
+    1939.01.01 = { birth=yes }
+    1971.01.01 = { death=yes }
 }
 
 39 = {
@@ -548,12 +549,12 @@
 	female = yes
     religion=upright
     culture=sicilian
-  
-    1912.10.12 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1912.10.12 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 40 = {
@@ -563,12 +564,12 @@
 	female = yes  
     religion=upright
     culture=sicilian
-  
-    1914.01.01 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1914.01.01 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 41 = {
@@ -578,12 +579,12 @@
 	female = yes  
     religion=upright
     culture=sicilian
-  
-    1917.10.29 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1917.10.29 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 42 = {
@@ -592,12 +593,12 @@
   
     religion=upright
     culture=sicilian
-  
-    1915.11.06 = { birth=yes }
-    1972.01.01 = { death=yes }
 	
 	mother = 15
 	father = 7
+  
+    1915.11.06 = { birth=yes }
+    1972.01.01 = { death=yes }
 }
 
 43 = {
@@ -615,15 +616,15 @@
     name=Onofria
     dynasty=17
   	
-	femal = yes
+	female = yes
     religion=upright
     culture=sicilian
+
+	mother = 10
+	father = 16
   
     1905.12.05 = { birth=yes }
     1996.01.08 = { death=yes }
-
-	mother = 16
-	father = 10
 }
 
 45 = {
@@ -644,27 +645,27 @@
   	
     religion=upright
     culture=sicilian
-  
-    1934.09.06 = { birth=yes }
-    2017.05.06 = { death=yes }
 
 	mother = 44
 	father = 45
+  
+    1934.09.06 = { birth=yes }
+    2017.05.06 = { death=yes }
 }
 
 47 = {
     name=Angelina
     dynasty=17
   	
-	femal = yes
+	female = yes
     religion=upright
     culture=sicilian
+
+	mother = 10
+	father = 16
   
     1907.04.17 = { birth=yes }
     1996.07.29 = { death=yes }
-
-	mother = 16
-	father = 10
 }
 
 
@@ -674,13 +675,13 @@
   	
     religion=criminal
     culture=sicilian
+
+	mother = 10
+	father = 16
   
     1909.12.01 = { birth=yes }
     1938.04.13 = { add_spouse=49 }
     1948.08.24 = { death=yes }
-
-	mother = 16
-	father = 10
 }
 
 49 = {
@@ -701,12 +702,12 @@
 	female = yes
     religion=upright
     culture=sicilian
+
+	mother = 10
+	father = 16
   
     1921.01.01 = { birth=yes }
     1990.07.22 = { death=yes }
-
-	mother = 16
-	father = 10
 }
 
 51 = {
@@ -716,12 +717,12 @@
 	female = yes
     religion=upright
     culture=sicilian
+
+	mother = 10
+	father = 16
   
     1923.01.01 = { birth=yes }
     2002.03.22 = { death=yes }
-
-	mother = 16
-	father = 10
 }
 
 52 = {
@@ -733,10 +734,10 @@
   
 	add_trait="mustache_peppe"
 
+	father = 53
+
     1870.01.01 = { birth=yes }
     1901.01.01 = { death=yes }
-
-	father = 53
 }
 
 53 = {
@@ -758,11 +759,11 @@
     culture=sicilian
   
 	add_trait="mustache_peppe"
+	
+	father = 53
 
     1878.01.01 = { birth=yes }
     1915.01.01 = { death=yes }
-	
-	father = 53
 }
 
 55 = {
@@ -821,7 +822,7 @@
 #Irish Mobsters
 1000 = {
     name=Owney
-    dynasty=15000
+    dynasty=0
 	
     religion=criminal
     culture=irish
@@ -831,7 +832,7 @@
 }
 1001 = {
     name=Biff
-    dynasty=15001
+    dynasty=0
 	
     religion=criminal
     culture=irish
@@ -841,7 +842,7 @@
 }
 1002 = {
     name=One-Lung
-    dynasty=15002
+    dynasty=0
 	
     religion=criminal
     culture=irish
@@ -851,7 +852,7 @@
 }
 1003 = {
     name=Mallet
-    dynasty=15003
+    dynasty=0
 	
     religion=criminal
     culture=irish

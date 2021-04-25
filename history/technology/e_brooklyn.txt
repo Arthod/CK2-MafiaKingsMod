@@ -25,7 +25,7 @@ technology = {
 		d_sunset_park
 		d_williamsburg
 	}
-	1800 = {
+	1900 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0

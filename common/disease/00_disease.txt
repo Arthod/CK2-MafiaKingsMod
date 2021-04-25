@@ -13,6 +13,9 @@ murder_investigation = { # Murder Investigation
 	always_get_message = no
 	color = { 60 0 0 }
 	timeperiod = { # Normal Outbreak
+		one_only = yes
+		start_date = 1900.1.1	
+		end_date = 2900.1.1	
 	}
 	yearly_province_pulse = {
 	}

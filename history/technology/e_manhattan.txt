@@ -33,7 +33,7 @@ technology = {
 		d_washington_heights
 		d_yorkville
 	}
-	1800 = {
+	1900 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0

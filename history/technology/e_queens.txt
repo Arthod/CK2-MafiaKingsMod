@@ -28,7 +28,7 @@ technology = {
 		d_uptown_flushing
 		d_whitestone
 	}
-	1800 = {
+	1900 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0

@@ -1,28 +1,25 @@
-offmap_china = {
-	name = china_china
+offmap_mayor = {
+	name = mayor_mayor
 	window_name = domestic_offmaps_window
 	button_name = icon_offmaps_entry
-	currency_name = TXT_GRACE
-	currency_gain = monthly_grace
+	currency_name = TXT_INFLUENCE
+	currency_gain = monthly_influence
 	currency_reset_on_dynasty_change = yes
-	holder_title = title_china_emperor			# minor title used to identify a character as holder of this offmap power
-	governor_title = e_china_west_governor
+	holder_title = title_mayor			# minor title used to identify a character as holder of this offmap power
+	governor_title = e_police_comissioner
 	tier = emperor
 	non_aggression_modifier = peace_deal_with_china
-	coa_religion = taoist
 	government = confucian_bureaucracy
-	beginning_of_history = 618.6.18
+	beginning_of_history = 665.6.12
 	sound = china_interaction_interface
 	display_trigger = {
-		always = no
-		has_dlc = "Jade Dragon"
 	}
 	policies = {
-		china_open
-		china_isolationist
-		china_expansionist
+		mayor_open			# Business as usual, no particular crime policy
+		mayor_untouchable	# Interaction limited, influence limited, police busy doing other things
+		mayor_aggressive	# Police extra active, tough on crime
 	}
-	statuses = {
+	statuses = {	# Replace these with something
 		china_stable
 		china_unrest
 		china_civil_war
@@ -48,7 +45,7 @@ offmap_china = {
 				china_offmap_hostile_decisions_enabled_trigger = yes
 			}
 			display_trigger = {
-				NOT = { offmap_china = { offmap_ruler = { dynasty = FROM } } }
+				NOT = { offmap_mayor = { offmap_ruler = { dynasty = FROM } } }
 			}
 		}
 		offmap_hostility2 = {
@@ -61,14 +58,6 @@ offmap_china = {
 	#These conditions only effect the appearance of the button, it does not actually disable them from being clickable. The same triggers are used in all tribute/boon decisions respectively
 	
 	icon_triggers = {
-		china_physician_cd = {
-			frame = 9
-			trigger = {
-				hidden_tooltip = {
-					has_character_flag = chinese_grace_physician_sent
-				}
-			}
-		}
 		china_raid_cd = {
 			frame = 8
 			right = yes	
@@ -140,7 +129,7 @@ offmap_china = {
 	monthly_currency_gain = {
 		offmap_same_dynasty = {
 			value = 10
-			offmap_china = { offmap_ruler = { dynasty = FROM } }
+			offmap_mayor = { offmap_ruler = { dynasty = FROM } }
 		}
 		offmap_war_with_me = {
 			value = -10
@@ -148,12 +137,12 @@ offmap_china = {
 		}
 		offmap_likes_me = {
 			value = 1
-			FROM = { is_liked_by_China_trigger = yes }
 			is_within_diplo_range = FROM
+			FROM = { is_liked_by_Mayor_trigger = yes }
 		}
 		offmap_likes_tributaries = {
 			value = 2
-			offmap_china = {			
+			offmap_mayor = {			
 				offmap_has_like = likes_tributaries
 			}
 			FROM = {
@@ -166,95 +155,31 @@ offmap_china = {
 			value = 2
 			FROM = {
 				liege = {
-					has_landed_title = e_china_west_governor
+					has_landed_title = e_police_comissioner
 				}
 			}
 		}
 		offmap_same_culture_and_religion = {
 			value = 2
+			is_within_diplo_range = FROM
 			offmap_ruler = {
 				culture = FROM
 				religion = FROM
 			}
-			is_within_diplo_range = FROM
 		}
 	}
 	
 	temple_names = {
 		{ # Founder names
-			Gaozu
-			Taizu
-			Shizu
-			Zhaozu
-			Jingzu
-			Xianzu
-			Liezu
-			Chengzu
 		}
 		{ # Successor names
-			Zhenzong
-			Renzong
-			Zhongzong
-			Yingzong
-			Shenzong
-			Zhezhong
-			Huizong
-			Qinzong
-			Xiaozong
-			Guangzong
-			Ningzong
-			Lizong
-			Duzong
-			Duanzong
-			Xuanzong
-			Suzong
-			Daizong
-			Muzong
-			Jingzong
-			Wenzong
-			Wuzong
-			Zhaozong
-			Xizong
-			Xuanzong
-			Shizong
-			Zhangzong
-			Ruizong
-			Dingzong
-			Xianzong
-			Chengzong
-			Mingzong
-			Jinzong
-			Yizong
-			Xiangzong
-			Huanzong
-			Chongzong
-			Daozong
-			Liezong
-			Aizong
-			Zhangzong
-			Dezong
-			Shengzong
-			Xingzong
-			Kangzong
-			Zhuangzong
-			Pingzong
-			Sizong
-			Anzong
-			Yangzong
-			Shangzong
-			Shunzong
-			Zhizong
-			Chuangzong
-			Shaozong
-			Gongzong
-			Yingzong
 		}
 	}
-	holder_succession = {
+	holder_succession = {	# Fix all these as appropriate
 		is_female = {					# chances of getting a female holder, as a percentage: if the total is >= 100, the new holder will always be female. If the total is <= 0, the new holder will always be male
-			value = 5
+			value = 0	# No woman has ever been mayor of New York
 			additive_modifier = {
-				value = 45
+				value = 50
 				has_game_rule = {
 					name = gender
 					value = all
@@ -262,7 +187,7 @@ offmap_china = {
 			}
 		}
 		culture = {
-			han = { # default culture for new emperor
+			white_american = { # default culture for new emperor
 				value = 99 # if any other value reaches 100, it will be picked instead
 			}
 			FROM = { # default culture for new emperor
@@ -283,7 +208,7 @@ offmap_china = {
 		}
 
 		religion = {
-			taoist = { # default religion for new emperor
+			catholic = { # default religion for new emperor
 				value = 99 # if any other value reaches 100, it will be picked instead (unless equal, then it will randomize)
 			}
 			FROM = {
@@ -338,7 +263,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							culture_group = indo_aryan_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -350,7 +275,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							culture_group = dravidian_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -362,7 +287,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							culture_group = tibetan_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -375,7 +300,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_germanics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -387,7 +312,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_latino_iberians = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -399,7 +324,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_byzantines = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -411,7 +336,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_celts = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -423,7 +348,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_finno_ugrics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -435,7 +360,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_altaics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -447,7 +372,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_balto_slavics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -459,7 +384,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_arabs = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -471,7 +396,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_iranians = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -483,7 +408,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_africans = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -495,7 +420,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_mesoamericans = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -508,7 +433,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion_group = muslim
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -524,7 +449,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion_group = christian
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -540,7 +465,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion_group = jewish_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -556,7 +481,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = zoroastrian
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -572,7 +497,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = mazdaki
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -588,7 +513,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = manichean
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -604,7 +529,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = khurmazta
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -620,7 +545,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = buddhist
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -636,7 +561,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = hindu
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -652,7 +577,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = jain
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -668,7 +593,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_tengris = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -684,7 +609,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_zunists = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -700,7 +625,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_bon = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -735,7 +660,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							culture_group = indo_aryan_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -753,7 +678,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							culture_group = dravidian_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -771,7 +696,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							culture_group = tibetan_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -789,7 +714,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_germanics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -807,7 +732,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_latino_iberians = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -825,7 +750,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_byzantines = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -843,7 +768,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_celts = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -861,7 +786,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_finno_ugrics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -879,7 +804,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_altaics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -897,7 +822,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_balto_slavics = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -915,7 +840,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_arabs = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -933,7 +858,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_iranians = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -951,7 +876,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_africans = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -969,7 +894,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_mesoamericans = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -987,7 +912,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion_group = muslim
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1003,7 +928,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion_group = christian
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1019,7 +944,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion_group = jewish_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1035,7 +960,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion_group = zoroastrian_group
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1051,7 +976,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = buddhist
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1067,7 +992,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = hindu
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1083,7 +1008,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							religion = jain
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1099,7 +1024,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_tengris = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1115,7 +1040,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_zunists = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1131,7 +1056,7 @@ offmap_china = {
 					NOT = {
 						any_province = {
 							likes_bon = yes
-							is_within_diplo_range = offmap_china
+							is_within_diplo_range = offmap_mayor
 						}
 					}
 				}
@@ -1144,33 +1069,6 @@ offmap_china = {
 	}
 	
 	diplomatic_range = { #Already includes the western governor's "normal" diplo range
-		OR = {
-			has_game_rule = {
-				name = chinese_interactions
-				value = all
-			}
-			top_liege = {
-				suzerain = {
-					has_landed_title = e_china_west_governor
-				}
-			}
-			any_neighbor_independent_ruler = {
-				OR = {
-					has_landed_title = e_china_west_governor
-					suzerain = {
-						has_landed_title = e_china_west_governor
-					}
-				}
-			}
-			any_realm_province = { #Is within reach of the silk road
-				OR = {
-					trade_route = silk_road
-					region = world_steppe_east
-					region = world_himalayas
-					region = world_india
-					region = world_persia
-				}
-			}
-		}
+		always = yes	# Mayor can see the whole city
 	}
 }
