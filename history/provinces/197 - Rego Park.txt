@@ -1,0 +1,18 @@
+# c_rego_park
+
+# County Title
+title = c_rego_park
+
+# Settlements
+max_settlements = 3
+
+b_rego_park = castle
+#b_woodhaven_blvd_4 = city
+#b_63rd_rd_2 = temple
+#b_queens_blvd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

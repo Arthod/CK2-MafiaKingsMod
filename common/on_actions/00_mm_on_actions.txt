@@ -1,0 +1,5 @@
+on_death = {
+	events = {
+		MMI.3
+	}
+}

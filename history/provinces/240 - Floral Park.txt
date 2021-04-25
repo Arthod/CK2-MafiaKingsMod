@@ -1,0 +1,17 @@
+# c_floral_park
+
+# County Title
+title = c_floral_park
+
+# Settlements
+max_settlements = 2
+
+b_floral_park = castle
+#b_langdale_st = city
+#b_82nd_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

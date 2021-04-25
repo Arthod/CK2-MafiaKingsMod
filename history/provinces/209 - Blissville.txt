@@ -1,0 +1,18 @@
+# c_blissville
+
+# County Title
+title = c_blissville
+
+# Settlements
+max_settlements = 3
+
+b_blissville = castle
+#b_review_ave = city
+#b_56th_rd = temple
+#b_page_pl = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

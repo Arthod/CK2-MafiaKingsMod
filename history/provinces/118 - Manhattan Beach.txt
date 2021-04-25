@@ -1,0 +1,19 @@
+# c_manhattan_beach
+
+# County Title
+title = c_manhattan_beach
+
+# Settlements
+max_settlements = 4
+
+b_manhattan_beach = castle
+#b_oriental_blvd = city
+#b_shore_blvd = temple
+#b_west_end_ave = castle
+#b_oxford_st = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

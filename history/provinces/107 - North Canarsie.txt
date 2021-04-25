@@ -1,0 +1,19 @@
+# c_north_canarsie
+
+# County Title
+title = c_north_canarsie
+
+# Settlements
+max_settlements = 4
+
+b_north_canarsie = castle
+b_rockaway_pkwy = city
+#b_smiths_ln = temple
+#b_glenwood_rd_2 = castle
+#b_farragut_rd_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

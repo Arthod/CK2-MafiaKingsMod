@@ -1,0 +1,21 @@
+# c_hoorns_hook
+
+# County Title
+title = c_hoorns_hook
+
+# Settlements
+max_settlements = 6
+
+b_hoorns_hook = castle
+b_e_87th_st = city
+b_e_86th_st = temple
+b_e_89th_st = castle
+b_e_90th_st = city
+#b_e_91st_st = temple
+#b_e_92nd_st = castle
+
+# Misc
+culture = galizianer
+religion = criminal
+
+#History

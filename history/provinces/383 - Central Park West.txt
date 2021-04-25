@@ -1,0 +1,21 @@
+# c_central_park_west
+
+# County Title
+title = c_central_park_west
+
+# Settlements
+max_settlements = 7
+
+b_central_park_west = castle
+b_w81st_st = city
+b_w_86th_st = temple
+b_w_77th_st = castle
+#b_w_91st_st_2 = city
+#b_w_72nd_st = temple
+#b_w_79th_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_grant_city
+
+# County Title
+title = c_grant_city
+
+# Settlements
+max_settlements = 2
+
+b_grant_city = castle
+#b_midland_beach = city
+#b_seaview_ave = temple
+#b_father_capodanno_blvd = castle
+
+# Misc
+culture = french
+religion = upright
+
+#History

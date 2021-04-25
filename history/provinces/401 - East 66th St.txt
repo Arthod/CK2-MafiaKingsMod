@@ -1,0 +1,20 @@
+# c_east_66th_st
+
+# County Title
+title = c_east_66th_st
+
+# Settlements
+max_settlements = 5
+
+b_east_66th_st = castle
+b_e_65th_st = city
+b_e_67th_st = temple
+b_e_68th_st = castle
+#b_york_ave = city
+#b_1st_ave_3 = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

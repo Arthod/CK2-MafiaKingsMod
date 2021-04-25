@@ -1,0 +1,21 @@
+# c_new_springville
+
+# County Title
+title = c_new_springville
+
+# Settlements
+max_settlements = 3
+
+b_new_springville = castle
+#b_heartland_village = city
+#b_richmond_ave_2 = temple
+#b_rockland_ave = castle
+#b_forest_hill_rd = city
+#b_kelly_blvd = temple
+#b_marsh_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

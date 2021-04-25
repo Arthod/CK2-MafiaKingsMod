@@ -1,0 +1,20 @@
+# c_brighton_beach
+
+# County Title
+title = c_brighton_beach
+
+# Settlements
+max_settlements = 5
+
+b_brighton_beach = castle
+b_brighton_beach_ave = city
+#b_coney_island_ave_4 = temple
+#b_neptune_ave_2 = castle
+#b_brightwater_ct = city
+#b_ocean_view_ave = temple
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_west_121st_st
+
+# County Title
+title = c_west_121st_st
+
+# Settlements
+max_settlements = 5
+
+b_west_121st_st = castle
+b_w_117th_st = city
+b_w_123rd_st_3 = temple
+#b_w_118th_st_3 = castle
+#b_w_122nd_st_2 = city
+#b_w_119th_st_2 = temple
+
+# Misc
+culture = irish
+religion = criminal
+
+#History

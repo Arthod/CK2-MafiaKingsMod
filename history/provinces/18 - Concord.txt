@@ -1,0 +1,18 @@
+# c_concord
+
+# County Title
+title = c_concord
+
+# Settlements
+max_settlements = 2
+
+b_concord = castle
+#b_concord_2 = city
+#b_arrochar = temple
+#b_w_fingerboard_rd = castle
+
+# Misc
+culture = german
+religion = upright
+
+#History

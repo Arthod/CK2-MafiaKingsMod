@@ -1,0 +1,18 @@
+# c_edgemere
+
+# County Title
+title = c_edgemere
+
+# Settlements
+max_settlements = 3
+
+b_edgemere = castle
+#b_beach_channel_dr = city
+#b_norton_ave = temple
+#b_rockaway_beach_blvd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

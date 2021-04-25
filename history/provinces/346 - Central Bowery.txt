@@ -1,0 +1,21 @@
+# c_central_bowery
+
+# County Title
+title = c_central_bowery
+
+# Settlements
+max_settlements = 7
+
+b_central_bowery = castle
+b_rivington_st = city
+b_stanton_st = temple
+b_houston_st_3 = castle
+b_delancey_st = city
+b_forsyth_st = temple
+b_chrystie_st = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

@@ -1,0 +1,18 @@
+# c_south_richmond_hill
+
+# County Title
+title = c_south_richmond_hill
+
+# Settlements
+max_settlements = 3
+
+b_south_richmond_hill = castle
+b_liberty_ave_3 = city
+#b_101st_ave = temple
+#b_lefferts_blvd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

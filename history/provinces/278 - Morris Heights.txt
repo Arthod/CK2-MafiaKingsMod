@@ -1,0 +1,18 @@
+# c_morris_heights
+
+# County Title
+title = c_morris_heights
+
+# Settlements
+max_settlements = 3
+
+b_morris_heights = castle
+#b_tremont_ave_3 = city
+#b_cedar_ave_2 = temple
+#b_burnside_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

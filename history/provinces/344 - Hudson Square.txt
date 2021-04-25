@@ -1,0 +1,21 @@
+# c_hudson_square
+
+# County Title
+title = c_hudson_square
+
+# Settlements
+max_settlements = 4
+
+b_hudson_square = castle
+b_spring_st_4 = city
+b_vandam_st = temple
+#b_charlton_st = castle
+#b_king_st = city
+#b_dominick_st = temple
+#b_renwick_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

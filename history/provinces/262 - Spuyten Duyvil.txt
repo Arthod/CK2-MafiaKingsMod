@@ -1,0 +1,19 @@
+# c_spuyten_duyvil
+
+# County Title
+title = c_spuyten_duyvil
+
+# Settlements
+max_settlements = 4
+
+b_spuyten_duyvil = castle
+b_independence_ave = city
+#b_arlington_ave_2 = temple
+#b_riverdale_ave_2 = castle
+#b_netherland_ave = city
+
+# Misc
+culture = yankee
+religion = criminal
+
+#History

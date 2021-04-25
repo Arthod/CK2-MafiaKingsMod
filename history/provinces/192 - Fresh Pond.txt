@@ -1,0 +1,18 @@
+# c_fresh_pond
+
+# County Title
+title = c_fresh_pond
+
+# Settlements
+max_settlements = 3
+
+b_fresh_pond = castle
+b_fresh_pond_rd_2 = city
+#b_60th_pl = temple
+#b_traffic_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

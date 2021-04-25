@@ -1,0 +1,20 @@
+# c_greenpoint_waterfront
+
+# County Title
+title = c_greenpoint_waterfront
+
+# Settlements
+max_settlements = 5
+
+b_greenpoint_waterfront = castle
+b_aleman_way = city
+#b_franklin_st = temple
+#b_greenpoint_ave = castle
+#b_green_st = city
+#b_commercial_st = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

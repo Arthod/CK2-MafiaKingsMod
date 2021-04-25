@@ -1,0 +1,18 @@
+# c_city_island
+
+# County Title
+title = c_city_island
+
+# Settlements
+max_settlements = 3
+
+b_city_island = castle
+#b_city_island_ave = city
+#b_fordham_st = temple
+#b_hart_island = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

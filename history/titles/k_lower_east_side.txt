@@ -1,6 +1,5 @@
 # k_lower_east_side
-800.1.1={
+500.1.1={
 	law = agnatic_succession
 	law = succ_gavelkind
-	holder = 1
 }

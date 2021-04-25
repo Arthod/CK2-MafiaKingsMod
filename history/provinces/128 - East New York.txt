@@ -1,0 +1,20 @@
+# c_east_new_york
+
+# County Title
+title = c_east_new_york
+
+# Settlements
+max_settlements = 5
+
+b_east_new_york = castle
+b_new_lots_ave = city
+#b_pennsylvania_ave = temple
+#b_sutter_ave = castle
+#b_ashford_st = city
+#b_bradfort_st = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

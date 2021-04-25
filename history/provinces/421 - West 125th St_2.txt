@@ -1,0 +1,21 @@
+# c_west_125th_st_2
+
+# County Title
+title = c_west_125th_st_2
+
+# Settlements
+max_settlements = 6
+
+b_west_125th_st_2 = castle
+b_w_133rd_st = city
+b_w_129th_st_2 = temple
+b_w_127th_st = castle
+#b_w_134th_st = city
+#b_lenox_ave = temple
+#b_st_nicholas_ave = castle
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

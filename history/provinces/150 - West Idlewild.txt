@@ -1,0 +1,17 @@
+# c_west_idlewild
+
+# County Title
+title = c_west_idlewild
+
+# Settlements
+max_settlements = 2
+
+b_west_idlewild = castle
+#b_130th_pl = city
+#b_shoreline_dr_2 = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

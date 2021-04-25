@@ -1,0 +1,19 @@
+# c_central_jamaica
+
+# County Title
+title = c_central_jamaica
+
+# Settlements
+max_settlements = 4
+
+b_central_jamaica = castle
+b_merrick_blvd = city
+#b_brinkerhoff_ave = temple
+#b_180th_st = castle
+#b_108th_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,17 @@
+# c_ferry_point
+
+# County Title
+title = c_ferry_point
+
+# Settlements
+max_settlements = 2
+
+b_ferry_point = castle
+#b_emerson_ave = city
+#b_hutchinson_river_pkwy = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_south_queens_village
+
+# County Title
+title = c_south_queens_village
+
+# Settlements
+max_settlements = 3
+
+b_south_queens_village = castle
+#b_jamaica_ave_3 = city
+#b_hempstead_ave = temple
+#b_hollis_ave_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

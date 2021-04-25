@@ -1,0 +1,20 @@
+# c_sugar_hill
+
+# County Title
+title = c_sugar_hill
+
+# Settlements
+max_settlements = 5
+
+b_sugar_hill = castle
+b_w_145th_st = city
+b_w_155th_st = temple
+#b_w_150th_st = castle
+#b_w_148th_st = city
+#b_w_152nd_st = temple
+
+# Misc
+culture = irish
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_homecrest
+
+# County Title
+title = c_homecrest
+
+# Settlements
+max_settlements = 4
+
+b_homecrest = castle
+#b_avenue_u_3 = city
+#b_coney_island_ave_5 = temple
+#b_avenue_s_2 = castle
+#b_avenue_r_2 = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

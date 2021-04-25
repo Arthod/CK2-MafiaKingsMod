@@ -1,0 +1,19 @@
+# c_williamsbridge
+
+# County Title
+title = c_williamsbridge
+
+# Settlements
+max_settlements = 4
+
+b_williamsbridge = castle
+b_white_plains_rd_2 = city
+#b_ollinville_ave = temple
+#b_holland_ave = castle
+#b_willett_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

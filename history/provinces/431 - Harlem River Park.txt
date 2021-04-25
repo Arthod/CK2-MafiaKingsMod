@@ -1,0 +1,19 @@
+# c_harlem_river_park
+
+# County Title
+title = c_harlem_river_park
+
+# Settlements
+max_settlements = 4
+
+b_harlem_river_park = castle
+b_e_135th_st = city
+b_e_138th_st = temple
+#b_e_132nd_st = castle
+#b_e_131st_st = city
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_stuyvesant
+
+# County Title
+title = c_stuyvesant
+
+# Settlements
+max_settlements = 6
+
+b_stuyvesant = castle
+b_lafayette_ave_2 = city
+b_dekalb_ave_2 = temple
+#b_park_ave = castle
+#b_myrtle_ave = city
+#b_hart_st = temple
+#b_vernon_ave = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

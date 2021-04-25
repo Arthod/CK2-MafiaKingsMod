@@ -1,0 +1,19 @@
+# c_kensington
+
+# County Title
+title = c_kensington
+
+# Settlements
+max_settlements = 4
+
+b_kensington = castle
+b_church_ave = city
+#b_mcdonald_ave_2 = temple
+#b_albemarle_rd = castle
+#b_minna_st = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

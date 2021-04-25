@@ -1,0 +1,19 @@
+# c_manor_heights
+
+# County Title
+title = c_manor_heights
+
+# Settlements
+max_settlements = 2
+
+b_manor_heights = castle
+#b_holden_blvd = city
+#b_harold_st = temple
+#b_manor_rd_2 = castle
+#b_bradley_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

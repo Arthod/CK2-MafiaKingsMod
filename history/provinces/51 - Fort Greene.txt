@@ -1,0 +1,20 @@
+# c_fort_greene
+
+# County Title
+title = c_fort_greene
+
+# Settlements
+max_settlements = 5
+
+b_fort_greene = castle
+b_carlton_ave = city
+b_ashland_pl = temple
+#b_auburn_pl = castle
+#b_cumberland_st = city
+#b_adelphi_st = temple
+
+# Misc
+culture = irish
+religion = upright
+
+#History

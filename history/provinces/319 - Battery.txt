@@ -1,0 +1,20 @@
+# c_battery
+
+# County Title
+title = c_battery
+
+# Settlements
+max_settlements = 4
+
+b_battery = castle
+#b_battery_pl = city
+#b_little_w_st = temple
+#b_state_st = castle
+#b_1st_pl = city
+#b_2nd_pl = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

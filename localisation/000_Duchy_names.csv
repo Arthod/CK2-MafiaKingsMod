@@ -1,81 +1,209 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_auburndale_hills;Auburndale Hills;Auburndale Hills;Auburndale Hills;;Auburndale Hills;;;;;;;;;x
+d_auburndale_hills_adj;Auburndale Hillsian;;Auburndale Hillser;;;;;;;;;;;x
+d_bay_ridge;Bay Ridge;Bay Ridge;Bay Ridge;;Bay Ridge;;;;;;;;;x
+d_bay_ridge_adj;Bay Ridgean;;Bay Ridger;;;;;;;;;;;x
+d_bayside;Bayside;Bayside;Bayside;;Bayside;;;;;;;;;x
+d_bayside_adj;Baysidean;;baysider;;;;;;;;;;;x
+d_bedford_stuyvesant;Bedford-Stuyvesant;Bedford-Stuyvesant;Bedford-Stuyvesant;;Bedford-Stuyvesant;;;;;;;;;x
+d_bedford_stuyvesant_adj;Bedford-Stuyvesantian;;bedford-stuyvesanter;;;;;;;;;;;x
+d_bensonhurst;Bensonhurst;Bensonhurst;Bensonhurst;;Bensonhurst;;;;;;;;;x
+d_bensonhurst_adj;Bensonhurstian;;bensonhurster;;;;;;;;;;;x
+d_borough_park;Borough Park;Borough Park;Borough Park;;Borough Park;;;;;;;;;x
+d_borough_park_adj;Borough Parkian;;Borough Parker;;;;;;;;;;;x
+d_breezy_point;Breezy Point;Breezy Point;Breezy Point;;Breezy Point;;;;;;;;;x
+d_breezy_point_adj;Breezy Pointian;;Breezy Pointer;;;;;;;;;;;x
+d_brooklyn;Brooklyn;Brooklyn;Brooklyn;;Brooklyn;;;;;;;;;x
+d_brooklyn_adj;Brooklynian;;brooklyner;;;;;;;;;;;x
+d_brownsville;Brownsville;Brownsville;Brownsville;;Brownsville;;;;;;;;;x
+d_brownsville_adj;Brownsvillean;;brownsviller;;;;;;;;;;;x
+d_bushwick;Bushwick;Bushwick;Bushwick;;Bushwick;;;;;;;;;x
+d_bushwick_adj;Bushwickian;;bushwicker;;;;;;;;;;;x
+d_canarsie;Canarsie;Canarsie;Canarsie;;Canarsie;;;;;;;;;x
+d_canarsie_adj;Canarsiean;;canarser;;;;;;;;;;;x
+d_carnegie_hill;Carnegie Hill;Carnegie Hill;Carnegie Hill;;Carnegie Hill;;;;;;;;;x
+d_carnegie_hill_adj;Carnegie Hillian;;Carnegie Hiller;;;;;;;;;;;x
+d_castleton;Castleton;Castleton;Castleton;;Castleton;;;;;;;;;x
+d_castleton_adj;Castletonian;;castletoner;;;;;;;;;;;x
+d_central_harlem;Central Harlem;Central Harlem;Central Harlem;;Central Harlem;;;;;;;;;x
+d_central_harlem_adj;Central Harlemian;;Central Harlemer;;;;;;;;;;;x
+d_central_park;Central Park;Central Park;Central Park;;Central Park;;;;;;;;;x
+d_central_park_adj;Central Parkian;;Central Parker;;;;;;;;;;;x
 d_chelsea;Chelsea;Chelsea;Chelsea;;Chelsea;;;;;;;;;x
 d_chelsea_adj;Chelsean;;chelser;;;;;;;;;;;x
-d_cherysite;Cherysite;Cherysite;Cherysite;;Cherysite;;;;;;;;;x
-d_cherysite_adj;Cherysitean;;cherysiter;;;;;;;;;;;x
-d_clinton;Clinton;Clinton;Clinton;;Clinton;;;;;;;;;x
-d_clinton_adj;Clintonian;;clintoner;;;;;;;;;;;x
-d_columbus_circle;Columbus Circle;Columbus Circle;Columbus Circle;;Columbus Circle;;;;;;;;;x
-d_columbus_circle_adj;Columbus Circlean;;Columbus Circler;;;;;;;;;;;x
-d_community_college;Community College;Community College;Community College;;Community College;;;;;;;;;x
-d_community_college_adj;Community Collegean;;Community Colleger;;;;;;;;;;;x
-d_dewitt;DeWitt;DeWitt;DeWitt;;DeWitt;;;;;;;;;x
-d_dewitt_adj;DeWittian;;dewitter;;;;;;;;;;;x
-d_e_housten;E Housten;E Housten;E Housten;;E Housten;;;;;;;;;x
-d_e_housten_adj;E Houstenian;;E Houstener;;;;;;;;;;;x
-d_east_river_park;East River Park;East River Park;East River Park;;East River Park;;;;;;;;;x
-d_east_river_park_adj;East River Parkian;;East River Parker;;;;;;;;;;;x
+d_chinatown;Chinatown;Chinatown;Chinatown;;Chinatown;;;;;;;;;x
+d_chinatown_adj;Chinatownian;;chinatowner;;;;;;;;;;;x
+d_civic_center;Civic Center;Civic Center;Civic Center;;Civic Center;;;;;;;;;x
+d_civic_center_adj;Civic Centerian;;Civic Centerer;;;;;;;;;;;x
+d_claremont;Claremont;Claremont;Claremont;;Claremont;;;;;;;;;x
+d_claremont_adj;Claremontian;;claremonter;;;;;;;;;;;x
+d_concourse;Concourse;Concourse;Concourse;;Concourse;;;;;;;;;x
+d_concourse_adj;Concoursean;;concourser;;;;;;;;;;;x
+d_coney_island;Coney Island;Coney Island;Coney Island;;Coney Island;;;;;;;;;x
+d_coney_island_adj;Coney Islandian;;Coney Islander;;;;;;;;;;;x
+d_crown_heights;Crown Heights;Crown Heights;Crown Heights;;Crown Heights;;;;;;;;;x
+d_crown_heights_adj;Crown Heightsian;;Crown Heightser;;;;;;;;;;;x
+d_downtown_flushing;Downtown Flushing;Downtown Flushing;Downtown Flushing;;Downtown Flushing;;;;;;;;;x
+d_downtown_flushing_adj;Downtown Flushingian;;Downtown Flushinger;;;;;;;;;;;x
+d_east_flatbush;East Flatbush;East Flatbush;East Flatbush;;East Flatbush;;;;;;;;;x
+d_east_flatbush_adj;East Flatbushian;;East Flatbusher;;;;;;;;;;;x
+d_east_harlem;East Harlem;East Harlem;East Harlem;;East Harlem;;;;;;;;;x
+d_east_harlem_adj;East Harlemian;;East Harlemer;;;;;;;;;;;x
+d_east_new_york;East New York;East New York;East New York;;East New York;;;;;;;;;x
+d_east_new_york_adj;East New Yorkian;;East New Yorker;;;;;;;;;;;x
 d_east_village;East Village;East Village;East Village;;East Village;;;;;;;;;x
 d_east_village_adj;East Villagean;;East Villager;;;;;;;;;;;x
-d_flatiron;Flatiron;Flatiron;Flatiron;;Flatiron;;;;;;;;;x
-d_flatiron_adj;Flatironian;;flatironer;;;;;;;;;;;x
-d_gansevoort;Gansevoort;Gansevoort;Gansevoort;;Gansevoort;;;;;;;;;x
-d_gansevoort_adj;Gansevoortian;;gansevoorter;;;;;;;;;;;x
+d_eastchester;Eastchester;Eastchester;Eastchester;;Eastchester;;;;;;;;;x
+d_eastchester_adj;Eastchesterian;;eastchesterer;;;;;;;;;;;x
+d_edgewater;Edgewater;Edgewater;Edgewater;;Edgewater;;;;;;;;;x
+d_edgewater_adj;Edgewaterian;;edgewaterer;;;;;;;;;;;x
+d_elmhurst;Elmhurst;Elmhurst;Elmhurst;;Elmhurst;;;;;;;;;x
+d_elmhurst_adj;Elmhurstian;;elmhurster;;;;;;;;;;;x
+d_far_rockaway;Far Rockaway;Far Rockaway;Far Rockaway;;Far Rockaway;;;;;;;;;x
+d_far_rockaway_adj;Far Rockawaian;;Far Rockawaer;;;;;;;;;;;x
+d_financial_district;Financial District;Financial District;Financial District;;Financial District;;;;;;;;;x
+d_financial_district_adj;Financial Districtian;;Financial Districter;;;;;;;;;;;x
+d_flatbush;Flatbush;Flatbush;Flatbush;;Flatbush;;;;;;;;;x
+d_flatbush_adj;Flatbushian;;flatbusher;;;;;;;;;;;x
+d_flatlands;Flatlands;Flatlands;Flatlands;;Flatlands;;;;;;;;;x
+d_flatlands_adj;Flatlandsian;;flatlandser;;;;;;;;;;;x
+d_forest_hills;Forest Hills;Forest Hills;Forest Hills;;Forest Hills;;;;;;;;;x
+d_forest_hills_adj;Forest Hillsian;;Forest Hillser;;;;;;;;;;;x
+d_glen_oaks;Glen Oaks;Glen Oaks;Glen Oaks;;Glen Oaks;;;;;;;;;x
+d_glen_oaks_adj;Glen Oaksian;;Glen Oakser;;;;;;;;;;;x
 d_gramercy;Gramercy;Gramercy;Gramercy;;Gramercy;;;;;;;;;x
 d_gramercy_adj;Gramercian;;gramercer;;;;;;;;;;;x
-d_grand_street;Grand Street;Grand Street;Grand Street;;Grand Street;;;;;;;;;x
-d_grand_street_adj;Grand Streetian;;Grand Streeter;;;;;;;;;;;x
+d_gravesend;Gravesend;Gravesend;Gravesend;;Gravesend;;;;;;;;;x
+d_gravesend_adj;Gravesendian;;gravesender;;;;;;;;;;;x
+d_greenpoint;Greenpoint;Greenpoint;Greenpoint;;Greenpoint;;;;;;;;;x
+d_greenpoint_adj;Greenpointian;;greenpointer;;;;;;;;;;;x
 d_greenwich;Greenwich;Greenwich;Greenwich;;Greenwich;;;;;;;;;x
 d_greenwich_adj;Greenwichian;;greenwicher;;;;;;;;;;;x
+d_hamilton_heights;Hamilton Heights;Hamilton Heights;Hamilton Heights;;Hamilton Heights;;;;;;;;;x
+d_hamilton_heights_adj;Hamilton Heightsian;;Hamilton Heightser;;;;;;;;;;;x
 d_hells_kitchen;Hell's Kitchen;Hell's Kitchen;Hell's Kitchen;;Hell's Kitchen;;;;;;;;;x
 d_hells_kitchen_adj;Hells Kitchenian;;Hell's Kitchener;;;;;;;;;;;x
-d_hudson_river_park;Hudson River Park;Hudson River Park;Hudson River Park;;Hudson River Park;;;;;;;;;x
-d_hudson_river_park_adj;Hudson River Parkian;;Hudson River Parker;;;;;;;;;;;x
-d_inner_town;Inner Town;Inner Town;Inner Town;;Inner Town;;;;;;;;;x
-d_inner_town_adj;Inner Townian;;Inner Towner;;;;;;;;;;;x
-d_james_slip;James Slip;James Slip;James Slip;;James Slip;;;;;;;;;x
-d_james_slip_adj;James Slipian;;James Sliper;;;;;;;;;;;x
+d_hillside;Hillside;Hillside;Hillside;;Hillside;;;;;;;;;x
+d_hillside_adj;Hillsidean;;hillsider;;;;;;;;;;;x
+d_hudson_heights;Hudson Heights;Hudson Heights;Hudson Heights;;Hudson Heights;;;;;;;;;x
+d_hudson_heights_adj;Hudson Heightsian;;Hudson Heightser;;;;;;;;;;;x
+d_hunts_point;Hunts Point;Hunts Point;Hunts Point;;Hunts Point;;;;;;;;;x
+d_hunts_point_adj;Hunts Pointian;;Hunts Pointer;;;;;;;;;;;x
+d_idlewild;Idlewild;Idlewild;Idlewild;;Idlewild;;;;;;;;;x
+d_idlewild_adj;Idlewildian;;idlewilder;;;;;;;;;;;x
+d_inwood;Inwood;Inwood;Inwood;;Inwood;;;;;;;;;x
+d_inwood_adj;Inwoodian;;inwooder;;;;;;;;;;;x
+d_jamaica;Jamaica;Jamaica;Jamaica;;Jamaica;;;;;;;;;x
+d_jamaica_adj;Jamaican;;jamaicer;;;;;;;;;;;x
+d_jamaica_bay;Jamaica Bay;Jamaica Bay;Jamaica Bay;;Jamaica Bay;;;;;;;;;x
+d_jamaica_bay_adj;Jamaica Baian;;Jamaica Baer;;;;;;;;;;;x
+d_kingsbridge;Kingsbridge;Kingsbridge;Kingsbridge;;Kingsbridge;;;;;;;;;x
+d_kingsbridge_adj;Kingsbridgean;;kingsbridger;;;;;;;;;;;x
+d_kingsbridge_heights;Kingsbridge Heights;Kingsbridge Heights;Kingsbridge Heights;;Kingsbridge Heights;;;;;;;;;x
+d_kingsbridge_heights_adj;Kingsbridge Heightsian;;Kingsbridge Heightser;;;;;;;;;;;x
+d_laurelton;Laurelton;Laurelton;Laurelton;;Laurelton;;;;;;;;;x
+d_laurelton_adj;Laureltonian;;laureltoner;;;;;;;;;;;x
+d_lenox_hill;Lenox Hill;Lenox Hill;Lenox Hill;;Lenox Hill;;;;;;;;;x
+d_lenox_hill_adj;Lenox Hillian;;Lenox Hiller;;;;;;;;;;;x
 d_lincoln_square;Lincoln Square;Lincoln Square;Lincoln Square;;Lincoln Square;;;;;;;;;x
 d_lincoln_square_adj;Lincoln Squarean;;Lincoln Squarer;;;;;;;;;;;x
-d_lower_manhatten;Lower Manhatten;Lower Manhatten;Lower Manhatten;;Lower Manhatten;;;;;;;;;x
-d_lower_manhatten_adj;Lower Manhattenian;;Lower Manhattener;;;;;;;;;;;x
-d_madison_square;Madison Square;Madison Square;Madison Square;;Madison Square;;;;;;;;;x
-d_madison_square_adj;Madison Squarean;;Madison Squarer;;;;;;;;;;;x
+d_little_italy;Little Italy;Little Italy;Little Italy;;Little Italy;;;;;;;;;x
+d_little_italy_adj;Little Italian;;Little Italer;;;;;;;;;;;x
+d_little_neck;Little Neck;Little Neck;Little Neck;;Little Neck;;;;;;;;;x
+d_little_neck_adj;Little Neckian;;Little Necker;;;;;;;;;;;x
+d_long_island_city;Long Island City;Long Island City;Long Island City;;Long Island City;;;;;;;;;x
+d_long_island_city_adj;Long Island Citian;;Long Island Citer;;;;;;;;;;;x
+d_lower_east_side;Lower East Side;Lower East Side;Lower East Side;;Lower East Side;;;;;;;;;x
+d_lower_east_side_adj;Lower East Sidean;;Lower East Sider;;;;;;;;;;;x
+d_manhattan_valley;Manhattan Valley;Manhattan Valley;Manhattan Valley;;Manhattan Valley;;;;;;;;;x
+d_manhattan_valley_adj;Manhattan Valleian;;Manhattan Valleer;;;;;;;;;;;x
+d_marine_park;Marine Park;Marine Park;Marine Park;;Marine Park;;;;;;;;;x
+d_marine_park_adj;Marine Parkian;;Marine Parker;;;;;;;;;;;x
+d_maspeth;Maspeth;Maspeth;Maspeth;;Maspeth;;;;;;;;;x
+d_maspeth_adj;Maspethian;;maspether;;;;;;;;;;;x
+d_middletown;Middletown;Middletown;Middletown;;Middletown;;;;;;;;;x
+d_middletown_adj;Middletownian;;middletowner;;;;;;;;;;;x
 d_midtown;Midtown;Midtown;Midtown;;Midtown;;;;;;;;;x
 d_midtown_adj;Midtownian;;midtowner;;;;;;;;;;;x
-d_midtown_south;Midtown South;Midtown South;Midtown South;;Midtown South;;;;;;;;;x
-d_midtown_south_adj;Midtown Southian;;Midtown Souther;;;;;;;;;;;x
-d_new_york_university;New York University;New York University;New York University;;New York University;;;;;;;;;x
-d_new_york_university_adj;New York Universitian;;New York Universiter;;;;;;;;;;;x
-d_plaza;Plaza;Plaza;Plaza;;Plaza;;;;;;;;;x
-d_plaza_adj;Plazan;;plazer;;;;;;;;;;;x
-d_prince_streets;Prince Streets;Prince Streets;Prince Streets;;Prince Streets;;;;;;;;;x
-d_prince_streets_adj;Prince Streetsian;;Prince Streetser;;;;;;;;;;;x
-d_queensboro_bridge;Queensboro Bridge;Queensboro Bridge;Queensboro Bridge;;Queensboro Bridge;;;;;;;;;x
-d_queensboro_bridge_adj;Queensboro Bridgean;;Queensboro Bridger;;;;;;;;;;;x
-d_radio_row;Radio Row;Radio Row;Radio Row;;Radio Row;;;;;;;;;x
-d_radio_row_adj;Radio Rowian;;Radio Rower;;;;;;;;;;;x
-d_radio_row_north;Radio Row North;Radio Row North;Radio Row North;;Radio Row North;;;;;;;;;x
-d_radio_row_north_adj;Radio Row Northian;;Radio Row Norther;;;;;;;;;;;x
-d_stuyvesant_square;Stuyvesant Square;Stuyvesant Square;Stuyvesant Square;;Stuyvesant Square;;;;;;;;;x
-d_stuyvesant_square_adj;Stuyvesant Squarean;;Stuyvesant Squarer;;;;;;;;;;;x
-d_sutton_place;Sutton Place;Sutton Place;Sutton Place;;Sutton Place;;;;;;;;;x
-d_sutton_place_adj;Sutton Placean;;Sutton Placer;;;;;;;;;;;x
-d_the_battery;The Battery;The Battery;The Battery;;The Battery;;;;;;;;;x
-d_the_battery_adj;The Batterian;;The Batterer;;;;;;;;;;;x
-d_the_other_places;The Other places;The Other places;The Other places;;The Other places;;;;;;;;;x
-d_the_other_places_adj;The Other placesian;;The Other placeser;;;;;;;;;;;x
-d_times_square;Times Square;Times Square;Times Square;;Times Square;;;;;;;;;x
-d_times_square_adj;Times Squarean;;Times Squarer;;;;;;;;;;;x
-d_tudor_city;Tudor City;Tudor City;Tudor City;;Tudor City;;;;;;;;;x
-d_tudor_city_adj;Tudor Citian;;Tudor Citer;;;;;;;;;;;x
+d_midwood;Midwood;Midwood;Midwood;;Midwood;;;;;;;;;x
+d_midwood_adj;Midwoodian;;midwooder;;;;;;;;;;;x
+d_morningside;Morningside;Morningside;Morningside;;Morningside;;;;;;;;;x
+d_morningside_adj;Morningsidean;;morningsider;;;;;;;;;;;x
+d_mott_haven;Mott Haven;Mott Haven;Mott Haven;;Mott Haven;;;;;;;;;x
+d_mott_haven_adj;Mott Havenian;;Mott Havener;;;;;;;;;;;x
+d_murray_hill;Murray Hill;Murray Hill;Murray Hill;;Murray Hill;;;;;;;;;x
+d_murray_hill_adj;Murray Hillian;;Murray Hiller;;;;;;;;;;;x
+d_new_lots;New Lots;New Lots;New Lots;;New Lots;;;;;;;;;x
+d_new_lots_adj;New Lotsian;;New Lotser;;;;;;;;;;;x
+d_north_harlem;North Harlem;North Harlem;North Harlem;;North Harlem;;;;;;;;;x
+d_north_harlem_adj;North Harlemian;;North Harlemer;;;;;;;;;;;x
+d_ozone_park;Ozone Park;Ozone Park;Ozone Park;;Ozone Park;;;;;;;;;x
+d_ozone_park_adj;Ozone Parkian;;Ozone Parker;;;;;;;;;;;x
+d_parkchester;Parkchester;Parkchester;Parkchester;;Parkchester;;;;;;;;;x
+d_parkchester_adj;Parkchesterian;;parkchesterer;;;;;;;;;;;x
+d_pelham_bay;Pelham Bay;Pelham Bay;Pelham Bay;;Pelham Bay;;;;;;;;;x
+d_pelham_bay_adj;Pelham Baian;;Pelham Baer;;;;;;;;;;;x
+d_pelham_town;Pelham Town;Pelham Town;Pelham Town;;Pelham Town;;;;;;;;;x
+d_pelham_town_adj;Pelham Townian;;Pelham Towner;;;;;;;;;;;x
+d_port_richmond;Port Richmond;Port Richmond;Port Richmond;;Port Richmond;;;;;;;;;x
+d_port_richmond_adj;Port Richmondian;;Port Richmonder;;;;;;;;;;;x
+d_queens_village;Queens Village;Queens Village;Queens Village;;Queens Village;;;;;;;;;x
+d_queens_village_adj;Queens Villagean;;Queens Villager;;;;;;;;;;;x
+d_randalls_and_wards_island;Randall's and Wards Island;Randall's and Wards Island;Randall's and Wards Island;;Randall's and Wards Island;;;;;;;;;x
+d_randalls_and_wards_island_adj;Randallsian;;Randall's and Wards Islander;;;;;;;;;;;x
+d_red_hook;Red Hook;Red Hook;Red Hook;;Red Hook;;;;;;;;;x
+d_red_hook_adj;Red Hookian;;Red Hooker;;;;;;;;;;;x
+d_ridgewood;Ridgewood;Ridgewood;Ridgewood;;Ridgewood;;;;;;;;;x
+d_ridgewood_adj;Ridgewoodian;;ridgewooder;;;;;;;;;;;x
+d_riverdale;Riverdale;Riverdale;Riverdale;;Riverdale;;;;;;;;;x
+d_riverdale_adj;Riverdalean;;riverdaler;;;;;;;;;;;x
+d_rockaway_beach;Rockaway Beach;Rockaway Beach;Rockaway Beach;;Rockaway Beach;;;;;;;;;x
+d_rockaway_beach_adj;Rockaway Beachian;;Rockaway Beacher;;;;;;;;;;;x
+d_schuylerville;Schuylerville;Schuylerville;Schuylerville;;Schuylerville;;;;;;;;;x
+d_schuylerville_adj;Schuylervillean;;schuylerviller;;;;;;;;;;;x
+d_sheepshead_bay;Sheepshead Bay;Sheepshead Bay;Sheepshead Bay;;Sheepshead Bay;;;;;;;;;x
+d_sheepshead_bay_adj;Sheepshead Baian;;Sheepshead Baer;;;;;;;;;;;x
+d_soundview;Soundview;Soundview;Soundview;;Soundview;;;;;;;;;x
+d_soundview_adj;Soundviewian;;soundviewer;;;;;;;;;;;x
+d_south_harlem;South Harlem;South Harlem;South Harlem;;South Harlem;;;;;;;;;x
+d_south_harlem_adj;South Harlemian;;South Harlemer;;;;;;;;;;;x
+d_south_jamaica;South Jamaica;South Jamaica;South Jamaica;;South Jamaica;;;;;;;;;x
+d_south_jamaica_adj;South Jamaican;;South Jamaicer;;;;;;;;;;;x
+d_southfield;Southfield;Southfield;Southfield;;Southfield;;;;;;;;;x
+d_southfield_adj;Southfieldian;;southfielder;;;;;;;;;;;x
+d_springville;Springville;Springville;Springville;;Springville;;;;;;;;;x
+d_springville_adj;Springvillean;;springviller;;;;;;;;;;;x
+d_steinway;Steinway;Steinway;Steinway;;Steinway;;;;;;;;;x
+d_steinway_adj;Steinwaian;;steinwaer;;;;;;;;;;;x
+d_sunnyside;Sunnyside;Sunnyside;Sunnyside;;Sunnyside;;;;;;;;;x
+d_sunnyside_adj;Sunnysidean;;sunnysider;;;;;;;;;;;x
+d_sunset_park;Sunset Park;Sunset Park;Sunset Park;;Sunset Park;;;;;;;;;x
+d_sunset_park_adj;Sunset Parkian;;Sunset Parker;;;;;;;;;;;x
+d_tottenville;Tottenville;Tottenville;Tottenville;;Tottenville;;;;;;;;;x
+d_tottenville_adj;Tottenvillean;;tottenviller;;;;;;;;;;;x
+d_tremont;Tremont;Tremont;Tremont;;Tremont;;;;;;;;;x
+d_tremont_adj;Tremontian;;tremonter;;;;;;;;;;;x
+d_tribeca;Tribeca;Tribeca;Tribeca;;Tribeca;;;;;;;;;x
+d_tribeca_adj;Tribecan;;tribecer;;;;;;;;;;;x
 d_turtle_bay;Turtle Bay;Turtle Bay;Turtle Bay;;Turtle Bay;;;;;;;;;x
 d_turtle_bay_adj;Turtle Baian;;Turtle Baer;;;;;;;;;;;x
-d_wall_street;Wall Street;Wall Street;Wall Street;;Wall Street;;;;;;;;;x
-d_wall_street_adj;Wall Streetian;;Wall Streeter;;;;;;;;;;;x
-d_washington_square_park;Washington Square Park;Washington Square Park;Washington Square Park;;Washington Square Park;;;;;;;;;x
-d_washington_square_park_adj;Washington Square Parkian;;Washington Square Parker;;;;;;;;;;;x
-d_worth_street;Worth Street;Worth Street;Worth Street;;Worth Street;;;;;;;;;x
-d_worth_street_adj;Worth Streetian;;Worth Streeter;;;;;;;;;;;x
+d_upper_east_side;Upper East Side;Upper East Side;Upper East Side;;Upper East Side;;;;;;;;;x
+d_upper_east_side_adj;Upper East Sidean;;Upper East Sider;;;;;;;;;;;x
+d_upper_jamaica;Upper Jamaica;Upper Jamaica;Upper Jamaica;;Upper Jamaica;;;;;;;;;x
+d_upper_jamaica_adj;Upper Jamaican;;Upper Jamaicer;;;;;;;;;;;x
+d_upper_west_side;Upper West Side;Upper West Side;Upper West Side;;Upper West Side;;;;;;;;;x
+d_upper_west_side_adj;Upper West Sidean;;Upper West Sider;;;;;;;;;;;x
+d_uptown_flushing;Uptown Flushing;Uptown Flushing;Uptown Flushing;;Uptown Flushing;;;;;;;;;x
+d_uptown_flushing_adj;Uptown Flushingian;;Uptown Flushinger;;;;;;;;;;;x
+d_washington_heights;Washington Heights;Washington Heights;Washington Heights;;Washington Heights;;;;;;;;;x
+d_washington_heights_adj;Washington Heightsian;;Washington Heightser;;;;;;;;;;;x
+d_westchester;Westchester;Westchester;Westchester;;Westchester;;;;;;;;;x
+d_westchester_adj;Westchesterian;;westchesterer;;;;;;;;;;;x
+d_westfield;Westfield;Westfield;Westfield;;Westfield;;;;;;;;;x
+d_westfield_adj;Westfieldian;;westfielder;;;;;;;;;;;x
+d_whitestone;Whitestone;Whitestone;Whitestone;;Whitestone;;;;;;;;;x
+d_whitestone_adj;Whitestonean;;whitestoner;;;;;;;;;;;x
+d_williamsburg;Williamsburg;Williamsburg;Williamsburg;;Williamsburg;;;;;;;;;x
+d_williamsburg_adj;Williamsburgian;;williamsburger;;;;;;;;;;;x
 d_yorkville;Yorkville;Yorkville;Yorkville;;Yorkville;;;;;;;;;x
 d_yorkville_adj;Yorkvillean;;yorkviller;;;;;;;;;;;x

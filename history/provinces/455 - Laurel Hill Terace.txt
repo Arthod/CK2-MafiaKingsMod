@@ -1,0 +1,18 @@
+# c_laurel_hill_terace
+
+# County Title
+title = c_laurel_hill_terace
+
+# Settlements
+max_settlements = 3
+
+b_laurel_hill_terace = castle
+#b_wadsworth_ave = city
+#b_st_nicholas_ave_4 = temple
+#b_amsterdam_ave_3 = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_georgetown
+
+# County Title
+title = c_georgetown
+
+# Settlements
+max_settlements = 3
+
+b_georgetown = castle
+#b_ralph_ave_2 = city
+#b_bergen_ave = temple
+#b_veterans_ave = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_university_heights
+
+# County Title
+title = c_university_heights
+
+# Settlements
+max_settlements = 4
+
+b_university_heights = castle
+#b_university_ave_2 = city
+#b_cedar_ave = temple
+#b_sedgwick_ave = castle
+#b_w_180th_st = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

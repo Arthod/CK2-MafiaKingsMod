@@ -1,0 +1,18 @@
+# c_manhattan_terrace
+
+# County Title
+title = c_manhattan_terrace
+
+# Settlements
+max_settlements = 3
+
+b_manhattan_terrace = castle
+#b_avenue_n = city
+#b_avenue_o = temple
+#b_kings_hwy_3 = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

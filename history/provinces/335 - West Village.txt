@@ -1,0 +1,21 @@
+# c_west_village
+
+# County Title
+title = c_west_village
+
+# Settlements
+max_settlements = 7
+
+b_west_village = castle
+b_bleecker_st_2 = city
+b_bedford_st = temple
+b_macdougal_st = castle
+b_carmine_st = city
+#b_downing_st = temple
+#b_jones_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -899,27 +899,27 @@ svetambara_jain = {
 }
 
 # Controls Muslim decadence gain
-decadent = {
-	opposites = {
-		zealous
-	}
+# decadent = {
+	# opposites = {
+		# zealous
+	# }
 
-	potential = {
-		religion_group = muslim
-	}
+	# potential = {
+		# religion_group = muslim
+	# }
 	
-	customizer = no
-	random = no
+	# customizer = no
+	# random = no
 	
-	combat_rating = -10 #old value: -1
+	# combat_rating = -10 #old value: -1
 	
-	male_insult = INSULT_SYBARITE
-	female_insult = INSULT_SYBARITE
-	child_insult_adj = INSULT_FARTMASTER
-	male_insult_adj = INSULT_DECADENT
-	female_insult_adj = INSULT_DECADENT
-	child_insult_adj = INSULT_LAZY
-}
+	# male_insult = INSULT_SYBARITE
+	# female_insult = INSULT_SYBARITE
+	# child_insult_adj = INSULT_FARTMASTER
+	# male_insult_adj = INSULT_DECADENT
+	# female_insult_adj = INSULT_DECADENT
+	# child_insult_adj = INSULT_LAZY
+# }
 
 # Character is seen as a reincarnation of another character.
 reincarnation = {

@@ -513,11 +513,9 @@ character_event = {
 	
 	desc = {
 		text = EVTDESC6030
-		trigger = { NOT = { religion_group = muslim } }
 	}
 	desc = {
 		text = EVTDESC6030_MUS
-		trigger = { religion_group = muslim }
 	}
 	
 	min_age = 10
@@ -549,12 +547,6 @@ character_event = {
 	
 	option = {
 		name = EVTOPTA6030
-		trigger = { NOT = { religion_group = muslim } }
-		add_trait = possessed
-	}
-	option = {
-		name = EVTOPTA6030_MUS
-		trigger = { religion_group = muslim }
 		add_trait = possessed
 	}
 }
@@ -568,18 +560,6 @@ character_event = {
 	
 	desc = {
 		text = EVTDESC6031
-		trigger = { religion_group = christian }
-	}
-	desc = {
-		text = EVTDESC6031_MUS
-		trigger = { religion_group = muslim }
-	}
-	desc = {
-		text = EVTDESC6031_ALL
-		trigger = {
-			NOT = { religion_group = muslim }
-			NOT = { religion_group = christian }
-		}
 	}
 	
 	min_age = 10
@@ -616,13 +596,6 @@ character_event = {
 	
 	option = {
 		name = EVTOPTA6031
-		trigger = { religion_group = christian }
-		remove_trait = possessed
-	}
-	
-	option = {
-		name = EVTOPTA6031_ALL
-		trigger = { NOT = { religion_group = christian } }
 		remove_trait = possessed
 	}
 }
@@ -1925,7 +1898,6 @@ character_event = {
 	only_playable = yes
 	min_age = 10
 	only_capable = yes
-	religion_group = christian
 	
 	trigger = {
 		is_devil_worshiper_trigger = no
@@ -2029,7 +2001,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2058,7 +2029,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2087,7 +2057,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2122,7 +2091,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2151,7 +2119,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2185,7 +2152,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2216,7 +2182,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2252,7 +2217,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2281,7 +2245,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2315,7 +2278,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2343,7 +2305,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2377,7 +2338,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2405,7 +2365,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2439,7 +2398,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2468,7 +2426,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2502,7 +2459,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2531,7 +2487,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 
 	trigger = {
 		trait = possessed
@@ -2565,7 +2520,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2593,7 +2547,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2630,7 +2583,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2658,7 +2610,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2695,7 +2646,6 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2723,7 +2673,6 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
 	
 	trigger = {
 		trait = possessed
@@ -2809,7 +2758,7 @@ character_event = {
 	min_age = 16
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -2849,7 +2798,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -2880,7 +2829,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -2914,7 +2863,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -2943,7 +2892,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -2977,7 +2926,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3006,7 +2955,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3040,7 +2989,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3069,7 +3018,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3103,7 +3052,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3132,7 +3081,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3168,7 +3117,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3197,7 +3146,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3231,7 +3180,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3260,7 +3209,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3294,7 +3243,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3323,7 +3272,7 @@ character_event = {
 	min_age = 10
 	only_capable = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	trigger = {
 		trait = possessed
@@ -3709,7 +3658,6 @@ character_event = {
 	min_age = 16
 	prisoner = no
 	only_playable = yes
-	religion_group = pagan_group
 	
 	trigger = {
 		NOT = {
@@ -3717,16 +3665,6 @@ character_event = {
 				name = supernatural_events
 				value = off
 			}
-		}
-		OR = {
-			religion = norse_pagan
-			religion = norse_pagan_reformed
-			religion = slavic_pagan
-			religion = slavic_pagan_reformed
-			religion = baltic_pagan
-			religion = baltic_pagan_reformed
-			religion = finnish_pagan
-			religion = finnish_pagan_reformed
 		}
 		NOT = { has_character_flag = the_old_ones_are_waking }
 		NOT = { is_inaccessible_trigger = yes }
@@ -3771,7 +3709,6 @@ character_event = {
 	min_age = 16
 	prisoner = no
 	only_playable = yes
-	religion_group = pagan_group
 	
 	trigger = {
 		NOT = {
@@ -3779,16 +3716,6 @@ character_event = {
 				name = supernatural_events
 				value = off
 			}
-		}
-		OR = {
-			religion = norse_pagan
-			religion = norse_pagan_reformed
-			religion = slavic_pagan
-			religion = slavic_pagan_reformed
-			religion = baltic_pagan
-			religion = baltic_pagan_reformed
-			religion = finnish_pagan
-			religion = finnish_pagan_reformed
 		}
 		NOT = { has_character_flag = the_old_ones_are_waking }
 		NOT = { is_inaccessible_trigger = yes }
@@ -3833,7 +3760,6 @@ character_event = {
 	min_age = 16
 	prisoner = no
 	only_playable = yes
-	religion_group = pagan_group
 	
 	trigger = {
 		NOT = {
@@ -3895,7 +3821,6 @@ character_event = {
 	min_age = 16
 	prisoner = no
 	only_playable = yes
-	religion_group = pagan_group
 	
 	trigger = {
 		NOT = {
@@ -3903,16 +3828,6 @@ character_event = {
 				name = supernatural_events
 				value = off
 			}
-		}
-		OR = {
-			religion = norse_pagan
-			religion = norse_pagan_reformed
-			religion = slavic_pagan
-			religion = slavic_pagan_reformed
-			religion = baltic_pagan
-			religion = baltic_pagan_reformed
-			religion = finnish_pagan
-			religion = finnish_pagan_reformed
 		}
 		NOT = { has_character_flag = the_old_ones_are_waking }
 		NOT = { is_inaccessible_trigger = yes }

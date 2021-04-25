@@ -1,0 +1,66 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_murder_suspect"
+		texturefile = "gfx/traits/murder_suspect.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_rat"
+		texturefile = "gfx/traits/rat.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+}
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_mustache_peppe"
+		texturefile = "gfx/traits/mustache_peppe.dds"
+	}
+	spriteType = {
+		name = "GFX_trait_police_officer"
+		texturefile = "gfx/traits/police_officer.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_police_captain"
+		texturefile = "gfx/traits/police_captain.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_lawyer"
+		texturefile = "gfx/traits/lawyer.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_businessman"
+		texturefile = "gfx/traits/businessman.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_immigrant"
+		texturefile = "gfx/traits/immigrant.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_made_man"
+		texturefile = "gfx/traits/made_man.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}

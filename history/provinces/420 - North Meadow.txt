@@ -1,0 +1,16 @@
+# c_north_meadow
+
+# County Title
+title = c_north_meadow
+
+# Settlements
+max_settlements = 1
+
+b_north_meadow = castle
+#b_97th_st = city
+
+# Misc
+culture = central_park
+religion = upright
+
+#History

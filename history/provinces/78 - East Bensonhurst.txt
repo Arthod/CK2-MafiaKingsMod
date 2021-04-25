@@ -1,0 +1,18 @@
+# c_east_bensonhurst
+
+# County Title
+title = c_east_bensonhurst
+
+# Settlements
+max_settlements = 3
+
+b_east_bensonhurst = castle
+#b_18th_ave = city
+#b_bay_pkwy = temple
+#b_20th_ave = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_central_bushwick
+
+# County Title
+title = c_central_bushwick
+
+# Settlements
+max_settlements = 6
+
+b_central_bushwick = castle
+b_myrtle_ave_2 = city
+b_bushwick_ave = temple
+#b_wilson_ave = castle
+#b_gates_ave_3 = city
+#b_halsey_st_2 = temple
+#b_evergreen_ave = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

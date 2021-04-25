@@ -1,0 +1,18 @@
+# c_south_beach
+
+# County Title
+title = c_south_beach
+
+# Settlements
+max_settlements = 2
+
+b_south_beach = castle
+#b_south_beach_2 = city
+#b_dongan_hills = temple
+#b_olympia_blvd = castle
+
+# Misc
+culture = resort
+religion = upright
+
+#History

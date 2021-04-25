@@ -1,0 +1,18 @@
+# c_bloomfield
+
+# County Title
+title = c_bloomfield
+
+# Settlements
+max_settlements = 2
+
+b_bloomfield = castle
+#b_gulf_ave = city
+#b_water_st = temple
+#b_5th_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

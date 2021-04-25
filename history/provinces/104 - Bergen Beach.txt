@@ -1,0 +1,17 @@
+# c_bergen_beach
+
+# County Title
+title = c_bergen_beach
+
+# Settlements
+max_settlements = 2
+
+b_bergen_beach = castle
+#b_avenue_y = city
+#b_royce_st = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

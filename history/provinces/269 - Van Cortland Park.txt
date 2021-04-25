@@ -1,0 +1,17 @@
+# c_van_cortland_park
+
+# County Title
+title = c_van_cortland_park
+
+# Settlements
+max_settlements = 2
+
+b_van_cortland_park = castle
+#b_jerome_ave_4 = city
+#b_moshulu_pkwy = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

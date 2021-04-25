@@ -1,0 +1,20 @@
+# c_east_71st_st
+
+# County Title
+title = c_east_71st_st
+
+# Settlements
+max_settlements = 5
+
+b_east_71st_st = castle
+b_e_72nd_st = city
+b_e_70th_st = temple
+b_e_69th_st = castle
+#b_york_ave_2 = city
+#b_fdr_dr = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

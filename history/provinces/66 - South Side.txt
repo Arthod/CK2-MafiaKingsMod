@@ -1,0 +1,21 @@
+# c_south_side
+
+# County Title
+title = c_south_side
+
+# Settlements
+max_settlements = 6
+
+b_south_side = castle
+b_broadway_3 = city
+#b_grand_st_2 = temple
+#b_bedford_ave_2 = castle
+#b_hope_st = city
+#b_fillmore_pl = temple
+#b_river_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

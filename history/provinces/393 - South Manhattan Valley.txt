@@ -1,0 +1,19 @@
+# c_south_manhattan_valley
+
+# County Title
+title = c_south_manhattan_valley
+
+# Settlements
+max_settlements = 4
+
+b_south_manhattan_valley = castle
+b_w_103rd_st = city
+b_w_97th_st_2 = temple
+#b_w_101st_st = castle
+#b_w_102nd_st = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

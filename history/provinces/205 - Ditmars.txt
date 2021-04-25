@@ -1,0 +1,19 @@
+# c_ditmars
+
+# County Title
+title = c_ditmars
+
+# Settlements
+max_settlements = 4
+
+b_ditmars = castle
+#b_31st_st_2 = city
+#b_ditmars_blvd_3 = temple
+#b_21st_st_2 = castle
+#b_20th_ave_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

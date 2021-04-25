@@ -1,0 +1,18 @@
+# c_woodrow
+
+# County Title
+title = c_woodrow
+
+# Settlements
+max_settlements = 3
+
+b_woodrow = castle
+#b_woodrow_rd = city
+#b_ramona_ave = temple
+#b_foster_rd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

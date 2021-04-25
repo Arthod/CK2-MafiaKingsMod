@@ -1,0 +1,18 @@
+# c_west_bensonhurst
+
+# County Title
+title = c_west_bensonhurst
+
+# Settlements
+max_settlements = 3
+
+b_west_bensonhurst = castle
+#b_16th_ave = city
+#b_14th_ave = temple
+#b_15th_ave = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_olinville
+
+# County Title
+title = c_olinville
+
+# Settlements
+max_settlements = 4
+
+b_olinville = castle
+b_burke_ave = city
+#b_bronxwood_ave = temple
+#b_gun_hill_rd_3 = castle
+#b_bronx_blvd = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

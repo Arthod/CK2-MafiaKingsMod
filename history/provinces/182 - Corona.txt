@@ -1,0 +1,18 @@
+# c_corona
+
+# County Title
+title = c_corona
+
+# Settlements
+max_settlements = 3
+
+b_corona = castle
+#b_99th_st = city
+#b_corona_ave_3 = temple
+#b_108th_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

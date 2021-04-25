@@ -1,0 +1,18 @@
+# c_mt_olivet
+
+# County Title
+title = c_mt_olivet
+
+# Settlements
+max_settlements = 3
+
+b_mt_olivet = castle
+#b_eliot_ave = city
+#b_fresh_pond_rd = temple
+#b_flushing_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

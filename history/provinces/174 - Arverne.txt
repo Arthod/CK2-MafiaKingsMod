@@ -1,0 +1,17 @@
+# c_arverne
+
+# County Title
+title = c_arverne
+
+# Settlements
+max_settlements = 2
+
+b_arverne = castle
+b_beach_front_rd = city
+#b_ocean_ave_5 = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

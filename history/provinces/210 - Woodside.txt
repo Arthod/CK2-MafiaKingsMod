@@ -1,0 +1,19 @@
+# c_woodside
+
+# County Title
+title = c_woodside
+
+# Settlements
+max_settlements = 4
+
+b_woodside = castle
+#b_queens_blvd_3 = city
+#b_broadway_7 = temple
+#b_58th_st_2 = castle
+#b_roosevelt_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

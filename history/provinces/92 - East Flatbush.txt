@@ -1,0 +1,20 @@
+# c_east_flatbush
+
+# County Title
+title = c_east_flatbush
+
+# Settlements
+max_settlements = 5
+
+b_east_flatbush = castle
+b_church_ave_3 = city
+b_flatbush_ave = temple
+#b_bedford_ave_4 = castle
+#b_nostrand_ave_2 = city
+#b_rogers_ave_2 = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

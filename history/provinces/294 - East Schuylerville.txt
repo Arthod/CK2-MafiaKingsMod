@@ -1,0 +1,18 @@
+# c_east_schuylerville
+
+# County Title
+title = c_east_schuylerville
+
+# Settlements
+max_settlements = 3
+
+b_east_schuylerville = castle
+#b_tremont_ave_6 = city
+#b_randall_ave_3 = temple
+#b_clarence_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

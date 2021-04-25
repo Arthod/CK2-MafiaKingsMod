@@ -1,0 +1,16 @@
+# c_white_island
+
+# County Title
+title = c_white_island
+
+# Settlements
+max_settlements = 1
+
+b_white_island = castle
+#b_flatbush_ave_5 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

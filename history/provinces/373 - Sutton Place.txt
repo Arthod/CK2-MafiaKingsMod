@@ -1,0 +1,21 @@
+# c_sutton_place
+
+# County Title
+title = c_sutton_place
+
+# Settlements
+max_settlements = 6
+
+b_sutton_place = castle
+b_e_57th_st = city
+b_e_53rd_st = temple
+b_e_59th_st = castle
+b_e_55th_st = city
+#b_e_54th_st = temple
+#b_e_56th_st = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

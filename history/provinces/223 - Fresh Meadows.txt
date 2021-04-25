@@ -1,0 +1,18 @@
+# c_fresh_meadows
+
+# County Title
+title = c_fresh_meadows
+
+# Settlements
+max_settlements = 3
+
+b_fresh_meadows = castle
+#b_188th_st_2 = city
+#b_64th_ave = temple
+#b_francis_lewis_blvd_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

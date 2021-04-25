@@ -1,0 +1,17 @@
+# c_flushing_meadows
+
+# County Title
+title = c_flushing_meadows
+
+# Settlements
+max_settlements = 2
+
+b_flushing_meadows = castle
+#b_meadow_lake_dr = city
+#b_hebron_st = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

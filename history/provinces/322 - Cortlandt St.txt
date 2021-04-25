@@ -1,0 +1,21 @@
+# c_cortlandt_st
+
+# County Title
+title = c_cortlandt_st
+
+# Settlements
+max_settlements = 7
+
+b_cortlandt_st = castle
+b_fulton_st_4 = city
+b_liberty_st = temple
+#b_church_st = castle
+#b_greenwich_st = city
+#b_vesey_st = temple
+#b_dey_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

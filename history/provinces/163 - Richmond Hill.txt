@@ -1,0 +1,19 @@
+# c_richmond_hill
+
+# County Title
+title = c_richmond_hill
+
+# Settlements
+max_settlements = 4
+
+b_richmond_hill = castle
+b_atlantic_ave_4 = city
+#b_lefferts_blvd_3 = temple
+#b_jamaica_ave_2 = castle
+#b_myrtle_ave_4 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

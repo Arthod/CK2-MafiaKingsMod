@@ -1,0 +1,18 @@
+# c_fort_wadsworth
+
+# County Title
+title = c_fort_wadsworth
+
+# Settlements
+max_settlements = 1
+
+b_fort_wadsworth = castle
+#b_fort_wadsworth_2 = city
+#b_battery_rd = temple
+#b_hudson_rd = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

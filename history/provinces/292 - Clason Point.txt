@@ -1,0 +1,18 @@
+# c_clason_point
+
+# County Title
+title = c_clason_point
+
+# Settlements
+max_settlements = 3
+
+b_clason_point = castle
+#b_soundview_ave = city
+#b_seward_ave = temple
+#b_lacombe_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

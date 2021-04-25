@@ -1,0 +1,18 @@
+# c_parkchester
+
+# County Title
+title = c_parkchester
+
+# Settlements
+max_settlements = 3
+
+b_parkchester = castle
+#b_metropolitan_ave_5 = city
+#b_unionport_rd = temple
+#b_wood_rd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

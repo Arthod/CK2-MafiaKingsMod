@@ -1,0 +1,19 @@
+# c_maspeth
+
+# County Title
+title = c_maspeth
+
+# Settlements
+max_settlements = 4
+
+b_maspeth = castle
+#b_grand_ave_2 = city
+#b_maspeth_ave_2 = temple
+#b_69th_st = castle
+#b_65th_pl = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_windsor_terrace
+
+# County Title
+title = c_windsor_terrace
+
+# Settlements
+max_settlements = 4
+
+b_windsor_terrace = castle
+b_prospect_ave_2 = city
+#b_mcdonald_ave_3 = temple
+#b_prospect_park_west = castle
+#b_terrace_pl = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

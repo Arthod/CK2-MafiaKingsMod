@@ -1,0 +1,19 @@
+# c_soundview_village
+
+# County Title
+title = c_soundview_village
+
+# Settlements
+max_settlements = 4
+
+b_soundview_village = castle
+#b_rosedale_ave = city
+#b_bruckner_blvd_4 = temple
+#b_gleason_ave = castle
+#b_lafayette_ave_4 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

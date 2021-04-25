@@ -2,15 +2,15 @@
 # however they are not applied to a character but to the offmap_power
 # they can also have flags that can be tested from the offmap_power scope
 
-mayor_open = {
+china_open = {
 	frame = 1
 }
 
-mayor_untouchable = {
+china_isolationist = {
 	flags = { disallow_interactions disallow_troops }
 	frame = 2
 }
 
-mayor_aggressive = {
+china_expansionist = {
 	frame = 3
 }

@@ -1,0 +1,17 @@
+# c_mapleton
+
+# County Title
+title = c_mapleton
+
+# Settlements
+max_settlements = 2
+
+b_mapleton = castle
+#b_mcdonald_ave = city
+#b_dahill_rd = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_brownsville
+
+# County Title
+title = c_brownsville
+
+# Settlements
+max_settlements = 5
+
+b_brownsville = castle
+b_pitkin_ave_2 = city
+#b_belmont_ave_2 = temple
+#b_rockaway_ave = castle
+#b_new_york_ave = city
+#b_dumont_ave_2 = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

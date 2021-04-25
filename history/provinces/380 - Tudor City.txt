@@ -1,0 +1,21 @@
+# c_tudor_city
+
+# County Title
+title = c_tudor_city
+
+# Settlements
+max_settlements = 6
+
+b_tudor_city = castle
+b_e_42nd_st_3 = city
+b_e_36th_st_2 = temple
+b_e_41st_st_2 = castle
+#b_e_39th_st_2 = city
+#b_e_40th_st_2 = temple
+#b_e_37th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

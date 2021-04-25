@@ -1,0 +1,18 @@
+# c_industry_city
+
+# County Title
+title = c_industry_city
+
+# Settlements
+max_settlements = 3
+
+b_industry_city = castle
+b_2nd_ave_2 = city
+#b_1st_ave = temple
+#b_3rd_ave_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

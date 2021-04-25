@@ -1,0 +1,23 @@
+#STATEN ISLAND
+technology = {
+	titles = {
+		d_castleton
+		d_edgewater
+		d_middletown
+		d_port_richmond
+		d_southfield
+		d_springville
+		d_tottenville
+		d_westfield
+	}
+	1800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -1,0 +1,19 @@
+# c_pelham_bay
+
+# County Title
+title = c_pelham_bay
+
+# Settlements
+max_settlements = 4
+
+b_pelham_bay = castle
+#b_crosby_ave_2 = city
+#b_westchester_ave_4 = temple
+#b_bruckner_blvd_5 = castle
+#b_wilkinson_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

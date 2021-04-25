@@ -1,0 +1,18 @@
+# c_oakland_gardens
+
+# County Title
+title = c_oakland_gardens
+
+# Settlements
+max_settlements = 3
+
+b_oakland_gardens = castle
+#b_73rd_ave_2 = city
+#b_69th_ave = temple
+#b_64th_ave_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

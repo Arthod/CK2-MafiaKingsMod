@@ -1,0 +1,18 @@
+# c_east_new_lots
+
+# County Title
+title = c_east_new_lots
+
+# Settlements
+max_settlements = 3
+
+b_east_new_lots = castle
+#b_fountain_ave = city
+#b_linden_blvd = temple
+#b_wortman_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

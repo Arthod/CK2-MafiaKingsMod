@@ -1,0 +1,21 @@
+# c_upper_murray_hill
+
+# County Title
+title = c_upper_murray_hill
+
+# Settlements
+max_settlements = 6
+
+b_upper_murray_hill = castle
+b_e_42nd_st_2 = city
+b_e_38th_st = temple
+#b_e_40th_st = castle
+#b_e_36th_st = city
+#b_e_39th_st = temple
+#b_e_41st_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_soundview_park
+
+# County Title
+title = c_soundview_park
+
+# Settlements
+max_settlements = 3
+
+b_soundview_park = castle
+#b_watson_ave = city
+#b_story_ave = temple
+#b_boynton_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

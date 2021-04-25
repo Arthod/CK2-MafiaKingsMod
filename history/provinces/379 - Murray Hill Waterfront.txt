@@ -1,0 +1,21 @@
+# c_murray_hill_waterfront
+
+# County Title
+title = c_murray_hill_waterfront
+
+# Settlements
+max_settlements = 6
+
+b_murray_hill_waterfront = castle
+b_e_34th_st = city
+b_e_30th_st_2 = temple
+b_e_29th_st_2 = castle
+#b_e_32nd_st_2 = city
+#b_e_31st_st_2 = temple
+#b_e_33rd_st_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,16 @@
+# c_sheep_meadow
+
+# County Title
+title = c_sheep_meadow
+
+# Settlements
+max_settlements = 1
+
+b_sheep_meadow = castle
+#b_65th_st_3 = city
+
+# Misc
+culture = central_park
+religion = upright
+
+#History

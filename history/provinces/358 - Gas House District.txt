@@ -1,0 +1,21 @@
+# c_gas_house_district
+
+# County Title
+title = c_gas_house_district
+
+# Settlements
+max_settlements = 5
+
+b_gas_house_district = castle
+b_e_20th_st_2 = city
+b_e_15th_st = temple
+b_e_14th_st_3 = castle
+b_e_16th_st = city
+#b_e_17th_st_2 = temple
+#b_e_18th_st_2 = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_astor_row
+
+# County Title
+title = c_astor_row
+
+# Settlements
+max_settlements = 5
+
+b_astor_row = castle
+b_w_125th_st = city
+b_w_128th_st = temple
+b_w_130th_st_2 = castle
+#b_w_132nd_st_2 = city
+#b_w_126th_st_2 = temple
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

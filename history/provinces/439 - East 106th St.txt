@@ -1,0 +1,21 @@
+# c_east_106th_st
+
+# County Title
+title = c_east_106th_st
+
+# Settlements
+max_settlements = 7
+
+b_east_106th_st = castle
+b_e_104th_st = city
+b_e_109th_st = temple
+b_e_107th_st = castle
+b_e_105th_st = city
+#b_e_108th_st = temple
+#b_e_103rd_st = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

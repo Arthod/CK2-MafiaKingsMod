@@ -1,0 +1,19 @@
+# c_east_borough_park
+
+# County Title
+title = c_east_borough_park
+
+# Settlements
+max_settlements = 4
+
+b_east_borough_park = castle
+#b_16th_ave_3 = city
+#b_13th_ave_2 = temple
+#b_14th_ave_2 = castle
+#b_48th_st = city
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

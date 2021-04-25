@@ -1,0 +1,21 @@
+# c_north_bushwick
+
+# County Title
+title = c_north_bushwick
+
+# Settlements
+max_settlements = 5
+
+b_north_bushwick = castle
+b_knickerbocker_ave = city
+b_broadway = temple
+#b_myrtle_ave_3 = castle
+#b_wilson_ave_2 = city
+#b_george_st = temple
+#b_beaver_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

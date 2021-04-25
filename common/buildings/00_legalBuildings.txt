@@ -1,0 +1,283 @@
+castle = {
+   # legal_restaurant_main_1
+   legal_restaurant_main_1 = {
+       desc = legal_restaurant_main_1_desc
+       potential = {
+           religion_group = legal_group
+       }
+       trigger = { FROM = { government = business_government } }
+       gold_cost = 250
+       build_time = 365
+       ai_creation_factor = 100
+
+       tax_income = -2
+       monthly_character_prestige = 0.1
+   }
+   # legal_restaurant_main_2
+   legal_restaurant_main_2 = {
+       desc = legal_restaurant_main_2_desc
+       potential = {
+           religion_group = legal_group
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_main_1 
+       gold_cost = 250
+       build_time = 430
+       ai_creation_factor = 100
+
+       tax_income = -2
+       monthly_character_prestige = 0.1
+   }
+   # legal_restaurant_main_3
+   legal_restaurant_main_3 = {
+       desc = legal_restaurant_main_3_desc
+       potential = {
+           religion_group = legal_group
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_main_2 
+       gold_cost = 300
+       build_time = 495
+       ai_creation_factor = 100
+
+       tax_income = -2
+       monthly_character_prestige = 0.1
+   }
+   # legal_restaurant_main_4
+   legal_restaurant_main_4 = {
+       desc = legal_restaurant_main_4_desc
+       potential = {
+           religion_group = legal_group
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_main_3 
+       gold_cost = 350
+       build_time = 560
+       ai_creation_factor = 100
+
+       tax_income = -2
+       monthly_character_prestige = 0.1
+   }
+   # legal_restaurant_main_5
+   legal_restaurant_main_5 = {
+       desc = legal_restaurant_main_5_desc
+       potential = {
+           religion_group = legal_group
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_main_4 
+       gold_cost = 400
+       build_time = 625
+       ai_creation_factor = 100
+
+       tax_income = -2
+       monthly_character_prestige = 0.1
+   }
+   # legal_restaurant_main_6
+   legal_restaurant_main_6 = {
+       desc = legal_restaurant_main_6_desc
+       potential = {
+           religion_group = legal_group
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_main_5 
+       gold_cost = 450
+       build_time = 690
+       ai_creation_factor = 100
+
+       tax_income = -2
+       monthly_character_prestige = 0.1
+   }
+   # legal_restaurant_dining_1
+   legal_restaurant_dining_1 = {
+       desc = legal_restaurant_dining_1_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       gold_cost = 250
+       build_time = 80
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_1 }
+
+       tax_income = 4
+   }
+   # legal_restaurant_dining_2
+   legal_restaurant_dining_2 = {
+       desc = legal_restaurant_dining_2_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_dining_1 
+       gold_cost = 250
+       build_time = 115
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_2 }
+
+       tax_income = 4
+   }
+   # legal_restaurant_dining_3
+   legal_restaurant_dining_3 = {
+       desc = legal_restaurant_dining_3_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_dining_2 
+       gold_cost = 262
+       build_time = 150
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_3 }
+
+       tax_income = 4
+   }
+   # legal_restaurant_dining_4
+   legal_restaurant_dining_4 = {
+       desc = legal_restaurant_dining_4_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_dining_3 
+       gold_cost = 274
+       build_time = 185
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_4 }
+
+       tax_income = 4
+   }
+   # legal_restaurant_dining_5
+   legal_restaurant_dining_5 = {
+       desc = legal_restaurant_dining_5_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_dining_4 
+       gold_cost = 286
+       build_time = 220
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_5 }
+
+       tax_income = 4
+   }
+   # legal_restaurant_dining_6
+   legal_restaurant_dining_6 = {
+       desc = legal_restaurant_dining_6_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_dining_5 
+       gold_cost = 298
+       build_time = 255
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_6 }
+
+       tax_income = 4
+   }
+   # legal_restaurant_wine_cellar_1
+   legal_restaurant_wine_cellar_1 = {
+       desc = legal_restaurant_wine_cellar_1_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       gold_cost = 80
+       build_time = 30
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_1 }
+
+       tax_income = 2
+       monthly_character_prestige = 0.2
+   }
+   # legal_restaurant_wine_cellar_2
+   legal_restaurant_wine_cellar_2 = {
+       desc = legal_restaurant_wine_cellar_2_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_wine_cellar_1 
+       gold_cost = 120
+       build_time = 40
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_3 }
+
+       tax_income = 2
+       monthly_character_prestige = 0.2
+   }
+   # legal_restaurant_wine_cellar_3
+   legal_restaurant_wine_cellar_3 = {
+       desc = legal_restaurant_wine_cellar_3_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_wine_cellar_2 
+       gold_cost = 160
+       build_time = 50
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_6 }
+
+       tax_income = 2
+       monthly_character_prestige = 0.2
+   }
+   # legal_restaurant_food_1
+   legal_restaurant_food_1 = {
+       desc = legal_restaurant_food_1_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       gold_cost = 120
+       build_time = 30
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_1 }
+
+       tax_income = 2
+   }
+   # legal_restaurant_food_2
+   legal_restaurant_food_2 = {
+       desc = legal_restaurant_food_2_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_food_1 
+       gold_cost = 160
+       build_time = 40
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_3 }
+
+       tax_income = 2
+   }
+   # legal_restaurant_food_3
+   legal_restaurant_food_3 = {
+       desc = legal_restaurant_food_3_desc
+       potential = {
+           religion_group = legal_group
+           FROMFROM = { has_building = legal_restaurant_main_1 }
+       }
+       trigger = { FROM = { government = business_government } }
+       upgrades_from = legal_restaurant_food_2 
+       gold_cost = 200
+       build_time = 50
+       ai_creation_factor = 100
+       prerequisites = { legal_restaurant_main_6 }
+
+       tax_income = 2
+   }
+}

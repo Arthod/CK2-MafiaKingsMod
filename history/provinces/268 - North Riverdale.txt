@@ -1,0 +1,19 @@
+# c_north_riverdale
+
+# County Title
+title = c_north_riverdale
+
+# Settlements
+max_settlements = 4
+
+b_north_riverdale = castle
+#b_riverdale_ave_3 = city
+#b_liebig_ave = temple
+#b_palisade_ave_2 = castle
+#b_college_rd = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

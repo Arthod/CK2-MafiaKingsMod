@@ -1,0 +1,19 @@
+# c_elmhurst
+
+# County Title
+title = c_elmhurst
+
+# Settlements
+max_settlements = 4
+
+b_elmhurst = castle
+b_broadway_5 = city
+#b_grand_ave = temple
+#b_corona_ave = castle
+#b_45th_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

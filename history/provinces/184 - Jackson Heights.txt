@@ -1,0 +1,19 @@
+# c_jackson_heights
+
+# County Title
+title = c_jackson_heights
+
+# Settlements
+max_settlements = 4
+
+b_jackson_heights = castle
+#b_37th_ave = city
+#b_34th_ave_2 = temple
+#b_31st_ave = castle
+#b_northern_blvd_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

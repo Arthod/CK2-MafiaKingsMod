@@ -1,0 +1,19 @@
+# c_flushing
+
+# County Title
+title = c_flushing
+
+# Settlements
+max_settlements = 4
+
+b_flushing = castle
+b_main_st_4 = city
+#b_union_st_4 = temple
+#b_linden_pl = castle
+#b_prince_st_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

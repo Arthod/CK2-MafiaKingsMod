@@ -1,0 +1,17 @@
+# c_breezy_point
+
+# County Title
+title = c_breezy_point
+
+# Settlements
+max_settlements = 2
+
+b_breezy_point = castle
+#b_oceanside_ave = city
+#b_breezy_point_blvd = temple
+
+# Misc
+culture = irish
+religion = upright
+
+#History

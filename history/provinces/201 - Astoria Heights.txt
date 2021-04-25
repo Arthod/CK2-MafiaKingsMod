@@ -1,0 +1,20 @@
+# c_astoria_heights
+
+# County Title
+title = c_astoria_heights
+
+# Settlements
+max_settlements = 5
+
+b_astoria_heights = castle
+b_steinway_st = city
+#b_31st_ave_3 = temple
+#b_32nd_ave = castle
+#b_30th_ave_2 = city
+#b_28th_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

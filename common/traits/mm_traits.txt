@@ -1,0 +1,93 @@
+rat = {
+	random = no
+	
+	diplomacy_penalty = -2
+	intrigue_penalty = -2
+	
+	illegal_group_opinion = -100
+}
+
+made_man = {
+	random = no
+	same_opinion = 10
+	intrigue = 1
+	opposites = {
+		rat
+		lawyer
+		police_officer
+		police_captain
+	}
+}
+mustache_peppe = {
+	random = no
+	
+	illegal_group_opinion = 100
+}
+businessman = {
+	random = no
+	
+	stewardship = 2
+	diplomacy = 1
+	opposites = {
+		lawyer
+		police_officer
+		police_captain
+		made_man
+	}
+}
+lawyer = {
+	random = no
+	
+	diplomacy = 3
+	learning = 1
+	opposites = {
+		businessman
+		police_officer
+		police_captain
+		made_man
+	}
+}
+police_officer = {
+	potential = {
+		age = 16
+		religion_group = legal_group
+		is_female = no
+	}
+	personality = yes
+	
+	martial = 2
+	diplomacy = 1
+	opposites = {
+		businessman
+		lawyer
+		police_captain
+		made_man
+	}
+}
+police_captain = {
+	random = no
+	
+	martial = 3
+	diplomacy = 2
+	opposites = {
+		businessman
+		lawyer
+		police_officer
+		made_man
+	}
+}
+# Controls Illegal dynasty infamy gain
+decadent = {
+	potential = {
+		religion_group = illegal_group
+	}
+	
+	customizer = no
+	random = no
+}
+#represents everyone who isn´t born in the US
+immigrant = {
+	random = no
+	
+	same_opinion = 10
+}

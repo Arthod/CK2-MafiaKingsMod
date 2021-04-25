@@ -1,0 +1,18 @@
+# c_lefrak_city
+
+# County Title
+title = c_lefrak_city
+
+# Settlements
+max_settlements = 3
+
+b_lefrak_city = castle
+b_junction_blvd = city
+#b_corona_ave_2 = temple
+#b_92nd_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

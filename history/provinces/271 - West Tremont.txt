@@ -1,0 +1,19 @@
+# c_west_tremont
+
+# County Title
+title = c_west_tremont
+
+# Settlements
+max_settlements = 4
+
+b_west_tremont = castle
+b_tremont_ave = city
+#b_washington_ave_3 = temple
+#b_arthur_ave = castle
+#b_bathgate_ave = city
+
+# Misc
+culture = yankee
+religion = criminal
+
+#History

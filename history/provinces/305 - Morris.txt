@@ -1,0 +1,18 @@
+# c_morris
+
+# County Title
+title = c_morris
+
+# Settlements
+max_settlements = 3
+
+b_morris = castle
+#b_stillwell_ave_3 = city
+#b_eastchester_rd_2 = temple
+#b_seminole_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

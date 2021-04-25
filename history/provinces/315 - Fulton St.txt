@@ -1,0 +1,21 @@
+# c_fulton_st
+
+# County Title
+title = c_fulton_st
+
+# Settlements
+max_settlements = 6
+
+b_fulton_st_3 = castle
+b_gold_st_2 = city
+b_pearl_st = temple
+b_front_st = castle
+b_spruce_st = city
+#b_peck_slip = temple
+#b_beekman_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

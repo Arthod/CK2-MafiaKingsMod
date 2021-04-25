@@ -1,0 +1,18 @@
+# c_marble_hill
+
+# County Title
+title = c_marble_hill
+
+# Settlements
+max_settlements = 3
+
+b_marble_hill = castle
+#b_marble_hill_ave = city
+#b_terrace_view_ave = temple
+#b_tibbett_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

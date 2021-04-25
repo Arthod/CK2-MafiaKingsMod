@@ -1,0 +1,19 @@
+# c_south_brownsville
+
+# County Title
+title = c_south_brownsville
+
+# Settlements
+max_settlements = 4
+
+b_south_brownsville = castle
+#b_livonia_ave = city
+#b_hegeman_ave = temple
+#b_newport_st = castle
+#b_riverdale_ave = city
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

@@ -1,0 +1,38 @@
+#BROOKLYN
+technology = {
+	titles = {
+		d_bay_ridge
+		d_bedford_stuyvesant
+		d_bensonhurst
+		d_borough_park
+		d_brooklyn
+		d_brownsville
+		d_bushwick
+		d_canarsie
+		d_coney_island
+		d_crown_heights
+		d_east_flatbush
+		d_east_new_york
+		d_flatbush
+		d_flatlands
+		d_gravesend
+		d_greenpoint
+		d_marine_park
+		d_midwood
+		d_new_lots
+		d_red_hook
+		d_sheepshead_bay
+		d_sunset_park
+		d_williamsburg
+	}
+	1800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

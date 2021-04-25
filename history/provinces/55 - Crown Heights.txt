@@ -1,0 +1,21 @@
+# c_crown_heights
+
+# County Title
+title = c_crown_heights
+
+# Settlements
+max_settlements = 6
+
+b_crown_heights = castle
+b_rogers_ave = city
+#b_nostrand_ave = temple
+#b_montgomery_st = castle
+#b_bergen_st_2 = city
+#b_st_marks_ave = temple
+#b_crown_st = castle
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

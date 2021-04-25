@@ -1,0 +1,19 @@
+# c_greenwood_waterfront
+
+# County Title
+title = c_greenwood_waterfront
+
+# Settlements
+max_settlements = 4
+
+b_greenwood_waterfront = castle
+b_4th_ave_3 = city
+#b_3rd_ave_3 = temple
+#b_28th_st = castle
+#b_35th_st = city
+
+# Misc
+culture = scandinavian
+religion = upright
+
+#History

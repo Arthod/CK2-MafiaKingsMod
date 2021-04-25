@@ -1,0 +1,94 @@
+targeted_decisions = {
+	offer_protection = { 
+		ai_target_filter = independent_rulers
+		
+		from_potential = {
+			religion_group = illegal_group
+			is_ruler = yes
+			independent = yes
+		}
+		potential = {
+			is_tributary = no
+			independent = yes
+			religion_group = legal_group
+		}
+		allow = {
+			war = no
+			FROM = {
+				war = no
+				any_neighbor_independent_ruler = {
+					character = PREVPREV
+				}
+			}
+		}
+		effect = {
+			# will become event chain
+			prestige = -100
+			FROM = { 
+				make_tributary = { 
+					who = PREV 
+					tributary_type = protection_racket 
+				}
+				prestige = 100
+				random_list = { 
+					40 = { } 
+					40 = { decadence = 5 } 
+					20 = { decadence = 10 }
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.5
+
+			modifier = {
+				factor = 0.1
+				decadence = 25
+			}
+			modifier = {
+				factor = 0.1
+				decadence = 50
+			}
+			modifier = {
+				factor = 0.1
+				decadence = 75
+			}
+			modifier = {
+				factor = -0.3
+				trait = just
+			}
+		}
+		ai_acceptance = {
+			factor = 10
+			yes_threshold = 50
+			additive_modifier = {
+				value = 50
+				trait = craven
+			}
+			additive_modifier = {
+				value = -50
+				trait = brave
+			}
+			additive_modifier = {
+				value = 10
+				FROM = {
+					decadence = 25
+				}
+			}
+			additive_modifier = {
+				value = 10
+				FROM = {
+					decadence = 50
+				}
+			}
+			additive_modifier = {
+				value = 10
+				FROM = {
+					decadence = 75
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,1108 @@
+namespace = MMP
+
+character_event = {
+	id = MMP.1
+	desc = EVTDESCMMP.1
+	picture = GFX_evt_whispers
+	border = GFX_event_normal_frame_intrigue
+	
+	capable_only = yes
+	prisoner = no
+	is_part_of_plot = yes
+	
+	trigger = {
+		OR = {
+			has_plot = plot_kill_character
+			has_plot = plot_kill_spouse
+		}
+		plot_target_char = {
+			NOT = { is_inaccessible_trigger = yes }
+		}
+		NOT = { has_character_flag = framing_in_motion }
+		plot_power_contribution = 
+		{
+			plotter = ROOT
+			power = 0.025
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		plot_target_char = { save_event_target_as = plot_target }
+	}
+	
+	option = {
+		name = EVTOPTAMMP.1
+		trigger = {
+			plot_power = 1.0
+		}
+		
+		event_target:plot_target = { death = {death_reason = death_framing killer = ROOT} }
+		random = {
+			chance = 50
+			ROOT = {
+				character_event = { id = MMI.1 }
+			}
+		}
+	}
+}
+
+# Frame
+### Framing Plot Events ###
+# MMP.2 - MMP.18
+# The plotter sees an opportunity - Gun Framing
+
+character_event = {
+	id = MMP.2
+	desc = "EVTDESCMMP.2"
+	#picture = GFX_evt_whispers
+	border = GFX_event_normal_frame_intrigue
+	
+	capable_only = yes
+	prisoner = no
+	is_part_of_plot = yes
+	
+	trigger = {
+		has_plot = plot_frame_character
+		plot_target_char = {
+			NOT = { is_framing_quest_target_of_root_trigger = yes }
+			age = 16
+			prisoner = no
+			at_location = ROOT # The Plot Head needs to be at the target's location to get a chance
+			NOT = { trait = incapable }
+			NOT = { is_inaccessible_trigger = yes }
+		}
+		OR = {
+			NOT = { has_character_flag = framing_in_motion }
+			had_character_flag = { flag = framing_in_motion days = 100 }
+		}
+		plot_power_contribution = 
+		{
+			plotter = ROOT
+			power = 0.025
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 8400
+		
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.10
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.20
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.30
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.40
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.50
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.60
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.70
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.80
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 0.90
+			}
+		}
+		modifier = {
+			factor = 0.7
+			plot_power_contribution = 
+			{
+				plotter = ROOT
+				power = 1.5
+			}
+		}
+		
+		modifier = {
+			factor = 0.33
+			any_backed_character = {
+				has_plot = plot_frame_character
+				plot_power = 1.0
+			}
+		}
+		modifier = {
+			factor = 0.33
+			any_backed_character = {
+				has_plot = plot_frame_character
+				plot_power = 1.5
+			}
+		}
+		modifier = {
+			factor = 0.33
+			any_backed_character = {
+				has_plot = plot_frame_character
+				plot_power = 2.0
+			}
+		}
+	}
+	
+	immediate = {
+		plot_target_char = { save_event_target_as = plot_target }
+	}
+	
+	option = {
+		name = "EVTOPTAMMP.2" # The conspirators provide the gun
+		trigger = {
+			plot_power = 1.0
+		}
+		hidden_tooltip = {
+			any_plot_backer = {
+				character_event = { id = MMP.14 days = 1 }
+			}
+		}
+		
+		set_character_flag = framing_in_motion
+		event_target:plot_target = { character_event = { id = MMP.7 days = 30 tooltip = "EVTTOOLTIPMMP.7" } }
+	}
+	option = {
+		name = "EVTOPTBMMP.2" # Buy expensive gun
+		trigger = {
+			NOT = { plot_power = 0.5 }
+			NOT = { learning = 10 }
+		}
+		scaled_wealth = -1.0
+		
+		hidden_tooltip = {
+			any_plot_backer = {
+				character_event = { id = MMP.14 days = 1 }
+			}
+		}
+		
+		set_character_flag = framing_in_motion
+		event_target:plot_target = { character_event = { id = MMP.7 days = 30 tooltip = "EVTTOOLTIPMMP.7" } }
+	}
+	option = {
+		name = "EVTOPTCMMP.2" # Buy normal gun
+		trigger = {
+			plot_power = 0.5
+			NOT = { plot_power = 1.0 }
+			NOT = { learning = 10 }
+		}
+		scaled_wealth = -0.5
+		
+		hidden_tooltip = {
+			any_plot_backer = {
+				character_event = { id = MMP.14 days = 1 }
+			}
+		}
+		
+		set_character_flag = framing_in_motion
+		event_target:plot_target = { character_event = { id = MMP.7 days = 30 tooltip = "EVTTOOLTIPMMP.7" } }
+	}
+	#option = {
+	#	name = "EVTOPTCMMP.2" # Hemlock goes well with the Red...
+	#	tooltip_info = learning
+	#	trigger = {
+	#		plot_power = 0.5
+	#		learning = 10
+	#	}
+	#	
+	#	hidden_tooltip = {
+	#		any_plot_backer = {
+	#			character_event = { id = MMP.14 days = 1 }
+	#		}
+	#	}
+	#	
+	#	set_character_flag = framing_in_motion
+	#	event_target:plot_target = { character_event = { id = MMP.7 days = 30 tooltip = "EVTTOOLTIPMMP.7" } }
+	#}
+}
+
+# A plot backer sees an opportunity - Gun Framing
+character_event = {
+	id = MMP.3
+	desc = EVTDESCMMP.3
+	#picture = GFX_evt_whispers
+	border = GFX_event_normal_frame_intrigue
+	
+	capable_only = yes
+	prisoner = no
+	is_part_of_plot = yes
+	
+	trigger = {
+		any_backed_character = {
+			has_plot = plot_frame_character
+			plot_power = 0.5
+			plot_target_char = {
+				age = 16
+				prisoner = no
+				NOT = { trait = incapable }
+				NOT = { is_inaccessible_trigger = yes }
+			}
+			OR = {
+				NOT = { has_character_flag = framing_in_motion }
+				had_character_flag = { flag = framing_in_motion days = 100 }
+			}
+			ROOT = {
+				plot_power_contribution = 
+				{
+					plotter = PREV
+					power = 0.025
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 4200
+		
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.10
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.20
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.30
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.40
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.50
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.60
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.70
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.80
+					}
+				}
+			}
+		}
+		modifier = {
+			factor = 0.6
+			any_backed_character = {
+				has_plot = plot_frame_character
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.90
+					}
+				}
+			}
+		}
+		
+		modifier = {
+			factor = 0.33
+			any_backed_character = {
+				has_plot = plot_frame_character
+				plot_power = 1.0
+			}
+		}
+		modifier = {
+			factor = 0.33
+			any_backed_character = {
+				has_plot = plot_frame_character
+				plot_power = 1.5
+			}
+		}
+		modifier = {
+			factor = 0.33
+			any_backed_character = {
+				has_plot = plot_frame_character
+				plot_power = 2.0
+			}
+		}
+	}
+
+	immediate = {
+		random_backed_character = {
+			limit = {
+				has_plot = plot_frame_character
+				plot_power = 0.5
+				plot_target_char = {
+					age = 16
+					prisoner = no
+					NOT = { trait = incapable }
+					NOT = { is_inaccessible_trigger = yes }
+				}
+				OR = {
+					NOT = { has_character_flag = framing_in_motion }
+					had_character_flag = { flag = framing_in_motion days = 100 }
+				}
+				ROOT = {
+					plot_power_contribution = 
+					{
+						plotter = PREV
+						power = 0.025
+					}
+				}
+			}
+			save_event_target_as = plot_leader
+		}
+	}
+	
+	option = {
+		name = "EVTOPTAMMP.3" # The conspirators provide the poison
+		trigger = {
+			event_target:plot_leader = {
+				plot_power = 1.0
+			}
+		}
+		event_target:plot_leader = {
+			character_event = { id = MMP.12 days = 3 tooltip = "EVTTOOLTIPMMP.12" }
+			set_character_flag = framing_in_motion
+		}
+	}
+	option = {
+		name = "EVTOPTBMMP.3" # Ask the Plotter for funds
+		trigger = {
+			NOT = { learning = 10 }
+			NOT = {
+				event_target:plot_leader = {
+					plot_power = 1.0
+				}
+			}
+		}
+		event_target:plot_leader = {
+			character_event = { id = MMP.4 days = 3 tooltip = "EVTTOOLTIPMMP.4" }
+			set_character_flag = framing_in_motion
+		}
+	}
+	
+	option = {
+		name = "EVTOPTBMMP.3" # Buy the poison
+		trigger = {
+			NOT = { learning = 10 }
+			NOT = {
+				event_target:plot_leader = {
+					plot_power = 1.0
+				}
+			}
+		}
+		scaled_wealth = -0.5
+		event_target:plot_leader = {
+			character_event = { id = MMP.12 days = 3 tooltip = "EVTTOOLTIPMMP.12" }
+			set_character_flag = framing_in_motion
+		}
+	}
+
+	option = {
+		name = "EVTOPTDMMP.3" # I cannot afford this
+		trigger = {
+			ai = no
+			NOT = { learning = 10 }
+			NOT = {
+				event_target:plot_leader = {
+					plot_power = 1.0
+				}
+			}
+		}
+	}
+}
+
+# Gun Framing - Plot backer requests funds
+character_event = {
+	id = MMP.4
+	desc = "EVTDESCMMP.4"
+	#picture = GFX_evt_spymaster
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		plot_target_char = { save_event_target_as = plot_target }
+	}
+	
+	option = {
+		name = "EVTOPTAMMP.4"
+		transfer_scaled_wealth = {
+			to = FROM
+			value = 1.0
+		}
+		FROM = { character_event = { id = MMP.5 tooltip = "EVTTOOLTIPMMP.5" } }
+	}
+	
+	option = {
+		name = "EVTOPTBMMP.4"
+		FROM = { character_event = { id = MMP.6 tooltip = "EVTTOOLTIPMMP.6" } }
+	}
+}
+
+# Gun Framing - plot backer receives funds
+character_event = {
+	id = MMP.5
+	desc = "EVTDESCMMP.5"
+	#picture = GFX_evt_spymaster
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.5"
+		event_target:plot_target = { character_event = { id = MMP.7 days = 27 tooltip = "EVTTOOLTIPMMP.7" } }
+	}
+}
+
+# Gun Framing - plot backer does NOT receive funds
+character_event = {
+	id = MMP.6
+	desc = "EVTDESCMMP.6"
+	#picture = GFX_evt_spymaster
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.6" # Pay for it myself
+		scaled_wealth = -1.0
+		event_target:plot_target = { character_event = { id = MMP.7 days = 27 tooltip = "EVTTOOLTIPMMP.7" } }
+	}
+	option = {
+		name = "EVTOPTBMMP.6" # Screw this
+		FROM = { clr_character_flag = framing_in_motion }
+	}
+}
+
+# Gun Framing - the framing attempt
+character_event = {
+	id = MMP.7
+	desc = EVTDESCMMP.7
+	#picture = GFX_evt_feast
+	border = GFX_event_normal_frame_intrigue
+	
+	hide_from = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		prisoner = no
+		
+		# Is the plot still in motion?
+		OR = {
+			FROM = {
+				has_plot = plot_frame_character
+				plot_target_char = {
+					character = ROOT
+				}
+			}
+			FROMFROM = {
+				has_plot = plot_frame_character
+				plot_target_char = {
+					character = ROOT
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		save_event_target_as = target_victim
+	}
+	
+	option = {
+		name = "EVTOPTAMMP.7" # Police makes an arrest
+		trigger = {
+			NOT = {
+				OR = {
+					AND = {
+						trait = paranoid
+						random = 33
+					}
+					AND = {
+						trait = temperate
+						random = 50
+					}
+					AND = {
+						trait = gluttonous
+						random = 90
+					}
+					AND = {
+						NOT = { trait = temperate }
+						NOT = { trait = gluttonous }
+						NOT = { trait = paranoid }
+						random = 75
+					}
+				}
+			}
+		}
+		hidden_tooltip = {
+			random_list = {
+				25 = {
+					hidden_tooltip = {
+						FROM = { character_event = { id = MMP.15 days = 1 } }
+						FROMFROM = { character_event = { id = MMP.15 days = 1 } }
+					}
+					character_event = { id = MMP.8 days = 1 } # Framed, plotter discovered
+				}
+				75 = {
+					hidden_tooltip = {
+						FROM = { character_event = { id = MMP.16 days = 1 } }
+						FROMFROM = { character_event = { id = MMP.16 days = 1 } }
+					}
+					character_event = { id = MMP.9 days = 1 } # Framed, plotter unknown
+				}
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTBMMP.7" # The framed goes unnoticed by the police.
+		trigger = {
+			OR = {
+				AND = {
+					trait = paranoid
+					random = 33
+				}
+				AND = {
+					trait = temperate
+					random = 50
+				}
+				AND = {
+					trait = gluttonous
+					random = 90
+				}
+				AND = {
+					NOT = { trait = temperate }
+					NOT = { trait = gluttonous }
+					NOT = { trait = paranoid }
+					random = 75
+				}
+			}
+		}
+		hidden_tooltip = {
+			random_list = {
+				50 = {
+					hidden_tooltip = {
+						FROM = { character_event = { id = MMP.17 days = 1 } }
+						FROMFROM = { character_event = { id = MMP.17 days = 1 } }
+					}
+					character_event = { id = MMP.10 days = 1 } # Not framed, plotter discovered
+				}
+				50 = {
+					hidden_tooltip = {
+						FROM = { character_event = { id = MMP.18 days = 1 } }
+						FROMFROM = { character_event = { id = MMP.18 days = 1 } }
+					}
+					character_event = { id = MMP.11 days = 1 } # Not framed, plotter unknown
+				}
+			}
+		}
+	}
+}
+
+# Gun Framing - Framed, plotter(s) discovered
+character_event = {
+	id = MMP.8
+	desc = EVTDESCMMP.8
+	#picture = GFX_evt_death
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAMMP.8
+		if = {
+			limit = {
+				FROMFROMFROM = {
+					has_plot = plot_frame_character
+					plot_target_char = {
+						character = ROOT
+					}
+				}
+			}
+			add_trait = murder_suspect
+			break = yes
+		}
+		if = {
+			limit = {
+				is_alive = yes
+			}
+			add_trait = murder_suspect
+		}
+	}
+}
+
+# Gun Framing - Framed, plotter NOT discovered
+character_event = {
+	id = MMP.9
+	desc = "EVTDESCMMP.9"
+	#picture = GFX_evt_death
+	border = GFX_event_normal_frame_intrigue
+	
+	hide_from = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.9"
+		
+		if = {
+			limit = {
+				FROMFROMFROM = {
+					has_plot = plot_frame_character
+					plot_target_char = {
+						character = ROOT
+					}
+				}
+			}
+			add_trait = murder_suspect
+			break = yes
+		}
+		if = {
+			limit = {
+				is_alive = yes
+			}
+			add_trait = murder_suspect
+		}
+	}
+}
+
+# Gun Framing - Not framed, plotter discovered
+character_event = {
+	id = MMP.10
+	desc = "EVTDESCMMP.10"
+	#picture = GFX_evt_scandal
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.10"
+	}
+}
+
+# Gun Framing - Not framed, plotter NOT discovered
+character_event = {
+	id = MMP.11
+	desc = "EVTDESCMMP.11"
+	#picture = GFX_evt_scandal
+	border = GFX_event_normal_frame_intrigue
+	
+	hide_from = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.11"
+	}
+}
+
+# Gun Framing - Backer informs Plotter of plan
+character_event = {
+	id = MMP.12
+	desc = "EVTDESCMMP.12"
+	#picture = GFX_evt_whispers
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		plot_target_char = {
+			is_alive = yes
+		}
+	}
+	
+	immediate = {
+		plot_target_char = { save_event_target_as = plot_target }
+	}
+	
+	option = {
+		name = "EVTOPTAMMP.12"
+		FROM = { character_event = { id = MMP.13 tooltip = "EVTTOOLTIPMMP.13" } }
+		hidden_tooltip = {
+			any_plot_backer = {
+				limit = {
+					NOT = { character = FROM }
+				}
+				character_event = { id = MMP.14 days = 1 }
+			}
+		}
+	}
+}
+
+# Gun Framing - Plotter tells backer to go ahead
+character_event = {
+	id = MMP.13
+	desc = "EVTDESCMMP.13"
+	#picture = GFX_evt_whispers
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.13"
+		event_target:plot_target = { character_event = { id = MMP.7 days = 27 tooltip = "EVTTOOLTIPMMP.7" } }
+	}
+}
+
+# Gun Framing - Initiator informs other plotter
+character_event = {
+	id = MMP.14
+	desc = "EVTDESCMMP.14"
+	#picture = GFX_evt_whispers
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.14"
+	}
+}
+
+# Gun Framing - Notification: Success, but discovered
+character_event = {
+	id = MMP.15
+	desc = EVTDESCMMP.15
+	#picture = GFX_evt_shadowy_cabal
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		character_event = { id = MMP.19 } # Consequences of discovery
+		clear_event_target = target_victim
+	}
+	
+	option = {
+		name = "EVTOPTAMMP.15"
+	}
+}
+
+# Gun Framing - Notification: Success, and NOT discovered
+character_event = {
+	id = MMP.16
+	desc = "EVTDESCMMP.16"
+	#picture = GFX_evt_shadowy_cabal
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.16"
+	}
+}
+
+# Gun Framing - Notification: Failure, and discovered
+character_event = {
+	id = MMP.17
+	desc = "EVTDESCMMP.17"
+	#picture = GFX_evt_shadowy_cabal
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		character_event = { id = MMP.19 } # Consequences of discovery
+		clear_event_target = target_victim
+		
+		if = {
+			limit = { 
+				plot_target_char = {
+					character = FROM
+				}
+				has_plot = plot_frame_character
+			}
+			reveal_plot = yes
+		}
+	}
+	
+	option = {
+		name = "EVTOPTAMMP.17"
+		if = {
+			limit = { 
+				plot_target_char = {
+					character = FROM
+				}
+				has_plot = plot_frame_character
+			}
+			clr_character_flag = framing_in_motion
+			tooltip = { reveal_plot = yes }
+		}
+	}
+}
+
+# Gun Framing - Notification: Failure, but NOT discovered
+character_event = {
+	id = MMP.18
+	desc = "EVTDESCMMP.18"
+	#picture = GFX_evt_shadowy_cabal
+	border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTAMMP.18"
+		
+		if = {
+			limit = { 
+				plot_target_char = {
+					character = FROM
+				}
+				has_plot = plot_frame_character
+			}
+			clr_character_flag = framing_in_motion
+		}
+	}
+}
+# Gun Framing - Plotter discovered after framing
+character_event = {
+	id = MMP.19
+	
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	immediate = {	
+		if = {
+			limit = { NOT = { has_character_modifier = opinion_dishonorable } }
+			add_character_modifier = {
+				name = opinion_dishonorable
+				years = 50
+			}
+		}
+		
+		event_target:target_victim = { save_event_target_as = kinslayer_target }
+		add_kinslayer_trait_effect = yes
+		
+		event_target:target_victim = {				
+			opinion = {
+				who = ROOT
+				modifier = opinion_dishonorable
+				months = 60
+			}
+			any_spouse = { 
+				opinion = {
+					who = ROOT
+					modifier = opinion_dishonorable
+					months = 60
+				}
+			}
+			any_liege = {
+				if = {
+					limit = {
+						is_close_relative = PREV
+						NOT = { character = ROOT }
+						NOT = { is_close_relative = ROOT }
+					}
+					opinion = {
+						who = ROOT
+						modifier = opinion_dishonorable
+					}
+				}
+			}
+			
+			if = {
+				limit = {
+					NOT = { dynasty = ROOT }
+				}
+				any_dynasty_member = {
+					opinion = {
+						who = ROOT
+						modifier = opinion_dishonorable
+						months = 60
+					}
+				}
+			}
+			
+			top_liege = {
+				opinion = {
+					who = ROOT
+					modifier = opinion_dishonorable
+					months = 60
+				}
+				any_realm_lord = {
+					opinion = {
+						who = ROOT
+						modifier = opinion_dishonorable
+						months = 60
+					}
+				}
+			}			
+			if = {
+				limit = {
+					mother = {
+						NOT = { character = ROOT }
+						NOT = { is_mother = ROOT }
+					}
+				}
+				mother = {
+					opinion = {
+						who = ROOT
+						modifier = opinion_dishonorable
+						months = 1200
+					}
+					add_rival = ROOT
+				}
+			}
+			if = {
+				limit = {
+					father = {
+						NOT = { character = ROOT }
+						NOT = { is_father = ROOT }
+					}
+				}
+				father = {
+					opinion = {
+						who = ROOT
+						modifier = opinion_dishonorable
+						months = 1200
+					}
+					add_rival = ROOT
+				}
+			}
+			
+			any_child = {
+				limit = {
+					NOT = { character = ROOT }
+					NOT = { is_child_of = ROOT }
+				}
+				opinion = {
+					who = ROOT
+					modifier = opinion_dishonorable
+					months = 1200
+				}
+				add_rival = ROOT
+			}
+			
+			any_sibling = {
+				limit = {
+					NOT = { character = ROOT }
+					NOT = { sibling = ROOT }
+				}
+				opinion = {
+					who = ROOT
+					modifier = opinion_dishonorable
+					months = 1200
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+# c_huguenot
+
+# County Title
+title = c_huguenot
+
+# Settlements
+max_settlements = 3
+
+b_huguenot = castle
+#b_lutten_ave = city
+#b_seguine_ave = temple
+#b_woodvale_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

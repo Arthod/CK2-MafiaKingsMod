@@ -1,0 +1,21 @@
+# c_downtown
+
+# County Title
+title = c_downtown
+
+# Settlements
+max_settlements = 7
+
+b_downtown = castle
+b_tillary_st = city
+b_brooklyn_bridge_blvd = temple
+#b_jay_st = castle
+#b_gold_st = city
+#b_duffield_st = temple
+#b_prince_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

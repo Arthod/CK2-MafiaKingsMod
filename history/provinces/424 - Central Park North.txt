@@ -1,0 +1,21 @@
+# c_central_park_north
+
+# County Title
+title = c_central_park_north
+
+# Settlements
+max_settlements = 7
+
+b_central_park_north = castle
+b_w_116th_st_3 = city
+b_w_113th_st_2 = temple
+#b_w_115th_st_2 = castle
+#b_w_111th_st_2 = city
+#b_w_114th_st_2 = temple
+#b_w_112th_st_2 = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

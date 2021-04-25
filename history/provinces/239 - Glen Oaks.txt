@@ -1,0 +1,17 @@
+# c_glen_oaks
+
+# County Title
+title = c_glen_oaks
+
+# Settlements
+max_settlements = 2
+
+b_glen_oaks = castle
+#b_little_neck_pkwy_2 = city
+#b_commonwealth_blvd = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

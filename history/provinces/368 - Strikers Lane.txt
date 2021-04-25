@@ -1,0 +1,21 @@
+# c_strikers_lane
+
+# County Title
+title = c_strikers_lane
+
+# Settlements
+max_settlements = 6
+
+b_strikers_lane = castle
+b_w_54th_st_2 = city
+b_w_59th_st = temple
+#b_w_57th_st = castle
+#b_w_55th_st_2 = city
+#b_w_53rd_st = temple
+#b_w_58th_st_2 = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

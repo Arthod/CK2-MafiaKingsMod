@@ -1,0 +1,18 @@
+# c_concourse_village
+
+# County Title
+title = c_concourse_village
+
+# Settlements
+max_settlements = 3
+
+b_concourse_village = castle
+#b_161th_st = city
+#b_158th_st = temple
+#b_morris_ave_3 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_flatlands
+
+# County Title
+title = c_flatlands
+
+# Settlements
+max_settlements = 5
+
+b_flatlands = castle
+b_flatlands_ave = city
+#b_kings_hwy_4 = temple
+#b_flatbush_ave_3 = castle
+#b_avenue_l_2 = city
+#b_avenue_k = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

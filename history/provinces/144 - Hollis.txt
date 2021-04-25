@@ -1,0 +1,18 @@
+# c_hollis
+
+# County Title
+title = c_hollis
+
+# Settlements
+max_settlements = 3
+
+b_hollis = castle
+#b_hollis_ave = city
+#b_farmers_blvd_2 = temple
+#b_99th_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

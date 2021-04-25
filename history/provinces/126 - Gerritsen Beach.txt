@@ -1,0 +1,18 @@
+# c_gerritsen_beach
+
+# County Title
+title = c_gerritsen_beach
+
+# Settlements
+max_settlements = 3
+
+b_gerritsen_beach = castle
+#b_gerritsen_ave = city
+#b_knapp_st = temple
+#b_gotham_ave = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

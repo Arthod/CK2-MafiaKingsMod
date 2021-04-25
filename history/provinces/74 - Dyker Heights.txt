@@ -1,0 +1,20 @@
+# c_dyker_heights
+
+# County Title
+title = c_dyker_heights
+
+# Settlements
+max_settlements = 5
+
+b_dyker_heights = castle
+b_3rd_ave_5 = city
+#b_5th_ave_7 = temple
+#b_marine_ave = castle
+#b_86th_st = city
+#b_fort_hamilton_pkwy = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

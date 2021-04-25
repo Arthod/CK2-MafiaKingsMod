@@ -1,0 +1,19 @@
+# c_sunnyside
+
+# County Title
+title = c_sunnyside
+
+# Settlements
+max_settlements = 4
+
+b_sunnyside_2 = castle
+b_greenpoint_ave_2 = city
+#b_hunters_point_ave = temple
+#b_van_dam_st = castle
+#b_39th_st_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

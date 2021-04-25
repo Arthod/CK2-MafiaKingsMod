@@ -1,0 +1,16 @@
+# c_roxbury
+
+# County Title
+title = c_roxbury
+
+# Settlements
+max_settlements = 1
+
+b_roxbury = castle
+#b_bayside = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

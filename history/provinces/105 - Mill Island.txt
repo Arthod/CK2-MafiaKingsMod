@@ -1,0 +1,17 @@
+# c_mill_island
+
+# County Title
+title = c_mill_island
+
+# Settlements
+max_settlements = 2
+
+b_mill_island = castle
+#b_strickland_ave = city
+#b_mayfair_dr = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

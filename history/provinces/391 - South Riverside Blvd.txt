@@ -1,0 +1,21 @@
+# c_south_riverside_blvd
+
+# County Title
+title = c_south_riverside_blvd
+
+# Settlements
+max_settlements = 6
+
+b_south_riverside_blvd = castle
+b_w_59th_st_3 = city
+b_w_65th_st_2 = temple
+#b_w_62nd_st_2 = castle
+#b_w_60th_st_2 = city
+#b_w_63rd_st = temple
+#b_w_64th_st_2 = castle
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_gravesend_waterfront
+
+# County Title
+title = c_gravesend_waterfront
+
+# Settlements
+max_settlements = 3
+
+b_gravesend_waterfront = castle
+#b_cropsey_ave_3 = city
+#b_bath_ave_2 = temple
+#b_harway_ave = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

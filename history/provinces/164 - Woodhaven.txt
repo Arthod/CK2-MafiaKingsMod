@@ -1,0 +1,18 @@
+# c_woodhaven
+
+# County Title
+title = c_woodhaven
+
+# Settlements
+max_settlements = 3
+
+b_woodhaven = castle
+b_woodhaven_blvd = city
+#b_75th_st = temple
+#b_forest_pkwy = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_catherine_slip
+
+# County Title
+title = c_catherine_slip
+
+# Settlements
+max_settlements = 5
+
+b_catherine_slip = castle
+b_catherine_st = city
+b_madison_st = temple
+b_cherry_st = castle
+#b_water_st_3 = city
+#b_monroe_st = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

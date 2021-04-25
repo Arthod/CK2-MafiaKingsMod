@@ -1,0 +1,17 @@
+# c_east_hunts_point
+
+# County Title
+title = c_east_hunts_point
+
+# Settlements
+max_settlements = 2
+
+b_east_hunts_point = castle
+#b_halleck_st = city
+#b_market_st_2 = temple
+
+# Misc
+culture = yankee
+religion = criminal
+
+#History

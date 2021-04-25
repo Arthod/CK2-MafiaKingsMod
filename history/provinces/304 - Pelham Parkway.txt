@@ -1,0 +1,18 @@
+# c_pelham_parkway
+
+# County Title
+title = c_pelham_parkway
+
+# Settlements
+max_settlements = 3
+
+b_pelham_parkway = castle
+#b_white_plains_rd = city
+#b_lydig_ave = temple
+#b_bronx_park_e = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

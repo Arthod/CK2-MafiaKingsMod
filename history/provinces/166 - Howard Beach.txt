@@ -1,0 +1,17 @@
+# c_howard_beach
+
+# County Title
+title = c_howard_beach
+
+# Settlements
+max_settlements = 2
+
+b_howard_beach = castle
+#b_cross_bay_blvd = city
+#b_todd_ln = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

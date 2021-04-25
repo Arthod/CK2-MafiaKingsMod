@@ -1,0 +1,21 @@
+# c_gramercy_park
+
+# County Title
+title = c_gramercy_park
+
+# Settlements
+max_settlements = 7
+
+b_gramercy_park = castle
+b_e_14th_st_2 = city
+b_e_23rd_st = temple
+b_e_20th_st = castle
+#b_e_17th_st = city
+#b_e_18th_st = temple
+#b_e_22nd_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

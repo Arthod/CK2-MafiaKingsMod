@@ -1,0 +1,19 @@
+# c_east_142nd_st
+
+# County Title
+title = c_east_142nd_st
+
+# Settlements
+max_settlements = 4
+
+b_east_142nd_st = castle
+b_e_140th_st_2 = city
+b_e_139th_st_2 = temple
+#b_e_141st_st_3 = castle
+#b_e_138th_st_3 = city
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

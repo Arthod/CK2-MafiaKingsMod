@@ -1,0 +1,18 @@
+# c_lindenwood
+
+# County Title
+title = c_lindenwood
+
+# Settlements
+max_settlements = 3
+
+b_lindenwood = castle
+#b_shore_pkwy_3 = city
+#b_eldert_lane = temple
+#b_84th_st_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

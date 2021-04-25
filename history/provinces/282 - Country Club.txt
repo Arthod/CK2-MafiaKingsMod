@@ -1,0 +1,18 @@
+# c_country_club
+
+# County Title
+title = c_country_club
+
+# Settlements
+max_settlements = 3
+
+b_country_club = castle
+#b_bruckner_blvd_3 = city
+#b_rawlins_ave = temple
+#b_griswold_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

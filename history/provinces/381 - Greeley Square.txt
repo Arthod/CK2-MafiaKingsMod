@@ -1,0 +1,21 @@
+# c_greeley_square
+
+# County Title
+title = c_greeley_square
+
+# Settlements
+max_settlements = 6
+
+b_greeley_square = castle
+b_e_32nd_st_3 = city
+b_e_29th_st_3 = temple
+#b_e_30th_st_3 = castle
+#b_e_31st_st_3 = city
+#b_e_28th_st_3 = temple
+#b_e_33rd_st_3 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

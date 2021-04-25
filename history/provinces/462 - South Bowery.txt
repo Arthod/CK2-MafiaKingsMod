@@ -1,0 +1,21 @@
+# c_south_bowery
+
+# County Title
+title = c_south_bowery
+
+# Settlements
+max_settlements = 7
+
+b_south_bowery = castle
+b_delancey_st_3 = city
+b_grand_st_5 = temple
+b_broome_st_4 = castle
+b_chrystie_st_2 = city
+#b_forsyth_st_3 = temple
+#b_eldridge_st_2 = castle
+
+# Misc
+culture = chinese
+religion = upright
+
+#History

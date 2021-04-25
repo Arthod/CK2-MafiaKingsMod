@@ -1,0 +1,18 @@
+# c_south_gravesend
+
+# County Title
+title = c_south_gravesend
+
+# Settlements
+max_settlements = 3
+
+b_south_gravesend = castle
+#b_shell_rd = city
+#b_avenue_x = temple
+#b_shore_pkwy_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

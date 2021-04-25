@@ -1,0 +1,30 @@
+#THE BRONX
+technology = {
+	titles = {
+		d_claremont
+		d_concourse
+		d_eastchester
+		d_hunts_point
+		d_kingsbridge
+		d_kingsbridge_heights
+		d_mott_haven
+		d_parkchester
+		d_pelham_bay
+		d_pelham_town
+		d_riverdale
+		d_schuylerville
+		d_soundview
+		d_tremont
+		d_westchester
+	}
+	1800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

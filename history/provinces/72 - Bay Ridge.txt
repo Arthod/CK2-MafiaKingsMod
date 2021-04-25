@@ -1,0 +1,19 @@
+# c_bay_ridge
+
+# County Title
+title = c_bay_ridge
+
+# Settlements
+max_settlements = 4
+
+b_bay_ridge = castle
+b_5th_ave_6 = city
+#b_3rd_ave_4 = temple
+#b_7th_ave_4 = castle
+#b_4th_ave_4 = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

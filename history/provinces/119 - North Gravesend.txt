@@ -1,0 +1,20 @@
+# c_north_gravesend
+
+# County Title
+title = c_north_gravesend
+
+# Settlements
+max_settlements = 5
+
+b_north_gravesend = castle
+#b_mcdonald_ave_4 = city
+#b_gravesend_neck_rd = temple
+#b_avenue_s = castle
+#b_avenue_r = city
+#b_avenue_u_2 = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

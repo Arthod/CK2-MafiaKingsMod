@@ -1,0 +1,41 @@
+#QUEENS
+technology = {
+	titles = {
+		d_auburndale_hills
+		d_bayside
+		d_breezy_point
+		d_downtown_flushing
+		d_elmhurst
+		d_far_rockaway
+		d_forest_hills
+		d_glen_oaks
+		d_hillside
+		d_idlewild
+		d_jamaica
+		d_jamaica_bay
+		d_laurelton
+		d_little_neck
+		d_long_island_city
+		d_maspeth
+		d_ozone_park
+		d_queens_village
+		d_ridgewood
+		d_rockaway_beach
+		d_south_jamaica
+		d_steinway
+		d_sunnyside
+		d_upper_jamaica
+		d_uptown_flushing
+		d_whitestone
+	}
+	1800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

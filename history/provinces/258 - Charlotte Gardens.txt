@@ -1,0 +1,19 @@
+# c_charlotte_gardens
+
+# County Title
+title = c_charlotte_gardens
+
+# Settlements
+max_settlements = 4
+
+b_charlotte_gardens = castle
+b_boston_rd = city
+#b_southern_blvd_3 = temple
+#b_longfellow_ave = castle
+#b_169th_st = city
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

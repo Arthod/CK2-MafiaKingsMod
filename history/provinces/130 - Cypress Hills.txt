@@ -1,0 +1,19 @@
+# c_cypress_hills
+
+# County Title
+title = c_cypress_hills
+
+# Settlements
+max_settlements = 4
+
+b_cypress_hills = castle
+b_fulton_st = city
+#b_logan_st = temple
+#b_jamaica_ave = castle
+#b_ridgewood_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

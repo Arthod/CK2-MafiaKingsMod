@@ -1,0 +1,19 @@
+# c_st_marys_park
+
+# County Title
+title = c_st_marys_park
+
+# Settlements
+max_settlements = 4
+
+b_st_marys_park = castle
+b_brook_ave_2 = city
+#b_st_anns_ave_2 = temple
+#b_willis_ave_2 = castle
+#b_149th_st_3 = city
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

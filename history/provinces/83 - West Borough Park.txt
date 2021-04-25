@@ -1,0 +1,18 @@
+# c_west_borough_park
+
+# County Title
+title = c_west_borough_park
+
+# Settlements
+max_settlements = 3
+
+b_west_borough_park = castle
+b_8th_ave_3 = city
+#b_fort_hamilton_pkwy_3 = temple
+#b_60th_st_2 = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

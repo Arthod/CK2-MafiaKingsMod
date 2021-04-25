@@ -1,0 +1,21 @@
+# c_emerson_hill
+
+# County Title
+title = c_emerson_hill
+
+# Settlements
+max_settlements = 3
+
+b_emerson_hill = castle
+#b_richmond_rd = city
+#b_grimes_hill = temple
+#b_douglas_rd = castle
+#b_emerson_dr = city
+#b_campus_rd = temple
+#b_clove_rd = castle
+
+# Misc
+culture = iron_mine
+religion = upright
+
+#History

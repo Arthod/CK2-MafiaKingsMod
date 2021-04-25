@@ -1,0 +1,19 @@
+# c_prospect_park_south
+
+# County Title
+title = c_prospect_park_south
+
+# Settlements
+max_settlements = 4
+
+b_prospect_park_south = castle
+b_church_ave_2 = city
+#b_parkside_ave = temple
+#b_caton_ave = castle
+#b_ocean_ave_3 = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

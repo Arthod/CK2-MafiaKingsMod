@@ -1,0 +1,19 @@
+# c_west_farms
+
+# County Title
+title = c_west_farms
+
+# Settlements
+max_settlements = 4
+
+b_west_farms = castle
+b_westchester_ave_3 = city
+#b_172nd_st = temple
+#b_173rd_st = castle
+#b_archer_st = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

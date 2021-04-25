@@ -1,0 +1,19 @@
+# c_bayside_hills
+
+# County Title
+title = c_bayside_hills
+
+# Settlements
+max_settlements = 4
+
+b_bayside_hills = castle
+#b_56th_ave = city
+#b_48th_ave_2 = temple
+#b_springfield_blvd_3 = castle
+#b_cloverdale_blvd = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

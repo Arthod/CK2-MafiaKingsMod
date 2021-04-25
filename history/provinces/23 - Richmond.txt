@@ -1,0 +1,18 @@
+# c_richmond
+
+# County Title
+title = c_richmond
+
+# Settlements
+max_settlements = 2
+
+b_richmond = castle
+#b_clarke_ave = city
+#b_lighthouse_hill = temple
+#b_riedel_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

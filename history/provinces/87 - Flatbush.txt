@@ -1,0 +1,20 @@
+# c_flatbush
+
+# County Title
+title = c_flatbush
+
+# Settlements
+max_settlements = 5
+
+b_flatbush = castle
+b_ditmas_ave = city
+#b_coney_island_ave = temple
+#b_glenwood_rd = castle
+#b_ocean_ave_2 = city
+#b_foster_ave = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

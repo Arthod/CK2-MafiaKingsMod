@@ -1,0 +1,17 @@
+# e_queens
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_long_island_city
+}
+1890.1.1={
+	holder=52
+}
+1908.1.1={
+	holder=54
+}
+1912.1.1={
+	holder=55
+}

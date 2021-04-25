@@ -1,0 +1,19 @@
+# c_penn_ave
+
+# County Title
+title = c_penn_ave
+
+# Settlements
+max_settlements = 4
+
+b_penn_ave = castle
+b_alabama_ave = city
+#b_belmont_ave = temple
+#b_dumont_ave = castle
+#b_georgia_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

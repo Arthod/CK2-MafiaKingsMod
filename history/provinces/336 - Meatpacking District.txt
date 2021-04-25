@@ -1,0 +1,21 @@
+# c_meatpacking_district
+
+# County Title
+title = c_meatpacking_district
+
+# Settlements
+max_settlements = 6
+
+b_meatpacking_district = castle
+b_washington_st_3 = city
+b_greenwich_st_2 = temple
+b_gansevoort_st = castle
+b_hudson_st = city
+#b_horatio_st = temple
+#b_jane_st = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

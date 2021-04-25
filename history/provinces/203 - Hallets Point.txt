@@ -1,0 +1,18 @@
+# c_hallets_point
+
+# County Title
+title = c_hallets_point
+
+# Settlements
+max_settlements = 3
+
+b_hallets_point = castle
+b_astoria_blvd_2 = city
+#b_27th_ave = temple
+#b_1st_st = castle
+
+# Misc
+culture = czech
+religion = upright
+
+#History

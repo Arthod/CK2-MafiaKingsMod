@@ -1,0 +1,21 @@
+# c_east_village
+
+# County Title
+title = c_east_village
+
+# Settlements
+max_settlements = 7
+
+b_east_village = castle
+b_e_9th_st = city
+b_e_13th_st = temple
+b_e_14th_st = castle
+b_e_10th_st = city
+b_e_11th_st = temple
+#b_e_12th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

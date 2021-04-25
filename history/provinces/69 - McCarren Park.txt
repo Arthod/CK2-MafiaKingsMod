@@ -1,0 +1,19 @@
+# c_mccarren_park
+
+# County Title
+title = c_mccarren_park
+
+# Settlements
+max_settlements = 4
+
+b_mccarren_park = castle
+b_nassau_ave = city
+#b_manhattan_ave = temple
+#b_driggs_ave = castle
+#b_eckford_st = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_rector_st
+
+# County Title
+title = c_rector_st
+
+# Settlements
+max_settlements = 6
+
+b_rector_st = castle
+b_thames_st = city
+#b_rector_pl = temple
+#b_south_end_ave = castle
+#b_washington_st_2 = city
+#b_3rd_pl = temple
+#b_carlisle_st = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_times_square
+
+# County Title
+title = c_times_square
+
+# Settlements
+max_settlements = 7
+
+b_times_square = castle
+b_w_42nd_st = city
+b_w_50th_st = temple
+b_w_46th_st = castle
+#b_w_48th_st = city
+#b_w_44th_st = temple
+#b_w_47th_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

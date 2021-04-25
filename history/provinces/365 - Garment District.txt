@@ -1,0 +1,21 @@
+# c_garment_district
+
+# County Title
+title = c_garment_district
+
+# Settlements
+max_settlements = 5
+
+b_garment_district = castle
+b_w_34th_st_3 = city
+b_w_42nd_st_2 = temple
+b_w_38th_st_2 = castle
+#b_w_36th_st_2 = city
+#b_w_35th_st = temple
+#b_w_37th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

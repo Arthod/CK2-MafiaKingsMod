@@ -1,0 +1,17 @@
+# c_botanical_garden
+
+# County Title
+title = c_botanical_garden
+
+# Settlements
+max_settlements = 2
+
+b_botanical_garden = castle
+#b_bronx_park_dr = city
+#b_thain_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

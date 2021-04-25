@@ -1,159 +1,465 @@
 province;red;green;blue;x;x
-1;42;72;83;Statue of Liberty Departure;x
-2;126;39;134;Museum of Jewish Heritage;x
-3;0;114;90;Staten Island Ferry;x
-4;0;84;85;New York City Transit;x
-5;42;87;213;Wall Street;x
-6;84;75;211;East Fulton Street;x
-7;126;24;4;West Fulton Street;x
-8;126;78;84;Trinity Church;x
-9;84;90;86;Cortlandt Street;x
-10;168;81;212;City Radio;x
-11;42;165;18;Dey Street;x
-12;42;48;8;Vesey Street;x
-13;84;36;6;Rockfeller Park;x
-14;168;117;147;New York City Police Department;x
-15;84;111;146;Foley Square;x
-16;84;21;131;New York City Hall;x
-17;168;27;132;Chambers Street;x
-18;168;12;2;Worth Street;x
-19;0;15;130;Lafayette Street;x
-20;126;9;129;Franklin Street;x
-21;168;42;7;Warren Street;x
-22;42;33;133;Borough of Manhatten Community College;x
-23;0;30;5;N Moore Street;x
-24;42;108;223;Washington Street;x
-25;168;102;222;Grand Street;x
-26;42;93;143;Mercer Street;x
-27;126;174;29;Howard Street;x
-28;168;87;142;Greene Street;x
-29;168;132;22;Madison Street;x
-30;42;123;148;Division Street;x
-31;42;138;23;Eldridge Street Museum;x
-32;0;120;20;Columbus Park;x
-33;84;171;156;Mott Street;x
-34;126;129;149;Hester Street;x
-35;126;144;24;Steward Park;x
-36;84;126;21;Henry Street;x
-37;84;141;151;Jackson Street;x
-38;0;135;150;Broome Street;x
-39;0;180;30;Baruch Playground;x
-40;0;162;40;New York East River Park Track;x
-41;85;93;198;Consolidated Edison;x
-42;168;147;152;Rivington Street;x
-43;168;192;32;E Housten Street;x
-44;0;150;25;Delancey Street;x
-45;126;195;39;Eldridge Street;x
-46;84;192;166;Chrystie Street;x
-47;84;153;166;East Village;x
-48;84;93;6;North East Village;x
-49;126;156;39;West East Village;x
-50;42;174;163;Canal Park;x
-51;84;123;56;Hudson River Park;x
-52;84;177;36;New York City Fire Museum;x
-53;126;177;199;James Walker Park;x
-54;168;129;57;Cristopher Street;x
-55;42;171;198;Whitney Museum of American Art;x
-56;0;168;70;Greenwich Street;x
-57;84;175;71;Hudson Street;x
-58;126;162;69;Greenwich Ave;x
-59;168;165;197;Jones Street;x
-60;0;171;35;Varick Street;x
-61;168;168;162;Sullivan Street;x
-62;42;186;73;Washington Square Park;x
-63;0;207;175;New York University;x
-64;84;189;201;Mercer Playground;x
-65;84;0;176;Washington Square Village Apt;x
-66;126;3;49;Bond Street;x
-67;126;165;34;Prince Thompson Street;x
-68;168;183;37;Prince Wooster Street;x
-69;0;186;165;Prince Greene Street;x
-70;42;210;48;Astor Place;x
-71;42;93;198;The Copper Union;x
-72;169;3;167;Grand Central Terminal;x
-73;1;24;135;Pennsylvania Station;x
-74;42;156;68;Bryant Park;x
-75;84;160;195;TS Public LIbrary;x
-76;169;195;7;Lexington Street;x
-77;1;150;185;Unnamed Province 77;x
-78;1;177;225;Unnamed Province 78;x
-79;169;143;7;Unnamed Province 79;x
-80;0;183;200;Unnamed Province 80;x
-81;168;180;72;Unnamed Province 81;x
-82;0;135;205;Unnamed Province 82;x
-83;84;111;201;Unnamed Province 83;x
-84;168;87;197;Unnamed Province 84;x
-85;0;90;70;Unnamed Province 85;x
-86;126;117;39;Unnamed Province 86;x
-87;169;60;212;Unnamed Province 87;x
-88;42;165;168;Unnamed Province 88;x
-89;42;138;78;Unnamed Province 89;x
-90;42;150;38;Unnamed Province 90;x
-91;126;90;204;Unnamed Province 91;x
-92;85;99;141;Unnamed Province 92;x
-93;0;207;25;Unnamed Province 93;x
-94;127;102;14;Unnamed Province 94;x
-95;84;0;26;Unnamed Province 95;x
-96;126;48;34;Unnamed Province 96;x
-97;85;39;131;Unnamed Province 97;x
-98;84;198;151;Unnamed Province 98;x
-99;126;105;79;Unnamed Province 99;x
-100;42;99;78;Unnamed Province 100;x
-101;17;40;240;Unnamed Province 101;x
-102;169;120;17;Unnamed Province 102;x
-103;84;45;161;Unnamed Province 103;x
-104;169;105;142;Unnamed Province 104;x
-105;127;117;144;Unnamed Province 105;x
-106;85;114;16;Unnamed Province 106;x
-107;169;21;7;Unnamed Province 107;x
-108;127;189;64;Unnamed Province 108;x
-109;168;195;202;Unamed Province 109;x
-110;168;135;192;Unamed Province 110;x
-111;126;138;49;Unamed Province 111;x
-112;0;198;75;Unamed Province 112;x
-113;1;123;145;Unamed Province 113;x
-114;84;9;226;Unamed Province 114;x
-115;126;147;194;Unamed Province 115;x
-116;168;105;187;Unamed Province 116;x
-117;0;0;205;Unamed Province 117;x
-118;42;24;138;Unamed Province 118;x
-119;42;192;3;Unamed Province 119;x
-120;84;195;131;Unamed Province 120;x
-121;0;3;225;Unamed Province 121;x
-122;0;51;15;Unamed Province 122;x
-123;42;30;168;Unamed Province 123;x
-124;168;144;187;Unamed Province 124;x
-125;85;161;162;Unamed Province 125;x
-126;168;75;182;Unamed Province 126;x
-127;0;30;210;Unamed Province 127;x
-128;168;39;42;Unamed Province 128;x
-129;42;144;158;Unamed Province 129;x
-130;42;150;188;Unamed Province 130;x
-131;126;96;29;Unamed Province 131;x
-132;126;9;79;Unamed Province 132;x
-133;42;3;78;Unamed Province 133;x
-134;42;126;63;Unamed Province 134;x
-135;0;123;190;Unamed Province 135;x
-136;42;45;43;Unamed Province 136;x
-137;126;36;19;Unamed Province 137;x
-138;127;9;139;Unamed Province 138;x
-139;84;6;206;Unamed Province 139;x
-140;1;15;140;Unamed Province 140;x
-141;128;153;189;Unamed Province 141;x
-142;44;147;188;Unamed Province 142;x
-143;169;132;32;Unamed Province 143;x
-144;170;156;62;Unamed Province 144;x
-145;2;144;60;Unamed Province 145;x
-146;44;162;63;Unamed Province 146;x
-147;127;156;94;Unamed Province 147;x
-148;1;33;130;Unamed Province 148;x
-149;43;36;3;Unamed Province 149;x
-150;44;207;198;Unamed Province 150;x
-151;127;42;4;Unamed Province 151;x
-152;44;177;193;Unamed Province 152;x
-153;1;155;130;Unamed Province 153;x
-154;42;129;83;Jersey and Brooklyn;x
-155;168;162;27;South Island;x
-156;0;126;210;Central Park;x
-157;42;177;183;Lake Alaqol;x
-158;74;181;177;East Lake Alaqol;x
+1;81;169;31;St. George;x
+2;44;128;29;West Brighton;x
+3;88;156;10;Castleton Corners;x
+4;62;138;10;Stapleton;x
+5;39;114;10;Emerson Hill;x
+6;49;81;31;Todt Hill;x
+7;65;94;47;Manor Heights;x
+8;159;229;130;Port Richmond;x
+9;159;203;104;Mariners Harbor;x
+10;146;190;65;Graniteville;x
+11;133;208;91;Howland Hook;x
+12;78;216;107;Bloomfield;x
+13;133;242;135;Bulls Head;x
+14;114;247;107;New Springville;x
+15;148;221;148;Chelsea;x
+16;114;198;18;Clifton;x
+17;128;164;36;Fort Wadsworth;x
+18;101;182;36;Concord;x
+19;154;203;16;South Beach;x
+20;88;185;55;Grant City;x
+21;68;211;23;New Dorp;x
+22;83;229;47;Great Kills;x
+23;86;193;10;Richmond;x
+24;112;159;31;Woodrow;x
+25;91;104;44;Fresh Kills;x
+26;68;169;10;Arden Heights;x
+27;130;154;44;Eltingville;x
+28;151;151;52;Rossville;x
+29;75;177;42;Tottenville;x
+30;94;198;60;Huguenot;x
+31;73;221;36;Pleasant Plains;x
+32;114;182;73;Charleston;x
+33;226;24;9;Downtown;x
+34;215;53;2;Boerum Hill;x
+35;207;13;13;Navy Yards;x
+36;240;29;9;Brooklyn Heights;x
+37;209;2;15;D.U.M.B.O.;x
+38;231;51;15;Vinegar Hill;x
+39;250;10;8;Red Hook;x
+40;235;37;4;Carroll Gardens;x
+41;237;66;18;Cobble Hill;x
+42;253;35;48;Gowanus;x
+43;248;51;11;North Park Slope;x
+44;231;42;22;South Park Slope;x
+45;229;57;31;Sunset Park;x
+46;231;75;22;Sunset South;x
+47;209;64;48;Industry City;x
+48;215;48;37;Greenwood Heights;x
+49;235;70;42;Greenwood Waterfront;x
+50;253;31;26;Bedford;x
+51;242;64;59;Fort Greene;x
+52;213;40;64;Clinton Hill;x
+53;252;47;39;Stuyvesant;x
+54;233;20;59;Stuyvesant Heights;x
+55;220;24;11;Crown Heights;x
+56;185;11;18;Prospect Park;x
+57;209;9;9;Prospect Heights;x
+58;203;13;16;Weeksville;x
+59;182;7;22;Wingate;x
+60;224;92;21;Central Bushwick;x
+61;216;68;21;South Bushwick;x
+62;213;86;24;North Bushwick;x
+63;222;112;35;Williamsburg;x
+64;213;156;48;Broadway Triangle;x
+65;226;99;15;East Williamsburg;x
+66;213;101;21;South Side;x
+67;198;119;29;North Side;x
+68;220;156;42;Greenpoint Waterfront;x
+69;193;163;20;McCarren Park;x
+70;231;163;18;North Greenpoint;x
+71;224;148;31;East Greenpoint;x
+72;185;40;29;Bay Ridge;x
+73;200;49;21;Bay Ridge Waterfront;x
+74;193;75;13;Dyker Heights;x
+75;196;66;24;Dyker Beach;x
+76;211;75;13;Fort Hamilton;x
+77;182;36;18;South Bensonhurst;x
+78;156;44;35;East Bensonhurst;x
+79;165;24;29;West Bensonhurst;x
+80;163;35;53;East Bath Beach;x
+81;176;31;40;West Bath Beach;x
+82;180;68;21;South Borough Park;x
+83;169;99;13;West Borough Park;x
+84;165;86;13;North Borough Park;x
+85;160;53;29;East Borough Park;x
+86;167;62;15;Mapleton;x
+87;242;122;10;Flatbush;x
+88;237;123;31;Parkville;x
+89;224;147;13;Kensington;x
+90;213;145;20;Windsor Terrace;x
+91;246;138;9;Prospect Park South;x
+92;239;62;5;East Flatbush;x
+93;253;24;20;South Flatbush;x
+94;207;66;13;Lefferts Gardens;x
+95;211;86;2;Rugby;x
+96;222;92;11;Remsen Village;x
+97;242;26;10;Midwood;x
+98;237;48;11;East Midwood;x
+99;220;68;4;South Midwood;x
+100;218;55;24;Manhattan Terrace;x
+101;176;51;13;Flatlands;x
+102;176;24;44;Georgetown;x
+103;193;84;42;Mill Basin;x
+104;169;59;37;Bergen Beach;x
+105;187;42;26;Mill Island;x
+106;203;60;36;East Canarsie;x
+107;191;48;33;North Canarsie;x
+108;209;42;24;West Canarsie;x
+109;220;42;62;Canarsie Beach;x
+110;202;90;22;Paerdegat Basin;x
+111;147;15;51;Marine Park;x
+112;159;21;36;White Island;x
+113;171;9;53;Barren Island;x
+114;237;202;29;Coney;x
+115;253;134;15;Seagate;x
+116;244;187;44;West Brighton_2;x
+117;250;154;21;Brighton Beach;x
+118;237;167;15;Manhattan Beach;x
+119;242;152;26;North Gravesend;x
+120;215;123;11;South Gravesend;x
+121;245;141;8;West Gravesend;x
+122;253;125;13;Gravesend Waterfront;x
+123;226;114;21;Sheepshead Bay;x
+124;209;119;31;Homecrest;x
+125;226;117;42;Sheepshead Beach;x
+126;218;134;13;Gerritsen Beach;x
+127;207;143;18;Madison;x
+128;234;101;47;East New York;x
+129;222;92;40;Penn Ave;x
+130;198;117;29;Cypress Hills;x
+131;240;114;35;City Line;x
+132;213;106;35;Highland Park;x
+133;242;122;52;East New Lots;x
+134;235;128;70;West New Lots;x
+135;244;138;48;Starrett City;x
+136;251;106;46;Spring Creek;x
+137;250;128;81;Brownsville;x
+138;253;138;66;South Brownsville;x
+139;248;117;90;Broadway Junction;x
+140;237;106;99;Ocean Hill;x
+141;75;31;143;Central Jamaica;x
+142;55;37;132;West Jamaica;x
+143;64;22;136;East Jamaica;x
+144;57;31;138;Hollis;x
+145;68;26;123;St. Albans;x
+146;84;24;132;Jamaica Hills;x
+147;77;11;117;Briarwood;x
+148;79;18;128;Holliswood;x
+149;106;24;97;Central Idlewild;x
+150;123;31;90;West Idlewild;x
+151;92;33;106;East Idlewild;x
+152;90;42;138;East Rochdale;x
+153;97;33;123;West Rochdale;x
+154;81;57;128;Springfield Gardens;x
+155;95;51;136;Brookville;x
+156;99;2;132;Laurelton;x
+157;90;13;138;Cambria Heights;x
+158;101;18;123;Rosedale;x
+159;154;79;187;Ozone Park;x
+160;136;86;174;South Richmond Hill;x
+161;163;84;163;South Ozone Park;x
+162;138;88;171;Lindenwood;x
+163;119;14;173;Richmond Hill;x
+164;101;26;163;Woodhaven;x
+165;121;24;185;Kew Gardens;x
+166;119;59;121;Howard Beach;x
+167;125;73;138;Cross Bay;x
+168;138;73;114;Broad Channel;x
+169;189;66;108;Far Rockaway;x
+170;180;68;141;Bayswater;x
+171;182;22;110;Edgemere;x
+172;182;64;112;Seaside;x
+173;222;68;141;Somerville;x
+174;167;66;156;Arverne;x
+175;198;37;106;Rockaway Park;x
+176;187;51;123;Breezy Point;x
+177;160;79;138;Belle Harbor;x
+178;187;64;134;Neponsit;x
+179;158;40;117;Roxbury;x
+180;101;55;156;Elmhurst;x
+181;103;18;132;LeFrak City;x
+182;114;42;147;Corona;x
+183;90;40;147;North Corona;x
+184;106;22;145;Jackson Heights;x
+185;86;24;125;East Elmhurst;x
+186;77;37;143;Maspeth;x
+187;92;53;160;Mt. Olivet;x
+188;79;51;158;Juniper Valley;x
+189;86;42;154;Middle Village;x
+190;81;48;141;South Ridgewood;x
+191;84;42;141;North Ridgewood;x
+192;81;26;125;Fresh Pond;x
+193;81;35;134;West Glendale;x
+194;86;40;108;East Glendale;x
+195;119;57;158;Forest Hills;x
+196;125;68;154;Forest Hills Gardens;x
+197;112;51;160;Rego Park;x
+198;130;75;176;Hunters Point;x
+199;123;86;165;Long Island City;x
+200;147;13;165;Astoria;x
+201;163;33;171;Astoria Heights;x
+202;134;9;163;Ravenswood;x
+203;163;68;174;Hallets Point;x
+204;136;44;123;Steinway;x
+205;121;22;123;Ditmars;x
+206;130;35;125;East Steinway;x
+207;119;44;136;Sunnyside;x
+208;121;42;149;Sunnyside Gardens;x
+209;114;20;165;Blissville;x
+210;134;31;152;Woodside;x
+211;141;44;156;Mt. Zion;x
+212;92;53;158;Flushing;x
+213;79;33;136;College Point;x
+214;64;42;123;Malba;x
+215;90;51;138;Willets Point;x
+216;79;55;134;Kew Gardens Hills;x
+217;77;62;130;Flushing Meadows;x
+218;86;75;141;Kissena;x
+219;90;59;119;Pomonok;x
+220;119;59;132;Auburndale;x
+221;86;40;101;Hillcrest;x
+222;99;46;119;Utopia;x
+223;90;35;108;Fresh Meadows;x
+224;121;53;121;North Auburndale;x
+225;90;42;125;Whitestone;x
+226;92;59;108;Clearview;x
+227;95;33;134;Beechhurst;x
+228;97;37;117;Murray Hill;x
+229;158;81;189;Bayside;x
+230;169;90;167;Bayside Hills;x
+231;163;68;171;Bay Terrace;x
+232;114;90;154;Little Neck;x
+233;125;59;180;Douglaston;x
+234;110;73;169;South Douglaston;x
+235;121;51;196;Bellaire;x
+236;147;68;185;North Queens Village;x
+237;147;33;180;South Queens Village;x
+238;138;44;174;Oakland Gardens;x
+239;160;79;149;Glen Oaks;x
+240;171;64;160;Floral Park;x
+241;158;79;132;Bellerose;x
+242;207;178;9;Mott Haven;x
+243;218;191;26;Port Morris;x
+244;198;171;2;Melrose;x
+245;196;213;42;St. Marys Park;x
+246;204;189;2;Woodstock;x
+247;200;187;7;Concourse;x
+248;193;202;29;Concourse Village;x
+249;222;176;9;Concourse Waterfront;x
+250;213;196;11;Highbridge;x
+251;242;218;35;Mount Eden;x
+252;235;167;15;Hunts Point;x
+253;237;182;7;South Hunts Point;x
+254;229;209;20;East Hunts Point;x
+255;224;154;22;Longwood;x
+256;226;154;13;Rikers Island;x
+257;235;174;24;Claremont Village;x
+258;237;200;2;Charlotte Gardens;x
+259;226;185;4;Forest Houses;x
+260;215;196;7;Foxhurst;x
+261;213;178;57;Kingsbridge;x
+262;200;165;46;Spuyten Duyvil;x
+263;209;189;64;Norwood;x
+264;215;191;42;Bedford Park;x
+265;207;191;68;Marble Hill;x
+266;187;152;59;Riverdale;x
+267;182;171;46;Fieldston;x
+268;200;160;42;North Riverdale;x
+269;196;147;44;Van Cortland Park;x
+270;187;165;18;Woodlawn;x
+271;213;169;37;West Tremont;x
+272;213;147;31;East Tremont;x
+273;231;174;26;Belmont;x
+274;222;158;35;Bronx Zoo;x
+275;209;147;48;Botanical Garden;x
+276;209;167;46;University Heights;x
+277;222;152;37;South Kingsbridge;x
+278;226;152;24;Morris Heights;x
+279;213;171;37;Mount Hope;x
+280;202;156;73;Fordham;x
+281;158;171;40;Westchester Square;x
+282;171;187;13;Country Club;x
+283;174;154;26;Unionport;x
+284;180;176;18;Middletown;x
+285;196;187;2;Parkchester;x
+286;182;200;11;West Farms;x
+287;182;185;29;Van Nest;x
+288;176;196;9;Morris Park;x
+289;180;196;24;Soundview Park;x
+290;207;202;22;Soundview Village;x
+291;190;190;7;Castle Hill;x
+292;196;165;7;Clason Point;x
+293;198;209;13;Shorehaven;x
+294;207;198;2;East Schuylerville;x
+295;187;180;9;West Schuylerville;x
+296;215;211;4;Edgewater Park;x
+297;189;202;9;Throggs Neck;x
+298;213;191;26;Ferry Point;x
+299;204;215;20;Pelham Bay;x
+300;185;231;24;Pelham Bay Park;x
+301;218;224;9;Co-op City;x
+302;226;248;18;Baychester;x
+303;202;193;33;City Island;x
+304;233;229;29;Pelham Parkway;x
+305;220;211;46;Morris;x
+306;248;248;62;Pelham Gardens;x
+307;215;218;4;Allerton;x
+308;237;237;18;Laconia;x
+309;224;240;0;Eastchester;x
+310;207;218;11;Edenwald;x
+311;229;226;33;Olinville;x
+312;214;212;0;Williamsbridge;x
+313;185;185;4;Wakefield;x
+314;13;83;146;City Hall;x
+315;18;52;141;Fulton St;x
+316;26;96;146;Brooklyn Bridge;x
+317;23;68;128;Catherine Slip;x
+318;5;81;182;Wall St;x
+319;31;109;141;Battery;x
+320;8;78;151;Whitehall St;x
+321;26;55;151;Rector St;x
+322;18;65;164;Cortlandt St;x
+323;36;109;125;Five Points;x
+324;47;78;117;Hester St;x
+325;23;91;120;Soho;x
+326;23;96;143;Kenmare St;x
+327;49;78;146;Mercer St;x
+328;29;86;135;Prince St;x
+329;21;42;151;Chelsea_2;x
+330;36;34;141;Chelsea Waterfront;x
+331;44;75;130;Union Square;x
+332;18;52;143;Flatiron District;x
+333;8;70;174;Tenderloin;x
+334;44;60;174;Hudson Yards;x
+335;18;75;143;West Village;x
+336;31;78;154;Meatpacking District;x
+337;26;49;122;Noho;x
+338;18;52;146;Christopher St;x
+339;29;60;130;Washington Square;x
+340;18;57;154;Chambers St;x
+341;36;31;133;Franklin St;x
+342;13;42;138;Thomas St;x
+343;21;18;125;Radio Row;x
+344;13;34;143;Hudson Square;x
+345;21;52;122;Murray St;x
+346;34;88;138;Central Bowery;x
+347;21;114;143;Manhattan Bridge;x
+348;39;117;125;East Broadway;x
+349;31;104;128;Williamsburg Bridge;x
+350;26;86;128;Allen St;x
+351;18;112;154;Essex St;x
+352;18;99;177;East Village;x
+353;13;81;174;Alphabet City;x
+354;13;122;164;Tompkins Square;x
+355;10;117;185;North Bowery;x
+356;29;88;159;East 4th St;x
+357;36;96;164;Gramercy Park;x
+358;36;81;146;Gas House District;x
+359;31;86;154;Kips Bay;x
+360;49;70;148;Stuyvesant Square;x
+361;26;75;159;Rose Hill;x
+362;16;21;109;Times Square;x
+363;42;3;112;West 59th St;x
+364;5;26;117;Herald Square;x
+365;23;8;78;Garment District;x
+366;8;18;83;Diamond District;x
+367;10;49;112;West 47th St;x
+368;8;8;49;Strikers Lane;x
+369;0;5;65;West 50th St;x
+370;13;16;81;West 34th St;x
+371;5;0;57;West 42nd St;x
+372;16;21;91;Turtle Bay Waterfront;x
+373;3;5;49;Sutton Place;x
+374;13;3;62;East 42nd St;x
+375;10;21;88;East 50th St;x
+376;8;0;75;East 57th St;x
+377;18;8;88;Lower Murray Hill;x
+378;10;16;99;Upper Murray Hill;x
+379;5;3;109;Murray Hill Waterfront;x
+380;8;13;83;Tudor City;x
+381;3;5;73;Greeley Square;x
+382;0;10;114;West 86th St;x
+383;5;3;96;Central Park West;x
+384;8;13;133;West 79th St;x
+385;13;5;135;West 96th St;x
+386;3;16;91;West 72nd St;x
+387;13;18;114;Lincoln Square;x
+388;26;13;156;Columbus Circle;x
+389;16;31;107;Ansonia;x
+390;23;23;130;North Riverside Blvd;x
+391;16;39;135;South Riverside Blvd;x
+392;3;10;91;North Manhattan Valley;x
+393;10;13;101;South Manhattan Valley;x
+394;5;3;104;West 106th St;x
+395;16;13;125;West 100th St;x
+396;16;88;167;Morningside;x
+397;21;70;154;Morningside Park;x
+398;23;44;138;West 125th St;x
+399;16;62;146;Manhattanville;x
+400;62;78;200;East 63rd St;x
+401;49;73;167;East 66th St;x
+402;44;78;219;East 71st St;x
+403;57;65;193;St. Catherine;x
+404;39;55;172;Blackwells Island;x
+405;29;73;195;East End Ave;x
+406;23;57;185;Hoorns Hook;x
+407;31;42;161;East 73rd St;x
+408;55;60;156;East 76th St;x
+409;39;47;177;East 90th St;x
+410;21;91;167;East 86th St;x
+411;31;120;177;East 79th St;x
+412;16;91;156;East 91st St;x
+413;34;109;161;East 96th St;x
+414;60;21;177;Lenox Hill;x
+415;57;29;135;East 70th St;x
+416;29;88;156;East 65th St;x
+417;52;34;146;East 62nd St;x
+418;36;104;114;Great Lawn;x
+419;52;120;154;Sheep Meadow;x
+420;47;112;122;North Meadow;x
+421;10;26;86;West 125th St_2;x
+422;8;10;49;Astor Row;x
+423;10;26;68;Mount Morris Park;x
+424;26;13;78;Central Park North;x
+425;3;18;55;West 121st St;x
+426;42;62;101;East 125th St;x
+427;60;36;104;East 124th St;x
+428;57;39;78;Pleasant Ave;x
+429;49;49;86;East 120th St;x
+430;39;44;104;East 116th St;x
+431;52;57;73;Harlem River Park;x
+432;47;8;112;East 135th St;x
+433;31;21;117;Strivers Row;x
+434;16;23;86;East 145th St;x
+435;34;23;83;East 142nd St;x
+436;44;13;99;East 150th St;x
+437;21;52;78;East 102nd St;x
+438;21;26;55;East 97th St;x
+439;13;34;60;East 106th St;x
+440;34;16;83;East 110th St;x
+441;16;29;83;South Harlem Waterfront;x
+442;8;16;70;Hamilton Heights;x
+443;5;8;55;Sugar Hill;x
+444;0;0;60;Riverbank;x
+445;5;13;88;West 155th St;x
+446;23;26;65;Randalls Island;x
+447;13;47;75;Wards Island;x
+448;8;21;122;Highbridge Park;x
+449;3;29;128;West 160th St;x
+450;16;3;104;East 160th St;x
+451;13;5;112;West 175th St;x
+452;3;26;128;Hudson Heights;x
+453;0;0;99;Fort George;x
+454;16;10;75;Fort George Hill;x
+455;16;3;109;Laurel Hill Terace;x
+456;13;21;143;Dyckman St;x
+457;21;44;161;West 215th St;x
+458;5;36;117;Inwood Hill;x
+459;47;125;159;Pell St;x
+460;62;96;151;Mott St;x
+461;62;107;169;Two Bridges;x
+462;26;104;146;South Bowery;x
+463;60;141;167;Seward Park;x
+464;232;255;255;Water;x

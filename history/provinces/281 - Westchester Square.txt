@@ -1,0 +1,19 @@
+# c_westchester_square
+
+# County Title
+title = c_westchester_square
+
+# Settlements
+max_settlements = 4
+
+b_westchester_square = castle
+b_tremont_ave_5 = city
+#b_zerega_ave = temple
+#b_eastchester_rd = castle
+#b_waters_pl = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

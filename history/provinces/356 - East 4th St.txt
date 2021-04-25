@@ -1,0 +1,21 @@
+# c_east_4th_st
+
+# County Title
+title = c_east_4th_st
+
+# Settlements
+max_settlements = 7
+
+b_east_4th_st = castle
+b_e_houston_st = city
+b_e_2nd_st = temple
+b_e_3rd_st_2 = castle
+b_e_1st_st_2 = city
+b_e_5th_st_2 = temple
+#b_avenue_a_2 = castle
+
+# Misc
+culture = galizianer
+religion = criminal
+
+#History

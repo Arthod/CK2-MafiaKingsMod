@@ -1,0 +1,20 @@
+# c_two_bridges
+
+# County Title
+title = c_two_bridges
+
+# Settlements
+max_settlements = 5
+
+b_two_bridges = castle
+b_cherry_st_2 = city
+b_water_st_6 = temple
+#b_monroe_st = castle
+#b_market_st_3 = city
+#b_madison_st_4 = temple
+
+# Misc
+culture = chinese
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_mount_morris_park
+
+# County Title
+title = c_mount_morris_park
+
+# Settlements
+max_settlements = 5
+
+b_mount_morris_park = castle
+b_w_124th_st = city
+b_w_120th_st_3 = temple
+#b_w_118th_st_2 = castle
+#b_w_119th_st = city
+#b_madison_ave = temple
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

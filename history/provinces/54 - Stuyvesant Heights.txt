@@ -1,0 +1,21 @@
+# c_stuyvesant_heights
+
+# County Title
+title = c_stuyvesant_heights
+
+# Settlements
+max_settlements = 6
+
+b_stuyvesant_heights = castle
+b_gates_ave_2 = city
+#b_halsey_st = temple
+#b_lewis_ave = castle
+#b_putnam_ave = city
+#b_decatur_st = temple
+#b_hancock_st = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

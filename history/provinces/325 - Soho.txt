@@ -1,0 +1,21 @@
+# c_soho
+
+# County Title
+title = c_soho
+
+# Settlements
+max_settlements = 6
+
+b_soho = castle
+b_thompson_st = city
+b_sullivan_st = temple
+#b_wooster_st = castle
+#b_greene_st = city
+#b_w_broadway = temple
+#b_6th_ave_3 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

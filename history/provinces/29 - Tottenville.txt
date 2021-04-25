@@ -1,0 +1,18 @@
+# c_tottenville
+
+# County Title
+title = c_tottenville
+
+# Settlements
+max_settlements = 3
+
+b_tottenville = castle
+#b_page_ave = city
+#b_main_st = temple
+#b_sprague_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

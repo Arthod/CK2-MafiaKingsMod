@@ -1,0 +1,20 @@
+# c_north_manhattan_valley
+
+# County Title
+title = c_north_manhattan_valley
+
+# Settlements
+max_settlements = 5
+
+b_north_manhattan_valley = castle
+b_w_110th_st = city
+b_w_105th_st = temple
+b_w_107th_st = castle
+#b_w_109th_st = city
+#b_w_108th_st = temple
+
+# Misc
+culture = irish
+religion = upright
+
+#History

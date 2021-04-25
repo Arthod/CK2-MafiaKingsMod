@@ -1,0 +1,18 @@
+# c_east_elmhurst
+
+# County Title
+title = c_east_elmhurst
+
+# Settlements
+max_settlements = 3
+
+b_east_elmhurst = castle
+#b_astoria_blvd = city
+#b_23rd_ave = temple
+#b_ditmars_blvd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

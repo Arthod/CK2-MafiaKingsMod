@@ -1,0 +1,18 @@
+# c_briarwood
+
+# County Title
+title = c_briarwood
+
+# Settlements
+max_settlements = 3
+
+b_briarwood = castle
+#b_parsons_blvd = city
+#b_main_st_3 = temple
+#b_150th_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

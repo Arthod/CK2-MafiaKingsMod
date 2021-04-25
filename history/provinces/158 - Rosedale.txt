@@ -1,0 +1,17 @@
+# c_rosedale
+
+# County Title
+title = c_rosedale
+
+# Settlements
+max_settlements = 2
+
+b_rosedale = castle
+#b_147th_ave_3 = city
+#b_huxley_st = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,53 @@
+namespace = MMI
+
+character_event = {
+	id = MMI.1
+	is_triggered_only = yes
+	desc = EVTDESCMMI.1
+	option = {
+		name = EVTOPTAMMI.1
+		effect = {
+			capital_scope = {
+				spawn_disease = murder_investigation
+			}
+		}
+	}
+	option = {
+		name = EVTOPTBMMI.1
+		effect = {
+			wealth = -10
+		}
+	}
+}
+
+character_event = {
+	id = MMI.2
+	is_triggered_only = yes
+	hide_window = yes
+	immediate = {
+	change_diplomacy = 100
+	change_intrigue = 100
+	change_variable = { which = successful_murders value = 1 }
+	}
+}
+
+#On_death: check for murders.
+character_event = {
+	id = MMI.3
+	hide_window = yes
+	trigger = { 
+		OR = { 
+			death_murder_unknown_trigger = yes
+			death_murder_known_trigger = yes
+			death_execution_trigger = yes
+		}
+	}
+	
+	is_triggered_only = yes
+
+	immediate = { 
+		killer = { 
+			successful_murder_effect = yes
+		}
+	}
+}

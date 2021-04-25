@@ -1,0 +1,18 @@
+# c_south_kingsbridge
+
+# County Title
+title = c_south_kingsbridge
+
+# Settlements
+max_settlements = 3
+
+b_south_kingsbridge = castle
+#b_kingsbridge_terrace = city
+#b_reservoir_ave = temple
+#b_heath_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

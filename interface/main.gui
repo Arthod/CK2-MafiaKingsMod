@@ -22,7 +22,7 @@ guiTypes = {
 	iconType = {
 		name ="minimap_pic"
 		spriteType = "GFX_minimap_area"
-		position = { x=-269 y=-199 }
+		position = { x=-259 y=-199 }
 		Orientation = "LOWER_RIGHT"
 	}
 	
@@ -31,7 +31,7 @@ guiTypes = {
     # in the minimap icon
 	positionType = {
 		name = "minimap_size"
-		position = { x=189 y=122 }
+		position = { x=183 y=183 }
 	}
 	
 	# Extensions Begin Position
@@ -61,9 +61,10 @@ guiTypes = {
 		
 		guiButtonType =	{
 			name = "crusade_banner"
-			position = { x= 0 y = 0 }
+			position = { x= 0 y = -1 }
 			quadTextureSprite ="GFX_crusade_banner"	
 			Orientation = "UPPER_LEFT"
+			clicksound = crusade_view_ambience
 		}
 		
 	}
@@ -795,8 +796,8 @@ guiTypes = {
 		windowType = {
 			name = "minimap"
 			backGround =""
-			position = { x=-300 y=-249 }	
-			size = { x=198 y=122 }
+			position = { x=-280 y=-248 }	
+			size = { x=256 y=125 }
 			moveable = 0
 			dontRender = ""
 			horizontalBorder = ""
@@ -807,20 +808,20 @@ guiTypes = {
 			iconType = {
 				name ="minimap_bg"
 				spriteType = "GFX_minimap_bg"
-				position = { x=0 y=7 }
+				position = { x=0 y=8 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 			iconType = {
 				name = "minimap_bg_big"
 				spriteType = "GFX_minimap_bg_big"
-				position = { x=0 y=-61 }
+				position = { x=0 y=-60 }
 				Orientation = "UPPER_LEFT"
 			}
 			iconType = {
 				name ="minimap_area_bg"
 				spriteType = "GFX_minimap_area_bg"
-				position = { x=0 y=17 }
+				position = { x=9 y=17 }
 			}
 			
 			listboxType = {
@@ -839,7 +840,7 @@ guiTypes = {
 			{
 				name = "mapmodes"
 				backGround =""
-				position = { x=17 y=-23 }	
+				position = { x=15 y=-22 }	
 				size = { x=256 y=125 }
 				moveable = 0
 				dontRender = ""
@@ -1054,7 +1055,7 @@ guiTypes = {
 			guiButtonType = 
 			{
 				name = "toggle_mapmodes"
-				position = { x = 47 y = -114 }
+				position = { x = -7 y = -114 }
 				quadTextureSprite ="GFX_minimap_toggle_mapmodes"
 				Orientation = "LOWER_RIGHT"
 				pdx_tooltip = "SHOW_MAPMODES_TOGGLE"

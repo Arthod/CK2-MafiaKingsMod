@@ -1,0 +1,18 @@
+# c_steinway
+
+# County Title
+title = c_steinway
+
+# Settlements
+max_settlements = 3
+
+b_steinway = castle
+b_hazen_st = city
+#b_steinway_st_2 = temple
+#b_ditmars_blvd_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

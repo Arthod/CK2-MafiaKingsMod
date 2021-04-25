@@ -1,0 +1,20 @@
+# c_west_72nd_st
+
+# County Title
+title = c_west_72nd_st
+
+# Settlements
+max_settlements = 5
+
+b_west_72nd_st = castle
+b_w_75th_st = city
+b_w_78th_st = temple
+#b_w_74th_st = castle
+#b_w_76th_st = city
+#b_w_77th_st_2 = temple
+
+# Misc
+culture = irish
+religion = upright
+
+#History

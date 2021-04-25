@@ -1,0 +1,19 @@
+# c_mount_eden
+
+# County Title
+title = c_mount_eden
+
+# Settlements
+max_settlements = 4
+
+b_mount_eden = castle
+#b_170th_st = city
+#b_townsend_ave = temple
+#b_jesup_ave = castle
+#b_jerome_ave_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

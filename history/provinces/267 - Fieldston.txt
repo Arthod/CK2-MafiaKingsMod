@@ -1,0 +1,19 @@
+# c_fieldston
+
+# County Title
+title = c_fieldston
+
+# Settlements
+max_settlements = 4
+
+b_fieldston = castle
+#b_fieldston_rd = city
+#b_delafield_ave = temple
+#b_grosvenor_ave = castle
+#b_waldo_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

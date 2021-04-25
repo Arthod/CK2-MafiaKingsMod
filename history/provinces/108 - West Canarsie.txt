@@ -1,0 +1,19 @@
+# c_west_canarsie
+
+# County Title
+title = c_west_canarsie
+
+# Settlements
+max_settlements = 4
+
+b_west_canarsie = castle
+#b_flatlands_ave_2 = city
+#b_foster_ave_4 = temple
+#b_farragut_rd_3 = castle
+#b_glenwood_rd_3 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

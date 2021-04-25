@@ -1,0 +1,21 @@
+# c_flatiron_district
+
+# County Title
+title = c_flatiron_district
+
+# Settlements
+max_settlements = 5
+
+b_flatiron_district = castle
+b_w_23rd_st_3 = city
+b_w_22nd_st_3 = temple
+b_w_25th_st = castle
+#b_w_21st_st_3 = city
+#b_w_24th_st = temple
+#b_broadway_11 = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

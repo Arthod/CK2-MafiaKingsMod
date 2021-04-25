@@ -1,0 +1,17 @@
+# c_dyker_beach
+
+# County Title
+title = c_dyker_beach
+
+# Settlements
+max_settlements = 2
+
+b_dyker_beach = castle
+#b_sterling_dr = city
+#b_poly_pl = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

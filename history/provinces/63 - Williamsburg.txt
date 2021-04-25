@@ -1,0 +1,21 @@
+# c_williamsburg
+
+# County Title
+title = c_williamsburg
+
+# Settlements
+max_settlements = 7
+
+b_williamsburg = castle
+b_puerto_rico_ave = city
+b_grand_st = temple
+#b_montrose_ave = castle
+#b_bushwick_ave_3 = city
+#b_metropolitan_ave = temple
+#b_leonard_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

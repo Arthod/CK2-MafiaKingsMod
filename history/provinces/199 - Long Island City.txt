@@ -1,0 +1,20 @@
+# c_long_island_city
+
+# County Title
+title = c_long_island_city
+
+# Settlements
+max_settlements = 5
+
+b_long_island_city = castle
+b_jackson_ave = city
+b_skillman_ave = temple
+#b_11th_st = castle
+#b_49th_ave = city
+#b_44th_dr = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_west_glendale
+
+# County Title
+title = c_west_glendale
+
+# Settlements
+max_settlements = 4
+
+b_west_glendale = castle
+b_cypress_hills_st = city
+#b_cooper_ave_2 = temple
+#b_myrtle_ave_6 = castle
+#b_central_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

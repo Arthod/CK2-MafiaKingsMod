@@ -1,0 +1,21 @@
+# c_west_brighton
+
+# County Title
+title = c_west_brighton
+
+# Settlements
+max_settlements = 3
+
+b_west_brighton = castle
+#b_castleton_ave = city
+#b_henderson_ave = temple
+#b_bard_ave = castle
+#b_forest_ave = city
+#b_lafayette_ave = temple
+#b_bement_ave = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

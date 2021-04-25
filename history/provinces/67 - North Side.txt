@@ -1,0 +1,21 @@
+# c_north_side
+
+# County Title
+title = c_north_side
+
+# Settlements
+max_settlements = 6
+
+b_north_side = castle
+b_berry_st = city
+b_bedford_ave_3 = temple
+#b_wythe_ave = castle
+#b_n_7th_st = city
+#b_n_3rd_st = temple
+#b_n_6th_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

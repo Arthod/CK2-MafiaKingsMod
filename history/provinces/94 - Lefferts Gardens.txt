@@ -1,0 +1,19 @@
+# c_lefferts_gardens
+
+# County Title
+title = c_lefferts_gardens
+
+# Settlements
+max_settlements = 4
+
+b_lefferts_gardens = castle
+b_empire_blvd = city
+#b_clarkson_ave = temple
+#b_flatbush_ave_2 = castle
+#b_nostrand_ave_3 = city
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_tenderloin
+
+# County Title
+title = c_tenderloin
+
+# Settlements
+max_settlements = 5
+
+b_tenderloin = castle
+b_w_32nd_st = city
+b_w_28th_st = temple
+b_w_26th_st = castle
+#b_w_30th_st = city
+#b_w_27th_st = temple
+#b_w_29th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

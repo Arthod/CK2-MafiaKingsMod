@@ -1,0 +1,21 @@
+# c_brooklyn_heights
+
+# County Title
+title = c_brooklyn_heights
+
+# Settlements
+max_settlements = 7
+
+b_brooklyn_heights = castle
+b_cadman_plaza_w = city
+#b_joralemon_st = temple
+#b_hicks_st = castle
+#b_remsen_st = city
+#b_clark_st = temple
+#b_cranberry_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

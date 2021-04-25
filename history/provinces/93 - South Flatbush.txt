@@ -1,0 +1,20 @@
+# c_south_flatbush
+
+# County Title
+title = c_south_flatbush
+
+# Settlements
+max_settlements = 5
+
+b_south_flatbush = castle
+b_clarendon_rd = city
+#b_foster_ave_3 = temple
+#b_farragut_rd = castle
+#b_avenue_d = city
+#b_utica_ave_2 = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

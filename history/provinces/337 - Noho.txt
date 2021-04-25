@@ -1,0 +1,21 @@
+# c_noho
+
+# County Title
+title = c_noho
+
+# Settlements
+max_settlements = 6
+
+b_noho = castle
+b_broadway_12 = city
+b_lafayette_st_3 = temple
+#b_bleecker_st_3 = castle
+#b_w_3rd_st = city
+#b_w_4th_st = temple
+#b_bowery_3 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_sunset_south
+
+# County Title
+title = c_sunset_south
+
+# Settlements
+max_settlements = 4
+
+b_sunset_south = castle
+b_58th_st = city
+#b_54th_st = temple
+#b_56th_st = castle
+#b_5th_ave_4 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

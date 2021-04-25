@@ -1,0 +1,21 @@
+# c_city_hall
+
+# County Title
+title = c_city_hall
+
+# Settlements
+max_settlements = 5
+
+b_city_hall = castle
+b_park_row = city
+b_broadway_8 = temple
+#b_chambers_st = castle
+#b_park_pl_2 = city
+#b_warren_st_2 = temple
+#b_murray_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

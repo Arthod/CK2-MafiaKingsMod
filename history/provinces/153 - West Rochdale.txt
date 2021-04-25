@@ -1,0 +1,19 @@
+# c_west_rochdale
+
+# County Title
+title = c_west_rochdale
+
+# Settlements
+max_settlements = 4
+
+b_west_rochdale = castle
+#b_sutphin_blvd_2 = city
+#b_foch_blvd = temple
+#b_linden_blvd_4 = castle
+#b_rockaway_blvd_3 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

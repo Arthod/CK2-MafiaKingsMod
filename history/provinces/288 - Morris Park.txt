@@ -1,0 +1,18 @@
+# c_morris_park
+
+# County Title
+title = c_morris_park
+
+# Settlements
+max_settlements = 3
+
+b_morris_park = castle
+#b_bronxdale_ave = city
+#b_rhinelander_ave = temple
+#b_van_nest_ave_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

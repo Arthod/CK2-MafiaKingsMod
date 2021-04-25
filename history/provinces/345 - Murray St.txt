@@ -1,0 +1,21 @@
+# c_murray_st
+
+# County Title
+title = c_murray_st
+
+# Settlements
+max_settlements = 5
+
+b_murray_st_2 = castle
+b_chambers_st_4 = city
+b_river_terrace = temple
+#b_warren_st_3 = castle
+#b_north_end_ave = city
+#b_greenwich_st_3 = temple
+#b_barclay_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

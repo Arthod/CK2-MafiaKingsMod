@@ -1,0 +1,18 @@
+# c_woodstock
+
+# County Title
+title = c_woodstock
+
+# Settlements
+max_settlements = 3
+
+b_woodstock = castle
+#b_bruckner_expy = city
+#b_wales_ave = temple
+#b_southern_blvd = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

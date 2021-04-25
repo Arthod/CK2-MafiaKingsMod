@@ -1,0 +1,17 @@
+# c_eltingville
+
+# County Title
+title = c_eltingville
+
+# Settlements
+max_settlements = 2
+
+b_eltingville = castle
+#b_shirley_ave = city
+#b_ridgecrest_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

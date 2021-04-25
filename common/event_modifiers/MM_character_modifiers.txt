@@ -1,0 +1,13 @@
+complicated_management = {
+	stewardship_penalty = -4
+	years = 1
+	icon = 22
+}
+infamy_policy_0 = {
+	duration = -1
+	
+}
+infamy_policy_1 = {
+	duration = -1
+	
+}

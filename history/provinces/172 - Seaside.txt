@@ -1,0 +1,18 @@
+# c_seaside
+
+# County Title
+title = c_seaside
+
+# Settlements
+max_settlements = 3
+
+b_seaside = castle
+b_shore_front_pkwy = city
+#b_cross_bay_pkwy = temple
+#b_rockaway_beach_blvd_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

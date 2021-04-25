@@ -1,0 +1,19 @@
+# c_highland_park
+
+# County Title
+title = c_highland_park
+
+# Settlements
+max_settlements = 4
+
+b_highland_park = castle
+b_atlantic_ave_2 = city
+#b_arlington_ave = temple
+#b_van_siclen_ave = castle
+#b_cleveland_st = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

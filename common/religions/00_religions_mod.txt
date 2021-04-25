@@ -1,0 +1,105 @@
+illegal_group = {
+	color = { 0.40 0.05 0.05 }
+	graphical_culture = westerngfx
+	has_coa_on_barony_only = yes
+	hostile_within_group = no
+	playable = yes
+	ai_peaceful = yes
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+	
+	criminal = {
+		graphical_culture = westerngfx
+		
+		icon = 1
+		color = { 0.40 0.05 0.05 }
+		
+		scripture_name = THE_CODE
+		god_names = { THE_COMMISSION }
+		high_god_name = GOD_GOD
+		evil_god_names = { THE_FEDS THE_COPS }
+		piety_name = NOTORIETY
+		priest_title = COMMUNITY_MANAGER
+		can_grant_divorce = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		allow_looting = yes
+		female_temple_holders = yes
+		aggression = 1.5
+		autocephaly = yes
+		has_heir_designation = yes
+		defensive_attrition = yes
+		uses_decadence = yes
+		pentarchy = yes
+		peace_piety_gain = -1.0
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
+			
+			garrison_size = 0.6
+		}
+		character_modifier = {
+			intrigue = 2
+		}
+	}
+}
+
+legal_group = {
+	color = { 0.90 0.90 0.35 }
+	graphical_culture = westerngfx
+	has_coa_on_barony_only = yes
+	hostile_within_group = no
+	playable = yes
+	ai_peaceful = yes
+	ai_fabricate_claims = no
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+	
+	upright = {
+		graphical_culture = westerngfx
+		
+		icon = 2
+		color = { 0.90 0.90 0.35 }
+		
+		scripture_name = THE_LAW
+		god_names = { THE_COURT THE_MAYOR THE_PRESIDENT }
+		high_god_name = GOD_GOD
+		evil_god_names = { THE_GANGS }
+		piety_name = NOTORIETY
+		priest_title = COMMUNITY_MANAGER
+		can_grant_divorce = yes
+		priests_can_marry = yes
+		priests_can_inherit = yes
+		female_temple_holders = yes
+		aggression = 1.0
+		autocephaly = yes
+		has_heir_designation = yes
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
+			
+			garrison_size = 0.6
+		}
+		character_modifier = {
+		}
+	}
+}
+

@@ -1,0 +1,18 @@
+# c_sunnyside_gardens
+
+# County Title
+title = c_sunnyside_gardens
+
+# Settlements
+max_settlements = 3
+
+b_sunnyside_gardens = castle
+#b_skillman_ave_2 = city
+#b_43rd_ave = temple
+#b_queens_blvd_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

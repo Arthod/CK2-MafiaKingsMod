@@ -1,0 +1,21 @@
+# c_pell_st
+
+# County Title
+title = c_pell_st
+
+# Settlements
+max_settlements = 7
+
+b_pell_st = castle
+b_doyers_st = city
+b_elizabeth_st_2 = temple
+b_division_st_2 = castle
+b_bayard_st = city
+#b_forsyth_st_2 = temple
+#b_eldridge_st = castle
+
+# Misc
+culture = chinese
+religion = upright
+
+#History

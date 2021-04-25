@@ -1,0 +1,21 @@
+# c_west_125th_st
+
+# County Title
+title = c_west_125th_st
+
+# Settlements
+max_settlements = 6
+
+b_west_125th_st = castle
+b_w_123rd_st_2 = city
+b_la_salle_st = temple
+b_tiemann_pl = castle
+#b_claremont_ave = city
+#b_riverside_dr = temple
+#b_broadway_14 = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

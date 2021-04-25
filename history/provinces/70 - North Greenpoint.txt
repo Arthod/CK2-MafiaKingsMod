@@ -1,0 +1,19 @@
+# c_north_greenpoint
+
+# County Title
+title = c_north_greenpoint
+
+# Settlements
+max_settlements = 4
+
+b_north_greenpoint = castle
+b_provost_st = city
+#b_kingsland_ave = temple
+#b_paidge_ave = castle
+#b_henry_st = city
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

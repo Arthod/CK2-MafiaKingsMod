@@ -1,0 +1,18 @@
+# c_foxhurst
+
+# County Title
+title = c_foxhurst
+
+# Settlements
+max_settlements = 3
+
+b_foxhurst = castle
+b_southern_blvd_4 = city
+#b_whitlock_ave = temple
+#b_westchester_ave = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_port_morris
+
+# County Title
+title = c_port_morris
+
+# Settlements
+max_settlements = 5
+
+b_port_morris = castle
+b_st_anns_ave = city
+b_138th_st_2 = temple
+#b_brook_ave = castle
+#b_locust_ave = city
+#b_bruckner_blvd_2 = temple
+
+# Misc
+culture = port
+religion = criminal
+
+#History

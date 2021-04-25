@@ -1,0 +1,20 @@
+# c_west_96th_st
+
+# County Title
+title = c_west_96th_st
+
+# Settlements
+max_settlements = 5
+
+b_west_96th_st = castle
+b_w_97th_st = city
+b_w_93rd_st = temple
+b_w_95th_st = castle
+#b_w_94th_st = city
+#b_columbus_ave = temple
+
+# Misc
+culture = irish
+religion = upright
+
+#History

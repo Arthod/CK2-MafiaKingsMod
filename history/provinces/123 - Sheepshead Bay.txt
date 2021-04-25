@@ -1,0 +1,19 @@
+# c_sheepshead_bay
+
+# County Title
+title = c_sheepshead_bay
+
+# Settlements
+max_settlements = 4
+
+b_sheepshead_bay = castle
+#b_sheepshead_bay_rd = city
+#b_avenue_y_2 = temple
+#b_avenue_z = castle
+#b_avenue_x_2 = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

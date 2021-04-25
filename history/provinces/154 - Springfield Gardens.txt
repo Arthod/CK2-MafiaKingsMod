@@ -1,0 +1,18 @@
+# c_springfield_gardens
+
+# County Title
+title = c_springfield_gardens
+
+# Settlements
+max_settlements = 3
+
+b_springfield_gardens = castle
+#b_springfield_blvd = city
+#b_rockaway_blvd_4 = temple
+#b_147th_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

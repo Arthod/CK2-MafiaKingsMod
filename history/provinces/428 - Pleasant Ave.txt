@@ -1,0 +1,21 @@
+# c_pleasant_ave
+
+# County Title
+title = c_pleasant_ave
+
+# Settlements
+max_settlements = 7
+
+b_pleasant_ave = castle
+b_e_116th_st = city
+b_e_120th_st = temple
+b_e_111th_st = castle
+b_e_115th_st = city
+#b_e_118th_st = temple
+#b_e_119th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

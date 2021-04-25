@@ -1,0 +1,21 @@
+# c_west_34th_st
+
+# County Title
+title = c_west_34th_st
+
+# Settlements
+max_settlements = 6
+
+b_west_34th_st = castle
+b_w_39th_st_2 = city
+b_w_36th_st_3 = temple
+b_w_37th_st_2 = castle
+#b_w_35th_st_2 = city
+#b_w_38th_st_3 = temple
+#b_hudson_blvd = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

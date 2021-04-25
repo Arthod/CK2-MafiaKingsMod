@@ -1,0 +1,19 @@
+# c_south_bushwick
+
+# County Title
+title = c_south_bushwick
+
+# Settlements
+max_settlements = 4
+
+b_south_bushwick = castle
+b_cooper_st = city
+#b_halsey_st_3 = temple
+#b_bushwick_ave_2 = castle
+#b_evergreen_ave_2 = city
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

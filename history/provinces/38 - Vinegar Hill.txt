@@ -1,0 +1,19 @@
+# c_vinegar_hill
+
+# County Title
+title = c_vinegar_hill
+
+# Settlements
+max_settlements = 4
+
+b_vinegar_hill = castle
+b_water_st_2 = city
+#b_john_st = temple
+#b_hudson_ave = castle
+#b_bridge_st = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

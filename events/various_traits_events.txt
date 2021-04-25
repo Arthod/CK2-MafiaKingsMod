@@ -334,9 +334,6 @@ character_event = {
 	is_triggered_only = yes
 	
 	trigger = {
-		NOT = {	religion_group = muslim	}
-		NOT = {	religion = buddhist	}
-		NOT = {	religion = jain	}
 		trait = stressed
 		learning = 2
 		NOT = {
@@ -886,7 +883,6 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
 	
 	is_triggered_only = yes
 	
@@ -937,7 +933,6 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
 	
 	is_triggered_only = yes
 	
@@ -995,7 +990,6 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
 	
 	is_triggered_only = yes
 	
@@ -1057,7 +1051,6 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
 	
 	is_triggered_only = yes
 	
@@ -1092,7 +1085,6 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
 	
 	is_triggered_only = yes
 	
@@ -1136,7 +1128,6 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
 	
 	is_triggered_only = yes
 	
@@ -1209,7 +1200,6 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
 	
 	is_triggered_only = yes
 	
@@ -1269,9 +1259,6 @@ character_event = {
 	option = {
 		name = EVTOPTB65036 #Thank the Lord in private
 		trigger = {
-			NOT = {
-				religion_group = muslim
-			}
 		}
 		piety = 1
 		add_trait = humble
@@ -1279,7 +1266,6 @@ character_event = {
 	option = {
 		name = EVTOPTC65036 #Thank Allah in private
 		trigger = {
-			religion_group = muslim
 		}
 		piety = 1
 		add_trait = humble
@@ -1294,7 +1280,7 @@ character_event = {
 	
 	min_age = 16
 	prisoner = no
-	religion_group = christian
+
 	
 	is_triggered_only = yes
 	
@@ -1396,7 +1382,6 @@ character_event = {
 	min_age = 16
 	capable_only = yes
 	prisoner = no
-	religion_group = christian
 	war = no
 	
 	is_triggered_only = yes
@@ -1458,7 +1443,7 @@ character_event = {
 	min_age = 16
 	capable_only = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	is_triggered_only = yes
 
@@ -1503,7 +1488,7 @@ character_event = {
 	min_age = 16
 	capable_only = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	is_triggered_only = yes
 
@@ -1533,7 +1518,7 @@ character_event = {
 	capable_only = yes
 	only_rulers = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	is_triggered_only = yes
 
@@ -1614,7 +1599,7 @@ character_event = {
 	
 	capable_only = yes
 	prisoner = no
-	religion_group = christian
+
 	is_married = yes
 	
 	is_triggered_only = yes
@@ -1824,8 +1809,6 @@ character_event = {
 	option = {
 		name = EVTOPTC65049	#God cures me!
 		trigger = {
-			NOT = { religion = buddhist }
-			NOT = { religion = jain }
 		}
 		piety = 5
 		change_learning = 1
@@ -1873,9 +1856,6 @@ character_event = {
 	option = {
 		name = EVTOPTB65050	#ask priests for advice.
 		trigger = {
-			NOT = {	religion_group = muslim	}
-			NOT = {	religion = buddhist }
-			NOT = {	religion = jain }
 		}
 		piety = 5
 		health = -0.5
@@ -1884,7 +1864,6 @@ character_event = {
 	option = {
 		name = EVTOPTC65050	#ask Imam for advice.
 		trigger = {
-			religion_group = muslim
 		}
 		piety = 5
 		health = -0.5
@@ -1972,7 +1951,7 @@ character_event = {
 	min_age = 50
 	capable_only = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	is_triggered_only = yes
 
@@ -2047,7 +2026,7 @@ character_event = {
 	max_age = 16
 	capable_only = yes
 	prisoner = no
-	religion_group = christian
+
 	
 	is_triggered_only = yes
 
@@ -2055,7 +2034,7 @@ character_event = {
 		is_ill = yes
 		has_guardian = yes
 		guardian = {
-			religion_group = christian
+		
 		}
 	}
 	
@@ -4751,9 +4730,6 @@ character_event = {
 	option = {
 		name = EVTOPTA65155 #No more food.
 		trigger = {
-			NOT = { religion_group = muslim }
-			NOT = { religion_group = jewish_group }
-			NOT = { has_ambition = obj_buddhist_temperance_food }
 		}
 		random_list = {
 			55 = {
@@ -4795,10 +4771,6 @@ character_event = {
 	option = {
 		name = EVTOPTC65155 #No more food - Muslim or Jew
 		trigger = {
-			OR = {
-				religion_group = muslim
-				religion_group = jewish_group
-			}
 		}
 		random_list = {
 			55 = {
@@ -4873,7 +4845,6 @@ character_event = {
 	capable_only = yes
 	only_rulers = yes
 	prisoner = no
-	religion_group = muslim
 	
 	is_triggered_only = yes
 
@@ -4910,7 +4881,6 @@ character_event = {
 	capable_only = yes
 	only_rulers = yes
 	prisoner = no
-	religion_group = muslim
 	
 	is_triggered_only = yes
 	

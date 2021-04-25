@@ -1,0 +1,19 @@
+# c_kew_gardens_hills
+
+# County Title
+title = c_kew_gardens_hills
+
+# Settlements
+max_settlements = 4
+
+b_kew_gardens_hills = castle
+#b_jewel_ave = city
+#b_union_tpke = temple
+#b_main_st_5 = castle
+#b_150th_st_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

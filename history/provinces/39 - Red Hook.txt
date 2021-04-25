@@ -1,0 +1,21 @@
+# c_red_hook
+
+# County Title
+title = c_red_hook
+
+# Settlements
+max_settlements = 6
+
+b_red_hook = castle
+b_columbia_st = city
+#b_dwight_st = temple
+#b_bay_st = castle
+#b_richards_st = city
+#b_ferris_st = temple
+#b_lorraine_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_stapleton
+
+# County Title
+title = c_stapleton
+
+# Settlements
+max_settlements = 4
+
+b_stapleton = castle
+b_st_pauls_ave = city
+#b_van_duzer_st = temple
+#b_cebra_ave = castle
+#b_silver_lake = city
+#b_swan_st = temple
+#b_murray_hulbert_ave = castle
+
+# Misc
+culture = naval_base
+religion = upright
+
+#History

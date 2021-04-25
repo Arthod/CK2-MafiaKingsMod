@@ -1,0 +1,19 @@
+# c_south_ridgewood
+
+# County Title
+title = c_south_ridgewood
+
+# Settlements
+max_settlements = 4
+
+b_south_ridgewood = castle
+b_cypress_ave = city
+#b_myrtle_ave_5 = temple
+#b_wyckoff_ave = castle
+#b_cooper_ave = city
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

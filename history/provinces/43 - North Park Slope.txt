@@ -1,0 +1,21 @@
+# c_north_park_slope
+
+# County Title
+title = c_north_park_slope
+
+# Settlements
+max_settlements = 6
+
+b_north_park_slope = castle
+b_7th_ave = city
+b_5th_ave = temple
+#b_6th_ave = castle
+#b_8th_ave = city
+#b_9th_st = temple
+#b_union_st_2 = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

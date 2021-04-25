@@ -1,0 +1,19 @@
+# c_south_hunts_point
+
+# County Title
+title = c_south_hunts_point
+
+# Settlements
+max_settlements = 4
+
+b_south_hunts_point = castle
+#b_oak_point_ave = city
+#b_randall_ave = temple
+#b_tiffany_st = castle
+#b_bryant_ave = city
+
+# Misc
+culture = yankee
+religion = criminal
+
+#History

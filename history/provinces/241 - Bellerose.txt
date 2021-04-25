@@ -1,0 +1,18 @@
+# c_bellerose
+
+# County Title
+title = c_bellerose
+
+# Settlements
+max_settlements = 3
+
+b_bellerose = castle
+#b_jamaica_ave_4 = city
+#b_williston_ave = temple
+#b_86th_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

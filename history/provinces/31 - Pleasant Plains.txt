@@ -1,0 +1,16 @@
+# c_pleasant_plains
+
+# County Title
+title = c_pleasant_plains
+
+# Settlements
+max_settlements = 1
+
+b_pleasant_plains = castle
+#b_cunningham_rd = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

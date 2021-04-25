@@ -1,0 +1,18 @@
+# c_allerton
+
+# County Title
+title = c_allerton
+
+# Settlements
+max_settlements = 3
+
+b_allerton = castle
+#b_pelham_pkwy = city
+#b_waring_ave_2 = temple
+#b_bronx_park_e_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

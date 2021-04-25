@@ -1,0 +1,21 @@
+# c_graniteville
+
+# County Title
+title = c_graniteville
+
+# Settlements
+max_settlements = 3
+
+b_graniteville = castle
+#b_richmond_ave = city
+#b_watchogue_rd = temple
+#b_westerleigh = castle
+#b_forest_ave_2 = city
+#b_ada_dr = temple
+#b_wilcox_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

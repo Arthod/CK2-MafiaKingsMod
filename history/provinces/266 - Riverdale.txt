@@ -1,0 +1,18 @@
+# c_riverdale
+
+# County Title
+title = c_riverdale
+
+# Settlements
+max_settlements = 3
+
+b_riverdale = castle
+#b_palisade_ave = city
+#b_delafield_way = temple
+#b_independence_ave_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

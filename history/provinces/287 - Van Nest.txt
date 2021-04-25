@@ -1,0 +1,18 @@
+# c_van_nest
+
+# County Title
+title = c_van_nest
+
+# Settlements
+max_settlements = 3
+
+b_van_nest = castle
+#b_morris_park_ave = city
+#b_van_nest_ave = temple
+#b_taylor_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

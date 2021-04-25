@@ -1,0 +1,20 @@
+# c_clinton_hill
+
+# County Title
+title = c_clinton_hill
+
+# Settlements
+max_settlements = 5
+
+b_clinton_hill = castle
+b_vanderbilt_ave_2 = city
+#b_washington_ave = temple
+#b_waverly_ave = castle
+#b_clermont_ave = city
+#b_clinton_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

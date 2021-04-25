@@ -1,0 +1,18 @@
+# c_little_neck
+
+# County Title
+title = c_little_neck
+
+# Settlements
+max_settlements = 3
+
+b_little_neck = castle
+#b_center_dr = city
+#b_shore_rd_2 = temple
+#b_douglas_rd_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_bayside
+
+# County Title
+title = c_bayside
+
+# Settlements
+max_settlements = 4
+
+b_bayside_2 = castle
+#b_bell_blvd = city
+#b_35th_ave = temple
+#b_39th_ave_2 = castle
+#b_kennedy_st = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_north_queens_village
+
+# County Title
+title = c_north_queens_village
+
+# Settlements
+max_settlements = 4
+
+b_north_queens_village = castle
+#b_93rd_ave = city
+#b_springfield_blvd_4 = temple
+#b_222nd_st = castle
+#b_hollis_blvd_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,3 @@
+successful_murder_effect = {
+	change_variable = { which = murder_count value = 1 }
+}

@@ -1,0 +1,18 @@
+# c_beechhurst
+
+# County Title
+title = c_beechhurst
+
+# Settlements
+max_settlements = 3
+
+b_beechhurst = castle
+#b_cryders_ln = city
+#b_totten_st = temple
+#b_powells_cove_blvd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

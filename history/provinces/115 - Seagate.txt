@@ -1,0 +1,18 @@
+# c_seagate
+
+# County Title
+title = c_seagate
+
+# Settlements
+max_settlements = 3
+
+b_seagate = castle
+#b_neptune_ave = city
+#b_bayview_ave = temple
+#b_atlantic_ave = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

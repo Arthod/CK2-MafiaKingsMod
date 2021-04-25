@@ -1,0 +1,29 @@
+murder_investigation = { # Murder Investigation
+	contagiousness = 0.50
+	outbreak_chance = 0.00
+	effect = {
+		local_tax_modifier = -0.40
+		disease_defence = 0.2
+		levy_size = -0.4
+	}
+	icon = 3
+	tooltip = MURDER_INVESTIGATION_INFO
+	months = 18
+	trait = murder_suspect
+	always_get_message = no
+	color = { 60 0 0 }
+	timeperiod = { # Normal Outbreak
+	}
+	yearly_province_pulse = {
+	}
+	character_infection_chances = {
+		months = 1
+	}
+	on_character_infection = {
+		add_trait = murder_suspect
+	}
+	on_province_infection = {
+	}
+
+	disease_gfx = disease_gfx_typhus
+}

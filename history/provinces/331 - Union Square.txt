@@ -1,0 +1,21 @@
+# c_union_square
+
+# County Title
+title = c_union_square
+
+# Settlements
+max_settlements = 7
+
+b_union_square = castle
+b_w_14th_st_2 = city
+b_w_17th_st_3 = temple
+b_w_19th_st_2 = castle
+#b_w_16th_st = city
+#b_w_15th_st = temple
+#b_w_18th_st_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

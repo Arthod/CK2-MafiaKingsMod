@@ -1,0 +1,19 @@
+# c_clearview
+
+# County Title
+title = c_clearview
+
+# Settlements
+max_settlements = 4
+
+b_clearview = castle
+#b_166th_st = city
+#b_willets_point_blvd = temple
+#b_clintonville_st = castle
+#b_francis_lewis_blvd_5 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

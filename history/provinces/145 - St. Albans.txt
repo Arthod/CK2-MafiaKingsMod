@@ -1,0 +1,18 @@
+# c_st_albans
+
+# County Title
+title = c_st_albans
+
+# Settlements
+max_settlements = 3
+
+b_st_albans = castle
+#b_farmers_blvd_3 = city
+#b_baisley_blvd = temple
+#b_120th_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

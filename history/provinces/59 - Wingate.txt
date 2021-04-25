@@ -1,0 +1,19 @@
+# c_wingate
+
+# County Title
+title = c_wingate
+
+# Settlements
+max_settlements = 4
+
+b_wingate = castle
+#b_eastern_pkwy = city
+#b_president_st = temple
+#b_crown_st_2 = castle
+#b_union_st_3 = city
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

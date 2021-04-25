@@ -1,0 +1,861 @@
+1 = {
+    name=Giuseppe
+    dynasty=8
+  
+    religion=criminal
+    culture=sicilian
+  
+	add_trait="mustache_peppe"
+	add_trait="immigrant"
+
+    1867.05.02 = { birth=yes }
+    1889.01.01 = { add_spouse=12 }
+    1903.12.01 = { add_spouse=22 }
+    1930.08.15 = { death=yes }
+	
+	mother = 2
+	father = 3
+}
+
+2 = {
+    name=Angelina
+	dynasty=18
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+
+	add_trait="immigrant"
+  
+    1848.05.11 = { birth=yes }
+    1848.05.11 = { create_bloodline = { type = mother_of_the_morello-teranova_family } }
+    1860.01.01 = { add_spouse=3 }
+    1873.01.01 = { add_spouse=4 }
+    1941.06.20 = { death=yes }
+	
+	mother = 18
+	father = 17
+}
+
+3 = {
+    name=Calogero
+    dynasty=8
+  
+    religion=upright
+    culture=sicilian
+  
+    1839.11.07 = { birth=yes }
+    1872.05.26 = { death=yes }
+}
+
+4 = {
+    name=Bernardo
+    dynasty=12
+  
+	add_trait="mustache_peppe"
+	add_trait="immigrant"
+
+    religion=criminal
+    culture=sicilian
+  
+    1847.07.06 = { birth=yes }
+    1909.07.10 = { death=yes }
+	
+	mother = 20
+	father = 19
+}
+
+5 = {
+    name=Vincenzo
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1874.01.01 = { birth=yes }
+    1876.01.01 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+6 = {
+    name=Vincenzo
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1886.05.01 = { birth=yes }
+    1922.05.08 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+7 = {
+    name=Ciro
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1888.07.20 = { birth=yes }
+    1909.04.25 = { add_spouse=15}
+    1938.02.20 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+8 = {
+    name=Nicolo
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1890.01.06 = { birth=yes }
+    1916.09.07 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+9 = {
+    name=Lucia
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1876.01.18 = { birth=yes }
+    1946.01.01 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+10 = {
+    name=Salvatrice
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1880.07.30 = { birth=yes }
+    1946.01.01 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+11 = {
+    name=Rosalia
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1892.08.19 = { birth=yes }
+    1915.10.14 = { death=yes }
+	
+	mother = 2
+	father = 4
+}
+
+12 = {
+    name=Maria
+    dynasty=19
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1867.01.01 = { birth=yes }
+    1898.01.01 = { death=yes }
+	
+}
+
+13 = {
+    name=Angela
+    dynasty=8
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1891.01.01 = { birth=yes }
+    1892.01.01 = { death=yes }
+	
+	father = 1
+	mother = 12
+}
+
+14 = {
+    name=Calogero
+    dynasty=8
+  
+    religion=criminal
+    culture=sicilian
+  
+    1892.11.01 = { birth=yes }
+    1912.01.01 = { death=yes }
+	
+	father = 1
+	mother = 12
+}
+
+15 = {
+    name=Teresa
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1891.04.25 = { birth=yes effect={dynasty=none} }
+    1978.03.01 = { death=yes }
+}
+
+16 = {
+    name=Ignazio
+    dynasty=17
+  
+    religion=criminal
+    culture=sicilian
+
+	add_trait="immigrant"
+  
+    1877.03.21 = { birth=yes }
+    1903.12.23 = { add_spouse=10 }
+    1947.01.13 = { death=yes }
+}
+
+17 = {
+    name=Ciro
+    dynasty=18
+  
+    religion=criminal
+    culture=sicilian
+  
+    1829.01.01 = { birth=yes }
+    1845.01.01 = { add_spouse=18 }
+    1900.01.01 = { death=yes }
+}
+
+18 = {
+    name=Salvatrice
+    dynasty=21
+	
+      female = yes  
+    religion=criminal
+    culture=sicilian
+  
+    1829.01.01 = { birth=yes }
+    1900.01.01 = { death=yes }
+}
+
+19 = {
+    name=Ciro
+    dynasty=12
+  
+    religion=criminal
+    culture=sicilian
+  
+    1829.01.01 = { birth=yes }
+    1845.01.01 = { add_spouse=20 }
+    1900.01.01 = { death=yes }
+}
+
+20 = {
+    name=Salvatrice
+    dynasty=22
+  
+     female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1829.01.01 = { birth=yes }
+    1900.01.01 = { death=yes }
+}
+
+21 = {
+    name=Bernarda
+    dynasty=23
+  
+      female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1891.10.18 = { birth=yes }
+    1930.01.01 = { death=yes }
+}
+
+22 = {
+    name=Nicolina
+    dynasty=20
+  
+      female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1885.03.20 = { birth=yes }
+    1967.01.01 = { death=yes }
+
+	father = 23
+}
+
+23 = {
+    name=Kaiser #Me!
+    dynasty=20
+  
+    religion=criminal
+    culture=cat
+  
+    add_trait="immortal"
+    add_trait="eunuch"
+	
+    1860.01.01 = { birth=yes }
+}
+
+24 = {
+    name=Vincenzo
+    dynasty=20
+  
+    religion=criminal
+    culture=sicilian
+  
+    1882.01.01 = { birth=yes }
+    1899.01.01 = { add_spouse=9}
+    1923.01.18 = { death=yes }
+
+	father = 23
+}
+
+25 = {
+    name=Maria
+    dynasty=8
+  
+	female = yes
+
+    religion=criminal
+    culture=sicilian
+  
+    1872.02.28 = { birth=yes }
+    1926.12.17 = { death=yes }
+
+	father = 2
+	mother = 3
+}
+
+
+26 = {
+    name=Carmela
+    dynasty=8
+  
+	female = yes
+
+    religion=criminal
+    culture=sicilian
+  
+    1909.04.23 = { birth=yes }
+    1980.01.01 = { death=yes }
+
+	father = 1
+	mother = 22
+}
+
+27 = {
+    name=Calogero
+    dynasty=8
+
+    religion=criminal
+    culture=sicilian
+  
+    1921.04.23 = { birth=yes }
+    1980.01.01 = { death=yes }
+
+	father = 1
+	mother = 22
+}
+
+28 = {
+    name=Gioacchino
+    dynasty=24
+
+    religion=upright
+    culture=sicilian
+  
+    1870.03.20 = { birth=yes }
+    1898.01.01 = { add_spouse=25}
+    1924.01.01 = { death=yes }
+
+	father = 29
+
+}
+
+29 = {
+    name=Robbie
+    dynasty=25
+
+    religion=upright
+    culture=irish
+  
+    1850.01.01 = { birth=yes }
+    1880.01.01 = { death=yes }
+
+}
+
+
+30 = {
+    name=Margaret
+    dynasty=24
+	
+	female = yes
+    religion=upright
+    culture=sicilian
+  
+    1899.01.01 = { birth=yes }
+    1960.01.01 = { death=yes }
+
+	father = 28
+	mother = 25
+}
+
+31 = {
+    name=Vincent
+    dynasty=24
+
+    religion=upright
+    culture=sicilian
+  
+    1902.09.01 = { birth=yes }
+    1984.01.01 = { death=yes }
+
+	father = 28
+	mother = 25
+}
+
+32 = {
+    name=Angela
+    dynasty=24
+
+	female = yes
+    religion=upright
+    culture=sicilian
+  
+    1905.01.01 = { birth=yes }
+    1980.01.01 = { death=yes }
+
+	father = 28
+	mother = 25
+}
+
+33 = {
+    name=Carlogero
+    dynasty=24
+
+    religion=upright
+    culture=sicilian
+  
+    1907.03.18 = { birth=yes }
+    1988.05.06 = { death=yes }
+
+	father = 28
+	mother = 25
+}
+
+34 = {
+    name=Angela
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1914.05.07 = { birth=yes }
+    1950.01.01 = { death=yes }
+	
+	mother = 21
+	father = 6
+}
+
+35 = {
+    name=Giuseppa
+    dynasty=12
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1916.09.20 = { birth=yes }
+    1951.01.01 = { death=yes }
+	
+	mother = 21
+	father = 6
+}
+
+
+36 = {
+    name=Salvatore
+    dynasty=26
+  
+    religion=criminal
+    culture=sicilian
+  
+    1910.01.01 = { birth=yes }
+    1926.01.01 = { add_spouse=34}
+    1952.01.01 = { death=yes }
+}
+
+37 = {
+    name=Rosalin
+    dynasty=26
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1938.09.20 = { birth=yes }
+    1970.01.01 = { death=yes }
+	
+	mother = 34
+	father = 36
+}
+
+38 = {
+    name=Giuseppa
+    dynasty=26
+  
+	female = yes
+    religion=criminal
+    culture=sicilian
+  
+    1939.01.01 = { birth=yes }
+    1971.01.01 = { death=yes }
+	
+	mother = 34
+	father = 36
+}
+
+39 = {
+    name=Angie
+    dynasty=12
+  
+	female = yes
+    religion=upright
+    culture=sicilian
+  
+    1912.10.12 = { birth=yes }
+    1972.01.01 = { death=yes }
+	
+	mother = 15
+	father = 7
+}
+
+40 = {
+    name=Angelie
+    dynasty=12
+
+	female = yes  
+    religion=upright
+    culture=sicilian
+  
+    1914.01.01 = { birth=yes }
+    1972.01.01 = { death=yes }
+	
+	mother = 15
+	father = 7
+}
+
+41 = {
+    name=Anna
+    dynasty=12
+
+	female = yes  
+    religion=upright
+    culture=sicilian
+  
+    1917.10.29 = { birth=yes }
+    1972.01.01 = { death=yes }
+	
+	mother = 15
+	father = 7
+}
+
+42 = {
+    name=Benjamin
+    dynasty=12
+  
+    religion=upright
+    culture=sicilian
+  
+    1915.11.06 = { birth=yes }
+    1972.01.01 = { death=yes }
+	
+	mother = 15
+	father = 7
+}
+
+43 = {
+    name=Giuseppe
+    dynasty=27
+  
+    religion=criminal
+    culture=sicilian
+  
+    1886.01.17 = { birth=yes }
+    1931.04.15 = { death=yes }
+}
+
+44 = {
+    name=Onofria
+    dynasty=17
+  	
+	femal = yes
+    religion=upright
+    culture=sicilian
+  
+    1905.12.05 = { birth=yes }
+    1996.01.08 = { death=yes }
+
+	mother = 16
+	father = 10
+}
+
+45 = {
+    name=Gaetana
+    dynasty=28
+  	
+    religion=upright
+    culture=sicilian
+  
+    1904.04.28 = { birth=yes }
+    1931.01.01 = { add_spouse = 44 }
+    1986.03.01 = { death=yes }
+}
+
+46 = {
+    name=Francise
+    dynasty=28
+  	
+    religion=upright
+    culture=sicilian
+  
+    1934.09.06 = { birth=yes }
+    2017.05.06 = { death=yes }
+
+	mother = 44
+	father = 45
+}
+
+47 = {
+    name=Angelina
+    dynasty=17
+  	
+	femal = yes
+    religion=upright
+    culture=sicilian
+  
+    1907.04.17 = { birth=yes }
+    1996.07.29 = { death=yes }
+
+	mother = 16
+	father = 10
+}
+
+
+48 = {
+    name=Rocco
+    dynasty=17
+  	
+    religion=criminal
+    culture=sicilian
+  
+    1909.12.01 = { birth=yes }
+    1938.04.13 = { add_spouse=49 }
+    1948.08.24 = { death=yes }
+
+	mother = 16
+	father = 10
+}
+
+49 = {
+    name=Concetta
+  
+	female = yes
+    religion=upright
+    culture=sicilian
+  
+    1905.01.01 = { birth=yes effect={dynasty=none} }
+    1975.01.01 = { death=yes }
+}
+
+50 = {
+    name=Josephiene
+    dynasty=17
+  	
+	female = yes
+    religion=upright
+    culture=sicilian
+  
+    1921.01.01 = { birth=yes }
+    1990.07.22 = { death=yes }
+
+	mother = 16
+	father = 10
+}
+
+51 = {
+    name=Jean
+    dynasty=17
+  	
+	female = yes
+    religion=upright
+    culture=sicilian
+  
+    1923.01.01 = { birth=yes }
+    2002.03.22 = { death=yes }
+
+	mother = 16
+	father = 10
+}
+
+52 = {
+    name=Giuseppe #Giuseppe Jr. "Don Peppe"
+    dynasty=29
+  	
+    religion=criminal
+    culture=sicilian
+  
+	add_trait="mustache_peppe"
+
+    1870.01.01 = { birth=yes }
+    1901.01.01 = { death=yes }
+
+	father = 53
+}
+
+53 = {
+    name=Belky
+    dynasty=29
+  	
+    religion=criminal
+    culture=sicilian
+  
+    1850.01.01 = { birth=yes }
+    1890.01.01 = { death=yes }
+}
+
+54 = {
+    name=Salvatore
+    dynasty=29
+  	
+    religion=criminal
+    culture=sicilian
+  
+	add_trait="mustache_peppe"
+
+    1878.01.01 = { birth=yes }
+    1915.01.01 = { death=yes }
+	
+	father = 53
+}
+
+55 = {
+    name=Nicola
+    dynasty=30
+  	
+    religion=criminal
+    culture=sicilian
+  
+	add_trait="mustache_peppe"
+
+    1872.01.01 = { birth=yes }
+    1957.01.01 = { death=yes }
+}
+
+56 = {
+    name=Grindor
+  	
+    religion=criminal
+    culture=central_park
+
+	add_trait="immortal"
+
+    1800.01.01 = { birth=yes effect={dynasty=none} }
+    2100.01.01 = { death=yes }
+}
+
+57 = {
+    name=Pellegrino
+    dynasty=31  
+	
+    add_trait="mustache_peppe"
+	add_trait="immigrant"
+
+    religion=criminal
+    culture=sicilian
+
+    1877.01.01 = { birth=yes }
+    1920.01.01 = { death=yes }
+}
+
+58 = {
+    name=Salvatore
+    dynasty=32  
+	
+    add_trait="mustache_peppe"
+	add_trait="immigrant"
+
+    religion=criminal
+    culture=sicilian
+
+    1878.10.10 = { birth=yes }
+    1928.10.28 = { death=yes }
+}
+
+#Irish Mobsters
+1000 = {
+    name=Owney
+    dynasty=15000
+	
+    religion=criminal
+    culture=irish
+  
+    1891.12.18 = { birth=yes }
+    1965.04.24 = { death=yes }
+}
+1001 = {
+    name=Biff
+    dynasty=15001
+	
+    religion=criminal
+    culture=irish
+  
+    1861.06.04 = { birth=yes }
+    1926.09.12 = { death=yes }
+}
+1002 = {
+    name=One-Lung
+    dynasty=15002
+	
+    religion=criminal
+    culture=irish
+  
+    1889.01.15 = { birth=yes }
+    1926.09.12 = { death=yes }
+}
+1003 = {
+    name=Mallet
+    dynasty=15003
+	
+    religion=criminal
+    culture=irish
+  
+    1872.011.29 = { birth=yes }
+    1926.09.12 = { death=yes }
+}

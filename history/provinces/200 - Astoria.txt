@@ -1,0 +1,20 @@
+# c_astoria
+
+# County Title
+title = c_astoria
+
+# Settlements
+max_settlements = 5
+
+b_astoria = castle
+b_broadway_6 = city
+b_31st_ave_2 = temple
+#b_31st_st = castle
+#b_30th_ave = city
+#b_34th_ave_3 = temple
+
+# Misc
+culture = czech
+religion = upright
+
+#History

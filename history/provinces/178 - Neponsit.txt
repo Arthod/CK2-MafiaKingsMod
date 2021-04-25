@@ -1,0 +1,17 @@
+# c_neponsit
+
+# County Title
+title = c_neponsit
+
+# Settlements
+max_settlements = 2
+
+b_neponsit = castle
+#b_beach_147th_st = city
+#b_rockaway_beach_blvd_4 = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

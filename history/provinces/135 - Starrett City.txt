@@ -1,0 +1,17 @@
+# c_starrett_city
+
+# County Title
+title = c_starrett_city
+
+# Settlements
+max_settlements = 2
+
+b_starrett_city = castle
+#b_pennsylcania_ave = city
+#b_louisiana_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

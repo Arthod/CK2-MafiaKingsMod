@@ -1,0 +1,19 @@
+# c_east_end_ave
+
+# County Title
+title = c_east_end_ave
+
+# Settlements
+max_settlements = 4
+
+b_east_end_ave = castle
+b_e_84th_st = city
+b_e_81st_st = temple
+b_e_82nd_st = castle
+#b_e_83rd_st = city
+
+# Misc
+culture = galizianer
+religion = criminal
+
+#History

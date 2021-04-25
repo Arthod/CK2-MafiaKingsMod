@@ -1,0 +1,18 @@
+# c_utopia
+
+# County Title
+title = c_utopia
+
+# Settlements
+max_settlements = 3
+
+b_utopia = castle
+#b_73rd_ave = city
+#b_utopia_pkwy_2 = temple
+#b_jewel_ave_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

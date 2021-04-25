@@ -1,0 +1,18 @@
+# c_belle_harbor
+
+# County Title
+title = c_belle_harbor
+
+# Settlements
+max_settlements = 3
+
+b_belle_harbor = castle
+#b_newport_ave = city
+#b_cronston_ave = temple
+#b_beach_142nd_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

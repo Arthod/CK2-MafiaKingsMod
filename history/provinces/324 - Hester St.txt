@@ -1,0 +1,21 @@
+# c_hester_st
+
+# County Title
+title = c_hester_st
+
+# Settlements
+max_settlements = 6
+
+b_hester_st = castle
+b_walker_st_2 = city
+b_canal_st_2 = temple
+b_white_st = castle
+#b_howard_st = city
+#b_bayard_st = temple
+#b_franklin_st_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

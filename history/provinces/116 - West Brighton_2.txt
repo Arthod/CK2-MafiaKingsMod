@@ -1,0 +1,19 @@
+# c_west_brighton_2
+
+# County Title
+title = c_west_brighton_2
+
+# Settlements
+max_settlements = 4
+
+b_west_brighton_2 = castle
+b_ocean_pkwy = city
+#b_ryman_pl = temple
+#b_surf_ave_2 = castle
+#b_w_5th_st = city
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_wall_st
+
+# County Title
+title = c_wall_st
+
+# Settlements
+max_settlements = 7
+
+b_wall_st = castle
+b_pine_st = city
+b_water_st_4 = temple
+b_exchange_pl = castle
+#b_william_st = city
+#b_cedar_st = temple
+#b_pearl_st_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

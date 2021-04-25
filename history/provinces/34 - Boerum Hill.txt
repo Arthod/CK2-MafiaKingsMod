@@ -1,0 +1,21 @@
+# c_boerum_hill
+
+# County Title
+title = c_boerum_hill
+
+# Settlements
+max_settlements = 6
+
+b_boerum_hill = castle
+b_livingston_st = city
+b_wyckoff_st = temple
+#b_bergen_st = castle
+#b_dean_st = city
+#b_pacific_st = temple
+#b_schermerhorn_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

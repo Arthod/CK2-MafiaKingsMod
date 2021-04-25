@@ -1,0 +1,18 @@
+# c_mill_basin
+
+# County Title
+title = c_mill_basin
+
+# Settlements
+max_settlements = 3
+
+b_mill_basin = castle
+b_avenue_n_2 = city
+#b_flatbush_ave_4 = temple
+#b_avenue_u = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

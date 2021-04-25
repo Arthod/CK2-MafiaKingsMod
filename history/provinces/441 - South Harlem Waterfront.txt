@@ -1,0 +1,21 @@
+# c_south_harlem_waterfront
+
+# County Title
+title = c_south_harlem_waterfront
+
+# Settlements
+max_settlements = 7
+
+b_south_harlem_waterfront = castle
+b_e_106th_st_2 = city
+b_e_102nd_st_2 = temple
+b_e_110th_st = castle
+b_e_99th_st_3 = city
+#b_e_105th_st_2 = temple
+#b_e_107th_st_3 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

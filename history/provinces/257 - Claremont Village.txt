@@ -1,0 +1,18 @@
+# c_claremont_village
+
+# County Title
+title = c_claremont_village
+
+# Settlements
+max_settlements = 3
+
+b_claremont_village = castle
+b_webster_ave = city
+#b_3rd_ave_9 = temple
+#b_crotona_ave = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

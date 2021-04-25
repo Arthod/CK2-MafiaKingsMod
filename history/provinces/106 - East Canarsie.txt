@@ -1,0 +1,20 @@
+# c_east_canarsie
+
+# County Title
+title = c_east_canarsie
+
+# Settlements
+max_settlements = 5
+
+b_east_canarsie = castle
+b_avenue_k_2 = city
+b_avenue_n_3 = temple
+#b_avenue_j_2 = castle
+#b_avenue_l_3 = city
+#b_avenue_m_2 = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

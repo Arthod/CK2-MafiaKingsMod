@@ -1,0 +1,19 @@
+# c_east_96th_st
+
+# County Title
+title = c_east_96th_st
+
+# Settlements
+max_settlements = 4
+
+b_east_96th_st = castle
+b_e_94th_st = city
+b_e_92nd_st_2 = temple
+#b_e_95th_st = castle
+#b_e_93rd_st_2 = city
+
+# Misc
+culture = litvak
+religion = criminal
+
+#History

@@ -1,0 +1,20 @@
+# c_williamsburg_bridge
+
+# County Title
+title = c_williamsburg_bridge
+
+# Settlements
+max_settlements = 5
+
+b_williamsburg_bridge = castle
+b_columbia_st_2 = city
+b_lewis_st = temple
+b_delancey_st = castle
+#b_mangin_st = city
+#b_broome_st_4 = temple
+
+# Misc
+culture = litvak
+religion = criminal
+
+#History

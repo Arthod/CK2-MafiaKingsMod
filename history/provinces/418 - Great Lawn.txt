@@ -1,0 +1,16 @@
+# c_great_lawn
+
+# County Title
+title = c_great_lawn
+
+# Settlements
+max_settlements = 1
+
+b_great_lawn = castle
+#b_86th_st_4 = city
+
+# Misc
+culture = central_park
+religion = upright
+
+#History

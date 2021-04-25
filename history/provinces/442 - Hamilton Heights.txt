@@ -1,0 +1,21 @@
+# c_hamilton_heights
+
+# County Title
+title = c_hamilton_heights
+
+# Settlements
+max_settlements = 6
+
+b_hamilton_heights = castle
+b_w_135th_st = city
+b_w_133rd_st_2 = temple
+b_w_141st_st = castle
+#b_w_139th_st = city
+#b_w_140th_st = temple
+#b_w_136th_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

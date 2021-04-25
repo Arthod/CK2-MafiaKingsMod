@@ -1,0 +1,21 @@
+# c_mott_st
+
+# County Title
+title = c_mott_st
+
+# Settlements
+max_settlements = 7
+
+b_mott_st_3 = castle
+b_mulberry_st_3 = city
+b_elizabeth_st_3 = temple
+b_canal_st_4 = castle
+b_mosco_st = city
+#b_baxter_st = temple
+#b_hogan_pl = castle
+
+# Misc
+culture = chinese
+religion = upright
+
+#History

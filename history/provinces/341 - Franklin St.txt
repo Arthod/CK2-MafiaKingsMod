@@ -1,0 +1,21 @@
+# c_franklin_st
+
+# County Title
+title = c_franklin_st
+
+# Settlements
+max_settlements = 5
+
+b_franklin_st_3 = castle
+b_laight_st = city
+b_hubert_st = temple
+#b_moore_st = castle
+#b_beach_st = city
+#b_vestry_st = temple
+#b_desbrosses_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

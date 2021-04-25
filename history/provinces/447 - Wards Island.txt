@@ -1,0 +1,17 @@
+# c_wards_island
+
+# County Title
+title = c_wards_island
+
+# Settlements
+max_settlements = 2
+
+b_wards_island = castle
+#b_hell_gate_cir = city
+#b_east_river_ln = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

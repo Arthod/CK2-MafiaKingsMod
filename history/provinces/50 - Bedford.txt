@@ -1,0 +1,21 @@
+# c_bedford
+
+# County Title
+title = c_bedford
+
+# Settlements
+max_settlements = 6
+
+b_bedford = castle
+b_bedford_ave = city
+b_dekalb_ave = temple
+#b_franklin_ave = castle
+#b_classon_ave = city
+#b_skillman_st = temple
+#b_gates_ave = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

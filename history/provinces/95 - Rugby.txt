@@ -1,0 +1,18 @@
+# c_rugby
+
+# County Title
+title = c_rugby
+
+# Settlements
+max_settlements = 3
+
+b_rugby = castle
+b_utica_ave_3 = city
+#b_rutland_rd = temple
+#b_winthrop_st = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

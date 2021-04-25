@@ -1,0 +1,18 @@
+# c_laconia
+
+# County Title
+title = c_laconia
+
+# Settlements
+max_settlements = 3
+
+b_laconia = castle
+#b_adee_ave = city
+#b_gun_hill_rd_2 = temple
+#b_mace_ave_2 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

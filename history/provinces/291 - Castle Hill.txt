@@ -1,0 +1,18 @@
+# c_castle_hill
+
+# County Title
+title = c_castle_hill
+
+# Settlements
+max_settlements = 3
+
+b_castle_hill = castle
+#b_randall_ave_2 = city
+#b_castle_hill_ave_2 = temple
+#b_zerega_ave_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

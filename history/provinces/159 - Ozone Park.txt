@@ -1,0 +1,19 @@
+# c_ozone_park
+
+# County Title
+title = c_ozone_park
+
+# Settlements
+max_settlements = 4
+
+b_ozone_park = castle
+b_pitkin_ave_3 = city
+#b_conduit_ave = temple
+#b_liberty_ave_2 = castle
+#b_rockaway_blvd_5 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,19 @@
+# c_todt_hill
+
+# County Title
+title = c_todt_hill
+
+# Settlements
+max_settlements = 2
+
+b_todt_hill = castle
+#b_ocean_terrace = city
+#b_todt_hill_rd = temple
+#b_portsmouth_ave = castle
+#b_ridge_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

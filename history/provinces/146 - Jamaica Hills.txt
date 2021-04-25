@@ -1,0 +1,18 @@
+# c_jamaica_hills
+
+# County Title
+title = c_jamaica_hills
+
+# Settlements
+max_settlements = 3
+
+b_jamaica_hills = castle
+#b_homelawn_st = city
+#b_edgerton_blvd = temple
+#b_midland_pkwy = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

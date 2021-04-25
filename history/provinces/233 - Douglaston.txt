@@ -1,0 +1,18 @@
+# c_douglaston
+
+# County Title
+title = c_douglaston
+
+# Settlements
+max_settlements = 3
+
+b_douglaston = castle
+#b_marathon_pkwy = city
+#b_little_neck_pkwy = temple
+#b_douglaston_pkwy = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

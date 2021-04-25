@@ -1,0 +1,19 @@
+# c_concourse_waterfront
+
+# County Title
+title = c_concourse_waterfront
+
+# Settlements
+max_settlements = 4
+
+b_concourse_waterfront = castle
+#b_river_ave = city
+#b_gerard_ave = temple
+#b_walton_ave_2 = castle
+#b_151st_st = city
+
+# Misc
+culture = yankee
+religion = criminal
+
+#History

@@ -1,0 +1,21 @@
+# c_kips_bay
+
+# County Title
+title = c_kips_bay
+
+# Settlements
+max_settlements = 6
+
+b_kips_bay = castle
+b_e_23rd_st_2 = city
+b_e_22nd_st_2 = temple
+b_e_20th_st_3 = castle
+b_e_21st_st = city
+b_e_24th_st = temple
+#b_e_25th_st = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

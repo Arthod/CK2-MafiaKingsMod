@@ -1,0 +1,18 @@
+# c_east_midwood
+
+# County Title
+title = c_east_midwood
+
+# Settlements
+max_settlements = 3
+
+b_east_midwood = castle
+#b_kings_hwy = city
+#b_bedford_ave_5 = temple
+#b_avenue_m = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

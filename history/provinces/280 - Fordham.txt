@@ -1,0 +1,20 @@
+# c_fordham
+
+# County Title
+title = c_fordham
+
+# Settlements
+max_settlements = 5
+
+b_fordham = castle
+#b_fordham_rd = city
+#b_grand_concourse_3 = temple
+#b_elm_pl = castle
+#b_valentine_ave = city
+#b_jerome_ave_6 = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_edenwald
+
+# County Title
+title = c_edenwald
+
+# Settlements
+max_settlements = 3
+
+b_edenwald = castle
+#b_222nd_st_2 = city
+#b_schleffelin_ave = temple
+#b_229th_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

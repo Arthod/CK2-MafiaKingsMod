@@ -1,0 +1,19 @@
+# c_college_point
+
+# County Title
+title = c_college_point
+
+# Settlements
+max_settlements = 4
+
+b_college_point = castle
+b_college_point_blvd = city
+#b_14th_ave_3 = temple
+#b_127th_st = castle
+#b_20th_ave_3 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_east_jamaica
+
+# County Title
+title = c_east_jamaica
+
+# Settlements
+max_settlements = 3
+
+b_east_jamaica = castle
+#b_murdock_ave = city
+#b_farmers_blvd = temple
+#b_linden_blvd_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

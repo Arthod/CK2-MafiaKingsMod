@@ -1,0 +1,17 @@
+# c_kew_gardens
+
+# County Title
+title = c_kew_gardens
+
+# Settlements
+max_settlements = 2
+
+b_kew_gardens = castle
+b_kew_gardens_rd = city
+#b_austin_st = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

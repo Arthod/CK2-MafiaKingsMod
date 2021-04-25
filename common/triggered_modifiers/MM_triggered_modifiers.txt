@@ -1,0 +1,24 @@
+##################################################
+#
+# MM - Triggered Modifiers
+#
+##################################################
+
+# High Criminal public appearence (infamy)
+high_infamy = {
+	potential = {
+		is_ruler = yes
+		religion_group = illegal_group
+	}
+	
+	trigger = {
+		decadence = 75
+	}
+	
+	icon = 23
+	active = yes
+	
+	diplomacy_penalty = -2
+	intrigue_penalty = -1
+	monthly_character_prestige = 1
+}

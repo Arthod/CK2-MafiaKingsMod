@@ -1,0 +1,17 @@
+# c_bay_terrace
+
+# County Title
+title = c_bay_terrace
+
+# Settlements
+max_settlements = 2
+
+b_bay_terrace = castle
+#b_23rd_ave_2 = city
+#b_bell_blvd_2 = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

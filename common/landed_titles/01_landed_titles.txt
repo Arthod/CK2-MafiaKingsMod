@@ -1,0 +1,8711 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_brooklyn = {
+	color={ 10 240 29 }
+	color2={ 255 255 20 }
+	
+	capital = 33 # c_downtown
+	culture = white_american
+	
+	k_brooklyn = {
+		color={ 0 250 24 }
+		color2={ 255 255 255 }
+		
+		capital = 33 # c_downtown
+		culture = white_american
+		
+		d_brooklyn = {
+			color={ 236 14 14 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 33 province_id = 34 province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
+				}
+			}
+			capital = 33 # c_downtown
+			
+			c_downtown = { # 33
+				color={ 226 24 9 }
+				color2={ 255 255 255 }
+				
+				b_downtown = {
+				}
+				b_tillary_st = {
+				}
+				b_brooklyn_bridge_blvd = {
+				}
+				b_jay_st = {
+				}
+				b_gold_st = {
+				}
+				b_duffield_st = {
+				}
+				b_prince_st = {
+				}
+			}
+			c_boerum_hill = { # 34
+				color={ 215 53 2 }
+				color2={ 255 255 255 }
+				
+				b_boerum_hill = {
+				}
+				b_livingston_st = {
+				}
+				b_wyckoff_st = {
+				}
+				b_bergen_st = {
+				}
+				b_dean_st = {
+				}
+				b_pacific_st = {
+				}
+				b_schermerhorn_st = {
+				}
+			}
+			c_brooklyn_heights = { # 36
+				color={ 240 29 9 }
+				color2={ 255 255 255 }
+				
+				b_brooklyn_heights = {
+				}
+				b_cadman_plaza_w = {
+				}
+				b_joralemon_st = {
+				}
+				b_hicks_st = {
+				}
+				b_remsen_st = {
+				}
+				b_clark_st = {
+				}
+				b_cranberry_st = {
+				}
+			}
+			c_d_u_m_b_o_ = { # 37
+				color={ 209 2 15 }
+				color2={ 255 255 255 }
+				
+				b_d_u_m_b_o_ = {
+				}
+				b_main_st_2 = {
+				}
+				b_washington_st = {
+				}
+				b_vine_st = {
+				}
+			}
+			c_navy_yards = { # 35
+				color={ 207 13 13 }
+				color2={ 255 255 255 }
+				
+				b_navy_yards = {
+				}
+				b_navy_st = {
+				}
+				b_market_st = {
+				}
+				b_railroad_ave = {
+				}
+			}
+			c_vinegar_hill = { # 38
+				color={ 231 51 15 }
+				color2={ 255 255 255 }
+				
+				b_vinegar_hill = {
+				}
+				b_water_st_2 = {
+				}
+				b_john_st = {
+				}
+				b_hudson_ave = {
+				}
+				b_bridge_st = {
+				}
+			}
+		}
+		d_bedford_stuyvesant = {
+			color={ 7 21 31 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 50 province_id = 51 province_id = 52 province_id = 53 province_id = 54 } }
+				}
+			}
+			capital = 50 # c_bedford
+			
+			c_bedford = { # 50
+				color={ 253 31 26 }
+				color2={ 255 255 255 }
+				
+				b_bedford = {
+				}
+				b_bedford_ave = {
+				}
+				b_dekalb_ave = {
+				}
+				b_franklin_ave = {
+				}
+				b_classon_ave = {
+				}
+				b_skillman_st = {
+				}
+				b_gates_ave = {
+				}
+			}
+			c_clinton_hill = { # 52
+				color={ 213 40 64 }
+				color2={ 255 255 255 }
+				
+				b_clinton_hill = {
+				}
+				b_vanderbilt_ave_2 = {
+				}
+				b_washington_ave = {
+				}
+				b_waverly_ave = {
+				}
+				b_clermont_ave = {
+				}
+				b_clinton_ave = {
+				}
+			}
+			c_fort_greene = { # 51
+				color={ 242 64 59 }
+				color2={ 255 255 255 }
+				
+				b_fort_greene = {
+				}
+				b_carlton_ave = {
+				}
+				b_ashland_pl = {
+				}
+				b_auburn_pl = {
+				}
+				b_cumberland_st = {
+				}
+				b_adelphi_st = {
+				}
+			}
+			c_stuyvesant = { # 53
+				color={ 252 47 39 }
+				color2={ 255 255 255 }
+				
+				b_stuyvesant = {
+				}
+				b_lafayette_ave_2 = {
+				}
+				b_dekalb_ave_2 = {
+				}
+				b_park_ave = {
+				}
+				b_myrtle_ave = {
+				}
+				b_hart_st = {
+				}
+				b_vernon_ave = {
+				}
+			}
+			c_stuyvesant_heights = { # 54
+				color={ 233 20 59 }
+				color2={ 255 255 255 }
+				
+				b_stuyvesant_heights = {
+				}
+				b_gates_ave_2 = {
+				}
+				b_halsey_st = {
+				}
+				b_lewis_ave = {
+				}
+				b_putnam_ave = {
+				}
+				b_decatur_st = {
+				}
+				b_hancock_st = {
+				}
+			}
+		}
+		d_crown_heights = {
+			color={ 230 14 16 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 55 province_id = 56 province_id = 57 province_id = 58 province_id = 59 } }
+				}
+			}
+			capital = 55 # c_crown_heights
+			
+			c_crown_heights = { # 55
+				color={ 220 24 11 }
+				color2={ 255 255 255 }
+				
+				b_crown_heights = {
+				}
+				b_rogers_ave = {
+				}
+				b_nostrand_ave = {
+				}
+				b_montgomery_st = {
+				}
+				b_bergen_st_2 = {
+				}
+				b_st_marks_ave = {
+				}
+				b_crown_st = {
+				}
+			}
+			c_prospect_heights = { # 57
+				color={ 209 9 9 }
+				color2={ 255 255 255 }
+				
+				b_prospect_heights = {
+				}
+				b_washington_ave_2 = {
+				}
+				b_vanderbildt_ave = {
+				}
+				b_park_pl = {
+				}
+				b_sterling_pl = {
+				}
+			}
+			c_prospect_park = { # 56
+				color={ 185 11 18 }
+				color2={ 255 255 255 }
+				
+				b_prospect_park = {
+				}
+				b_ocean_ave = {
+				}
+				b_mary_pinkett_ave = {
+				}
+			}
+			c_weeksville = { # 58
+				color={ 203 13 16 }
+				color2={ 255 255 255 }
+				
+				b_weeksville = {
+				}
+				b_utica_ave = {
+				}
+				b_st_johns_pl = {
+				}
+				b_ralph_ave = {
+				}
+				b_schenectady_ave = {
+				}
+				b_saratoga_ave = {
+				}
+			}
+			c_wingate = { # 59
+				color={ 182 7 22 }
+				color2={ 255 255 255 }
+				
+				b_wingate = {
+				}
+				b_eastern_pkwy = {
+				}
+				b_president_st = {
+				}
+				b_crown_st_2 = {
+				}
+				b_union_st_3 = {
+				}
+			}
+		}
+		d_red_hook = {
+			color={ 4 0 13 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 39 province_id = 40 province_id = 41 province_id = 42 province_id = 43 province_id = 44 } }
+				}
+			}
+			capital = 39 # c_red_hook
+			
+			c_red_hook = { # 39
+				color={ 250 10 8 }
+				color2={ 255 255 255 }
+				
+				b_red_hook = {
+				}
+				b_columbia_st = {
+				}
+				b_dwight_st = {
+				}
+				b_bay_st = {
+				}
+				b_richards_st = {
+				}
+				b_ferris_st = {
+				}
+				b_lorraine_st = {
+				}
+			}
+			c_carroll_gardens = { # 40
+				color={ 235 37 4 }
+				color2={ 255 255 255 }
+				
+				b_carroll_gardens = {
+				}
+				b_carroll_st = {
+				}
+				b_summit_st = {
+				}
+				b_luquer_st = {
+				}
+				b_rapelye_st = {
+				}
+			}
+			c_cobble_hill = { # 41
+				color={ 237 66 18 }
+				color2={ 255 255 255 }
+				
+				b_cobble_hill = {
+				}
+				b_congress_st = {
+				}
+				b_baltic_st = {
+				}
+				b_kane_st = {
+				}
+				b_warren_st = {
+				}
+			}
+			c_gowanus = { # 42
+				color={ 253 35 48 }
+				color2={ 255 255 255 }
+				
+				b_gowanus = {
+				}
+				b_3rd_ave = {
+				}
+				b_2nd_ave = {
+				}
+				b_union_st = {
+				}
+				b_carroll_st_2 = {
+				}
+				b_4th_ave = {
+				}
+				b_12th_st = {
+				}
+			}
+			c_north_park_slope = { # 43
+				color={ 248 51 11 }
+				color2={ 255 255 255 }
+				
+				b_north_park_slope = {
+				}
+				b_7th_ave = {
+				}
+				b_5th_ave = {
+				}
+				b_6th_ave = {
+				}
+				b_8th_ave = {
+				}
+				b_9th_st = {
+				}
+				b_union_st_2 = {
+				}
+			}
+			c_south_park_slope = { # 44
+				color={ 231 42 22 }
+				color2={ 255 255 255 }
+				
+				b_south_park_slope = {
+				}
+				b_7th_ave_2 = {
+				}
+				b_5th_ave_2 = {
+				}
+				b_6th_ave_2 = {
+				}
+				b_8th_ave_2 = {
+				}
+				b_prospect_ave = {
+				}
+				b_20th_st = {
+				}
+			}
+		}
+		d_sunset_park = {
+			color={ 239 47 36 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 45 province_id = 46 province_id = 47 province_id = 48 province_id = 49 } }
+				}
+			}
+			capital = 45 # c_sunset_park
+			
+			c_sunset_park = { # 45
+				color={ 229 57 31 }
+				color2={ 255 255 255 }
+				
+				b_sunset_park = {
+				}
+				b_5th_ave_3 = {
+				}
+				b_39th_st = {
+				}
+				b_4th_ave_2 = {
+				}
+				b_7th_ave_3 = {
+				}
+			}
+			c_greenwood_heights = { # 48
+				color={ 215 48 37 }
+				color2={ 255 255 255 }
+				
+				b_greenwood_heights = {
+				}
+				b_5th_ave_5 = {
+				}
+				b_20th_st_2 = {
+				}
+			}
+			c_greenwood_waterfront = { # 49
+				color={ 235 70 42 }
+				color2={ 255 255 255 }
+				
+				b_greenwood_waterfront = {
+				}
+				b_4th_ave_3 = {
+				}
+				b_3rd_ave_3 = {
+				}
+				b_28th_st = {
+				}
+				b_35th_st = {
+				}
+			}
+			c_industry_city = { # 47
+				color={ 209 64 48 }
+				color2={ 255 255 255 }
+				
+				b_industry_city = {
+				}
+				b_2nd_ave_2 = {
+				}
+				b_1st_ave = {
+				}
+				b_3rd_ave_2 = {
+				}
+			}
+			c_sunset_south = { # 46
+				color={ 231 75 22 }
+				color2={ 255 255 255 }
+				
+				b_sunset_south = {
+				}
+				b_58th_st = {
+				}
+				b_54th_st = {
+				}
+				b_56th_st = {
+				}
+				b_5th_ave_4 = {
+				}
+			}
+		}
+	}
+	k_bushwick = {
+		color={ 254 62 36 }
+		color2={ 255 255 255 }
+		
+		capital = 60 # c_central_bushwick
+		culture = apulian
+		
+		d_bushwick = {
+			color={ 234 82 26 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 60 province_id = 61 province_id = 62 } }
+				}
+			}
+			capital = 60 # c_central_bushwick
+			
+			c_central_bushwick = { # 60
+				color={ 224 92 21 }
+				color2={ 255 255 255 }
+				
+				b_central_bushwick = {
+				}
+				b_myrtle_ave_2 = {
+				}
+				b_bushwick_ave = {
+				}
+				b_wilson_ave = {
+				}
+				b_gates_ave_3 = {
+				}
+				b_halsey_st_2 = {
+				}
+				b_evergreen_ave = {
+				}
+			}
+			c_north_bushwick = { # 62
+				color={ 213 86 24 }
+				color2={ 255 255 255 }
+				
+				b_north_bushwick = {
+				}
+				b_knickerbocker_ave = {
+				}
+				b_broadway = {
+				}
+				b_myrtle_ave_3 = {
+				}
+				b_wilson_ave_2 = {
+				}
+				b_george_st = {
+				}
+				b_beaver_st = {
+				}
+			}
+			c_south_bushwick = { # 61
+				color={ 216 68 21 }
+				color2={ 255 255 255 }
+				
+				b_south_bushwick = {
+				}
+				b_cooper_st = {
+				}
+				b_halsey_st_3 = {
+				}
+				b_bushwick_ave_2 = {
+				}
+				b_evergreen_ave_2 = {
+				}
+			}
+		}
+		d_greenpoint = {
+			color={ 210 166 37 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 68 province_id = 69 province_id = 70 province_id = 71 } }
+				}
+			}
+			capital = 68 # c_greenpoint_waterfront
+			
+			c_greenpoint_waterfront = { # 68
+				color={ 220 156 42 }
+				color2={ 255 255 255 }
+				
+				b_greenpoint_waterfront = {
+				}
+				b_aleman_way = {
+				}
+				b_franklin_st = {
+				}
+				b_greenpoint_ave = {
+				}
+				b_green_st = {
+				}
+				b_commercial_st = {
+				}
+			}
+			c_east_greenpoint = { # 71
+				color={ 224 148 31 }
+				color2={ 255 255 255 }
+				
+				b_east_greenpoint = {
+				}
+				b_bridgewater_st = {
+				}
+				b_nassau_ave_2 = {
+				}
+				b_meeker_ave = {
+				}
+			}
+			c_mccarren_park = { # 69
+				color={ 193 163 20 }
+				color2={ 255 255 255 }
+				
+				b_mccarren_park = {
+				}
+				b_nassau_ave = {
+				}
+				b_manhattan_ave = {
+				}
+				b_driggs_ave = {
+				}
+				b_eckford_st = {
+				}
+			}
+			c_north_greenpoint = { # 70
+				color={ 231 163 18 }
+				color2={ 255 255 255 }
+				
+				b_north_greenpoint = {
+				}
+				b_provost_st = {
+				}
+				b_kingsland_ave = {
+				}
+				b_paidge_ave = {
+				}
+				b_henry_st = {
+				}
+			}
+		}
+		d_williamsburg = {
+			color={ 232 102 40 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 63 province_id = 64 province_id = 65 province_id = 66 province_id = 67 } }
+				}
+			}
+			capital = 63 # c_williamsburg
+			
+			c_williamsburg = { # 63
+				color={ 222 112 35 }
+				color2={ 255 255 255 }
+				
+				b_williamsburg = {
+				}
+				b_puerto_rico_ave = {
+				}
+				b_grand_st = {
+				}
+				b_montrose_ave = {
+				}
+				b_bushwick_ave_3 = {
+				}
+				b_metropolitan_ave = {
+				}
+				b_leonard_st = {
+				}
+			}
+			c_broadway_triangle = { # 64
+				color={ 213 156 48 }
+				color2={ 255 255 255 }
+				
+				b_broadway_triangle = {
+				}
+				b_broadway_2 = {
+				}
+				b_division_ave = {
+				}
+				b_kent_ave = {
+				}
+				b_lee_ave = {
+				}
+				b_harrison_ave = {
+				}
+				b_marcy_ave = {
+				}
+			}
+			c_east_williamsburg = { # 65
+				color={ 226 99 15 }
+				color2={ 255 255 255 }
+				
+				b_east_williamsburg = {
+				}
+				b_morgan_ave = {
+				}
+				b_metropolitan_ave_2 = {
+				}
+				b_maspeth_ave = {
+				}
+				b_lombardy_st = {
+				}
+				b_johnson_ave = {
+				}
+			}
+			c_north_side = { # 67
+				color={ 198 119 29 }
+				color2={ 255 255 255 }
+				
+				b_north_side = {
+				}
+				b_berry_st = {
+				}
+				b_bedford_ave_3 = {
+				}
+				b_wythe_ave = {
+				}
+				b_n_7th_st = {
+				}
+				b_n_3rd_st = {
+				}
+				b_n_6th_st = {
+				}
+			}
+			c_south_side = { # 66
+				color={ 213 101 21 }
+				color2={ 255 255 255 }
+				
+				b_south_side = {
+				}
+				b_broadway_3 = {
+				}
+				b_grand_st_2 = {
+				}
+				b_bedford_ave_2 = {
+				}
+				b_hope_st = {
+				}
+				b_fillmore_pl = {
+				}
+				b_river_st = {
+				}
+			}
+		}
+	}
+	k_east_new_york = {
+		color={ 8 71 62 }
+		color2={ 255 255 255 }
+		
+		capital = 128 # c_east_new_york
+		culture = white_american
+		
+		d_east_new_york = {
+			color={ 244 91 52 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 128 province_id = 129 province_id = 130 province_id = 131 province_id = 132 } }
+				}
+			}
+			capital = 128 # c_east_new_york
+			
+			c_east_new_york = { # 128
+				color={ 234 101 47 }
+				color2={ 255 255 255 }
+				
+				b_east_new_york = {
+				}
+				b_new_lots_ave = {
+				}
+				b_pennsylvania_ave = {
+				}
+				b_sutter_ave = {
+				}
+				b_ashford_st = {
+				}
+				b_bradfort_st = {
+				}
+			}
+			c_city_line = { # 131
+				color={ 240 114 35 }
+				color2={ 255 255 255 }
+				
+				b_city_line = {
+				}
+				b_pitkin_ave = {
+				}
+				b_sutter_ave_2 = {
+				}
+				b_conduit_blvd = {
+				}
+				b_euclid_ave = {
+				}
+			}
+			c_cypress_hills = { # 130
+				color={ 198 117 29 }
+				color2={ 255 255 255 }
+				
+				b_cypress_hills = {
+				}
+				b_fulton_st = {
+				}
+				b_logan_st = {
+				}
+				b_jamaica_ave = {
+				}
+				b_ridgewood_ave = {
+				}
+			}
+			c_highland_park = { # 132
+				color={ 213 106 35 }
+				color2={ 255 255 255 }
+				
+				b_highland_park = {
+				}
+				b_atlantic_ave_2 = {
+				}
+				b_arlington_ave = {
+				}
+				b_van_siclen_ave = {
+				}
+				b_cleveland_st = {
+				}
+			}
+			c_penn_ave = { # 129
+				color={ 222 92 40 }
+				color2={ 255 255 255 }
+				
+				b_penn_ave = {
+				}
+				b_alabama_ave = {
+				}
+				b_belmont_ave = {
+				}
+				b_dumont_ave = {
+				}
+				b_georgia_ave = {
+				}
+			}
+		}
+		d_brownsville = {
+			color={ 240 138 76 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 137 province_id = 138 province_id = 139 province_id = 140 } }
+				}
+			}
+			capital = 137 # c_brownsville
+			
+			c_brownsville = { # 137
+				color={ 250 128 81 }
+				color2={ 255 255 255 }
+				
+				b_brownsville = {
+				}
+				b_pitkin_ave_2 = {
+				}
+				b_belmont_ave_2 = {
+				}
+				b_rockaway_ave = {
+				}
+				b_new_york_ave = {
+				}
+				b_dumont_ave_2 = {
+				}
+			}
+			c_broadway_junction = { # 139
+				color={ 248 117 90 }
+				color2={ 255 255 255 }
+				
+				b_broadway_junction = {
+				}
+				b_broadway_4 = {
+				}
+				b_fulton_st_2 = {
+				}
+				b_atlantic_ave_3 = {
+				}
+			}
+			c_ocean_hill = { # 140
+				color={ 237 106 99 }
+				color2={ 255 255 255 }
+				
+				b_ocean_hill = {
+				}
+				b_rockaway_ave_2 = {
+				}
+				b_eastern_pkwy_2 = {
+				}
+				b_hull_st = {
+				}
+			}
+			c_south_brownsville = { # 138
+				color={ 253 138 66 }
+				color2={ 255 255 255 }
+				
+				b_south_brownsville = {
+				}
+				b_livonia_ave = {
+				}
+				b_hegeman_ave = {
+				}
+				b_newport_st = {
+				}
+				b_riverdale_ave = {
+				}
+			}
+		}
+		d_new_lots = {
+			color={ 232 132 47 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 133 province_id = 134 province_id = 135 province_id = 136 } }
+				}
+			}
+			capital = 133 # c_east_new_lots
+			
+			c_east_new_lots = { # 133
+				color={ 242 122 52 }
+				color2={ 255 255 255 }
+				
+				b_east_new_lots = {
+				}
+				b_fountain_ave = {
+				}
+				b_linden_blvd = {
+				}
+				b_wortman_ave = {
+				}
+			}
+			c_spring_creek = { # 136
+				color={ 251 106 46 }
+				color2={ 255 255 255 }
+				
+				b_spring_creek = {
+				}
+				b_vandalia_ave = {
+				}
+				b_erskine_st = {
+				}
+				b_gateway_dr = {
+				}
+			}
+			c_starrett_city = { # 135
+				color={ 244 138 48 }
+				color2={ 255 255 255 }
+				
+				b_starrett_city = {
+				}
+				b_pennsylcania_ave = {
+				}
+				b_louisiana_ave = {
+				}
+			}
+			c_west_new_lots = { # 134
+				color={ 235 128 70 }
+				color2={ 255 255 255 }
+				
+				b_west_new_lots = {
+				}
+				b_linden_blvd_2 = {
+				}
+				b_stanley_ave = {
+				}
+				b_flatlands_ave_3 = {
+				}
+				b_bank_st = {
+				}
+			}
+		}
+	}
+	k_flatbush = {
+		color={ 16 92 25 }
+		color2={ 255 255 255 }
+		
+		capital = 87 # c_flatbush
+		culture = sicilian
+		
+		d_flatbush = {
+			color={ 252 112 15 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 87 province_id = 88 province_id = 89 province_id = 90 province_id = 91 } }
+				}
+			}
+			capital = 87 # c_flatbush
+			
+			c_flatbush = { # 87
+				color={ 242 122 10 }
+				color2={ 255 255 255 }
+				
+				b_flatbush = {
+				}
+				b_ditmas_ave = {
+				}
+				b_coney_island_ave = {
+				}
+				b_glenwood_rd = {
+				}
+				b_ocean_ave_2 = {
+				}
+				b_foster_ave = {
+				}
+			}
+			c_kensington = { # 89
+				color={ 224 147 13 }
+				color2={ 255 255 255 }
+				
+				b_kensington = {
+				}
+				b_church_ave = {
+				}
+				b_mcdonald_ave_2 = {
+				}
+				b_albemarle_rd = {
+				}
+				b_minna_st = {
+				}
+			}
+			c_parkville = { # 88
+				color={ 237 123 31 }
+				color2={ 255 255 255 }
+				
+				b_parkville = {
+				}
+				b_foster_ave_2 = {
+				}
+				b_newkirk_ave = {
+				}
+				b_cortelyou_rd = {
+				}
+			}
+			c_prospect_park_south = { # 91
+				color={ 246 138 9 }
+				color2={ 255 255 255 }
+				
+				b_prospect_park_south = {
+				}
+				b_church_ave_2 = {
+				}
+				b_parkside_ave = {
+				}
+				b_caton_ave = {
+				}
+				b_ocean_ave_3 = {
+				}
+			}
+			c_windsor_terrace = { # 90
+				color={ 213 145 20 }
+				color2={ 255 255 255 }
+				
+				b_windsor_terrace = {
+				}
+				b_prospect_ave_2 = {
+				}
+				b_mcdonald_ave_3 = {
+				}
+				b_prospect_park_west = {
+				}
+				b_terrace_pl = {
+				}
+			}
+		}
+		d_east_flatbush = {
+			color={ 249 52 10 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 92 province_id = 93 province_id = 94 province_id = 95 province_id = 96 } }
+				}
+			}
+			capital = 92 # c_east_flatbush
+			
+			c_east_flatbush = { # 92
+				color={ 239 62 5 }
+				color2={ 255 255 255 }
+				
+				b_east_flatbush = {
+				}
+				b_church_ave_3 = {
+				}
+				b_flatbush_ave = {
+				}
+				b_bedford_ave_4 = {
+				}
+				b_nostrand_ave_2 = {
+				}
+				b_rogers_ave_2 = {
+				}
+			}
+			c_lefferts_gardens = { # 94
+				color={ 207 66 13 }
+				color2={ 255 255 255 }
+				
+				b_lefferts_gardens = {
+				}
+				b_empire_blvd = {
+				}
+				b_clarkson_ave = {
+				}
+				b_flatbush_ave_2 = {
+				}
+				b_nostrand_ave_3 = {
+				}
+			}
+			c_remsen_village = { # 96
+				color={ 222 92 11 }
+				color2={ 255 255 255 }
+				
+				b_remsen_village = {
+				}
+				b_remsen_ave = {
+				}
+				b_avenue_a = {
+				}
+			}
+			c_rugby = { # 95
+				color={ 211 86 2 }
+				color2={ 255 255 255 }
+				
+				b_rugby = {
+				}
+				b_utica_ave_3 = {
+				}
+				b_rutland_rd = {
+				}
+				b_winthrop_st = {
+				}
+			}
+			c_south_flatbush = { # 93
+				color={ 253 24 20 }
+				color2={ 255 255 255 }
+				
+				b_south_flatbush = {
+				}
+				b_clarendon_rd = {
+				}
+				b_foster_ave_3 = {
+				}
+				b_farragut_rd = {
+				}
+				b_avenue_d = {
+				}
+				b_utica_ave_2 = {
+				}
+			}
+		}
+		d_midwood = {
+			color={ 252 16 15 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 97 province_id = 98 province_id = 99 province_id = 100 } }
+				}
+			}
+			capital = 97 # c_midwood
+			
+			c_midwood = { # 97
+				color={ 242 26 10 }
+				color2={ 255 255 255 }
+				
+				b_midwood = {
+				}
+				b_avenue_j = {
+				}
+				b_coney_island_ave_2 = {
+				}
+				b_avenue_l = {
+				}
+			}
+			c_east_midwood = { # 98
+				color={ 237 48 11 }
+				color2={ 255 255 255 }
+				
+				b_east_midwood = {
+				}
+				b_kings_hwy = {
+				}
+				b_bedford_ave_5 = {
+				}
+				b_avenue_m = {
+				}
+			}
+			c_manhattan_terrace = { # 100
+				color={ 218 55 24 }
+				color2={ 255 255 255 }
+				
+				b_manhattan_terrace = {
+				}
+				b_avenue_n = {
+				}
+				b_avenue_o = {
+				}
+				b_kings_hwy_3 = {
+				}
+			}
+			c_south_midwood = { # 99
+				color={ 220 68 4 }
+				color2={ 255 255 255 }
+				
+				b_south_midwood = {
+				}
+				b_coney_island_ave_3 = {
+				}
+				b_kings_hwy_2 = {
+				}
+			}
+		}
+	}
+	k_flatlands = {
+		color={ 206 21 28 }
+		color2={ 255 255 255 }
+		
+		capital = 101 # c_flatlands
+		culture = white_american
+		
+		d_flatlands = {
+			color={ 186 41 18 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 101 province_id = 102 province_id = 103 province_id = 104 province_id = 105 } }
+				}
+			}
+			capital = 101 # c_flatlands
+			
+			c_flatlands = { # 101
+				color={ 176 51 13 }
+				color2={ 255 255 255 }
+				
+				b_flatlands = {
+				}
+				b_flatlands_ave = {
+				}
+				b_kings_hwy_4 = {
+				}
+				b_flatbush_ave_3 = {
+				}
+				b_avenue_l_2 = {
+				}
+				b_avenue_k = {
+				}
+			}
+			c_bergen_beach = { # 104
+				color={ 169 59 37 }
+				color2={ 255 255 255 }
+				
+				b_bergen_beach = {
+				}
+				b_avenue_y = {
+				}
+				b_royce_st = {
+				}
+			}
+			c_georgetown = { # 102
+				color={ 176 24 44 }
+				color2={ 255 255 255 }
+				
+				b_georgetown = {
+				}
+				b_ralph_ave_2 = {
+				}
+				b_bergen_ave = {
+				}
+				b_veterans_ave = {
+				}
+			}
+			c_mill_basin = { # 103
+				color={ 193 84 42 }
+				color2={ 255 255 255 }
+				
+				b_mill_basin = {
+				}
+				b_avenue_n_2 = {
+				}
+				b_flatbush_ave_4 = {
+				}
+				b_avenue_u = {
+				}
+			}
+			c_mill_island = { # 105
+				color={ 187 42 26 }
+				color2={ 255 255 255 }
+				
+				b_mill_island = {
+				}
+				b_strickland_ave = {
+				}
+				b_mayfair_dr = {
+				}
+			}
+		}
+		d_canarsie = {
+			color={ 213 50 41 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 106 province_id = 107 province_id = 108 province_id = 109 province_id = 110 } }
+				}
+			}
+			capital = 106 # c_east_canarsie
+			
+			c_east_canarsie = { # 106
+				color={ 203 60 36 }
+				color2={ 255 255 255 }
+				
+				b_east_canarsie = {
+				}
+				b_avenue_k_2 = {
+				}
+				b_avenue_n_3 = {
+				}
+				b_avenue_j_2 = {
+				}
+				b_avenue_l_3 = {
+				}
+				b_avenue_m_2 = {
+				}
+			}
+			c_canarsie_beach = { # 109
+				color={ 220 42 62 }
+				color2={ 255 255 255 }
+				
+				b_canarsie_beach = {
+				}
+				b_seaview_ave_2 = {
+				}
+				b_canarsie_rd = {
+				}
+			}
+			c_north_canarsie = { # 107
+				color={ 191 48 33 }
+				color2={ 255 255 255 }
+				
+				b_north_canarsie = {
+				}
+				b_rockaway_pkwy = {
+				}
+				b_smiths_ln = {
+				}
+				b_glenwood_rd_2 = {
+				}
+				b_farragut_rd_2 = {
+				}
+			}
+			c_paerdegat_basin = { # 110
+				color={ 202 90 22 }
+				color2={ 255 255 255 }
+				
+				b_paerdegat_basin = {
+				}
+				b_80th_st_2 = {
+				}
+				b_remsen_ave_2 = {
+				}
+				b_paerdegat_ave = {
+				}
+			}
+			c_west_canarsie = { # 108
+				color={ 209 42 24 }
+				color2={ 255 255 255 }
+				
+				b_west_canarsie = {
+				}
+				b_flatlands_ave_2 = {
+				}
+				b_foster_ave_4 = {
+				}
+				b_farragut_rd_3 = {
+				}
+				b_glenwood_rd_3 = {
+				}
+			}
+		}
+		d_marine_park = {
+			color={ 157 5 56 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 111 province_id = 112 province_id = 113 } }
+				}
+			}
+			capital = 111 # c_marine_park
+			
+			c_marine_park = { # 111
+				color={ 147 15 51 }
+				color2={ 255 255 255 }
+				
+				b_marine_park = {
+				}
+				b_quentin_rd = {
+				}
+				b_marine_pkwy = {
+				}
+			}
+			c_barren_island = { # 113
+				color={ 171 9 53 }
+				color2={ 255 255 255 }
+				
+				b_barren_island = {
+				}
+				b_flatbush_ave_6 = {
+				}
+				b_belt_pkwy = {
+				}
+			}
+			c_white_island = { # 112
+				color={ 159 21 36 }
+				color2={ 255 255 255 }
+				
+				b_white_island = {
+				}
+				b_flatbush_ave_5 = {
+				}
+			}
+		}
+	}
+	k_gravesend = {
+		color={ 207 232 14 }
+		color2={ 255 255 255 }
+		
+		capital = 114 # c_coney
+		culture = campanian
+		
+		d_coney_island = {
+			color={ 227 212 24 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 114 province_id = 115 province_id = 116 province_id = 117 province_id = 118 } }
+				}
+			}
+			capital = 114 # c_coney
+			
+			c_coney = { # 114
+				color={ 237 202 29 }
+				color2={ 255 255 255 }
+				
+				b_coney = {
+				}
+				b_surf_ave = {
+				}
+				b_mermaid_ave = {
+				}
+				b_stillwell_ave = {
+				}
+				b_w_17th_st = {
+				}
+			}
+			c_brighton_beach = { # 117
+				color={ 250 154 21 }
+				color2={ 255 255 255 }
+				
+				b_brighton_beach = {
+				}
+				b_brighton_beach_ave = {
+				}
+				b_coney_island_ave_4 = {
+				}
+				b_neptune_ave_2 = {
+				}
+				b_brightwater_ct = {
+				}
+				b_ocean_view_ave = {
+				}
+			}
+			c_manhattan_beach = { # 118
+				color={ 237 167 15 }
+				color2={ 255 255 255 }
+				
+				b_manhattan_beach = {
+				}
+				b_oriental_blvd = {
+				}
+				b_shore_blvd = {
+				}
+				b_west_end_ave = {
+				}
+				b_oxford_st = {
+				}
+			}
+			c_seagate = { # 115
+				color={ 253 134 15 }
+				color2={ 255 255 255 }
+				
+				b_seagate = {
+				}
+				b_neptune_ave = {
+				}
+				b_bayview_ave = {
+				}
+				b_atlantic_ave = {
+				}
+			}
+			c_west_brighton_2 = { # 116
+				color={ 244 187 44 }
+				color2={ 255 255 255 }
+				
+				b_west_brighton_2 = {
+				}
+				b_ocean_pkwy = {
+				}
+				b_ryman_pl = {
+				}
+				b_surf_ave_2 = {
+				}
+				b_w_5th_st = {
+				}
+			}
+		}
+		d_gravesend = {
+			color={ 232 162 21 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 119 province_id = 120 province_id = 121 province_id = 122 } }
+				}
+			}
+			capital = 119 # c_north_gravesend
+			
+			c_north_gravesend = { # 119
+				color={ 242 152 26 }
+				color2={ 255 255 255 }
+				
+				b_north_gravesend = {
+				}
+				b_mcdonald_ave_4 = {
+				}
+				b_gravesend_neck_rd = {
+				}
+				b_avenue_s = {
+				}
+				b_avenue_r = {
+				}
+				b_avenue_u_2 = {
+				}
+			}
+			c_gravesend_waterfront = { # 122
+				color={ 253 125 13 }
+				color2={ 255 255 255 }
+				
+				b_gravesend_waterfront = {
+				}
+				b_cropsey_ave_3 = {
+				}
+				b_bath_ave_2 = {
+				}
+				b_harway_ave = {
+				}
+			}
+			c_south_gravesend = { # 120
+				color={ 215 123 11 }
+				color2={ 255 255 255 }
+				
+				b_south_gravesend = {
+				}
+				b_shell_rd = {
+				}
+				b_avenue_x = {
+				}
+				b_shore_pkwy_2 = {
+				}
+			}
+			c_west_gravesend = { # 121
+				color={ 245 141 8 }
+				color2={ 255 255 255 }
+				
+				b_west_gravesend = {
+				}
+				b_86th_st_3 = {
+				}
+				b_stillwell_ave_2 = {
+				}
+				b_highlawn_ave = {
+				}
+				b_kings_hwy_5 = {
+				}
+				b_avenue_p = {
+				}
+			}
+		}
+		d_sheepshead_bay = {
+			color={ 236 104 26 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 123 province_id = 124 province_id = 125 province_id = 126 province_id = 127 } }
+				}
+			}
+			capital = 123 # c_sheepshead_bay
+			
+			c_sheepshead_bay = { # 123
+				color={ 226 114 21 }
+				color2={ 255 255 255 }
+				
+				b_sheepshead_bay = {
+				}
+				b_sheepshead_bay_rd = {
+				}
+				b_avenue_y_2 = {
+				}
+				b_avenue_z = {
+				}
+				b_avenue_x_2 = {
+				}
+			}
+			c_gerritsen_beach = { # 126
+				color={ 218 134 13 }
+				color2={ 255 255 255 }
+				
+				b_gerritsen_beach = {
+				}
+				b_gerritsen_ave = {
+				}
+				b_knapp_st = {
+				}
+				b_gotham_ave = {
+				}
+			}
+			c_homecrest = { # 124
+				color={ 209 119 31 }
+				color2={ 255 255 255 }
+				
+				b_homecrest = {
+				}
+				b_avenue_u_3 = {
+				}
+				b_coney_island_ave_5 = {
+				}
+				b_avenue_s_2 = {
+				}
+				b_avenue_r_2 = {
+				}
+			}
+			c_madison = { # 127
+				color={ 207 143 18 }
+				color2={ 255 255 255 }
+				
+				b_madison = {
+				}
+				b_avenue_s_3 = {
+				}
+				b_avenue_u_4 = {
+				}
+			}
+			c_sheepshead_beach = { # 125
+				color={ 226 117 42 }
+				color2={ 255 255 255 }
+				
+				b_sheepshead_beach = {
+				}
+				b_emmons_ave = {
+				}
+				b_voorhies_ave = {
+				}
+				b_ocean_ave_4 = {
+				}
+				b_nostrand_ave_4 = {
+				}
+			}
+		}
+	}
+	k_new_utrecht = {
+		color={ 215 10 44 }
+		color2={ 255 255 255 }
+		
+		capital = 72 # c_bay_ridge
+		culture = calabrian
+		
+		d_bay_ridge = {
+			color={ 195 30 34 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 72 province_id = 73 province_id = 74 province_id = 75 province_id = 76 } }
+				}
+			}
+			capital = 72 # c_bay_ridge
+			
+			c_bay_ridge = { # 72
+				color={ 185 40 29 }
+				color2={ 255 255 255 }
+				
+				b_bay_ridge = {
+				}
+				b_5th_ave_6 = {
+				}
+				b_3rd_ave_4 = {
+				}
+				b_7th_ave_4 = {
+				}
+				b_4th_ave_4 = {
+				}
+			}
+			c_bay_ridge_waterfront = { # 73
+				color={ 200 49 21 }
+				color2={ 255 255 255 }
+				
+				b_bay_ridge_waterfront = {
+				}
+				b_colonial_rd = {
+				}
+				b_shore_rd = {
+				}
+				b_bay_ridge_ave = {
+				}
+			}
+			c_dyker_beach = { # 75
+				color={ 196 66 24 }
+				color2={ 255 255 255 }
+				
+				b_dyker_beach = {
+				}
+				b_sterling_dr = {
+				}
+				b_poly_pl = {
+				}
+			}
+			c_dyker_heights = { # 74
+				color={ 193 75 13 }
+				color2={ 255 255 255 }
+				
+				b_dyker_heights = {
+				}
+				b_3rd_ave_5 = {
+				}
+				b_5th_ave_7 = {
+				}
+				b_marine_ave = {
+				}
+				b_86th_st = {
+				}
+				b_fort_hamilton_pkwy = {
+				}
+			}
+			c_fort_hamilton = { # 76
+				color={ 211 75 13 }
+				color2={ 255 255 255 }
+				
+				b_fort_hamilton = {
+				}
+				b_fort_hamilton_pkwy_2 = {
+				}
+				b_13th_ave = {
+				}
+				b_65th_st = {
+				}
+				b_bay_ridge_pkwy = {
+				}
+			}
+		}
+		d_bensonhurst = {
+			color={ 192 26 23 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 77 province_id = 78 province_id = 79 province_id = 80 province_id = 81 } }
+				}
+			}
+			capital = 77 # c_south_bensonhurst
+			
+			c_south_bensonhurst = { # 77
+				color={ 182 36 18 }
+				color2={ 255 255 255 }
+				
+				b_south_bensonhurst = {
+				}
+				b_77th_st = {
+				}
+				b_84th_st = {
+				}
+				b_80th_st = {
+				}
+			}
+			c_east_bath_beach = { # 80
+				color={ 163 35 53 }
+				color2={ 255 255 255 }
+				
+				b_east_bath_beach = {
+				}
+				b_86th_st_2 = {
+				}
+				b_bath_ave = {
+				}
+				b_cropsey_ave = {
+				}
+			}
+			c_east_bensonhurst = { # 78
+				color={ 156 44 35 }
+				color2={ 255 255 255 }
+				
+				b_east_bensonhurst = {
+				}
+				b_18th_ave = {
+				}
+				b_bay_pkwy = {
+				}
+				b_20th_ave = {
+				}
+			}
+			c_west_bath_beach = { # 81
+				color={ 176 31 40 }
+				color2={ 255 255 255 }
+				
+				b_west_bath_beach = {
+				}
+				b_16th_ave_2 = {
+				}
+				b_cropsey_ave_2 = {
+				}
+				b_shore_pkwy = {
+				}
+			}
+			c_west_bensonhurst = { # 79
+				color={ 165 24 29 }
+				color2={ 255 255 255 }
+				
+				b_west_bensonhurst = {
+				}
+				b_16th_ave = {
+				}
+				b_14th_ave = {
+				}
+				b_15th_ave = {
+				}
+			}
+		}
+		d_borough_park = {
+			color={ 190 58 26 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 82 province_id = 83 province_id = 84 province_id = 85 province_id = 86 } }
+				}
+			}
+			capital = 82 # c_south_borough_park
+			
+			c_south_borough_park = { # 82
+				color={ 180 68 21 }
+				color2={ 255 255 255 }
+				
+				b_south_borough_park = {
+				}
+				b_new_utrecht_ave = {
+				}
+				b_60th_st = {
+				}
+				b_57th_st = {
+				}
+				b_65th_st_2 = {
+				}
+				b_55th_st = {
+				}
+			}
+			c_east_borough_park = { # 85
+				color={ 160 53 29 }
+				color2={ 255 255 255 }
+				
+				b_east_borough_park = {
+				}
+				b_16th_ave_3 = {
+				}
+				b_13th_ave_2 = {
+				}
+				b_14th_ave_2 = {
+				}
+				b_48th_st = {
+				}
+			}
+			c_mapleton = { # 86
+				color={ 167 62 15 }
+				color2={ 255 255 255 }
+				
+				b_mapleton = {
+				}
+				b_mcdonald_ave = {
+				}
+				b_dahill_rd = {
+				}
+			}
+			c_north_borough_park = { # 84
+				color={ 165 86 13 }
+				color2={ 255 255 255 }
+				
+				b_north_borough_park = {
+				}
+				b_new_utrecht_ave_2 = {
+				}
+				b_8th_ave_4 = {
+				}
+				b_fort_hamilton_pkwy_4 = {
+				}
+			}
+			c_west_borough_park = { # 83
+				color={ 169 99 13 }
+				color2={ 255 255 255 }
+				
+				b_west_borough_park = {
+				}
+				b_8th_ave_3 = {
+				}
+				b_fort_hamilton_pkwy_3 = {
+				}
+				b_60th_st_2 = {
+				}
+			}
+		}
+	}
+}
+e_manhattan = {
+	color={ 53 43 166 }
+	color2={ 255 255 20 }
+	
+	capital = 314 # c_city_hall
+	culture = white_american
+	
+	k_lower_manhattan = {
+		color={ 43 53 161 }
+		color2={ 255 255 255 }
+		
+		capital = 314 # c_city_hall
+		culture = white_american
+		
+		d_civic_center = {
+			color={ 23 73 151 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 314 province_id = 315 province_id = 316 province_id = 317 } }
+				}
+			}
+			capital = 314 # c_city_hall
+			
+			c_city_hall = { # 314
+				color={ 13 83 146 }
+				color2={ 255 255 255 }
+				
+				b_city_hall = {
+				}
+				b_park_row = {
+				}
+				b_broadway_8 = {
+				}
+				b_chambers_st = {
+				}
+				b_park_pl_2 = {
+				}
+				b_warren_st_2 = {
+				}
+				b_murray_st = {
+				}
+			}
+			c_brooklyn_bridge = { # 316
+				color={ 26 96 146 }
+				color2={ 255 255 255 }
+				
+				b_brooklyn_bridge = {
+				}
+				b_frankfort_st = {
+				}
+				b_avenue_of_the_finest = {
+				}
+				b_dover_st = {
+				}
+				b_pearl_st_2 = {
+				}
+			}
+			c_catherine_slip = { # 317
+				color={ 23 68 128 }
+				color2={ 255 255 255 }
+				
+				b_catherine_slip = {
+				}
+				b_catherine_st = {
+				}
+				b_madison_st = {
+				}
+				b_wagner_pl = {
+				}
+				b_south_st = {
+				}
+			}
+			c_fulton_st = { # 315
+				color={ 18 52 141 }
+				color2={ 255 255 255 }
+				
+				b_fulton_st_3 = {
+				}
+				b_gold_st_2 = {
+				}
+				b_pearl_st = {
+				}
+				b_front_st = {
+				}
+				b_spruce_st = {
+				}
+				b_peck_slip = {
+				}
+				b_beekman_st = {
+				}
+			}
+		}
+		d_chelsea = {
+			color={ 31 32 156 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 329 province_id = 330 province_id = 331 province_id = 332 province_id = 333 province_id = 334 } }
+				}
+			}
+			capital = 329 # c_chelsea_2
+			
+			c_chelsea_2 = { # 329
+				color={ 21 42 151 }
+				color2={ 255 255 255 }
+				
+				b_chelsea_2 = {
+				}
+				b_w_23rd_st = {
+				}
+				b_w_14th_st = {
+				}
+				b_w_20th_st = {
+				}
+				b_w_22nd_st = {
+				}
+				b_w_21st_st = {
+				}
+				b_w_17th_st_2 = {
+				}
+			}
+			c_chelsea_waterfront = { # 330
+				color={ 36 34 141 }
+				color2={ 255 255 255 }
+				
+				b_chelsea_waterfront = {
+				}
+				b_chelsea_piers = {
+				}
+				b_w_23rd_st_2 = {
+				}
+				b_w_21st_st_2 = {
+				}
+				b_w_22nd_st_2 = {
+				}
+				b_w_18th_st = {
+				}
+				b_w_19th_st = {
+				}
+			}
+			c_flatiron_district = { # 332
+				color={ 18 52 143 }
+				color2={ 255 255 255 }
+				
+				b_flatiron_district = {
+				}
+				b_w_23rd_st_3 = {
+				}
+				b_w_22nd_st_3 = {
+				}
+				b_w_25th_st = {
+				}
+				b_w_21st_st_3 = {
+				}
+				b_w_24th_st = {
+				}
+				b_broadway_11 = {
+				}
+			}
+			c_hudson_yards = { # 334
+				color={ 44 60 174 }
+				color2={ 255 255 255 }
+				
+				b_hudson_yards = {
+				}
+				b_w_34th_st = {
+				}
+				b_w_30th_st_2 = {
+				}
+				b_w_23rd_st_4 = {
+				}
+				b_w_26th_st_2 = {
+				}
+				b_w_33rd_st = {
+				}
+				b_w_28th_st_2 = {
+				}
+			}
+			c_tenderloin = { # 333
+				color={ 8 70 174 }
+				color2={ 255 255 255 }
+				
+				b_tenderloin = {
+				}
+				b_w_32nd_st = {
+				}
+				b_w_28th_st = {
+				}
+				b_w_26th_st = {
+				}
+				b_w_30th_st = {
+				}
+				b_w_27th_st = {
+				}
+				b_w_29th_st = {
+				}
+			}
+			c_union_square = { # 331
+				color={ 44 75 130 }
+				color2={ 255 255 255 }
+				
+				b_union_square = {
+				}
+				b_w_14th_st_2 = {
+				}
+				b_w_17th_st_3 = {
+				}
+				b_w_19th_st_2 = {
+				}
+				b_w_16th_st = {
+				}
+				b_w_15th_st = {
+				}
+				b_w_18th_st_2 = {
+				}
+			}
+		}
+		d_financial_district = {
+			color={ 15 71 187 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 318 province_id = 319 province_id = 320 province_id = 321 province_id = 322 } }
+				}
+			}
+			capital = 318 # c_wall_st
+			
+			c_wall_st = { # 318
+				color={ 5 81 182 }
+				color2={ 255 255 255 }
+				
+				b_wall_st = {
+				}
+				b_pine_st = {
+				}
+				b_water_st_3 = {
+				}
+				b_exchange_pl = {
+				}
+				b_william_st = {
+				}
+				b_cedar_st = {
+				}
+				b_pearl_st_3 = {
+				}
+			}
+			c_battery = { # 319
+				color={ 31 109 141 }
+				color2={ 255 255 255 }
+				
+				b_battery = {
+				}
+				b_battery_pl = {
+				}
+				b_little_w_st = {
+				}
+				b_state_st = {
+				}
+				b_1st_pl = {
+				}
+				b_2nd_pl = {
+				}
+			}
+			c_cortlandt_st = { # 322
+				color={ 18 65 164 }
+				color2={ 255 255 255 }
+				
+				b_cortlandt_st = {
+				}
+				b_fulton_st_4 = {
+				}
+				b_liberty_st = {
+				}
+				b_church_st = {
+				}
+				b_greenwich_st = {
+				}
+				b_vesey_st = {
+				}
+				b_dey_st = {
+				}
+			}
+			c_rector_st = { # 321
+				color={ 26 55 151 }
+				color2={ 255 255 255 }
+				
+				b_rector_st = {
+				}
+				b_thames_st = {
+				}
+				b_rector_pl = {
+				}
+				b_south_end_ave = {
+				}
+				b_washington_st_2 = {
+				}
+				b_3rd_pl = {
+				}
+				b_carlisle_st = {
+				}
+			}
+			c_whitehall_st = { # 320
+				color={ 8 78 151 }
+				color2={ 255 255 255 }
+				
+				b_whitehall_st = {
+				}
+				b_water_st_4 = {
+				}
+				b_pearl_st_4 = {
+				}
+				b_broad_st = {
+				}
+				b_beaver_st_2 = {
+				}
+				b_old_slip = {
+				}
+				b_hanover_square = {
+				}
+			}
+		}
+		d_greenwich = {
+			color={ 28 65 148 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 335 province_id = 336 province_id = 337 province_id = 338 province_id = 339 } }
+				}
+			}
+			capital = 335 # c_west_village
+			
+			c_west_village = { # 335
+				color={ 18 75 143 }
+				color2={ 255 255 255 }
+				
+				b_west_village = {
+				}
+				b_bleecker_st_2 = {
+				}
+				b_bedford_st = {
+				}
+				b_macdougal_st = {
+				}
+				b_carmine_st = {
+				}
+				b_downing_st = {
+				}
+				b_jones_st = {
+				}
+			}
+			c_christopher_st = { # 338
+				color={ 18 52 146 }
+				color2={ 255 255 255 }
+				
+				b_christopher_st = {
+				}
+				b_spring_st_3 = {
+				}
+				b_houston_st_2 = {
+				}
+				b_charles_st = {
+				}
+				b_barrow_st = {
+				}
+				b_morton_st = {
+				}
+				b_leroy_st = {
+				}
+			}
+			c_meatpacking_district = { # 336
+				color={ 31 78 154 }
+				color2={ 255 255 255 }
+				
+				b_meatpacking_district = {
+				}
+				b_washington_st_3 = {
+				}
+				b_greenwich_st_2 = {
+				}
+				b_gansevoort_st = {
+				}
+				b_hudson_st = {
+				}
+				b_horatio_st = {
+				}
+				b_jane_st = {
+				}
+			}
+			c_noho = { # 337
+				color={ 26 49 122 }
+				color2={ 255 255 255 }
+				
+				b_noho = {
+				}
+				b_broadway_12 = {
+				}
+				b_lafayette_st_3 = {
+				}
+				b_bleecker_st_3 = {
+				}
+				b_w_3rd_st = {
+				}
+				b_w_4th_st = {
+				}
+				b_bowery_3 = {
+				}
+			}
+			c_washington_square = { # 339
+				color={ 29 60 130 }
+				color2={ 255 255 255 }
+				
+				b_washington_square = {
+				}
+				b_w_8th_st = {
+				}
+				b_w_11th_st = {
+				}
+				b_waverly_pl = {
+				}
+				b_washington_pl = {
+				}
+				b_w_14th_st_3 = {
+				}
+				b_w_9th_st = {
+				}
+			}
+		}
+		d_little_italy = {
+			color={ 46 99 130 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 323 province_id = 324 province_id = 325 province_id = 326 province_id = 327 province_id = 328 } }
+				}
+			}
+			capital = 323 # c_five_points
+			
+			c_five_points = { # 323
+				color={ 36 109 125 }
+				color2={ 255 255 255 }
+				
+				b_five_points = {
+				}
+				b_lafayette_st = {
+				}
+				b_centre_st = {
+				}
+				b_worth_st = {
+				}
+				b_duane_st = {
+				}
+				b_reade_st = {
+				}
+				b_broadway_9 = {
+				}
+			}
+			c_hester_st = { # 324
+				color={ 47 78 117 }
+				color2={ 255 255 255 }
+				
+				b_hester_st = {
+				}
+				b_walker_st_2 = {
+				}
+				b_canal_st_2 = {
+				}
+				b_white_st = {
+				}
+				b_howard_st = {
+				}
+				b_lispenard_st = {
+				}
+				b_leonard_st_2 = {
+				}
+			}
+			c_kenmare_st = { # 326
+				color={ 23 96 143 }
+				color2={ 255 255 255 }
+				
+				b_kenmare_st = {
+				}
+				b_bowery = {
+				}
+				b_grand_st_3 = {
+				}
+				b_broome_st = {
+				}
+				b_spring_st = {
+				}
+				b_mott_st = {
+				}
+				b_mulberry_st = {
+				}
+			}
+			c_mercer_st = { # 327
+				color={ 49 78 146 }
+				color2={ 255 255 255 }
+				
+				b_mercer_st = {
+				}
+				b_broadway_10 = {
+				}
+				b_crosby_st = {
+				}
+				b_lafayette_st_2 = {
+				}
+				b_centre_st_2 = {
+				}
+				b_spring_st_2 = {
+				}
+				b_broome_st_2 = {
+				}
+			}
+			c_prince_st = { # 328
+				color={ 29 86 135 }
+				color2={ 255 255 255 }
+				
+				b_prince_st_3 = {
+				}
+				b_bleecker_st = {
+				}
+				b_mulberry_st_2 = {
+				}
+				b_bowery_2 = {
+				}
+				b_elizabeth_st = {
+				}
+				b_mott_st_2 = {
+				}
+				b_houston_st = {
+				}
+			}
+			c_soho = { # 325
+				color={ 23 91 120 }
+				color2={ 255 255 255 }
+				
+				b_soho = {
+				}
+				b_thompson_st = {
+				}
+				b_sullivan_st = {
+				}
+				b_wooster_st = {
+				}
+				b_greene_st = {
+				}
+				b_w_broadway = {
+				}
+				b_6th_ave_3 = {
+				}
+			}
+		}
+		d_tribeca = {
+			color={ 28 47 159 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 340 province_id = 341 province_id = 342 province_id = 343 province_id = 344 province_id = 345 } }
+				}
+			}
+			capital = 340 # c_chambers_st
+			
+			c_chambers_st = { # 340
+				color={ 18 57 154 }
+				color2={ 255 255 255 }
+				
+				b_chambers_st_2 = {
+				}
+				b_harrison_st = {
+				}
+				b_hudson_st_2 = {
+				}
+				b_jay_st_2 = {
+				}
+				b_duane_st_2 = {
+				}
+				b_reade_st_2 = {
+				}
+				b_broadway_13 = {
+				}
+			}
+			c_franklin_st = { # 341
+				color={ 36 31 133 }
+				color2={ 255 255 255 }
+				
+				b_franklin_st_2 = {
+				}
+				b_laight_st = {
+				}
+				b_hubert_st = {
+				}
+				b_moore_st = {
+				}
+				b_beach_st = {
+				}
+				b_vestry_st = {
+				}
+				b_desbrosses_st = {
+				}
+			}
+			c_hudson_square = { # 344
+				color={ 13 34 143 }
+				color2={ 255 255 255 }
+				
+				b_hudson_square = {
+				}
+				b_spring_st_4 = {
+				}
+				b_vandam_st = {
+				}
+				b_charlton_st = {
+				}
+				b_king_st = {
+				}
+				b_dominick_st = {
+				}
+				b_renwick_st = {
+				}
+			}
+			c_murray_st = { # 345
+				color={ 21 52 122 }
+				color2={ 255 255 255 }
+				
+				b_murray_st_2 = {
+				}
+				b_chambers_st_4 = {
+				}
+				b_river_terrace = {
+				}
+				b_warren_st_3 = {
+				}
+				b_north_end_ave = {
+				}
+				b_greenwich_st_3 = {
+				}
+				b_barclay_st = {
+				}
+			}
+			c_radio_row = { # 343
+				color={ 21 18 125 }
+				color2={ 255 255 255 }
+				
+				b_radio_row = {
+				}
+				b_duane_st_3 = {
+				}
+				b_chambers_st_3 = {
+				}
+				b_worth_st_3 = {
+				}
+				b_thomas_st_2 = {
+				}
+				b_reade_st_3 = {
+				}
+				b_trimble_pl = {
+				}
+			}
+			c_thomas_st = { # 342
+				color={ 13 42 138 }
+				color2={ 255 255 255 }
+				
+				b_thomas_st = {
+				}
+				b_walker_st_3 = {
+				}
+				b_canal_st_3 = {
+				}
+				b_white_st_2 = {
+				}
+				b_franklin_st_3 = {
+				}
+				b_leonard_st_3 = {
+				}
+				b_worth_st_2 = {
+				}
+			}
+		}
+	}
+	k_harlem = {
+		color={ 40 252 101 }
+		color2={ 255 255 255 }
+		
+		capital = 421 # c_west_125th_st_2
+		culture = white_american
+		
+		d_central_harlem = {
+			color={ 20 16 91 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 421 province_id = 422 province_id = 423 province_id = 424 province_id = 425 } }
+				}
+			}
+			capital = 421 # c_west_125th_st_2
+			
+			c_west_125th_st_2 = { # 421
+				color={ 10 26 86 }
+				color2={ 255 255 255 }
+				
+				b_west_125th_st_2 = {
+				}
+				b_w_133rd_st = {
+				}
+				b_w_129th_st_2 = {
+				}
+				b_w_127th_st = {
+				}
+				b_w_134th_st = {
+				}
+				b_lenox_ave = {
+				}
+				b_st_nicholas_ave = {
+				}
+			}
+			c_astor_row = { # 422
+				color={ 8 10 49 }
+				color2={ 255 255 255 }
+				
+				b_astor_row = {
+				}
+				b_w_125th_st = {
+				}
+				b_w_128th_st = {
+				}
+				b_w_130th_st_2 = {
+				}
+				b_w_132nd_st_2 = {
+				}
+				b_w_126th_st_2 = {
+				}
+			}
+			c_central_park_north = { # 424
+				color={ 26 13 78 }
+				color2={ 255 255 255 }
+				
+				b_central_park_north = {
+				}
+				b_w_116th_st_3 = {
+				}
+				b_w_113th_st_2 = {
+				}
+				b_w_115th_st_2 = {
+				}
+				b_w_111th_st_2 = {
+				}
+				b_w_114th_st_2 = {
+				}
+				b_w_112th_st_2 = {
+				}
+			}
+			c_mount_morris_park = { # 423
+				color={ 10 26 68 }
+				color2={ 255 255 255 }
+				
+				b_mount_morris_park = {
+				}
+				b_w_124th_st = {
+				}
+				b_w_120th_st_3 = {
+				}
+				b_w_118th_st_2 = {
+				}
+				b_w_119th_st = {
+				}
+				b_madison_ave = {
+				}
+			}
+			c_west_121st_st = { # 425
+				color={ 3 18 55 }
+				color2={ 255 255 255 }
+				
+				b_west_121st_st = {
+				}
+				b_w_117th_st = {
+				}
+				b_w_123rd_st_3 = {
+				}
+				b_w_118th_st_3 = {
+				}
+				b_w_122nd_st_2 = {
+				}
+				b_w_119th_st_2 = {
+				}
+			}
+		}
+		d_east_harlem = {
+			color={ 52 52 106 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 426 province_id = 427 province_id = 428 province_id = 429 province_id = 430 province_id = 431 } }
+				}
+			}
+			capital = 426 # c_east_125th_st
+			
+			c_east_125th_st = { # 426
+				color={ 42 62 101 }
+				color2={ 255 255 255 }
+				
+				b_east_125th_st = {
+				}
+				b_e_124th_st = {
+				}
+				b_e_129th_st = {
+				}
+				b_e_127th_st = {
+				}
+				b_e_128th_st = {
+				}
+				b_e_126th_st = {
+				}
+			}
+			c_east_116th_st = { # 430
+				color={ 39 44 104 }
+				color2={ 255 255 255 }
+				
+				b_east_116th_st = {
+				}
+				b_w_116th_st_4 = {
+				}
+				b_w_113th_st_3 = {
+				}
+				b_w_115th_st_3 = {
+				}
+				b_w_111th_st_3 = {
+				}
+				b_w_114th_st_3 = {
+				}
+				b_w_112th_st_3 = {
+				}
+			}
+			c_east_120th_st = { # 429
+				color={ 49 49 86 }
+				color2={ 255 255 255 }
+				
+				b_east_120th_st = {
+				}
+				b_e_119th_st_2 = {
+				}
+				b_e_123rd_st = {
+				}
+				b_e_121st_st = {
+				}
+				b_e_122nd_st = {
+				}
+				b_park_ave_3 = {
+				}
+				b_3rd_ave_11 = {
+				}
+			}
+			c_east_124th_st = { # 427
+				color={ 60 36 104 }
+				color2={ 255 255 255 }
+				
+				b_east_124th_st = {
+				}
+				b_e_125th_st = {
+				}
+				b_e_127th_st_2 = {
+				}
+				b_harlem_river_dr = {
+				}
+				b_e_126th_st_2 = {
+				}
+				b_paladino_ave = {
+				}
+			}
+			c_harlem_river_park = { # 431
+				color={ 52 57 73 }
+				color2={ 255 255 255 }
+				
+				b_harlem_river_park = {
+				}
+				b_e_135th_st = {
+				}
+				b_e_138th_st = {
+				}
+				b_e_132nd_st = {
+				}
+				b_e_131st_st = {
+				}
+			}
+			c_pleasant_ave = { # 428
+				color={ 57 39 78 }
+				color2={ 255 255 255 }
+				
+				b_pleasant_ave = {
+				}
+				b_e_116th_st = {
+				}
+				b_e_120th_st = {
+				}
+				b_e_111th_st = {
+				}
+				b_e_115th_st = {
+				}
+				b_e_118th_st = {
+				}
+				b_e_119th_st = {
+				}
+			}
+		}
+		d_hamilton_heights = {
+			color={ 18 6 75 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 442 province_id = 443 province_id = 444 province_id = 445 } }
+				}
+			}
+			capital = 442 # c_hamilton_heights
+			
+			c_hamilton_heights = { # 442
+				color={ 8 16 70 }
+				color2={ 255 255 255 }
+				
+				b_hamilton_heights = {
+				}
+				b_w_135th_st = {
+				}
+				b_w_133rd_st_2 = {
+				}
+				b_w_141st_st = {
+				}
+				b_w_139th_st = {
+				}
+				b_w_140th_st = {
+				}
+				b_w_136th_st = {
+				}
+			}
+			c_riverbank = { # 444
+				color={ 0 0 60 }
+				color2={ 255 255 255 }
+				
+				b_riverbank = {
+				}
+				b_w_135th_st_2 = {
+				}
+				b_w_129th_st_3 = {
+				}
+				b_w_142nd_st = {
+				}
+				b_w_138th_st = {
+				}
+				b_w_133rd_st_3 = {
+				}
+			}
+			c_sugar_hill = { # 443
+				color={ 5 8 55 }
+				color2={ 255 255 255 }
+				
+				b_sugar_hill = {
+				}
+				b_w_145th_st = {
+				}
+				b_w_155th_st = {
+				}
+				b_w_150th_st = {
+				}
+				b_w_148th_st = {
+				}
+				b_w_152nd_st = {
+				}
+			}
+			c_west_155th_st = { # 445
+				color={ 5 13 88 }
+				color2={ 255 255 255 }
+				
+				b_west_155th_st = {
+				}
+				b_w_145th_st_2 = {
+				}
+				b_w_153rd_st = {
+				}
+				b_w_149th_st = {
+				}
+				b_w_147th_st = {
+				}
+				b_w_151st_st = {
+				}
+			}
+		}
+		d_north_harlem = {
+			color={ 57 254 117 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 432 province_id = 433 province_id = 434 province_id = 435 province_id = 436 } }
+				}
+			}
+			capital = 432 # c_east_135th_st
+			
+			c_east_135th_st = { # 432
+				color={ 47 8 112 }
+				color2={ 255 255 255 }
+				
+				b_east_135th_st = {
+				}
+				b_e_136th_st = {
+				}
+				b_e_137th_st = {
+				}
+				b_edgecombe_ave = {
+				}
+				b_douglass_blvd = {
+				}
+				b_malcolm_x_blvd = {
+				}
+			}
+			c_east_142nd_st = { # 435
+				color={ 34 23 83 }
+				color2={ 255 255 255 }
+				
+				b_east_142nd_st = {
+				}
+				b_e_140th_st_2 = {
+				}
+				b_e_139th_st_2 = {
+				}
+				b_e_141st_st_3 = {
+				}
+				b_e_138th_st_3 = {
+				}
+			}
+			c_east_145th_st = { # 434
+				color={ 16 23 86 }
+				color2={ 255 255 255 }
+				
+				b_east_145th_st = {
+				}
+				b_e_141st_st_2 = {
+				}
+				b_e_146th_st = {
+				}
+				b_e_144th_st = {
+				}
+				b_e_142nd_st = {
+				}
+				b_e_143rd_st = {
+				}
+			}
+			c_east_150th_st = { # 436
+				color={ 44 13 99 }
+				color2={ 255 255 255 }
+				
+				b_east_150th_st = {
+				}
+				b_e_154th_st = {
+				}
+				b_e_149th_st = {
+				}
+				b_e_147th_st = {
+				}
+				b_e_152nd_st = {
+				}
+				b_e_151st_st = {
+				}
+				b_e_148th_st = {
+				}
+			}
+			c_strivers_row = { # 433
+				color={ 31 21 117 }
+				color2={ 255 255 255 }
+				
+				b_strivers_row = {
+				}
+				b_e_138th_st_2 = {
+				}
+				b_e_141st_st = {
+				}
+				b_e_139th_st = {
+				}
+				b_e_140th_st = {
+				}
+			}
+		}
+		d_randalls_and_wards_island = {
+			color={ 33 16 70 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 446 province_id = 447 } }
+				}
+			}
+			capital = 446 # c_randalls_island
+			
+			c_randalls_island = { # 446
+				color={ 23 26 65 }
+				color2={ 255 255 255 }
+				
+				b_randalls_island = {
+				}
+				b_central_rd = {
+				}
+				b_reilly_blvd = {
+				}
+			}
+			c_wards_island = { # 447
+				color={ 13 47 75 }
+				color2={ 255 255 255 }
+				
+				b_wards_island = {
+				}
+				b_hell_gate_cir = {
+				}
+				b_east_river_ln = {
+				}
+			}
+		}
+		d_south_harlem = {
+			color={ 31 42 83 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 437 province_id = 438 province_id = 439 province_id = 440 province_id = 441 } }
+				}
+			}
+			capital = 437 # c_east_102nd_st
+			
+			c_east_102nd_st = { # 437
+				color={ 21 52 78 }
+				color2={ 255 255 255 }
+				
+				b_east_102nd_st = {
+				}
+				b_e_97th_st = {
+				}
+				b_e_99th_st = {
+				}
+				b_e_100th_st = {
+				}
+				b_e_98th_st = {
+				}
+				b_e_101st_st = {
+				}
+				b_park_ave_4 = {
+				}
+			}
+			c_east_106th_st = { # 439
+				color={ 13 34 60 }
+				color2={ 255 255 255 }
+				
+				b_east_106th_st = {
+				}
+				b_e_104th_st = {
+				}
+				b_e_109th_st = {
+				}
+				b_e_107th_st = {
+				}
+				b_e_105th_st = {
+				}
+				b_e_108th_st = {
+				}
+				b_e_103rd_st = {
+				}
+			}
+			c_east_110th_st = { # 440
+				color={ 34 16 83 }
+				color2={ 255 255 255 }
+				
+				b_east_110th_st = {
+				}
+				b_e_106th_st = {
+				}
+				b_e_104th_st_2 = {
+				}
+				b_e_108th_st_2 = {
+				}
+				b_e_109th_st_2 = {
+				}
+				b_e_107th_st_2 = {
+				}
+			}
+			c_east_97th_st = { # 438
+				color={ 21 26 55 }
+				color2={ 255 255 255 }
+				
+				b_east_97th_st = {
+				}
+				b_e_102nd_st = {
+				}
+				b_103rd_st = {
+				}
+				b_e_101st_st_2 = {
+				}
+				b_e_98th_st_2 = {
+				}
+				b_e_99th_st_2 = {
+				}
+			}
+			c_south_harlem_waterfront = { # 441
+				color={ 16 29 83 }
+				color2={ 255 255 255 }
+				
+				b_south_harlem_waterfront = {
+				}
+				b_e_106th_st_2 = {
+				}
+				b_e_102nd_st_2 = {
+				}
+				b_e_110th_st = {
+				}
+				b_e_99th_st_3 = {
+				}
+				b_e_105th_st_2 = {
+				}
+				b_e_107th_st_3 = {
+				}
+			}
+		}
+	}
+	k_lower_east_side = {
+		color={ 64 58 153 }
+		color2={ 255 255 255 }
+		
+		capital = 346 # c_central_bowery
+		culture = sicilian
+		
+		d_lower_east_side = {
+			color={ 44 78 143 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 346 province_id = 347 province_id = 348 province_id = 349 province_id = 350 province_id = 351 } }
+				}
+			}
+			capital = 346 # c_central_bowery
+			
+			c_central_bowery = { # 346
+				color={ 34 88 138 }
+				color2={ 255 255 255 }
+				
+				b_central_bowery = {
+				}
+				b_rivington_st = {
+				}
+				b_stanton_st = {
+				}
+				b_houston_st_3 = {
+				}
+				b_delancey_st = {
+				}
+				b_forsyth_st = {
+				}
+				b_chrystie_st = {
+				}
+			}
+			c_allen_st = { # 350
+				color={ 26 86 128 }
+				color2={ 255 255 255 }
+				
+				b_allen_st = {
+				}
+				b_rivington_st_2 = {
+				}
+				b_stanton_st_2 = {
+				}
+				b_orchard_st = {
+				}
+				b_ludlow_st = {
+				}
+				b_grand_st_4 = {
+				}
+				b_houston_st_4 = {
+				}
+			}
+			c_east_broadway = { # 348
+				color={ 39 117 125 }
+				color2={ 255 255 255 }
+				
+				b_east_broadway = {
+				}
+				b_montgomery_st_2 = {
+				}
+				b_madison_st_3 = {
+				}
+				b_henry_st_2 = {
+				}
+				b_water_st_5 = {
+				}
+				b_jefferson_st = {
+				}
+				b_jackson_st = {
+				}
+			}
+			c_essex_st = { # 351
+				color={ 18 112 154 }
+				color2={ 255 255 255 }
+				
+				b_essex_st = {
+				}
+				b_norfolk_st = {
+				}
+				b_suffolk_st = {
+				}
+				b_ridge_st = {
+				}
+				b_pitt_st = {
+				}
+				b_attorney_st = {
+				}
+				b_clinton_st = {
+				}
+			}
+			c_manhattan_bridge = { # 347
+				color={ 21 114 143 }
+				color2={ 255 255 255 }
+				
+				b_manhattan_bridge = {
+				}
+				b_pike_st = {
+				}
+				b_e_broadway = {
+				}
+				b_madison_st_2 = {
+				}
+				b_cherry_st = {
+				}
+				b_division_st = {
+				}
+				b_rutgers_st = {
+				}
+			}
+			c_williamsburg_bridge = { # 349
+				color={ 31 104 128 }
+				color2={ 255 255 255 }
+				
+				b_williamsburg_bridge = {
+				}
+				b_columbia_st_2 = {
+				}
+				b_lewis_st = {
+				}
+				b_delancey_st_2 = {
+				}
+				b_mangin_st = {
+				}
+				b_broome_st_3 = {
+				}
+			}
+		}
+		d_chinatown = {
+			color={ 57 115 164 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 459 province_id = 460 province_id = 461 province_id = 462 province_id = 463 } }
+				}
+			}
+			capital = 459 # c_pell_st
+			
+			c_pell_st = { # 459
+				color={ 47 125 159 }
+				color2={ 255 255 255 }
+				
+				b_pell_st = {
+				}
+				b_doyers_st = {
+				}
+				b_elizabeth_st_2 = {
+				}
+				b_division_st_2 = {
+				}
+				b_bayard_st = {
+				}
+				b_forsyth_st_2 = {
+				}
+				b_eldridge_st = {
+				}
+			}
+			c_mott_st = { # 460
+				color={ 62 96 151 }
+				color2={ 255 255 255 }
+				
+				b_mott_st_3 = {
+				}
+				b_mulberry_st_3 = {
+				}
+				b_elizabeth_st_3 = {
+				}
+				b_canal_st_4 = {
+				}
+				b_mosco_st = {
+				}
+				b_baxter_st = {
+				}
+				b_hogan_pl = {
+				}
+			}
+			c_seward_park = { # 463
+				color={ 60 141 167 }
+				color2={ 255 255 255 }
+				
+				b_seward_park = {
+				}
+				b_ludlow_st_2 = {
+				}
+				b_orchard_st_2 = {
+				}
+				b_division_st_3 = {
+				}
+				b_canal_st_5 = {
+				}
+				b_hester_st_2 = {
+				}
+				b_grand_st_6 = {
+				}
+			}
+			c_south_bowery = { # 462
+				color={ 26 104 146 }
+				color2={ 255 255 255 }
+				
+				b_south_bowery = {
+				}
+				b_delancey_st_3 = {
+				}
+				b_grand_st_5 = {
+				}
+				b_broome_st_4 = {
+				}
+				b_chrystie_st_2 = {
+				}
+				b_forsyth_st_3 = {
+				}
+				b_eldridge_st_2 = {
+				}
+			}
+			c_two_bridges = { # 461
+				color={ 62 107 169 }
+				color2={ 255 255 255 }
+				
+				b_two_bridges = {
+				}
+				b_cherry_st_2 = {
+				}
+				b_water_st_6 = {
+				}
+				b_monroe_st = {
+				}
+				b_market_st_3 = {
+				}
+				b_madison_st_4 = {
+				}
+			}
+		}
+		d_east_village = {
+			color={ 28 89 182 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 352 province_id = 353 province_id = 354 province_id = 355 province_id = 356 } }
+				}
+			}
+			capital = 352 # c_east_village
+			
+			c_east_village = { # 352
+				color={ 18 99 177 }
+				color2={ 255 255 255 }
+				
+				b_east_village = {
+				}
+				b_e_9th_st = {
+				}
+				b_e_13th_st = {
+				}
+				b_e_14th_st = {
+				}
+				b_e_10th_st = {
+				}
+				b_e_11th_st = {
+				}
+				b_e_12th_st = {
+				}
+			}
+			c_alphabet_city = { # 353
+				color={ 13 81 174 }
+				color2={ 255 255 255 }
+				
+				b_alphabet_city = {
+				}
+				b_e_6th_st = {
+				}
+				b_e_10th_st_2 = {
+				}
+				b_e_13th_st_2 = {
+				}
+				b_e_3rd_st = {
+				}
+				b_e_7th_st = {
+				}
+				b_e_11th_st_2 = {
+				}
+			}
+			c_east_4th_st = { # 356
+				color={ 29 88 159 }
+				color2={ 255 255 255 }
+				
+				b_east_4th_st = {
+				}
+				b_e_houston_st = {
+				}
+				b_e_2nd_st = {
+				}
+				b_e_3rd_st_2 = {
+				}
+				b_e_1st_st_2 = {
+				}
+				b_e_5th_st_2 = {
+				}
+				b_avenue_a_2 = {
+				}
+			}
+			c_north_bowery = { # 355
+				color={ 10 117 185 }
+				color2={ 255 255 255 }
+				
+				b_north_bowery = {
+				}
+				b_e_8th_st = {
+				}
+				b_e_1st_st = {
+				}
+				b_e_7th_st_3 = {
+				}
+				b_e_4th_st = {
+				}
+				b_e_5th_st = {
+				}
+				b_e_6th_st_3 = {
+				}
+			}
+			c_tompkins_square = { # 354
+				color={ 13 122 164 }
+				color2={ 255 255 255 }
+				
+				b_tompkins_square = {
+				}
+				b_e_10th_st_3 = {
+				}
+				b_e_7th_st_2 = {
+				}
+				b_e_6th_st_2 = {
+				}
+				b_e_11th_st_3 = {
+				}
+				b_e_12th_st_2 = {
+				}
+				b_e_9th_st_2 = {
+				}
+			}
+		}
+		d_gramercy = {
+			color={ 46 86 169 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 357 province_id = 358 province_id = 359 province_id = 360 province_id = 361 } }
+				}
+			}
+			capital = 357 # c_gramercy_park
+			
+			c_gramercy_park = { # 357
+				color={ 36 96 164 }
+				color2={ 255 255 255 }
+				
+				b_gramercy_park = {
+				}
+				b_e_14th_st_2 = {
+				}
+				b_e_23rd_st = {
+				}
+				b_e_20th_st = {
+				}
+				b_e_17th_st = {
+				}
+				b_e_18th_st = {
+				}
+				b_e_22nd_st = {
+				}
+			}
+			c_gas_house_district = { # 358
+				color={ 36 81 146 }
+				color2={ 255 255 255 }
+				
+				b_gas_house_district = {
+				}
+				b_e_20th_st_2 = {
+				}
+				b_e_15th_st = {
+				}
+				b_e_14th_st_3 = {
+				}
+				b_e_16th_st = {
+				}
+				b_e_17th_st_2 = {
+				}
+				b_e_18th_st_2 = {
+				}
+			}
+			c_kips_bay = { # 359
+				color={ 31 86 154 }
+				color2={ 255 255 255 }
+				
+				b_kips_bay = {
+				}
+				b_e_23rd_st_2 = {
+				}
+				b_e_22nd_st_2 = {
+				}
+				b_e_20th_st_3 = {
+				}
+				b_e_21st_st = {
+				}
+				b_e_24th_st = {
+				}
+				b_e_25th_st = {
+				}
+			}
+			c_rose_hill = { # 361
+				color={ 26 75 159 }
+				color2={ 255 255 255 }
+				
+				b_rose_hill = {
+				}
+				b_e_23rd_st_3 = {
+				}
+				b_e_26th_st = {
+				}
+				b_e_27th_st = {
+				}
+				b_e_25th_st_2 = {
+				}
+				b_e_24th_st_2 = {
+				}
+				b_e_28th_st = {
+				}
+			}
+			c_stuyvesant_square = { # 360
+				color={ 49 70 148 }
+				color2={ 255 255 255 }
+				
+				b_stuyvesant_square = {
+				}
+				b_e_16th_st_2 = {
+				}
+				b_e_18th_st_3 = {
+				}
+				b_e_17th_st_3 = {
+				}
+				b_e_15th_st_2 = {
+				}
+				b_e_14th_st_4 = {
+				}
+				b_e_19th_st = {
+				}
+			}
+		}
+	}
+	k_manhattan_heights = {
+		color={ 38 247 137 }
+		color2={ 255 255 255 }
+		
+		capital = 448 # c_highbridge_park
+		culture = white_american
+		
+		d_washington_heights = {
+			color={ 18 11 127 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 448 province_id = 449 province_id = 450 province_id = 451 } }
+				}
+			}
+			capital = 448 # c_highbridge_park
+			
+			c_highbridge_park = { # 448
+				color={ 8 21 122 }
+				color2={ 255 255 255 }
+				
+				b_highbridge_park = {
+				}
+				b_st_nicholas_ave_2 = {
+				}
+				b_amsterdam_ave = {
+				}
+				b_edgecombe_ave_2 = {
+				}
+			}
+			c_east_160th_st = { # 450
+				color={ 16 3 104 }
+				color2={ 255 255 255 }
+				
+				b_east_160th_st = {
+				}
+				b_amsterdam_ave_2 = {
+				}
+				b_harlem_river_dr_2 = {
+				}
+				b_st_nicholas_ave_3 = {
+				}
+			}
+			c_west_160th_st = { # 449
+				color={ 3 29 128 }
+				color2={ 255 255 255 }
+				
+				b_west_160th_st = {
+				}
+				b_riverside_dr_2 = {
+				}
+				b_fort_washington_ave = {
+				}
+				b_broadway_15 = {
+				}
+			}
+			c_west_175th_st = { # 451
+				color={ 13 5 112 }
+				color2={ 255 255 255 }
+				
+				b_west_175th_st = {
+				}
+				b_haven_ave = {
+				}
+				b_broadway_16 = {
+				}
+				b_fort_washington_ave_2 = {
+				}
+			}
+		}
+		d_hudson_heights = {
+			color={ 13 16 133 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 452 province_id = 453 province_id = 454 province_id = 455 } }
+				}
+			}
+			capital = 452 # c_hudson_heights
+			
+			c_hudson_heights = { # 452
+				color={ 3 26 128 }
+				color2={ 255 255 255 }
+				
+				b_hudson_heights = {
+				}
+				b_181st_st = {
+				}
+				b_bennett_ave = {
+				}
+				b_cabrini_blvd = {
+				}
+			}
+			c_fort_george = { # 453
+				color={ 0 0 99 }
+				color2={ 255 255 255 }
+				
+				b_fort_george = {
+				}
+				b_henry_hudson_pkwy = {
+				}
+				b_sherman_ave = {
+				}
+			}
+			c_fort_george_hill = { # 454
+				color={ 16 10 75 }
+				color2={ 255 255 255 }
+				
+				b_fort_george_hill = {
+				}
+				b_nagle_ave = {
+				}
+				b_hillside_ave_3 = {
+				}
+				b_ocean = {
+				}
+				b_459_0 = {
+				}
+				b_0_0 = {
+				}
+				b_217_0 = {
+				}
+				b_255_0 = {
+				}
+				b_atlantic = {
+				}
+				b_river = {
+				}
+				b_ocean_2 = {
+				}
+				b_0_0_2 = {
+				}
+			}
+			c_laurel_hill_terace = { # 455
+				color={ 16 3 109 }
+				color2={ 255 255 255 }
+				
+				b_laurel_hill_terace = {
+				}
+				b_wadsworth_ave = {
+				}
+				b_st_nicholas_ave_4 = {
+				}
+				b_amsterdam_ave_3 = {
+				}
+				b_460_0 = {
+				}
+				b_31_0 = {
+				}
+				b_107_0 = {
+				}
+				b_247_0 = {
+				}
+				b_huguenot_coast = {
+				}
+				b_river_2 = {
+				}
+				b_ocean_3 = {
+				}
+				b_0_0_3 = {
+				}
+			}
+		}
+		d_inwood = {
+			color={ 23 11 148 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 456 province_id = 457 province_id = 458 } }
+				}
+			}
+			capital = 456 # c_dyckman_st
+			
+			c_dyckman_st = { # 456
+				color={ 13 21 143 }
+				color2={ 255 255 255 }
+				
+				b_dyckman_st = {
+				}
+				b_vermilyea_ave = {
+				}
+				b_post_ave_2 = {
+				}
+				b_461_0 = {
+				}
+				b_41_0 = {
+				}
+				b_193_0 = {
+				}
+				b_196_0 = {
+				}
+				b_bay_entrance = {
+				}
+				b_river_3 = {
+				}
+				b_ocean_4 = {
+				}
+				b_0_0_4 = {
+				}
+			}
+			c_inwood_hill = { # 458
+				color={ 5 36 117 }
+				color2={ 255 255 255 }
+				
+				b_inwood_hill = {
+				}
+				b_indian_rd = {
+				}
+				b_payson_ave = {
+				}
+				b_463_0 = {
+				}
+				b_26_0 = {
+				}
+				b_107_0_2 = {
+				}
+				b_186_0 = {
+				}
+				b_kill = {
+				}
+				b_river_5 = {
+				}
+				b_ocean_6 = {
+				}
+				b_0_0_6 = {
+				}
+			}
+			c_west_215th_st = { # 457
+				color={ 21 44 161 }
+				color2={ 255 255 255 }
+				
+				b_west_215th_st = {
+				}
+				b_park_terrace = {
+				}
+				b_10th_ave = {
+				}
+				b_462_0 = {
+				}
+				b_10_0 = {
+				}
+				b_176_0 = {
+				}
+				b_230_0 = {
+				}
+				b_jamaica_bay = {
+				}
+				b_river_4 = {
+				}
+				b_ocean_5 = {
+				}
+				b_0_0_5 = {
+				}
+			}
+		}
+	}
+	k_midtown = {
+		color={ 46 247 124 }
+		color2={ 255 255 255 }
+		
+		capital = 362 # c_times_square
+		culture = white_american
+		
+		d_midtown = {
+			color={ 26 11 114 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 362 province_id = 363 province_id = 364 province_id = 365 province_id = 366 } }
+				}
+			}
+			capital = 362 # c_times_square
+			
+			c_times_square = { # 362
+				color={ 16 21 109 }
+				color2={ 255 255 255 }
+				
+				b_times_square = {
+				}
+				b_w_42nd_st = {
+				}
+				b_w_50th_st = {
+				}
+				b_w_46th_st = {
+				}
+				b_w_48th_st = {
+				}
+				b_w_44th_st = {
+				}
+				b_w_47th_st = {
+				}
+			}
+			c_diamond_district = { # 366
+				color={ 8 18 83 }
+				color2={ 255 255 255 }
+				
+				b_diamond_district = {
+				}
+				b_w_42nd_st_3 = {
+				}
+				b_w_45th_st = {
+				}
+				b_w_48th_st_2 = {
+				}
+				b_w_43rd_st = {
+				}
+				b_w_47th_st_2 = {
+				}
+				b_w_44th_st_2 = {
+				}
+			}
+			c_garment_district = { # 365
+				color={ 23 8 78 }
+				color2={ 255 255 255 }
+				
+				b_garment_district = {
+				}
+				b_w_34th_st_3 = {
+				}
+				b_w_42nd_st_2 = {
+				}
+				b_w_38th_st_2 = {
+				}
+				b_w_36th_st_2 = {
+				}
+				b_w_35th_st = {
+				}
+				b_w_37th_st = {
+				}
+			}
+			c_herald_square = { # 364
+				color={ 5 26 117 }
+				color2={ 255 255 255 }
+				
+				b_herald_square = {
+				}
+				b_w_40th_st = {
+				}
+				b_w_34th_st_2 = {
+				}
+				b_w_36th_st = {
+				}
+				b_w_38th_st = {
+				}
+				b_w_39th_st = {
+				}
+				b_w_41st_st = {
+				}
+			}
+			c_west_59th_st = { # 363
+				color={ 42 3 112 }
+				color2={ 255 255 255 }
+				
+				b_west_59th_st = {
+				}
+				b_w_50th_st_2 = {
+				}
+				b_w_54th_st = {
+				}
+				b_w_51st_st = {
+				}
+				b_w_56th_st = {
+				}
+				b_w_58th_st = {
+				}
+				b_w_55th_st = {
+				}
+			}
+		}
+		d_hells_kitchen = {
+			color={ 20 39 117 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 367 province_id = 368 province_id = 369 province_id = 370 province_id = 371 } }
+				}
+			}
+			capital = 367 # c_west_47th_st
+			
+			c_west_47th_st = { # 367
+				color={ 10 49 112 }
+				color2={ 255 255 255 }
+				
+				b_west_47th_st = {
+				}
+				b_w_48th_st_3 = {
+				}
+				b_w_46th_st_2 = {
+				}
+				b_w_44th_st_3 = {
+				}
+				b_w_45th_st_2 = {
+				}
+				b_w_49th_st = {
+				}
+				b_w_43rd_st_2 = {
+				}
+			}
+			c_strikers_lane = { # 368
+				color={ 8 8 49 }
+				color2={ 255 255 255 }
+				
+				b_strikers_lane = {
+				}
+				b_w_54th_st_2 = {
+				}
+				b_w_59th_st = {
+				}
+				b_w_57th_st = {
+				}
+				b_w_55th_st_2 = {
+				}
+				b_w_53rd_st = {
+				}
+				b_w_58th_st_2 = {
+				}
+			}
+			c_west_34th_st = { # 370
+				color={ 13 16 81 }
+				color2={ 255 255 255 }
+				
+				b_west_34th_st = {
+				}
+				b_w_39th_st_2 = {
+				}
+				b_w_36th_st_3 = {
+				}
+				b_w_37th_st_2 = {
+				}
+				b_w_35th_st_2 = {
+				}
+				b_w_38th_st_3 = {
+				}
+				b_hudson_blvd = {
+				}
+			}
+			c_west_42nd_st = { # 371
+				color={ 5 0 57 }
+				color2={ 255 255 255 }
+				
+				b_west_42nd_st = {
+				}
+				b_w_41st_st_2 = {
+				}
+				b_w_43rd_st_3 = {
+				}
+				b_w_40th_st_2 = {
+				}
+				b_dyer_ave = {
+				}
+				b_river_pl = {
+				}
+				b_galvin_ave = {
+				}
+			}
+			c_west_50th_st = { # 369
+				color={ 0 5 65 }
+				color2={ 255 255 255 }
+				
+				b_west_50th_st = {
+				}
+				b_w_51st_st_2 = {
+				}
+				b_w_52nd_st = {
+				}
+				b_w_57th_st_2 = {
+				}
+				b_w_54th_st_3 = {
+				}
+				b_w_56th_st_2 = {
+				}
+				b_w_55th_st_3 = {
+				}
+			}
+		}
+		d_murray_hill = {
+			color={ 28 254 93 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 377 province_id = 378 province_id = 379 province_id = 380 province_id = 381 } }
+				}
+			}
+			capital = 377 # c_lower_murray_hill
+			
+			c_lower_murray_hill = { # 377
+				color={ 18 8 88 }
+				color2={ 255 255 255 }
+				
+				b_lower_murray_hill = {
+				}
+				b_e_30th_st = {
+				}
+				b_e_28th_st_2 = {
+				}
+				b_e_33rd_st = {
+				}
+				b_e_29th_st = {
+				}
+				b_e_31st_st = {
+				}
+				b_e_32nd_st = {
+				}
+			}
+			c_greeley_square = { # 381
+				color={ 3 5 73 }
+				color2={ 255 255 255 }
+				
+				b_greeley_square = {
+				}
+				b_e_32nd_st_3 = {
+				}
+				b_e_29th_st_3 = {
+				}
+				b_e_30th_st_3 = {
+				}
+				b_e_31st_st_3 = {
+				}
+				b_e_28th_st_3 = {
+				}
+				b_e_33rd_st_3 = {
+				}
+			}
+			c_murray_hill_waterfront = { # 379
+				color={ 5 3 109 }
+				color2={ 255 255 255 }
+				
+				b_murray_hill_waterfront = {
+				}
+				b_e_34th_st = {
+				}
+				b_e_30th_st_2 = {
+				}
+				b_e_29th_st_2 = {
+				}
+				b_e_32nd_st_2 = {
+				}
+				b_e_31st_st_2 = {
+				}
+				b_e_33rd_st_2 = {
+				}
+			}
+			c_tudor_city = { # 380
+				color={ 8 13 83 }
+				color2={ 255 255 255 }
+				
+				b_tudor_city = {
+				}
+				b_e_42nd_st_3 = {
+				}
+				b_e_36th_st_2 = {
+				}
+				b_e_41st_st_2 = {
+				}
+				b_e_39th_st_2 = {
+				}
+				b_e_40th_st_2 = {
+				}
+				b_e_37th_st = {
+				}
+			}
+			c_upper_murray_hill = { # 378
+				color={ 10 16 99 }
+				color2={ 255 255 255 }
+				
+				b_upper_murray_hill = {
+				}
+				b_e_42nd_st_2 = {
+				}
+				b_e_38th_st = {
+				}
+				b_e_40th_st = {
+				}
+				b_e_36th_st = {
+				}
+				b_e_39th_st = {
+				}
+				b_e_41st_st = {
+				}
+			}
+		}
+		d_turtle_bay = {
+			color={ 26 11 96 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 372 province_id = 373 province_id = 374 province_id = 375 province_id = 376 } }
+				}
+			}
+			capital = 372 # c_turtle_bay_waterfront
+			
+			c_turtle_bay_waterfront = { # 372
+				color={ 16 21 91 }
+				color2={ 255 255 255 }
+				
+				b_turtle_bay_waterfront = {
+				}
+				b_e_42nd_st = {
+				}
+				b_e_49th_st = {
+				}
+				b_e_45th_st = {
+				}
+				b_e_43rd_st = {
+				}
+				b_e_48th_st = {
+				}
+				b_e_43rd_st_2 = {
+				}
+			}
+			c_east_42nd_st = { # 374
+				color={ 13 3 62 }
+				color2={ 255 255 255 }
+				
+				b_east_42nd_st = {
+				}
+				b_e_48th_st_2 = {
+				}
+				b_e_45th_st_2 = {
+				}
+				b_e_46th_st = {
+				}
+				b_e_43rd_st_3 = {
+				}
+				b_e_44th_st = {
+				}
+				b_e_47th_st = {
+				}
+			}
+			c_east_50th_st = { # 375
+				color={ 10 21 88 }
+				color2={ 255 255 255 }
+				
+				b_east_50th_st = {
+				}
+				b_e_51st_st = {
+				}
+				b_e_49th_st_2 = {
+				}
+				b_e_52nd_st = {
+				}
+				b_e_48th_st_3 = {
+				}
+				b_e_53rd_st_2 = {
+				}
+				b_park_ave_2 = {
+				}
+			}
+			c_east_57th_st = { # 376
+				color={ 8 0 75 }
+				color2={ 255 255 255 }
+				
+				b_east_57th_st = {
+				}
+				b_e_54th_st_2 = {
+				}
+				b_e_59th_st_2 = {
+				}
+				b_e_53rd_st_3 = {
+				}
+				b_e_58th_st = {
+				}
+				b_e_56th_st_2 = {
+				}
+				b_e_55th_st_2 = {
+				}
+			}
+			c_sutton_place = { # 373
+				color={ 3 5 49 }
+				color2={ 255 255 255 }
+				
+				b_sutton_place = {
+				}
+				b_e_57th_st = {
+				}
+				b_e_53rd_st = {
+				}
+				b_e_59th_st = {
+				}
+				b_e_55th_st = {
+				}
+				b_e_54th_st = {
+				}
+				b_e_56th_st = {
+				}
+			}
+		}
+	}
+	k_upper_east_side = {
+		color={ 92 48 215 }
+		color2={ 255 255 255 }
+		
+		capital = 400 # c_east_63rd_st
+		culture = white_american
+		
+		d_upper_east_side = {
+			color={ 72 68 205 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 400 province_id = 401 province_id = 402 province_id = 403 province_id = 404 } }
+				}
+			}
+			capital = 400 # c_east_63rd_st
+			
+			c_east_63rd_st = { # 400
+				color={ 62 78 200 }
+				color2={ 255 255 255 }
+				
+				b_east_63rd_st = {
+				}
+				b_e_60th_st = {
+				}
+				b_e_62nd_st = {
+				}
+				b_e_64th_st = {
+				}
+				b_e_61st_st = {
+				}
+				b_1st_ave_2 = {
+				}
+			}
+			c_blackwells_island = { # 404
+				color={ 39 55 172 }
+				color2={ 255 255 255 }
+				
+				b_blackwells_island = {
+				}
+				b_main_st_6 = {
+				}
+				b_loop_rd = {
+				}
+			}
+			c_east_66th_st = { # 401
+				color={ 49 73 167 }
+				color2={ 255 255 255 }
+				
+				b_east_66th_st = {
+				}
+				b_e_65th_st = {
+				}
+				b_e_67th_st = {
+				}
+				b_e_68th_st = {
+				}
+				b_york_ave = {
+				}
+				b_1st_ave_3 = {
+				}
+			}
+			c_east_71st_st = { # 402
+				color={ 44 78 219 }
+				color2={ 255 255 255 }
+				
+				b_east_71st_st = {
+				}
+				b_e_72nd_st = {
+				}
+				b_e_70th_st = {
+				}
+				b_e_69th_st = {
+				}
+				b_york_ave_2 = {
+				}
+				b_fdr_dr = {
+				}
+			}
+			c_st_catherine = { # 403
+				color={ 57 65 193 }
+				color2={ 255 255 255 }
+				
+				b_st_catherine = {
+				}
+				b_e_72nd_st_2 = {
+				}
+				b_e_70th_st_2 = {
+				}
+				b_e_69th_st_2 = {
+				}
+				b_1st_ave_4 = {
+				}
+				b_2nd_ave_3 = {
+				}
+			}
+		}
+		d_carnegie_hill = {
+			color={ 31 81 172 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 410 province_id = 411 province_id = 412 province_id = 413 } }
+				}
+			}
+			capital = 410 # c_east_86th_st
+			
+			c_east_86th_st = { # 410
+				color={ 21 91 167 }
+				color2={ 255 255 255 }
+				
+				b_east_86th_st = {
+				}
+				b_e_80th_st = {
+				}
+				b_e_83rd_st_3 = {
+				}
+				b_e_85th_st = {
+				}
+				b_e_82nd_st_2 = {
+				}
+				b_e_84th_st_2 = {
+				}
+				b_e_81st_st_3 = {
+				}
+			}
+			c_east_79th_st = { # 411
+				color={ 31 120 177 }
+				color2={ 255 255 255 }
+				
+				b_east_79th_st = {
+				}
+				b_e_73rd_st_2 = {
+				}
+				b_e_78th_st_3 = {
+				}
+				b_e_76th_st_2 = {
+				}
+				b_e_74th_st_2 = {
+				}
+			}
+			c_east_91st_st = { # 412
+				color={ 16 91 156 }
+				color2={ 255 255 255 }
+				
+				b_east_91st_st = {
+				}
+				b_e_90th_st_2 = {
+				}
+				b_e_87th_st_3 = {
+				}
+				b_e_89th_st_3 = {
+				}
+				b_e_88th_st = {
+				}
+			}
+			c_east_96th_st = { # 413
+				color={ 34 109 161 }
+				color2={ 255 255 255 }
+				
+				b_east_96th_st = {
+				}
+				b_e_94th_st = {
+				}
+				b_e_92nd_st_2 = {
+				}
+				b_e_95th_st = {
+				}
+				b_e_93rd_st_2 = {
+				}
+			}
+		}
+		d_central_park = {
+			color={ 46 94 119 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 418 province_id = 419 province_id = 420 } }
+				}
+			}
+			capital = 418 # c_great_lawn
+			
+			c_great_lawn = { # 418
+				color={ 36 104 114 }
+				color2={ 255 255 255 }
+				
+				b_great_lawn = {
+				}
+				b_86th_st_4 = {
+				}
+			}
+			c_north_meadow = { # 420
+				color={ 47 112 122 }
+				color2={ 255 255 255 }
+				
+				b_north_meadow = {
+				}
+				b_97th_st = {
+				}
+			}
+			c_sheep_meadow = { # 419
+				color={ 52 120 154 }
+				color2={ 255 255 255 }
+				
+				b_sheep_meadow = {
+				}
+				b_65th_st_3 = {
+				}
+			}
+		}
+		d_lenox_hill = {
+			color={ 70 11 182 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 414 province_id = 415 province_id = 416 province_id = 417 } }
+				}
+			}
+			capital = 414 # c_lenox_hill
+			
+			c_lenox_hill = { # 414
+				color={ 60 21 177 }
+				color2={ 255 255 255 }
+				
+				b_lenox_hill = {
+				}
+				b_e_60th_st_2 = {
+				}
+				b_e_66th_st = {
+				}
+				b_e_64th_st_2 = {
+				}
+				b_e_62nd_st_2 = {
+				}
+				b_e_61st_st_2 = {
+				}
+			}
+			c_east_62nd_st = { # 417
+				color={ 52 34 146 }
+				color2={ 255 255 255 }
+				
+				b_east_62nd_st = {
+				}
+				b_e_61st_st_3 = {
+				}
+				b_e_64th_st_3 = {
+				}
+				b_e_63rd_st = {
+				}
+				b_e_60th_st_3 = {
+				}
+			}
+			c_east_65th_st = { # 416
+				color={ 29 88 156 }
+				color2={ 255 255 255 }
+				
+				b_east_65th_st = {
+				}
+				b_e_68th_st_2 = {
+				}
+				b_e_67th_st_2 = {
+				}
+				b_e_66th_st_2 = {
+				}
+				b_e_70th_st_3 = {
+				}
+			}
+			c_east_70th_st = { # 415
+				color={ 57 29 135 }
+				color2={ 255 255 255 }
+				
+				b_east_70th_st = {
+				}
+				b_e_72nd_st_3 = {
+				}
+				b_e_69th_st_3 = {
+				}
+				b_e_71st_st = {
+				}
+				b_e_72nd_st_4 = {
+				}
+			}
+		}
+		d_yorkville = {
+			color={ 39 63 200 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 405 province_id = 406 province_id = 407 province_id = 408 province_id = 409 } }
+				}
+			}
+			capital = 405 # c_east_end_ave
+			
+			c_east_end_ave = { # 405
+				color={ 29 73 195 }
+				color2={ 255 255 255 }
+				
+				b_east_end_ave = {
+				}
+				b_e_84th_st = {
+				}
+				b_e_81st_st = {
+				}
+				b_e_82nd_st = {
+				}
+				b_e_83rd_st = {
+				}
+			}
+			c_east_73rd_st = { # 407
+				color={ 31 42 161 }
+				color2={ 255 255 255 }
+				
+				b_east_73rd_st = {
+				}
+				b_e_79th_st = {
+				}
+				b_e_76th_st = {
+				}
+				b_e_75th_st = {
+				}
+				b_e_78th_st = {
+				}
+				b_e_74th_st = {
+				}
+			}
+			c_east_76th_st = { # 408
+				color={ 55 60 156 }
+				color2={ 255 255 255 }
+				
+				b_east_76th_st = {
+				}
+				b_e_73rd_st = {
+				}
+				b_e_83rd_st_2 = {
+				}
+				b_e_79th_st_2 = {
+				}
+				b_e_75th_st_2 = {
+				}
+				b_e_78th_st_2 = {
+				}
+				b_e_81st_st_2 = {
+				}
+			}
+			c_east_90th_st = { # 409
+				color={ 39 47 177 }
+				color2={ 255 255 255 }
+				
+				b_east_90th_st = {
+				}
+				b_e_86th_st_2 = {
+				}
+				b_e_96th_st = {
+				}
+				b_e_91st_st_2 = {
+				}
+				b_e_93rd_st = {
+				}
+				b_e_89th_st_2 = {
+				}
+				b_e_87th_st_2 = {
+				}
+			}
+			c_hoorns_hook = { # 406
+				color={ 23 57 185 }
+				color2={ 255 255 255 }
+				
+				b_hoorns_hook = {
+				}
+				b_e_87th_st = {
+				}
+				b_e_86th_st = {
+				}
+				b_e_89th_st = {
+				}
+				b_e_90th_st = {
+				}
+				b_e_91st_st = {
+				}
+				b_e_92nd_st = {
+				}
+			}
+		}
+	}
+	k_upper_west_side = {
+		color={ 30 236 129 }
+		color2={ 255 255 255 }
+		
+		capital = 382 # c_west_86th_st
+		culture = white_american
+		
+		d_upper_west_side = {
+			color={ 10 0 119 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 382 province_id = 383 province_id = 384 province_id = 385 province_id = 386 } }
+				}
+			}
+			capital = 382 # c_west_86th_st
+			
+			c_west_86th_st = { # 382
+				color={ 0 10 114 }
+				color2={ 255 255 255 }
+				
+				b_west_86th_st = {
+				}
+				b_w_92nd_st = {
+				}
+				b_w_89th_st = {
+				}
+				b_w_91st_st = {
+				}
+				b_w_87th_st = {
+				}
+				b_w_90th_st = {
+				}
+				b_w_88th_st = {
+				}
+			}
+			c_central_park_west = { # 383
+				color={ 5 3 96 }
+				color2={ 255 255 255 }
+				
+				b_central_park_west = {
+				}
+				b_w81st_st = {
+				}
+				b_w_86th_st = {
+				}
+				b_w_77th_st = {
+				}
+				b_w_91st_st_2 = {
+				}
+				b_w_72nd_st = {
+				}
+				b_w_79th_st = {
+				}
+			}
+			c_west_72nd_st = { # 386
+				color={ 3 16 91 }
+				color2={ 255 255 255 }
+				
+				b_west_72nd_st = {
+				}
+				b_w_75th_st = {
+				}
+				b_w_78th_st = {
+				}
+				b_w_74th_st = {
+				}
+				b_w_76th_st = {
+				}
+				b_w_77th_st_2 = {
+				}
+			}
+			c_west_79th_st = { # 384
+				color={ 8 13 133 }
+				color2={ 255 255 255 }
+				
+				b_west_79th_st = {
+				}
+				b_w_82nd_st = {
+				}
+				b_w_84th_st = {
+				}
+				b_w_81st_st = {
+				}
+				b_w_85th_st = {
+				}
+				b_w_80th_st = {
+				}
+				b_w_83rd_st = {
+				}
+			}
+			c_west_96th_st = { # 385
+				color={ 13 5 135 }
+				color2={ 255 255 255 }
+				
+				b_west_96th_st = {
+				}
+				b_w_97th_st = {
+				}
+				b_w_93rd_st = {
+				}
+				b_w_95th_st = {
+				}
+				b_w_94th_st = {
+				}
+				b_columbus_ave = {
+				}
+			}
+		}
+		d_lincoln_square = {
+			color={ 23 8 119 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 387 province_id = 388 province_id = 389 province_id = 390 province_id = 391 } }
+				}
+			}
+			capital = 387 # c_lincoln_square
+			
+			c_lincoln_square = { # 387
+				color={ 13 18 114 }
+				color2={ 255 255 255 }
+				
+				b_lincoln_square = {
+				}
+				b_w_66th_st = {
+				}
+				b_w_64th_st = {
+				}
+				b_w_65th_st = {
+				}
+				b_w_67th_st = {
+				}
+				b_w_68th_st = {
+				}
+				b_w_69th_st = {
+				}
+			}
+			c_ansonia = { # 389
+				color={ 16 31 107 }
+				color2={ 255 255 255 }
+				
+				b_ansonia = {
+				}
+				b_w_70th_st = {
+				}
+				b_w_69th_st_2 = {
+				}
+				b_w_71st_st = {
+				}
+				b_w_72nd_st_2 = {
+				}
+			}
+			c_columbus_circle = { # 388
+				color={ 26 13 156 }
+				color2={ 255 255 255 }
+				
+				b_columbus_circle = {
+				}
+				b_w_59th_st_2 = {
+				}
+				b_w_57th_st_3 = {
+				}
+				b_w_60th_st = {
+				}
+				b_w_62nd_st = {
+				}
+				b_w_61st_st = {
+				}
+				b_w_58th_st_3 = {
+				}
+			}
+			c_north_riverside_blvd = { # 390
+				color={ 23 23 130 }
+				color2={ 255 255 255 }
+				
+				b_north_riverside_blvd = {
+				}
+				b_w_71st_st_2 = {
+				}
+				b_w_70th_st_2 = {
+				}
+				b_w_68th_st_2 = {
+				}
+				b_w_72nd_st_3 = {
+				}
+				b_w_71st_st_3 = {
+				}
+			}
+			c_south_riverside_blvd = { # 391
+				color={ 16 39 135 }
+				color2={ 255 255 255 }
+				
+				b_south_riverside_blvd = {
+				}
+				b_w_59th_st_3 = {
+				}
+				b_w_65th_st_2 = {
+				}
+				b_w_62nd_st_2 = {
+				}
+				b_w_60th_st_2 = {
+				}
+				b_w_63rd_st = {
+				}
+				b_w_64th_st_2 = {
+				}
+			}
+		}
+		d_manhattan_valley = {
+			color={ 13 0 96 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 392 province_id = 393 province_id = 394 province_id = 395 } }
+				}
+			}
+			capital = 392 # c_north_manhattan_valley
+			
+			c_north_manhattan_valley = { # 392
+				color={ 3 10 91 }
+				color2={ 255 255 255 }
+				
+				b_north_manhattan_valley = {
+				}
+				b_w_110th_st = {
+				}
+				b_w_105th_st = {
+				}
+				b_w_107th_st = {
+				}
+				b_w_109th_st = {
+				}
+				b_w_108th_st = {
+				}
+			}
+			c_south_manhattan_valley = { # 393
+				color={ 10 13 101 }
+				color2={ 255 255 255 }
+				
+				b_south_manhattan_valley = {
+				}
+				b_w_103rd_st = {
+				}
+				b_w_97th_st_2 = {
+				}
+				b_w_101st_st = {
+				}
+				b_w_102nd_st = {
+				}
+			}
+			c_west_100th_st = { # 395
+				color={ 16 13 125 }
+				color2={ 255 255 255 }
+				
+				b_west_100th_st = {
+				}
+				b_w_97th_st_3 = {
+				}
+				b_w_102nd_st_2 = {
+				}
+				b_w_99th_st = {
+				}
+				b_w_101st_st_2 = {
+				}
+			}
+			c_west_106th_st = { # 394
+				color={ 5 3 104 }
+				color2={ 255 255 255 }
+				
+				b_west_106th_st = {
+				}
+				b_w_109th_st_2 = {
+				}
+				b_w_107th_st_2 = {
+				}
+				b_w_108th_st_2 = {
+				}
+				b_w_105th_st_2 = {
+				}
+				b_w_104th_st = {
+				}
+			}
+		}
+		d_morningside = {
+			color={ 26 78 172 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 396 province_id = 397 province_id = 398 province_id = 399 } }
+				}
+			}
+			capital = 396 # c_morningside
+			
+			c_morningside = { # 396
+				color={ 16 88 167 }
+				color2={ 255 255 255 }
+				
+				b_morningside = {
+				}
+				b_w_116th_st = {
+				}
+				b_w_120th_st = {
+				}
+				b_w_114th_st = {
+				}
+				b_w_111th_st = {
+				}
+				b_w_122nd_st = {
+				}
+				b_w_112th_st = {
+				}
+			}
+			c_manhattanville = { # 399
+				color={ 16 62 146 }
+				color2={ 255 255 255 }
+				
+				b_manhattanville = {
+				}
+				b_w_126th_st = {
+				}
+				b_w_129th_st = {
+				}
+				b_w_130th_st = {
+				}
+				b_convent_ave = {
+				}
+				b_w_132nd_st = {
+				}
+				b_w_131st_st = {
+				}
+			}
+			c_morningside_park = { # 397
+				color={ 21 70 154 }
+				color2={ 255 255 255 }
+				
+				b_morningside_park = {
+				}
+				b_w_115th_st = {
+				}
+				b_w_113th_st = {
+				}
+				b_w_116th_st_2 = {
+				}
+				b_w_120th_st_2 = {
+				}
+				b_w_118th_st = {
+				}
+				b_w_123rd_st = {
+				}
+			}
+			c_west_125th_st = { # 398
+				color={ 23 44 138 }
+				color2={ 255 255 255 }
+				
+				b_west_125th_st = {
+				}
+				b_w_123rd_st_2 = {
+				}
+				b_la_salle_st = {
+				}
+				b_tiemann_pl = {
+				}
+				b_claremont_ave = {
+				}
+				b_riverside_dr = {
+				}
+				b_broadway_14 = {
+				}
+			}
+		}
+	}
+}
+e_queens = {
+	color={ 115 247 163 }
+	color2={ 255 255 20 }
+	
+	capital = 141 # c_central_jamaica
+	culture = white_american
+	
+	k_jamaica = {
+		color={ 105 1 158 }
+		color2={ 255 255 255 }
+		
+		capital = 141 # c_central_jamaica
+		culture = white_american
+		
+		d_jamaica = {
+			color={ 85 21 148 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 141 province_id = 142 province_id = 143 province_id = 144 province_id = 145 } }
+				}
+			}
+			capital = 141 # c_central_jamaica
+			
+			c_central_jamaica = { # 141
+				color={ 75 31 143 }
+				color2={ 255 255 255 }
+				
+				b_central_jamaica = {
+				}
+				b_merrick_blvd = {
+				}
+				b_brinkerhoff_ave = {
+				}
+				b_180th_st = {
+				}
+				b_108th_ave = {
+				}
+			}
+			c_east_jamaica = { # 143
+				color={ 64 22 136 }
+				color2={ 255 255 255 }
+				
+				b_east_jamaica = {
+				}
+				b_murdock_ave = {
+				}
+				b_farmers_blvd = {
+				}
+				b_linden_blvd_3 = {
+				}
+			}
+			c_hollis = { # 144
+				color={ 57 31 138 }
+				color2={ 255 255 255 }
+				
+				b_hollis = {
+				}
+				b_hollis_ave = {
+				}
+				b_farmers_blvd_2 = {
+				}
+				b_99th_ave = {
+				}
+			}
+			c_st_albans = { # 145
+				color={ 68 26 123 }
+				color2={ 255 255 255 }
+				
+				b_st_albans = {
+				}
+				b_farmers_blvd_3 = {
+				}
+				b_baisley_blvd = {
+				}
+				b_120th_ave = {
+				}
+			}
+			c_west_jamaica = { # 142
+				color={ 55 37 132 }
+				color2={ 255 255 255 }
+				
+				b_west_jamaica = {
+				}
+				b_sutphin_blvd = {
+				}
+				b_lakewood_ave = {
+				}
+				b_liberty_ave = {
+				}
+			}
+		}
+		d_idlewild = {
+			color={ 116 14 102 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 149 province_id = 150 province_id = 151 } }
+				}
+			}
+			capital = 149 # c_central_idlewild
+			
+			c_central_idlewild = { # 149
+				color={ 106 24 97 }
+				color2={ 255 255 255 }
+				
+				b_central_idlewild = {
+				}
+				b_rockaway_blvd = {
+				}
+				b_shoreline_dr = {
+				}
+			}
+			c_east_idlewild = { # 151
+				color={ 92 33 106 }
+				color2={ 255 255 255 }
+				
+				b_east_idlewild = {
+				}
+				b_rockaway_blvd_2 = {
+				}
+				b_shoreline_dr_3 = {
+				}
+			}
+			c_west_idlewild = { # 150
+				color={ 123 31 90 }
+				color2={ 255 255 255 }
+				
+				b_west_idlewild = {
+				}
+				b_130th_pl = {
+				}
+				b_shoreline_dr_2 = {
+				}
+			}
+		}
+		d_laurelton = {
+			color={ 109 248 137 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 156 province_id = 157 province_id = 158 } }
+				}
+			}
+			capital = 156 # c_laurelton
+			
+			c_laurelton = { # 156
+				color={ 99 2 132 }
+				color2={ 255 255 255 }
+				
+				b_laurelton = {
+				}
+				b_springfield_blvd_2 = {
+				}
+				b_merrick_blvd_2 = {
+				}
+				b_francis_lewis_blvd = {
+				}
+			}
+			c_cambria_heights = { # 157
+				color={ 90 13 138 }
+				color2={ 255 255 255 }
+				
+				b_cambria_heights = {
+				}
+				b_121st_ave = {
+				}
+				b_linden_blvd_5 = {
+				}
+			}
+			c_rosedale = { # 158
+				color={ 101 18 123 }
+				color2={ 255 255 255 }
+				
+				b_rosedale = {
+				}
+				b_147th_ave_3 = {
+				}
+				b_huxley_st = {
+				}
+			}
+		}
+		d_south_jamaica = {
+			color={ 100 32 143 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 152 province_id = 153 province_id = 154 province_id = 155 } }
+				}
+			}
+			capital = 152 # c_east_rochdale
+			
+			c_east_rochdale = { # 152
+				color={ 90 42 138 }
+				color2={ 255 255 255 }
+				
+				b_east_rochdale = {
+				}
+				b_bedell_st = {
+				}
+				b_baisley_blvd_2 = {
+				}
+				b_farmers_blvd_4 = {
+				}
+				b_137th_ave = {
+				}
+			}
+			c_brookville = { # 155
+				color={ 95 51 136 }
+				color2={ 255 255 255 }
+				
+				b_brookville = {
+				}
+				b_brookville_blvd = {
+				}
+				b_147th_ave_2 = {
+				}
+				b_230th_st = {
+				}
+			}
+			c_springfield_gardens = { # 154
+				color={ 81 57 128 }
+				color2={ 255 255 255 }
+				
+				b_springfield_gardens = {
+				}
+				b_springfield_blvd = {
+				}
+				b_rockaway_blvd_4 = {
+				}
+				b_147th_ave = {
+				}
+			}
+			c_west_rochdale = { # 153
+				color={ 97 33 123 }
+				color2={ 255 255 255 }
+				
+				b_west_rochdale = {
+				}
+				b_sutphin_blvd_2 = {
+				}
+				b_foch_blvd = {
+				}
+				b_linden_blvd_4 = {
+				}
+				b_rockaway_blvd_3 = {
+				}
+			}
+		}
+		d_upper_jamaica = {
+			color={ 94 14 137 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 146 province_id = 147 province_id = 148 } }
+				}
+			}
+			capital = 146 # c_jamaica_hills
+			
+			c_jamaica_hills = { # 146
+				color={ 84 24 132 }
+				color2={ 255 255 255 }
+				
+				b_jamaica_hills = {
+				}
+				b_homelawn_st = {
+				}
+				b_edgerton_blvd = {
+				}
+				b_midland_pkwy = {
+				}
+			}
+			c_briarwood = { # 147
+				color={ 77 11 117 }
+				color2={ 255 255 255 }
+				
+				b_briarwood = {
+				}
+				b_parsons_blvd = {
+				}
+				b_main_st_3 = {
+				}
+				b_150th_st = {
+				}
+			}
+			c_holliswood = { # 148
+				color={ 79 18 128 }
+				color2={ 255 255 255 }
+				
+				b_holliswood = {
+				}
+				b_188th_st = {
+				}
+				b_salerno_ave = {
+				}
+				b_palermo_st = {
+				}
+			}
+		}
+	}
+	k_flushing = {
+		color={ 122 23 173 }
+		color2={ 255 255 255 }
+		
+		capital = 212 # c_flushing
+		culture = white_american
+		
+		d_downtown_flushing = {
+			color={ 102 43 163 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 212 province_id = 213 province_id = 214 province_id = 215 } }
+				}
+			}
+			capital = 212 # c_flushing
+			
+			c_flushing = { # 212
+				color={ 92 53 158 }
+				color2={ 255 255 255 }
+				
+				b_flushing = {
+				}
+				b_main_st_4 = {
+				}
+				b_union_st_4 = {
+				}
+				b_linden_pl = {
+				}
+				b_prince_st_2 = {
+				}
+			}
+			c_college_point = { # 213
+				color={ 79 33 136 }
+				color2={ 255 255 255 }
+				
+				b_college_point = {
+				}
+				b_college_point_blvd = {
+				}
+				b_14th_ave_3 = {
+				}
+				b_127th_st = {
+				}
+				b_20th_ave_3 = {
+				}
+			}
+			c_malba = { # 214
+				color={ 64 42 123 }
+				color2={ 255 255 255 }
+				
+				b_malba = {
+				}
+				b_malba_dr = {
+				}
+				b_parsons_blvd_2 = {
+				}
+				b_south_dr = {
+				}
+			}
+			c_willets_point = { # 215
+				color={ 90 51 138 }
+				color2={ 255 255 255 }
+				
+				b_willets_point = {
+				}
+				b_shea_rd = {
+				}
+				b_meridian_rd = {
+				}
+			}
+		}
+		d_auburndale_hills = {
+			color={ 129 49 137 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 220 province_id = 221 province_id = 222 province_id = 223 province_id = 224 } }
+				}
+			}
+			capital = 220 # c_auburndale
+			
+			c_auburndale = { # 220
+				color={ 119 59 132 }
+				color2={ 255 255 255 }
+				
+				b_auburndale = {
+				}
+				b_47th_ave = {
+				}
+				b_francis_lewis_blvd_2 = {
+				}
+				b_hollis_blvd = {
+				}
+				b_58th_ave = {
+				}
+			}
+			c_fresh_meadows = { # 223
+				color={ 90 35 108 }
+				color2={ 255 255 255 }
+				
+				b_fresh_meadows = {
+				}
+				b_188th_st_2 = {
+				}
+				b_64th_ave = {
+				}
+				b_francis_lewis_blvd_3 = {
+				}
+			}
+			c_hillcrest = { # 221
+				color={ 86 40 101 }
+				color2={ 255 255 255 }
+				
+				b_hillcrest = {
+				}
+				b_union_tpke_2 = {
+				}
+				b_utopia_pkwy = {
+				}
+				b_goethals_ave = {
+				}
+			}
+			c_north_auburndale = { # 224
+				color={ 121 53 121 }
+				color2={ 255 255 255 }
+				
+				b_north_auburndale = {
+				}
+				b_39th_ave = {
+				}
+				b_utopia_pkwy_3 = {
+				}
+				b_francis_lewis_blvd_4 = {
+				}
+			}
+			c_utopia = { # 222
+				color={ 99 46 119 }
+				color2={ 255 255 255 }
+				
+				b_utopia = {
+				}
+				b_73rd_ave = {
+				}
+				b_utopia_pkwy_2 = {
+				}
+				b_jewel_ave_3 = {
+				}
+			}
+		}
+		d_uptown_flushing = {
+			color={ 89 45 139 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 216 province_id = 217 province_id = 218 province_id = 219 } }
+				}
+			}
+			capital = 216 # c_kew_gardens_hills
+			
+			c_kew_gardens_hills = { # 216
+				color={ 79 55 134 }
+				color2={ 255 255 255 }
+				
+				b_kew_gardens_hills = {
+				}
+				b_jewel_ave = {
+				}
+				b_union_tpke = {
+				}
+				b_main_st_5 = {
+				}
+				b_150th_st_2 = {
+				}
+			}
+			c_flushing_meadows = { # 217
+				color={ 77 62 130 }
+				color2={ 255 255 255 }
+				
+				b_flushing_meadows = {
+				}
+				b_meadow_lake_dr = {
+				}
+				b_hebron_st = {
+				}
+			}
+			c_kissena = { # 218
+				color={ 86 75 141 }
+				color2={ 255 255 255 }
+				
+				b_kissena = {
+				}
+				b_kissena_blvd = {
+				}
+				b_164th_st = {
+				}
+				b_booth_memorial_ave = {
+				}
+			}
+			c_pomonok = { # 219
+				color={ 90 59 119 }
+				color2={ 255 255 255 }
+				
+				b_pomonok = {
+				}
+				b_jewel_ave_2 = {
+				}
+				b_melbourne_ave = {
+				}
+				b_parsons_blvd_3 = {
+				}
+			}
+		}
+		d_whitestone = {
+			color={ 100 32 130 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 225 province_id = 226 province_id = 227 province_id = 228 } }
+				}
+			}
+			capital = 225 # c_whitestone
+			
+			c_whitestone = { # 225
+				color={ 90 42 125 }
+				color2={ 255 255 255 }
+				
+				b_whitestone = {
+				}
+				b_150th_st_3 = {
+				}
+				b_14th_ave_4 = {
+				}
+				b_149th_st = {
+				}
+				b_3rd_ave_6 = {
+				}
+			}
+			c_beechhurst = { # 227
+				color={ 95 33 134 }
+				color2={ 255 255 255 }
+				
+				b_beechhurst = {
+				}
+				b_cryders_ln = {
+				}
+				b_totten_st = {
+				}
+				b_powells_cove_blvd = {
+				}
+			}
+			c_clearview = { # 226
+				color={ 92 59 108 }
+				color2={ 255 255 255 }
+				
+				b_clearview = {
+				}
+				b_166th_st = {
+				}
+				b_willets_point_blvd = {
+				}
+				b_clintonville_st = {
+				}
+				b_francis_lewis_blvd_5 = {
+				}
+			}
+			c_murray_hill = { # 228
+				color={ 97 37 117 }
+				color2={ 255 255 255 }
+				
+				b_murray_hill = {
+				}
+				b_northern_blvd_3 = {
+				}
+				b_150th_st_4 = {
+				}
+				b_162nd_st = {
+				}
+				b_bayside_ave = {
+				}
+			}
+		}
+	}
+	k_little_neck_bay = {
+		color={ 128 111 174 }
+		color2={ 255 255 255 }
+		
+		capital = 229 # c_bayside
+		culture = white_american
+		
+		d_bayside = {
+			color={ 148 91 184 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 229 province_id = 230 province_id = 231 } }
+				}
+			}
+			capital = 229 # c_bayside
+			
+			c_bayside = { # 229
+				color={ 158 81 189 }
+				color2={ 255 255 255 }
+				
+				b_bayside_2 = {
+				}
+				b_bell_blvd = {
+				}
+				b_35th_ave = {
+				}
+				b_39th_ave_2 = {
+				}
+				b_kennedy_st = {
+				}
+			}
+			c_bay_terrace = { # 231
+				color={ 163 68 171 }
+				color2={ 255 255 255 }
+				
+				b_bay_terrace = {
+				}
+				b_23rd_ave_2 = {
+				}
+				b_bell_blvd_2 = {
+				}
+			}
+			c_bayside_hills = { # 230
+				color={ 169 90 167 }
+				color2={ 255 255 255 }
+				
+				b_bayside_hills = {
+				}
+				b_56th_ave = {
+				}
+				b_48th_ave_2 = {
+				}
+				b_springfield_blvd_3 = {
+				}
+				b_cloverdale_blvd = {
+				}
+			}
+		}
+		d_glen_oaks = {
+			color={ 150 89 144 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 239 province_id = 240 province_id = 241 } }
+				}
+			}
+			capital = 239 # c_glen_oaks
+			
+			c_glen_oaks = { # 239
+				color={ 160 79 149 }
+				color2={ 255 255 255 }
+				
+				b_glen_oaks = {
+				}
+				b_little_neck_pkwy_2 = {
+				}
+				b_commonwealth_blvd = {
+				}
+			}
+			c_bellerose = { # 241
+				color={ 158 79 132 }
+				color2={ 255 255 255 }
+				
+				b_bellerose = {
+				}
+				b_jamaica_ave_4 = {
+				}
+				b_williston_ave = {
+				}
+				b_86th_ave = {
+				}
+			}
+			c_floral_park = { # 240
+				color={ 171 64 160 }
+				color2={ 255 255 255 }
+				
+				b_floral_park = {
+				}
+				b_langdale_st = {
+				}
+				b_82nd_ave = {
+				}
+			}
+		}
+		d_little_neck = {
+			color={ 124 80 159 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 232 province_id = 233 province_id = 234 } }
+				}
+			}
+			capital = 232 # c_little_neck
+			
+			c_little_neck = { # 232
+				color={ 114 90 154 }
+				color2={ 255 255 255 }
+				
+				b_little_neck = {
+				}
+				b_center_dr = {
+				}
+				b_shore_rd_2 = {
+				}
+				b_douglas_rd_2 = {
+				}
+			}
+			c_douglaston = { # 233
+				color={ 125 59 180 }
+				color2={ 255 255 255 }
+				
+				b_douglaston = {
+				}
+				b_marathon_pkwy = {
+				}
+				b_little_neck_pkwy = {
+				}
+				b_douglaston_pkwy = {
+				}
+			}
+			c_south_douglaston = { # 234
+				color={ 110 73 169 }
+				color2={ 255 255 255 }
+				
+				b_south_douglaston = {
+				}
+				b_61st_ave = {
+				}
+				b_hewlett_st = {
+				}
+			}
+		}
+		d_queens_village = {
+			color={ 131 41 201 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 235 province_id = 236 province_id = 237 province_id = 238 } }
+				}
+			}
+			capital = 235 # c_bellaire
+			
+			c_bellaire = { # 235
+				color={ 121 51 196 }
+				color2={ 255 255 255 }
+				
+				b_bellaire = {
+				}
+				b_winchester_blvd = {
+				}
+				b_union_tpke_3 = {
+				}
+				b_hillside_ave = {
+				}
+			}
+			c_north_queens_village = { # 236
+				color={ 147 68 185 }
+				color2={ 255 255 255 }
+				
+				b_north_queens_village = {
+				}
+				b_93rd_ave = {
+				}
+				b_springfield_blvd_4 = {
+				}
+				b_222nd_st = {
+				}
+				b_hollis_blvd_2 = {
+				}
+			}
+			c_oakland_gardens = { # 238
+				color={ 138 44 174 }
+				color2={ 255 255 255 }
+				
+				b_oakland_gardens = {
+				}
+				b_73rd_ave_2 = {
+				}
+				b_69th_ave = {
+				}
+				b_64th_ave_2 = {
+				}
+			}
+			c_south_queens_village = { # 237
+				color={ 147 33 180 }
+				color2={ 255 255 255 }
+				
+				b_south_queens_village = {
+				}
+				b_jamaica_ave_3 = {
+				}
+				b_hempstead_ave = {
+				}
+				b_hollis_ave_2 = {
+				}
+			}
+		}
+	}
+	k_long_island_city = {
+		color={ 160 45 191 }
+		color2={ 255 255 255 }
+		
+		capital = 198 # c_hunters_point
+		culture = white_american
+		
+		d_long_island_city = {
+			color={ 140 65 181 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 198 province_id = 199 province_id = 200 province_id = 201 province_id = 202 province_id = 203 } }
+				}
+			}
+			capital = 198 # c_hunters_point
+			
+			c_hunters_point = { # 198
+				color={ 130 75 176 }
+				color2={ 255 255 255 }
+				
+				b_hunters_point = {
+				}
+				b_vernon_blvd = {
+				}
+				b_48th_ave = {
+				}
+				b_center_blvd = {
+				}
+				b_borden_ave = {
+				}
+				b_5th_st_2 = {
+				}
+			}
+			c_astoria = { # 200
+				color={ 147 13 165 }
+				color2={ 255 255 255 }
+				
+				b_astoria = {
+				}
+				b_broadway_6 = {
+				}
+				b_31st_ave_2 = {
+				}
+				b_31st_st = {
+				}
+				b_30th_ave = {
+				}
+				b_34th_ave_3 = {
+				}
+			}
+			c_astoria_heights = { # 201
+				color={ 163 33 171 }
+				color2={ 255 255 255 }
+				
+				b_astoria_heights = {
+				}
+				b_steinway_st = {
+				}
+				b_31st_ave_3 = {
+				}
+				b_32nd_ave = {
+				}
+				b_30th_ave_2 = {
+				}
+				b_28th_ave = {
+				}
+			}
+			c_hallets_point = { # 203
+				color={ 163 68 174 }
+				color2={ 255 255 255 }
+				
+				b_hallets_point = {
+				}
+				b_astoria_blvd_2 = {
+				}
+				b_27th_ave = {
+				}
+				b_1st_st = {
+				}
+			}
+			c_long_island_city = { # 199
+				color={ 123 86 165 }
+				color2={ 255 255 255 }
+				
+				b_long_island_city = {
+				}
+				b_jackson_ave = {
+				}
+				b_skillman_ave = {
+				}
+				b_11th_st = {
+				}
+				b_49th_ave = {
+				}
+				b_44th_dr = {
+				}
+			}
+			c_ravenswood = { # 202
+				color={ 134 9 163 }
+				color2={ 255 255 255 }
+				
+				b_ravenswood = {
+				}
+				b_36th_ave = {
+				}
+				b_21st_st = {
+				}
+				b_vernon_blvd_2 = {
+				}
+				b_crescent_st = {
+				}
+			}
+		}
+		d_steinway = {
+			color={ 146 34 128 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 204 province_id = 205 province_id = 206 } }
+				}
+			}
+			capital = 204 # c_steinway
+			
+			c_steinway = { # 204
+				color={ 136 44 123 }
+				color2={ 255 255 255 }
+				
+				b_steinway = {
+				}
+				b_hazen_st = {
+				}
+				b_steinway_st_2 = {
+				}
+				b_ditmars_blvd_2 = {
+				}
+			}
+			c_ditmars = { # 205
+				color={ 121 22 123 }
+				color2={ 255 255 255 }
+				
+				b_ditmars = {
+				}
+				b_31st_st_2 = {
+				}
+				b_ditmars_blvd_3 = {
+				}
+				b_21st_st_2 = {
+				}
+				b_20th_ave_2 = {
+				}
+			}
+			c_east_steinway = { # 206
+				color={ 130 35 125 }
+				color2={ 255 255 255 }
+				
+				b_east_steinway = {
+				}
+				b_grand_central_pkwy_2 = {
+				}
+				b_25th_ave = {
+				}
+			}
+		}
+		d_sunnyside = {
+			color={ 129 34 141 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 207 province_id = 208 province_id = 209 province_id = 210 province_id = 211 } }
+				}
+			}
+			capital = 207 # c_sunnyside
+			
+			c_sunnyside = { # 207
+				color={ 119 44 136 }
+				color2={ 255 255 255 }
+				
+				b_sunnyside_2 = {
+				}
+				b_greenpoint_ave_2 = {
+				}
+				b_hunters_point_ave = {
+				}
+				b_van_dam_st = {
+				}
+				b_39th_st_2 = {
+				}
+			}
+			c_blissville = { # 209
+				color={ 114 20 165 }
+				color2={ 255 255 255 }
+				
+				b_blissville = {
+				}
+				b_review_ave = {
+				}
+				b_56th_rd = {
+				}
+				b_page_pl = {
+				}
+			}
+			c_mt_zion = { # 211
+				color={ 141 44 156 }
+				color2={ 255 255 255 }
+				
+				b_mt_zion = {
+				}
+				b_58th_st_3 = {
+				}
+				b_tyler_ave = {
+				}
+				b_55th_ave = {
+				}
+			}
+			c_sunnyside_gardens = { # 208
+				color={ 121 42 149 }
+				color2={ 255 255 255 }
+				
+				b_sunnyside_gardens = {
+				}
+				b_skillman_ave_2 = {
+				}
+				b_43rd_ave = {
+				}
+				b_queens_blvd_2 = {
+				}
+			}
+			c_woodside = { # 210
+				color={ 134 31 152 }
+				color2={ 255 255 255 }
+				
+				b_woodside = {
+				}
+				b_queens_blvd_3 = {
+				}
+				b_broadway_7 = {
+				}
+				b_58th_st_2 = {
+				}
+				b_roosevelt_ave = {
+				}
+			}
+		}
+	}
+	k_newtown = {
+		color={ 131 25 171 }
+		color2={ 255 255 255 }
+		
+		capital = 180 # c_elmhurst
+		culture = calabrian
+		
+		d_elmhurst = {
+			color={ 111 45 161 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 180 province_id = 181 province_id = 182 province_id = 183 province_id = 184 province_id = 185 } }
+				}
+			}
+			capital = 180 # c_elmhurst
+			
+			c_elmhurst = { # 180
+				color={ 101 55 156 }
+				color2={ 255 255 255 }
+				
+				b_elmhurst = {
+				}
+				b_broadway_5 = {
+				}
+				b_grand_ave = {
+				}
+				b_corona_ave = {
+				}
+				b_45th_ave = {
+				}
+			}
+			c_corona = { # 182
+				color={ 114 42 147 }
+				color2={ 255 255 255 }
+				
+				b_corona = {
+				}
+				b_99th_st = {
+				}
+				b_corona_ave_3 = {
+				}
+				b_108th_st = {
+				}
+			}
+			c_east_elmhurst = { # 185
+				color={ 86 24 125 }
+				color2={ 255 255 255 }
+				
+				b_east_elmhurst = {
+				}
+				b_astoria_blvd = {
+				}
+				b_23rd_ave = {
+				}
+				b_ditmars_blvd = {
+				}
+			}
+			c_jackson_heights = { # 184
+				color={ 106 22 145 }
+				color2={ 255 255 255 }
+				
+				b_jackson_heights = {
+				}
+				b_37th_ave = {
+				}
+				b_34th_ave_2 = {
+				}
+				b_31st_ave = {
+				}
+				b_northern_blvd_2 = {
+				}
+			}
+			c_lefrak_city = { # 181
+				color={ 103 18 132 }
+				color2={ 255 255 255 }
+				
+				b_lefrak_city = {
+				}
+				b_junction_blvd = {
+				}
+				b_corona_ave_2 = {
+				}
+				b_92nd_st = {
+				}
+			}
+			c_north_corona = { # 183
+				color={ 90 40 147 }
+				color2={ 255 255 255 }
+				
+				b_north_corona = {
+				}
+				b_junction_blvd_2 = {
+				}
+				b_34th_ave = {
+				}
+				b_108th_st_2 = {
+				}
+				b_northern_blvd = {
+				}
+			}
+		}
+		d_forest_hills = {
+			color={ 129 47 163 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 195 province_id = 196 province_id = 197 } }
+				}
+			}
+			capital = 195 # c_forest_hills
+			
+			c_forest_hills = { # 195
+				color={ 119 57 158 }
+				color2={ 255 255 255 }
+				
+				b_forest_hills = {
+				}
+				b_108th_st_3 = {
+				}
+				b_63rd_rd = {
+				}
+				b_69th_rd = {
+				}
+				b_grand_central_pkwy = {
+				}
+			}
+			c_forest_hills_gardens = { # 196
+				color={ 125 68 154 }
+				color2={ 255 255 255 }
+				
+				b_forest_hills_gardens = {
+				}
+				b_austin_st_2 = {
+				}
+				b_ascan_ave = {
+				}
+				b_metropolitan_ave_4 = {
+				}
+				b_continental_ave = {
+				}
+			}
+			c_rego_park = { # 197
+				color={ 112 51 160 }
+				color2={ 255 255 255 }
+				
+				b_rego_park = {
+				}
+				b_woodhaven_blvd_4 = {
+				}
+				b_63rd_rd_2 = {
+				}
+				b_queens_blvd = {
+				}
+			}
+		}
+		d_maspeth = {
+			color={ 87 27 148 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 186 province_id = 187 province_id = 188 province_id = 189 } }
+				}
+			}
+			capital = 186 # c_maspeth
+			
+			c_maspeth = { # 186
+				color={ 77 37 143 }
+				color2={ 255 255 255 }
+				
+				b_maspeth = {
+				}
+				b_grand_ave_2 = {
+				}
+				b_maspeth_ave_2 = {
+				}
+				b_69th_st = {
+				}
+				b_65th_pl = {
+				}
+			}
+			c_juniper_valley = { # 188
+				color={ 79 51 158 }
+				color2={ 255 255 255 }
+				
+				b_juniper_valley = {
+				}
+				b_juniper_blvd = {
+				}
+				b_dry_harbor_rd = {
+				}
+				b_80th_st_3 = {
+				}
+			}
+			c_middle_village = { # 189
+				color={ 86 42 154 }
+				color2={ 255 255 255 }
+				
+				b_middle_village = {
+				}
+				b_metropolitan_ave_3 = {
+				}
+				b_juniper_valley_rd = {
+				}
+				b_woodhaven_blvd_2 = {
+				}
+				b_furmanville_ave = {
+				}
+			}
+			c_mt_olivet = { # 187
+				color={ 92 53 160 }
+				color2={ 255 255 255 }
+				
+				b_mt_olivet = {
+				}
+				b_eliot_ave = {
+				}
+				b_fresh_pond_rd = {
+				}
+				b_flushing_ave = {
+				}
+			}
+		}
+		d_ridgewood = {
+			color={ 91 38 146 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 190 province_id = 191 province_id = 192 province_id = 193 province_id = 194 } }
+				}
+			}
+			capital = 190 # c_south_ridgewood
+			
+			c_south_ridgewood = { # 190
+				color={ 81 48 141 }
+				color2={ 255 255 255 }
+				
+				b_south_ridgewood = {
+				}
+				b_cypress_ave = {
+				}
+				b_myrtle_ave_5 = {
+				}
+				b_wyckoff_ave = {
+				}
+				b_cooper_ave = {
+				}
+			}
+			c_east_glendale = { # 194
+				color={ 86 40 108 }
+				color2={ 255 255 255 }
+				
+				b_east_glendale = {
+				}
+				b_cooper_ave_3 = {
+				}
+				b_myrtle_ave_7 = {
+				}
+				b_woodhaven_blvd_3 = {
+				}
+			}
+			c_fresh_pond = { # 192
+				color={ 81 26 125 }
+				color2={ 255 255 255 }
+				
+				b_fresh_pond = {
+				}
+				b_fresh_pond_rd_2 = {
+				}
+				b_60th_pl = {
+				}
+				b_traffic_ave = {
+				}
+			}
+			c_north_ridgewood = { # 191
+				color={ 84 42 141 }
+				color2={ 255 255 255 }
+				
+				b_north_ridgewood = {
+				}
+				b_forest_ave_3 = {
+				}
+				b_gates_ave_4 = {
+				}
+				b_cypress_ave_2 = {
+				}
+			}
+			c_west_glendale = { # 193
+				color={ 81 35 134 }
+				color2={ 255 255 255 }
+				
+				b_west_glendale = {
+				}
+				b_cypress_hills_st = {
+				}
+				b_cooper_ave_2 = {
+				}
+				b_myrtle_ave_6 = {
+				}
+				b_central_ave = {
+				}
+			}
+		}
+	}
+	k_ozone_park = {
+		color={ 124 109 172 }
+		color2={ 255 255 255 }
+		
+		capital = 159 # c_ozone_park
+		culture = apulian
+		
+		d_ozone_park = {
+			color={ 144 89 182 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 159 province_id = 160 province_id = 161 province_id = 162 } }
+				}
+			}
+			capital = 159 # c_ozone_park
+			
+			c_ozone_park = { # 159
+				color={ 154 79 187 }
+				color2={ 255 255 255 }
+				
+				b_ozone_park = {
+				}
+				b_pitkin_ave_3 = {
+				}
+				b_conduit_ave = {
+				}
+				b_liberty_ave_2 = {
+				}
+				b_rockaway_blvd_5 = {
+				}
+			}
+			c_lindenwood = { # 162
+				color={ 138 88 171 }
+				color2={ 255 255 255 }
+				
+				b_lindenwood = {
+				}
+				b_shore_pkwy_3 = {
+				}
+				b_eldert_lane = {
+				}
+				b_84th_st_2 = {
+				}
+			}
+			c_south_ozone_park = { # 161
+				color={ 163 84 163 }
+				color2={ 255 255 255 }
+				
+				b_south_ozone_park = {
+				}
+				b_rockaway_blvd_6 = {
+				}
+				b_130th_st = {
+				}
+				b_114th_st = {
+				}
+				b_lefferts_blvd_2 = {
+				}
+			}
+			c_south_richmond_hill = { # 160
+				color={ 136 86 174 }
+				color2={ 255 255 255 }
+				
+				b_south_richmond_hill = {
+				}
+				b_liberty_ave_3 = {
+				}
+				b_101st_ave = {
+				}
+				b_lefferts_blvd = {
+				}
+			}
+		}
+		d_hillside = {
+			color={ 129 4 178 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 163 province_id = 164 province_id = 165 } }
+				}
+			}
+			capital = 163 # c_richmond_hill
+			
+			c_richmond_hill = { # 163
+				color={ 119 14 173 }
+				color2={ 255 255 255 }
+				
+				b_richmond_hill = {
+				}
+				b_atlantic_ave_4 = {
+				}
+				b_lefferts_blvd_3 = {
+				}
+				b_jamaica_ave_2 = {
+				}
+				b_myrtle_ave_4 = {
+				}
+			}
+			c_kew_gardens = { # 165
+				color={ 121 24 185 }
+				color2={ 255 255 255 }
+				
+				b_kew_gardens = {
+				}
+				b_kew_gardens_rd = {
+				}
+				b_austin_st = {
+				}
+			}
+			c_woodhaven = { # 164
+				color={ 101 26 163 }
+				color2={ 255 255 255 }
+				
+				b_woodhaven = {
+				}
+				b_woodhaven_blvd = {
+				}
+				b_75th_st = {
+				}
+				b_forest_pkwy = {
+				}
+			}
+		}
+		d_jamaica_bay = {
+			color={ 129 49 126 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 166 province_id = 167 province_id = 168 } }
+				}
+			}
+			capital = 166 # c_howard_beach
+			
+			c_howard_beach = { # 166
+				color={ 119 59 121 }
+				color2={ 255 255 255 }
+				
+				b_howard_beach = {
+				}
+				b_cross_bay_blvd = {
+				}
+				b_todd_ln = {
+				}
+			}
+			c_broad_channel = { # 168
+				color={ 138 73 114 }
+				color2={ 255 255 255 }
+				
+				b_broad_channel = {
+				}
+				b_church_rd = {
+				}
+				b_walton_rd = {
+				}
+			}
+			c_cross_bay = { # 167
+				color={ 125 73 138 }
+				color2={ 255 255 255 }
+				
+				b_cross_bay = {
+				}
+				b_cross_bay_blvd_2 = {
+				}
+			}
+		}
+	}
+	k_rockaway = {
+		color={ 219 36 123 }
+		color2={ 255 255 255 }
+		
+		capital = 169 # c_far_rockaway
+		culture = campanian
+		
+		d_far_rockaway = {
+			color={ 199 56 113 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 169 province_id = 170 province_id = 171 } }
+				}
+			}
+			capital = 169 # c_far_rockaway
+			
+			c_far_rockaway = { # 169
+				color={ 189 66 108 }
+				color2={ 255 255 255 }
+				
+				b_far_rockaway = {
+				}
+				b_beach_20th_st = {
+				}
+				b_cornaga_ave = {
+				}
+				b_mott_ave = {
+				}
+			}
+			c_bayswater = { # 170
+				color={ 180 68 141 }
+				color2={ 255 255 255 }
+				
+				b_bayswater = {
+				}
+				b_bayswater_ave = {
+				}
+				b_healy_ave = {
+				}
+				b_dickens_st = {
+				}
+			}
+			c_edgemere = { # 171
+				color={ 182 22 110 }
+				color2={ 255 255 255 }
+				
+				b_edgemere = {
+				}
+				b_beach_channel_dr = {
+				}
+				b_norton_ave = {
+				}
+				b_rockaway_beach_blvd = {
+				}
+			}
+		}
+		d_breezy_point = {
+			color={ 197 41 128 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 176 province_id = 177 province_id = 178 province_id = 179 } }
+				}
+			}
+			capital = 176 # c_breezy_point
+			
+			c_breezy_point = { # 176
+				color={ 187 51 123 }
+				color2={ 255 255 255 }
+				
+				b_breezy_point = {
+				}
+				b_oceanside_ave = {
+				}
+				b_breezy_point_blvd = {
+				}
+			}
+			c_belle_harbor = { # 177
+				color={ 160 79 138 }
+				color2={ 255 255 255 }
+				
+				b_belle_harbor = {
+				}
+				b_newport_ave = {
+				}
+				b_cronston_ave = {
+				}
+				b_beach_142nd_st = {
+				}
+			}
+			c_neponsit = { # 178
+				color={ 187 64 134 }
+				color2={ 255 255 255 }
+				
+				b_neponsit = {
+				}
+				b_beach_147th_st = {
+				}
+				b_rockaway_beach_blvd_4 = {
+				}
+			}
+			c_roxbury = { # 179
+				color={ 158 40 117 }
+				color2={ 255 255 255 }
+				
+				b_roxbury = {
+				}
+				b_bayside = {
+				}
+			}
+		}
+		d_rockaway_beach = {
+			color={ 192 54 117 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 172 province_id = 173 province_id = 174 province_id = 175 } }
+				}
+			}
+			capital = 172 # c_seaside
+			
+			c_seaside = { # 172
+				color={ 182 64 112 }
+				color2={ 255 255 255 }
+				
+				b_seaside = {
+				}
+				b_shore_front_pkwy = {
+				}
+				b_cross_bay_pkwy = {
+				}
+				b_rockaway_beach_blvd_2 = {
+				}
+			}
+			c_arverne = { # 174
+				color={ 167 66 156 }
+				color2={ 255 255 255 }
+				
+				b_arverne = {
+				}
+				b_beach_front_rd = {
+				}
+				b_ocean_ave_5 = {
+				}
+			}
+			c_rockaway_park = { # 175
+				color={ 198 37 106 }
+				color2={ 255 255 255 }
+				
+				b_rockaway_park = {
+				}
+				b_beach_channel_dr_2 = {
+				}
+				b_rockaway_beach_blvd_3 = {
+				}
+			}
+			c_somerville = { # 173
+				color={ 222 68 141 }
+				color2={ 255 255 255 }
+				
+				b_somerville = {
+				}
+				b_bayfield_ave = {
+				}
+				b_almeda_ave = {
+				}
+			}
+		}
+	}
+}
+e_staten_island = {
+	color={ 121 129 51 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_st_george
+	culture = sicilian
+	
+	k_castleton = {
+		color={ 111 139 46 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_st_george
+		culture = sicilian
+		
+		d_castleton = {
+			color={ 91 159 36 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 province_id = 4 } }
+				}
+			}
+			capital = 1 # c_st_george
+			
+			c_st_george = { # 1
+				color={ 81 169 31 }
+				color2={ 255 255 255 }
+				
+				b_st_george = {
+				}
+				b_jersey_st = {
+				}
+				b_ferry_terminal = {
+				}
+				b_fort_hill = {
+				}
+				b_westervelt_ave = {
+				}
+				b_hamilton_ave = {
+				}
+				b_st_marks_pl = {
+				}
+			}
+			c_castleton_corners = { # 3
+				color={ 88 156 10 }
+				color2={ 255 255 255 }
+				
+				b_castleton_corners = {
+				}
+				b_victory_blvd = {
+				}
+				b_sunnyside = {
+				}
+				b_slosson_ave = {
+				}
+				b_manor_rd = {
+				}
+				b_jewett_ave = {
+				}
+				b_westcott_blvd = {
+				}
+			}
+			c_stapleton = { # 4
+				color={ 62 138 10 }
+				color2={ 255 255 255 }
+				
+				b_stapleton = {
+				}
+				b_st_pauls_ave = {
+				}
+				b_van_duzer_st = {
+				}
+				b_cebra_ave = {
+				}
+				b_silver_lake = {
+				}
+				b_swan_st = {
+				}
+				b_murray_hulbert_ave = {
+				}
+			}
+			c_west_brighton = { # 2
+				color={ 44 128 29 }
+				color2={ 255 255 255 }
+				
+				b_west_brighton = {
+				}
+				b_castleton_ave = {
+				}
+				b_henderson_ave = {
+				}
+				b_bard_ave = {
+				}
+				b_forest_ave = {
+				}
+				b_lafayette_ave = {
+				}
+				b_bement_ave = {
+				}
+			}
+		}
+		d_middletown = {
+			color={ 49 104 15 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 5 province_id = 6 province_id = 7 } }
+				}
+			}
+			capital = 5 # c_emerson_hill
+			
+			c_emerson_hill = { # 5
+				color={ 39 114 10 }
+				color2={ 255 255 255 }
+				
+				b_emerson_hill = {
+				}
+				b_richmond_rd = {
+				}
+				b_grimes_hill = {
+				}
+				b_douglas_rd = {
+				}
+				b_emerson_dr = {
+				}
+				b_campus_rd = {
+				}
+				b_clove_rd = {
+				}
+			}
+			c_manor_heights = { # 7
+				color={ 65 94 47 }
+				color2={ 255 255 255 }
+				
+				b_manor_heights = {
+				}
+				b_holden_blvd = {
+				}
+				b_harold_st = {
+				}
+				b_manor_rd_2 = {
+				}
+				b_bradley_ave = {
+				}
+			}
+			c_todt_hill = { # 6
+				color={ 49 81 31 }
+				color2={ 255 255 255 }
+				
+				b_todt_hill = {
+				}
+				b_ocean_terrace = {
+				}
+				b_todt_hill_rd = {
+				}
+				b_portsmouth_ave = {
+				}
+				b_ridge_ave = {
+				}
+			}
+		}
+	}
+	k_northfield = {
+		color={ 129 3 115 }
+		color2={ 255 255 255 }
+		
+		capital = 8 # c_port_richmond
+		culture = white_american
+		
+		d_port_richmond = {
+			color={ 149 239 125 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 8 province_id = 9 province_id = 10 province_id = 11 } }
+				}
+			}
+			capital = 8 # c_port_richmond
+			
+			c_port_richmond = { # 8
+				color={ 159 229 130 }
+				color2={ 255 255 255 }
+				
+				b_port_richmond = {
+				}
+				b_richmond_terrace = {
+				}
+				b_castleton_ave_2 = {
+				}
+				b_elm_park = {
+				}
+				b_jewett_ave_2 = {
+				}
+				b_post_ave = {
+				}
+				b_port_richmon_ave = {
+				}
+			}
+			c_graniteville = { # 10
+				color={ 146 190 65 }
+				color2={ 255 255 255 }
+				
+				b_graniteville = {
+				}
+				b_richmond_ave = {
+				}
+				b_watchogue_rd = {
+				}
+				b_westerleigh = {
+				}
+				b_forest_ave_2 = {
+				}
+				b_ada_dr = {
+				}
+				b_wilcox_st = {
+				}
+			}
+			c_howland_hook = { # 11
+				color={ 133 208 91 }
+				color2={ 255 255 255 }
+				
+				b_howland_hook = {
+				}
+				b_western_ave = {
+				}
+				b_mariners_marsh = {
+				}
+				b_goethals_rd = {
+				}
+			}
+			c_mariners_harbor = { # 9
+				color={ 159 203 104 }
+				color2={ 255 255 255 }
+				
+				b_mariners_harbor = {
+				}
+				b_morningside_rd = {
+				}
+				b_south_ave = {
+				}
+				b_walker_st = {
+				}
+				b_harbor_rd = {
+				}
+				b_maple_pkwy = {
+				}
+				b_lake_ave = {
+				}
+			}
+		}
+		d_springville = {
+			color={ 68 226 102 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 12 province_id = 13 province_id = 14 province_id = 15 } }
+				}
+			}
+			capital = 12 # c_bloomfield
+			
+			c_bloomfield = { # 12
+				color={ 78 216 107 }
+				color2={ 255 255 255 }
+				
+				b_bloomfield = {
+				}
+				b_gulf_ave = {
+				}
+				b_water_st = {
+				}
+				b_5th_st = {
+				}
+			}
+			c_bulls_head = { # 13
+				color={ 133 242 135 }
+				color2={ 255 255 255 }
+				
+				b_bulls_head = {
+				}
+				b_victory_blvd_2 = {
+				}
+				b_arlene_st = {
+				}
+				b_merrill_ave = {
+				}
+			}
+			c_chelsea = { # 15
+				color={ 148 221 148 }
+				color2={ 255 255 255 }
+				
+				b_chelsea = {
+				}
+				b_travis = {
+				}
+				b_victory_blvd_3 = {
+				}
+				b_wild_ave = {
+				}
+			}
+			c_new_springville = { # 14
+				color={ 114 247 107 }
+				color2={ 255 255 255 }
+				
+				b_new_springville = {
+				}
+				b_heartland_village = {
+				}
+				b_richmond_ave_2 = {
+				}
+				b_rockland_ave = {
+				}
+				b_forest_hill_rd = {
+				}
+				b_kelly_blvd = {
+				}
+				b_marsh_ave = {
+				}
+			}
+		}
+	}
+	k_southfield = {
+		color={ 144 168 33 }
+		color2={ 255 255 255 }
+		
+		capital = 16 # c_clifton
+		culture = white_american
+		
+		d_edgewater = {
+			color={ 124 188 23 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 16 province_id = 17 province_id = 18 province_id = 19 } }
+				}
+			}
+			capital = 16 # c_clifton
+			
+			c_clifton = { # 16
+				color={ 114 198 18 }
+				color2={ 255 255 255 }
+				
+				b_clifton = {
+				}
+				b_park_hill = {
+				}
+				b_rosebank = {
+				}
+				b_shore_acres = {
+				}
+				b_tompkins_ave = {
+				}
+				b_vanderbilt_ave = {
+				}
+			}
+			c_concord = { # 18
+				color={ 101 182 36 }
+				color2={ 255 255 255 }
+				
+				b_concord = {
+				}
+				b_concord_2 = {
+				}
+				b_arrochar = {
+				}
+				b_w_fingerboard_rd = {
+				}
+			}
+			c_fort_wadsworth = { # 17
+				color={ 128 164 36 }
+				color2={ 255 255 255 }
+				
+				b_fort_wadsworth = {
+				}
+				b_fort_wadsworth_2 = {
+				}
+				b_battery_rd = {
+				}
+				b_hudson_rd = {
+				}
+			}
+			c_south_beach = { # 19
+				color={ 154 203 16 }
+				color2={ 255 255 255 }
+				
+				b_south_beach = {
+				}
+				b_south_beach_2 = {
+				}
+				b_dongan_hills = {
+				}
+				b_olympia_blvd = {
+				}
+			}
+		}
+		d_southfield = {
+			color={ 98 175 60 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 20 province_id = 21 province_id = 22 province_id = 23 } }
+				}
+			}
+			capital = 20 # c_grant_city
+			
+			c_grant_city = { # 20
+				color={ 88 185 55 }
+				color2={ 255 255 255 }
+				
+				b_grant_city = {
+				}
+				b_midland_beach = {
+				}
+				b_seaview_ave = {
+				}
+				b_father_capodanno_blvd = {
+				}
+			}
+			c_great_kills = { # 22
+				color={ 83 229 47 }
+				color2={ 255 255 255 }
+				
+				b_great_kills = {
+				}
+				b_amboy_rd = {
+				}
+				b_keegans_ln = {
+				}
+			}
+			c_new_dorp = { # 21
+				color={ 68 211 23 }
+				color2={ 255 255 255 }
+				
+				b_new_dorp = {
+				}
+				b_new_dorp_2 = {
+				}
+				b_oakwood = {
+				}
+				b_new_dorp_beach = {
+				}
+				b_oakwood_heights = {
+				}
+			}
+			c_richmond = { # 23
+				color={ 86 193 10 }
+				color2={ 255 255 255 }
+				
+				b_richmond = {
+				}
+				b_clarke_ave = {
+				}
+				b_lighthouse_hill = {
+				}
+				b_riedel_ave = {
+				}
+			}
+		}
+	}
+	k_westfield = {
+		color={ 142 129 46 }
+		color2={ 255 255 255 }
+		
+		capital = 24 # c_woodrow
+		culture = white_american
+		
+		d_westfield = {
+			color={ 122 149 36 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 24 province_id = 25 province_id = 26 province_id = 27 province_id = 28 } }
+				}
+			}
+			capital = 24 # c_woodrow
+			
+			c_woodrow = { # 24
+				color={ 112 159 31 }
+				color2={ 255 255 255 }
+				
+				b_woodrow = {
+				}
+				b_woodrow_rd = {
+				}
+				b_ramona_ave = {
+				}
+				b_foster_rd = {
+				}
+			}
+			c_arden_heights = { # 26
+				color={ 68 169 10 }
+				color2={ 255 255 255 }
+				
+				b_arden_heights = {
+				}
+				b_annadale_rd = {
+				}
+				b_pompey_ave = {
+				}
+			}
+			c_eltingville = { # 27
+				color={ 130 154 44 }
+				color2={ 255 255 255 }
+				
+				b_eltingville = {
+				}
+				b_shirley_ave = {
+				}
+				b_ridgecrest_ave = {
+				}
+			}
+			c_fresh_kills = { # 25
+				color={ 91 104 44 }
+				color2={ 255 255 255 }
+				
+				b_fresh_kills = {
+				}
+				b_muldoon_ave = {
+				}
+			}
+			c_rossville = { # 28
+				color={ 151 151 52 }
+				color2={ 255 255 255 }
+				
+				b_rossville = {
+				}
+				b_rossville_ave = {
+				}
+				b_correll_ave = {
+				}
+			}
+		}
+		d_tottenville = {
+			color={ 85 167 47 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 29 province_id = 30 province_id = 31 province_id = 32 } }
+				}
+			}
+			capital = 29 # c_tottenville
+			
+			c_tottenville = { # 29
+				color={ 75 177 42 }
+				color2={ 255 255 255 }
+				
+				b_tottenville = {
+				}
+				b_page_ave = {
+				}
+				b_main_st = {
+				}
+				b_sprague_ave = {
+				}
+			}
+			c_charleston = { # 32
+				color={ 114 182 73 }
+				color2={ 255 255 255 }
+				
+				b_charleston = {
+				}
+				b_sharrots_rd = {
+				}
+				b_bricktown_way = {
+				}
+			}
+			c_huguenot = { # 30
+				color={ 94 198 60 }
+				color2={ 255 255 255 }
+				
+				b_huguenot = {
+				}
+				b_lutten_ave = {
+				}
+				b_seguine_ave = {
+				}
+				b_woodvale_ave = {
+				}
+			}
+			c_pleasant_plains = { # 31
+				color={ 73 221 36 }
+				color2={ 255 255 255 }
+				
+				b_pleasant_plains = {
+				}
+				b_cunningham_rd = {
+				}
+			}
+		}
+	}
+}
+e_the_bronx = {
+	color={ 167 218 245 }
+	color2={ 255 255 20 }
+	
+	capital = 242 # c_mott_haven
+	culture = white_american
+	
+	k_morrisania = {
+		color={ 177 208 250 }
+		color2={ 255 255 255 }
+		
+		capital = 242 # c_mott_haven
+		culture = white_american
+		
+		d_mott_haven = {
+			color={ 197 188 4 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 242 province_id = 243 province_id = 244 province_id = 245 province_id = 246 } }
+				}
+			}
+			capital = 242 # c_mott_haven
+			
+			c_mott_haven = { # 242
+				color={ 207 178 9 }
+				color2={ 255 255 255 }
+				
+				b_mott_haven = {
+				}
+				b_bruckner_blvd = {
+				}
+				b_3rd_ave_7 = {
+				}
+				b_willis_ave = {
+				}
+				b_138th_st = {
+				}
+				b_canal_st = {
+				}
+				b_rider_ave = {
+				}
+			}
+			c_melrose = { # 244
+				color={ 198 171 2 }
+				color2={ 255 255 255 }
+				
+				b_melrose = {
+				}
+				b_149th_st_2 = {
+				}
+				b_3rd_ave_8 = {
+				}
+				b_courtlandt_ave = {
+				}
+				b_morris_ave = {
+				}
+				b_156th_st = {
+				}
+			}
+			c_port_morris = { # 243
+				color={ 218 191 26 }
+				color2={ 255 255 255 }
+				
+				b_port_morris = {
+				}
+				b_st_anns_ave = {
+				}
+				b_138th_st_2 = {
+				}
+				b_brook_ave = {
+				}
+				b_locust_ave = {
+				}
+				b_bruckner_blvd_2 = {
+				}
+			}
+			c_st_marys_park = { # 245
+				color={ 196 213 42 }
+				color2={ 255 255 255 }
+				
+				b_st_marys_park = {
+				}
+				b_brook_ave_2 = {
+				}
+				b_st_anns_ave_2 = {
+				}
+				b_willis_ave_2 = {
+				}
+				b_149th_st_3 = {
+				}
+			}
+			c_woodstock = { # 246
+				color={ 204 189 2 }
+				color2={ 255 255 255 }
+				
+				b_woodstock = {
+				}
+				b_bruckner_expy = {
+				}
+				b_wales_ave = {
+				}
+				b_southern_blvd = {
+				}
+			}
+		}
+		d_claremont = {
+			color={ 225 184 19 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 257 province_id = 258 province_id = 259 province_id = 260 } }
+				}
+			}
+			capital = 257 # c_claremont_village
+			
+			c_claremont_village = { # 257
+				color={ 235 174 24 }
+				color2={ 255 255 255 }
+				
+				b_claremont_village = {
+				}
+				b_webster_ave = {
+				}
+				b_3rd_ave_9 = {
+				}
+				b_crotona_ave = {
+				}
+			}
+			c_charlotte_gardens = { # 258
+				color={ 237 200 2 }
+				color2={ 255 255 255 }
+				
+				b_charlotte_gardens = {
+				}
+				b_boston_rd = {
+				}
+				b_southern_blvd_3 = {
+				}
+				b_longfellow_ave = {
+				}
+				b_169th_st = {
+				}
+			}
+			c_forest_houses = { # 259
+				color={ 226 185 4 }
+				color2={ 255 255 255 }
+				
+				b_forest_houses = {
+				}
+				b_3rd_ave_10 = {
+				}
+				b_webster_ave_2 = {
+				}
+				b_tinton_ave = {
+				}
+			}
+			c_foxhurst = { # 260
+				color={ 215 196 7 }
+				color2={ 255 255 255 }
+				
+				b_foxhurst = {
+				}
+				b_southern_blvd_4 = {
+				}
+				b_whitlock_ave = {
+				}
+				b_westchester_ave = {
+				}
+			}
+		}
+		d_concourse = {
+			color={ 190 197 2 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 247 province_id = 248 province_id = 249 province_id = 250 province_id = 251 } }
+				}
+			}
+			capital = 247 # c_concourse
+			
+			c_concourse = { # 247
+				color={ 200 187 7 }
+				color2={ 255 255 255 }
+				
+				b_concourse = {
+				}
+				b_mcclellan_st = {
+				}
+				b_morris_ave_2 = {
+				}
+				b_findlay_ave = {
+				}
+				b_walton_ave = {
+				}
+			}
+			c_concourse_village = { # 248
+				color={ 193 202 29 }
+				color2={ 255 255 255 }
+				
+				b_concourse_village = {
+				}
+				b_161th_st = {
+				}
+				b_158th_st = {
+				}
+				b_morris_ave_3 = {
+				}
+			}
+			c_concourse_waterfront = { # 249
+				color={ 222 176 9 }
+				color2={ 255 255 255 }
+				
+				b_concourse_waterfront = {
+				}
+				b_river_ave = {
+				}
+				b_gerard_ave = {
+				}
+				b_walton_ave_2 = {
+				}
+				b_151st_st = {
+				}
+			}
+			c_highbridge = { # 250
+				color={ 213 196 11 }
+				color2={ 255 255 255 }
+				
+				b_highbridge = {
+				}
+				b_university_ave = {
+				}
+				b_jerome_ave = {
+				}
+				b_woodycrest_ave = {
+				}
+				b_nelson_ave = {
+				}
+				b_ogden_ave = {
+				}
+			}
+			c_mount_eden = { # 251
+				color={ 242 218 35 }
+				color2={ 255 255 255 }
+				
+				b_mount_eden = {
+				}
+				b_170th_st = {
+				}
+				b_townsend_ave = {
+				}
+				b_jesup_ave = {
+				}
+				b_jerome_ave_2 = {
+				}
+			}
+		}
+		d_hunts_point = {
+			color={ 225 177 10 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 252 province_id = 253 province_id = 254 province_id = 255 province_id = 256 } }
+				}
+			}
+			capital = 252 # c_hunts_point
+			
+			c_hunts_point = { # 252
+				color={ 235 167 15 }
+				color2={ 255 255 255 }
+				
+				b_hunts_point = {
+				}
+				b_lafayette_ave_3 = {
+				}
+				b_edgewater_rd = {
+				}
+				b_spofford_ave = {
+				}
+				b_garrison_ave = {
+				}
+			}
+			c_east_hunts_point = { # 254
+				color={ 229 209 20 }
+				color2={ 255 255 255 }
+				
+				b_east_hunts_point = {
+				}
+				b_halleck_st = {
+				}
+				b_market_st_2 = {
+				}
+			}
+			c_longwood = { # 255
+				color={ 224 154 22 }
+				color2={ 255 255 255 }
+				
+				b_longwood = {
+				}
+				b_longwood_ave = {
+				}
+				b_southern_blvd_2 = {
+				}
+				b_prospect_ave_3 = {
+				}
+			}
+			c_rikers_island = { # 256
+				color={ 226 154 13 }
+				color2={ 255 255 255 }
+				
+				b_rikers_island = {
+				}
+				b_hazen_st_2 = {
+				}
+				b_hillside_ave_2 = {
+				}
+			}
+			c_south_hunts_point = { # 253
+				color={ 237 182 7 }
+				color2={ 255 255 255 }
+				
+				b_south_hunts_point = {
+				}
+				b_oak_point_ave = {
+				}
+				b_randall_ave = {
+				}
+				b_tiffany_st = {
+				}
+				b_bryant_ave = {
+				}
+			}
+		}
+	}
+	k_kingsbridge = {
+		color={ 183 208 42 }
+		color2={ 255 255 255 }
+		
+		capital = 261 # c_kingsbridge
+		culture = apulian
+		
+		d_kingsbridge = {
+			color={ 203 188 52 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 261 province_id = 262 province_id = 263 province_id = 264 province_id = 265 } }
+				}
+			}
+			capital = 261 # c_kingsbridge
+			
+			c_kingsbridge = { # 261
+				color={ 213 178 57 }
+				color2={ 255 255 255 }
+				
+				b_kingsbridge = {
+				}
+				b_kingsbridge_ave = {
+				}
+				b_corlear_ave = {
+				}
+				b_irwin_ave = {
+				}
+				b_bailey_ave = {
+				}
+				b_sedgewick_ave = {
+				}
+			}
+			c_bedford_park = { # 264
+				color={ 215 191 42 }
+				color2={ 255 255 255 }
+				
+				b_bedford_park = {
+				}
+				b_grand_concourse = {
+				}
+				b_bedford_park_blvd = {
+				}
+				b_goulden_ave = {
+				}
+				b_jerome_ave_3 = {
+				}
+			}
+			c_marble_hill = { # 265
+				color={ 207 191 68 }
+				color2={ 255 255 255 }
+				
+				b_marble_hill = {
+				}
+				b_marble_hill_ave = {
+				}
+				b_terrace_view_ave = {
+				}
+				b_tibbett_ave = {
+				}
+			}
+			c_norwood = { # 263
+				color={ 209 189 64 }
+				color2={ 255 255 255 }
+				
+				b_norwood = {
+				}
+				b_bainbridge_ave = {
+				}
+				b_gun_hill_rd = {
+				}
+				b_reservoir_oval = {
+				}
+			}
+			c_spuyten_duyvil = { # 262
+				color={ 200 165 46 }
+				color2={ 255 255 255 }
+				
+				b_spuyten_duyvil = {
+				}
+				b_independence_ave = {
+				}
+				b_arlington_ave_2 = {
+				}
+				b_riverdale_ave_2 = {
+				}
+				b_netherland_ave = {
+				}
+			}
+		}
+		d_kingsbridge_heights = {
+			color={ 199 177 41 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 276 province_id = 277 province_id = 278 province_id = 279 province_id = 280 } }
+				}
+			}
+			capital = 276 # c_university_heights
+			
+			c_university_heights = { # 276
+				color={ 209 167 46 }
+				color2={ 255 255 255 }
+				
+				b_university_heights = {
+				}
+				b_university_ave_2 = {
+				}
+				b_cedar_ave = {
+				}
+				b_sedgwick_ave = {
+				}
+				b_w_180th_st = {
+				}
+			}
+			c_fordham = { # 280
+				color={ 202 156 73 }
+				color2={ 255 255 255 }
+				
+				b_fordham = {
+				}
+				b_fordham_rd = {
+				}
+				b_grand_concourse_3 = {
+				}
+				b_elm_pl = {
+				}
+				b_valentine_ave = {
+				}
+				b_jerome_ave_6 = {
+				}
+			}
+			c_morris_heights = { # 278
+				color={ 226 152 24 }
+				color2={ 255 255 255 }
+				
+				b_morris_heights = {
+				}
+				b_tremont_ave_3 = {
+				}
+				b_cedar_ave_2 = {
+				}
+				b_burnside_ave = {
+				}
+			}
+			c_mount_hope = { # 279
+				color={ 213 171 37 }
+				color2={ 255 255 255 }
+				
+				b_mount_hope = {
+				}
+				b_burnside_ave_2 = {
+				}
+				b_jerome_ave_5 = {
+				}
+				b_grand_concourse_2 = {
+				}
+				b_tremont_ave_4 = {
+				}
+			}
+			c_south_kingsbridge = { # 277
+				color={ 222 152 37 }
+				color2={ 255 255 255 }
+				
+				b_south_kingsbridge = {
+				}
+				b_kingsbridge_terrace = {
+				}
+				b_reservoir_ave = {
+				}
+				b_heath_ave = {
+				}
+			}
+		}
+		d_riverdale = {
+			color={ 177 162 54 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 266 province_id = 267 province_id = 268 province_id = 269 province_id = 270 } }
+				}
+			}
+			capital = 266 # c_riverdale
+			
+			c_riverdale = { # 266
+				color={ 187 152 59 }
+				color2={ 255 255 255 }
+				
+				b_riverdale = {
+				}
+				b_palisade_ave = {
+				}
+				b_delafield_way = {
+				}
+				b_independence_ave_2 = {
+				}
+			}
+			c_fieldston = { # 267
+				color={ 182 171 46 }
+				color2={ 255 255 255 }
+				
+				b_fieldston = {
+				}
+				b_fieldston_rd = {
+				}
+				b_delafield_ave = {
+				}
+				b_grosvenor_ave = {
+				}
+				b_waldo_ave = {
+				}
+			}
+			c_north_riverdale = { # 268
+				color={ 200 160 42 }
+				color2={ 255 255 255 }
+				
+				b_north_riverdale = {
+				}
+				b_riverdale_ave_3 = {
+				}
+				b_liebig_ave = {
+				}
+				b_palisade_ave_2 = {
+				}
+				b_college_rd = {
+				}
+			}
+			c_van_cortland_park = { # 269
+				color={ 196 147 44 }
+				color2={ 255 255 255 }
+				
+				b_van_cortland_park = {
+				}
+				b_jerome_ave_4 = {
+				}
+				b_moshulu_pkwy = {
+				}
+			}
+			c_woodlawn = { # 270
+				color={ 187 165 18 }
+				color2={ 255 255 255 }
+				
+				b_woodlawn = {
+				}
+				b_katonah_ave = {
+				}
+				b_webster_ave_3 = {
+				}
+			}
+		}
+		d_tremont = {
+			color={ 203 179 32 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 271 province_id = 272 province_id = 273 province_id = 274 province_id = 275 } }
+				}
+			}
+			capital = 271 # c_west_tremont
+			
+			c_west_tremont = { # 271
+				color={ 213 169 37 }
+				color2={ 255 255 255 }
+				
+				b_west_tremont = {
+				}
+				b_tremont_ave = {
+				}
+				b_washington_ave_3 = {
+				}
+				b_arthur_ave = {
+				}
+				b_bathgate_ave = {
+				}
+			}
+			c_belmont = { # 273
+				color={ 231 174 26 }
+				color2={ 255 255 255 }
+				
+				b_belmont = {
+				}
+				b_crescent_ave = {
+				}
+				b_ciccarone = {
+				}
+				b_e_187th_st = {
+				}
+				b_quarry_rd = {
+				}
+			}
+			c_botanical_garden = { # 275
+				color={ 209 147 48 }
+				color2={ 255 255 255 }
+				
+				b_botanical_garden = {
+				}
+				b_bronx_park_dr = {
+				}
+				b_thain_ave = {
+				}
+			}
+			c_bronx_zoo = { # 274
+				color={ 222 158 35 }
+				color2={ 255 255 255 }
+				
+				b_bronx_zoo = {
+				}
+				b_southern_blvd_6 = {
+				}
+				b_boston_rd_2 = {
+				}
+			}
+			c_east_tremont = { # 272
+				color={ 213 147 31 }
+				color2={ 255 255 255 }
+				
+				b_east_tremont = {
+				}
+				b_crotona = {
+				}
+				b_southern_blvd_5 = {
+				}
+				b_tremont_ave_2 = {
+				}
+			}
+		}
+	}
+	k_pelham = {
+		color={ 174 245 5 }
+		color2={ 255 255 255 }
+		
+		capital = 299 # c_pelham_bay
+		culture = campanian
+		
+		d_pelham_bay = {
+			color={ 194 225 15 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 299 province_id = 300 province_id = 301 province_id = 302 province_id = 303 } }
+				}
+			}
+			capital = 299 # c_pelham_bay
+			
+			c_pelham_bay = { # 299
+				color={ 204 215 20 }
+				color2={ 255 255 255 }
+				
+				b_pelham_bay = {
+				}
+				b_crosby_ave_2 = {
+				}
+				b_westchester_ave_4 = {
+				}
+				b_bruckner_blvd_5 = {
+				}
+				b_wilkinson_ave = {
+				}
+			}
+			c_baychester = { # 302
+				color={ 226 248 18 }
+				color2={ 255 255 255 }
+				
+				b_baychester = {
+				}
+				b_bartow_ave = {
+				}
+				b_baychester_ave = {
+				}
+				b_edson_ave = {
+				}
+			}
+			c_city_island = { # 303
+				color={ 202 193 33 }
+				color2={ 255 255 255 }
+				
+				b_city_island = {
+				}
+				b_city_island_ave = {
+				}
+				b_fordham_st = {
+				}
+				b_hart_island = {
+				}
+			}
+			c_co_op_city = { # 301
+				color={ 218 224 9 }
+				color2={ 255 255 255 }
+				
+				b_co_op_city = {
+				}
+				b_co_op_city_blvd = {
+				}
+				b_peartree_ave = {
+				}
+			}
+			c_pelham_bay_park = { # 300
+				color={ 185 231 24 }
+				color2={ 255 255 255 }
+				
+				b_pelham_bay_park = {
+				}
+				b_shore_rd_3 = {
+				}
+				b_orchard_beach = {
+				}
+			}
+		}
+		d_eastchester = {
+			color={ 214 250 251 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 309 province_id = 310 province_id = 311 province_id = 312 province_id = 313 } }
+				}
+			}
+			capital = 309 # c_eastchester
+			
+			c_eastchester = { # 309
+				color={ 224 240 0 }
+				color2={ 255 255 255 }
+				
+				b_eastchester = {
+				}
+				b_dyre_ave = {
+				}
+				b_233rd_st = {
+				}
+				b_pratt_ave = {
+				}
+			}
+			c_edenwald = { # 310
+				color={ 207 218 11 }
+				color2={ 255 255 255 }
+				
+				b_edenwald = {
+				}
+				b_222nd_st_2 = {
+				}
+				b_schleffelin_ave = {
+				}
+				b_229th_st = {
+				}
+			}
+			c_olinville = { # 311
+				color={ 229 226 33 }
+				color2={ 255 255 255 }
+				
+				b_olinville = {
+				}
+				b_burke_ave = {
+				}
+				b_bronxwood_ave = {
+				}
+				b_gun_hill_rd_3 = {
+				}
+				b_bronx_blvd = {
+				}
+			}
+			c_wakefield = { # 313
+				color={ 185 185 4 }
+				color2={ 255 255 255 }
+				
+				b_wakefield = {
+				}
+				b_nereid_ave = {
+				}
+				b_pitman_ave = {
+				}
+				b_bussing_ave = {
+				}
+			}
+			c_williamsbridge = { # 312
+				color={ 214 212 0 }
+				color2={ 255 255 255 }
+				
+				b_williamsbridge = {
+				}
+				b_white_plains_rd_2 = {
+				}
+				b_ollinville_ave = {
+				}
+				b_holland_ave = {
+				}
+				b_willett_ave = {
+				}
+			}
+		}
+		d_pelham_town = {
+			color={ 223 239 24 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 304 province_id = 305 province_id = 306 province_id = 307 province_id = 308 } }
+				}
+			}
+			capital = 304 # c_pelham_parkway
+			
+			c_pelham_parkway = { # 304
+				color={ 233 229 29 }
+				color2={ 255 255 255 }
+				
+				b_pelham_parkway = {
+				}
+				b_white_plains_rd = {
+				}
+				b_lydig_ave = {
+				}
+				b_bronx_park_e = {
+				}
+			}
+			c_allerton = { # 307
+				color={ 215 218 4 }
+				color2={ 255 255 255 }
+				
+				b_allerton = {
+				}
+				b_pelham_pkwy = {
+				}
+				b_waring_ave_2 = {
+				}
+				b_bronx_park_e_2 = {
+				}
+			}
+			c_laconia = { # 308
+				color={ 237 237 18 }
+				color2={ 255 255 255 }
+				
+				b_laconia = {
+				}
+				b_adee_ave = {
+				}
+				b_gun_hill_rd_2 = {
+				}
+				b_mace_ave_2 = {
+				}
+			}
+			c_morris = { # 305
+				color={ 220 211 46 }
+				color2={ 255 255 255 }
+				
+				b_morris = {
+				}
+				b_stillwell_ave_3 = {
+				}
+				b_eastchester_rd_2 = {
+				}
+				b_seminole_ave = {
+				}
+			}
+			c_pelham_gardens = { # 306
+				color={ 248 248 62 }
+				color2={ 255 255 255 }
+				
+				b_pelham_gardens = {
+				}
+				b_waring_ave = {
+				}
+				b_stillwell_ave_4 = {
+				}
+				b_astor_ave = {
+				}
+				b_mace_ave = {
+				}
+			}
+		}
+	}
+	k_westchester = {
+		color={ 188 141 55 }
+		color2={ 255 255 255 }
+		
+		capital = 281 # c_westchester_square
+		culture = white_american
+		
+		d_westchester = {
+			color={ 168 161 45 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 281 province_id = 282 province_id = 283 province_id = 284 } }
+				}
+			}
+			capital = 281 # c_westchester_square
+			
+			c_westchester_square = { # 281
+				color={ 158 171 40 }
+				color2={ 255 255 255 }
+				
+				b_westchester_square = {
+				}
+				b_tremont_ave_5 = {
+				}
+				b_zerega_ave = {
+				}
+				b_eastchester_rd = {
+				}
+				b_waters_pl = {
+				}
+			}
+			c_country_club = { # 282
+				color={ 171 187 13 }
+				color2={ 255 255 255 }
+				
+				b_country_club = {
+				}
+				b_bruckner_blvd_3 = {
+				}
+				b_rawlins_ave = {
+				}
+				b_griswold_ave = {
+				}
+			}
+			c_middletown = { # 284
+				color={ 180 176 18 }
+				color2={ 255 255 255 }
+				
+				b_middletown = {
+				}
+				b_middletown_rd = {
+				}
+				b_crosby_ave = {
+				}
+				b_dudley_ave = {
+				}
+			}
+			c_unionport = { # 283
+				color={ 174 154 26 }
+				color2={ 255 255 255 }
+				
+				b_unionport = {
+				}
+				b_westchester_ave_2 = {
+				}
+				b_castle_hill_ave = {
+				}
+				b_waterbury_ave = {
+				}
+				b_zerega_ave_2 = {
+				}
+			}
+		}
+		d_parkchester = {
+			color={ 186 197 253 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 285 province_id = 286 province_id = 287 province_id = 288 } }
+				}
+			}
+			capital = 285 # c_parkchester
+			
+			c_parkchester = { # 285
+				color={ 196 187 2 }
+				color2={ 255 255 255 }
+				
+				b_parkchester = {
+				}
+				b_metropolitan_ave_5 = {
+				}
+				b_unionport_rd = {
+				}
+				b_wood_rd = {
+				}
+			}
+			c_morris_park = { # 288
+				color={ 176 196 9 }
+				color2={ 255 255 255 }
+				
+				b_morris_park = {
+				}
+				b_bronxdale_ave = {
+				}
+				b_rhinelander_ave = {
+				}
+				b_van_nest_ave_2 = {
+				}
+			}
+			c_van_nest = { # 287
+				color={ 182 185 29 }
+				color2={ 255 255 255 }
+				
+				b_van_nest = {
+				}
+				b_morris_park_ave = {
+				}
+				b_van_nest_ave = {
+				}
+				b_taylor_ave = {
+				}
+			}
+			c_west_farms = { # 286
+				color={ 182 200 11 }
+				color2={ 255 255 255 }
+				
+				b_west_farms = {
+				}
+				b_westchester_ave_3 = {
+				}
+				b_172nd_st = {
+				}
+				b_173rd_st = {
+				}
+				b_archer_st = {
+				}
+			}
+		}
+		d_schuylerville = {
+			color={ 197 208 253 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 294 province_id = 295 province_id = 296 province_id = 297 province_id = 298 } }
+				}
+			}
+			capital = 294 # c_east_schuylerville
+			
+			c_east_schuylerville = { # 294
+				color={ 207 198 2 }
+				color2={ 255 255 255 }
+				
+				b_east_schuylerville = {
+				}
+				b_tremont_ave_6 = {
+				}
+				b_randall_ave_3 = {
+				}
+				b_clarence_ave = {
+				}
+			}
+			c_edgewater_park = { # 296
+				color={ 215 211 4 }
+				color2={ 255 255 255 }
+				
+				b_edgewater_park = {
+				}
+				b_miles_ave = {
+				}
+				b_longstreet_ave = {
+				}
+			}
+			c_ferry_point = { # 298
+				color={ 213 191 26 }
+				color2={ 255 255 255 }
+				
+				b_ferry_point = {
+				}
+				b_emerson_ave = {
+				}
+				b_hutchinson_river_pkwy = {
+				}
+			}
+			c_throggs_neck = { # 297
+				color={ 189 202 9 }
+				color2={ 255 255 255 }
+				
+				b_throggs_neck = {
+				}
+				b_harding_ave = {
+				}
+				b_lawton_ave = {
+				}
+				b_pennyfield_ave = {
+				}
+			}
+			c_west_schuylerville = { # 295
+				color={ 187 180 9 }
+				color2={ 255 255 255 }
+				
+				b_west_schuylerville = {
+				}
+				b_brush_ave = {
+				}
+				b_balcom_ave = {
+				}
+			}
+		}
+		d_soundview = {
+			color={ 170 206 19 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 289 province_id = 290 province_id = 291 province_id = 292 province_id = 293 } }
+				}
+			}
+			capital = 289 # c_soundview_park
+			
+			c_soundview_park = { # 289
+				color={ 180 196 24 }
+				color2={ 255 255 255 }
+				
+				b_soundview_park = {
+				}
+				b_watson_ave = {
+				}
+				b_story_ave = {
+				}
+				b_boynton_ave = {
+				}
+			}
+			c_castle_hill = { # 291
+				color={ 190 190 7 }
+				color2={ 255 255 255 }
+				
+				b_castle_hill = {
+				}
+				b_randall_ave_2 = {
+				}
+				b_castle_hill_ave_2 = {
+				}
+				b_zerega_ave_3 = {
+				}
+			}
+			c_clason_point = { # 292
+				color={ 196 165 7 }
+				color2={ 255 255 255 }
+				
+				b_clason_point = {
+				}
+				b_soundview_ave = {
+				}
+				b_seward_ave = {
+				}
+				b_lacombe_ave = {
+				}
+			}
+			c_shorehaven = { # 293
+				color={ 198 209 13 }
+				color2={ 255 255 255 }
+				
+				b_shorehaven = {
+				}
+				b_harding_park = {
+				}
+				b_gildersleeve_ave = {
+				}
+			}
+			c_soundview_village = { # 290
+				color={ 207 202 22 }
+				color2={ 255 255 255 }
+				
+				b_soundview_village = {
+				}
+				b_rosedale_ave = {
+				}
+				b_bruckner_blvd_4 = {
+				}
+				b_gleason_ave = {
+				}
+				b_lafayette_ave_4 = {
+				}
+			}
+		}
+	}
+}

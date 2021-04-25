@@ -1,0 +1,21 @@
+# c_chelsea_2
+
+# County Title
+title = c_chelsea_2
+
+# Settlements
+max_settlements = 7
+
+b_chelsea_2 = castle
+b_w_23rd_st = city
+b_w_14th_st = temple
+b_w_20th_st = castle
+b_w_22nd_st = city
+#b_w_21st_st = temple
+#b_w_17th_st_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

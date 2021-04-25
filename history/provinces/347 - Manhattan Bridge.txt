@@ -1,0 +1,21 @@
+# c_manhattan_bridge
+
+# County Title
+title = c_manhattan_bridge
+
+# Settlements
+max_settlements = 5
+
+b_manhattan_bridge = castle
+b_pike_st = city
+b_e_broadway = temple
+b_madison_st_2 = castle
+#b_cherry_st_2 = city
+#b_division_st = temple
+#b_rutgers_st = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

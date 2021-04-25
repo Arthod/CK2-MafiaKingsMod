@@ -1,0 +1,20 @@
+# c_kingsbridge
+
+# County Title
+title = c_kingsbridge
+
+# Settlements
+max_settlements = 5
+
+b_kingsbridge = castle
+b_kingsbridge_ave = city
+#b_corlear_ave = temple
+#b_irwin_ave = castle
+#b_bailey_ave = city
+#b_sedgewick_ave = temple
+
+# Misc
+culture = irish
+religion = criminal
+
+#History

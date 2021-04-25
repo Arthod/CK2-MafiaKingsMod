@@ -1,15 +1,59 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-k_battery_park;Battery Park;Battery Park;Battery Park;;Battery Park;;;;;;;;;x
-k_battery_park_adj;Battery Parkian;;Battery Parker;;;;;;;;;;;x
-k_columbus_circle;Columbus Circle;Columbus Circle;Columbus Circle;;Columbus Circle;;;;;;;;;x
-k_columbus_circle_adj;Columbus Circlean;;Columbus Circler;;;;;;;;;;;x
-k_greenwich_village;Greenwich Village;Greenwich Village;Greenwich Village;;Greenwich Village;;;;;;;;;x
-k_greenwich_village_adj;Greenwich Villagean;;Greenwich Villager;;;;;;;;;;;x
+k_brooklyn;Brooklyn;Brooklyn;Brooklyn;;Brooklyn;;;;;;;;;x
+k_brooklyn_adj;Brooklynian;;brooklyner;;;;;;;;;;;x
+k_bushwick;Bushwick;Bushwick;Bushwick;;Bushwick;;;;;;;;;x
+k_bushwick_adj;Bushwickian;;bushwicker;;;;;;;;;;;x
+k_castleton;Castleton;Castleton;Castleton;;Castleton;;;;;;;;;x
+k_castleton_adj;Castletonian;;castletoner;;;;;;;;;;;x
+k_east_new_york;East New York;East New York;East New York;;East New York;;;;;;;;;x
+k_east_new_york_adj;East New Yorkian;;East New Yorker;;;;;;;;;;;x
+k_flatbush;Flatbush;Flatbush;Flatbush;;Flatbush;;;;;;;;;x
+k_flatbush_adj;Flatbushian;;flatbusher;;;;;;;;;;;x
+k_flatlands;Flatlands;Flatlands;Flatlands;;Flatlands;;;;;;;;;x
+k_flatlands_adj;Flatlandsian;;flatlandser;;;;;;;;;;;x
+k_flushing;Flushing;Flushing;Flushing;;Flushing;;;;;;;;;x
+k_flushing_adj;Flushingian;;flushinger;;;;;;;;;;;x
+k_gravesend;Gravesend;Gravesend;Gravesend;;Gravesend;;;;;;;;;x
+k_gravesend_adj;Gravesendian;;gravesender;;;;;;;;;;;x
+k_harlem;Harlem;Harlem;Harlem;;Harlem;;;;;;;;;x
+k_harlem_adj;Harlemian;;harlemer;;;;;;;;;;;x
+k_jamaica;Jamaica;Jamaica;Jamaica;;Jamaica;;;;;;;;;x
+k_jamaica_adj;Jamaican;;jamaicer;;;;;;;;;;;x
+k_kingsbridge;Kingsbridge;Kingsbridge;Kingsbridge;;Kingsbridge;;;;;;;;;x
+k_kingsbridge_adj;Kingsbridgean;;kingsbridger;;;;;;;;;;;x
+k_little_neck_bay;Little Neck Bay;Little Neck Bay;Little Neck Bay;;Little Neck Bay;;;;;;;;;x
+k_little_neck_bay_adj;Little Neck Baian;;Little Neck Baer;;;;;;;;;;;x
+k_long_island_city;Long Island City;Long Island City;Long Island City;;Long Island City;;;;;;;;;x
+k_long_island_city_adj;Long Island Citian;;Long Island Citer;;;;;;;;;;;x
 k_lower_east_side;Lower East Side;Lower East Side;Lower East Side;;Lower East Side;;;;;;;;;x
 k_lower_east_side_adj;Lower East Sidean;;Lower East Sider;;;;;;;;;;;x
-k_other;Other;Other;Other;;Other;;;;;;;;;x
-k_other_adj;Otherian;;otherer;;;;;;;;;;;x
-k_times_square;Times Square;Times Square;Times Square;;Times Square;;;;;;;;;x
-k_times_square_adj;Times Squarean;;Times Squarer;;;;;;;;;;;x
-k_yorkville;Yorkville;Yorkville;Yorkville;;Yorkville;;;;;;;;;x
-k_yorkville_adj;Yorkvillean;;yorkviller;;;;;;;;;;;x
+k_lower_manhattan;Lower Manhattan;Lower Manhattan;Lower Manhattan;;Lower Manhattan;;;;;;;;;x
+k_lower_manhattan_adj;Lower Manhattanian;;Lower Manhattaner;;;;;;;;;;;x
+k_manhattan_heights;Manhattan Heights;Manhattan Heights;Manhattan Heights;;Manhattan Heights;;;;;;;;;x
+k_manhattan_heights_adj;Manhattan Heightsian;;Manhattan Heightser;;;;;;;;;;;x
+k_midtown;Midtown;Midtown;Midtown;;Midtown;;;;;;;;;x
+k_midtown_adj;Midtownian;;midtowner;;;;;;;;;;;x
+k_morrisania;Morrisania;Morrisania;Morrisania;;Morrisania;;;;;;;;;x
+k_morrisania_adj;Morrisanian;;morrisaner;;;;;;;;;;;x
+k_new_utrecht;New Utrecht;New Utrecht;New Utrecht;;New Utrecht;;;;;;;;;x
+k_new_utrecht_adj;New Utrechtian;;New Utrechter;;;;;;;;;;;x
+k_newtown;Newtown;Newtown;Newtown;;Newtown;;;;;;;;;x
+k_newtown_adj;Newtownian;;newtowner;;;;;;;;;;;x
+k_northfield;Northfield;Northfield;Northfield;;Northfield;;;;;;;;;x
+k_northfield_adj;Northfieldian;;northfielder;;;;;;;;;;;x
+k_ozone_park;Ozone Park;Ozone Park;Ozone Park;;Ozone Park;;;;;;;;;x
+k_ozone_park_adj;Ozone Parkian;;Ozone Parker;;;;;;;;;;;x
+k_pelham;Pelham;Pelham;Pelham;;Pelham;;;;;;;;;x
+k_pelham_adj;Pelhamian;;pelhamer;;;;;;;;;;;x
+k_rockaway;Rockaway;Rockaway;Rockaway;;Rockaway;;;;;;;;;x
+k_rockaway_adj;Rockawaian;;rockawaer;;;;;;;;;;;x
+k_southfield;Southfield;Southfield;Southfield;;Southfield;;;;;;;;;x
+k_southfield_adj;Southfieldian;;southfielder;;;;;;;;;;;x
+k_upper_east_side;Upper East Side;Upper East Side;Upper East Side;;Upper East Side;;;;;;;;;x
+k_upper_east_side_adj;Upper East Sidean;;Upper East Sider;;;;;;;;;;;x
+k_upper_west_side;Upper West Side;Upper West Side;Upper West Side;;Upper West Side;;;;;;;;;x
+k_upper_west_side_adj;Upper West Sidean;;Upper West Sider;;;;;;;;;;;x
+k_westchester;Westchester;Westchester;Westchester;;Westchester;;;;;;;;;x
+k_westchester_adj;Westchesterian;;westchesterer;;;;;;;;;;;x
+k_westfield;Westfield;Westfield;Westfield;;Westfield;;;;;;;;;x
+k_westfield_adj;Westfieldian;;westfielder;;;;;;;;;;;x

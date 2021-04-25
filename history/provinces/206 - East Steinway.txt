@@ -1,0 +1,17 @@
+# c_east_steinway
+
+# County Title
+title = c_east_steinway
+
+# Settlements
+max_settlements = 2
+
+b_east_steinway = castle
+#b_grand_central_pkwy_2 = city
+#b_25th_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

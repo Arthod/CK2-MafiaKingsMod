@@ -1,0 +1,18 @@
+# c_parkville
+
+# County Title
+title = c_parkville
+
+# Settlements
+max_settlements = 3
+
+b_parkville = castle
+#b_foster_ave_2 = city
+#b_newkirk_ave = temple
+#b_cortelyou_rd = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

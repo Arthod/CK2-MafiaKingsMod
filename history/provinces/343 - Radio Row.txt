@@ -1,0 +1,21 @@
+# c_radio_row
+
+# County Title
+title = c_radio_row
+
+# Settlements
+max_settlements = 5
+
+b_radio_row = castle
+b_duane_st_3 = city
+b_chambers_st_3 = temple
+b_worth_st_3 = castle
+#b_thomas_st_2 = city
+#b_reade_st_3 = temple
+#b_trimble_pl = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

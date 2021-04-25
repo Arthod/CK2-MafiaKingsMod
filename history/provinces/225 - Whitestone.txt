@@ -1,0 +1,19 @@
+# c_whitestone
+
+# County Title
+title = c_whitestone
+
+# Settlements
+max_settlements = 4
+
+b_whitestone = castle
+b_150th_st_3 = city
+#b_14th_ave_4 = temple
+#b_149th_st = castle
+#b_3rd_ave_6 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

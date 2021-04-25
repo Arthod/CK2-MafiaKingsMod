@@ -1,0 +1,21 @@
+# c_stuyvesant_square
+
+# County Title
+title = c_stuyvesant_square
+
+# Settlements
+max_settlements = 6
+
+b_stuyvesant_square = castle
+b_e_16th_st_2 = city
+b_e_18th_st_3 = temple
+b_e_17th_st_3 = castle
+b_e_15th_st_2 = city
+#b_e_14th_st_4 = temple
+#b_e_19th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

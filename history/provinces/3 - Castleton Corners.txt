@@ -1,0 +1,21 @@
+# c_castleton_corners
+
+# County Title
+title = c_castleton_corners
+
+# Settlements
+max_settlements = 3
+
+b_castleton_corners = castle
+#b_victory_blvd = city
+#b_sunnyside = temple
+#b_slosson_ave = castle
+#b_manor_rd = city
+#b_jewett_ave = temple
+#b_westcott_blvd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

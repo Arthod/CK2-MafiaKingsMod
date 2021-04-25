@@ -1,0 +1,17 @@
+# c_great_kills
+
+# County Title
+title = c_great_kills
+
+# Settlements
+max_settlements = 2
+
+b_great_kills = castle
+#b_amboy_rd = city
+#b_keegans_ln = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

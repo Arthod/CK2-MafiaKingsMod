@@ -1,0 +1,21 @@
+# c_kenmare_st
+
+# County Title
+title = c_kenmare_st
+
+# Settlements
+max_settlements = 6
+
+b_kenmare_st = castle
+b_bowery = city
+b_grand_st_3 = temple
+b_broome_st = castle
+#b_spring_st = city
+#b_mott_st = temple
+#b_mulberry_st = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

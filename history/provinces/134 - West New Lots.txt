@@ -1,0 +1,19 @@
+# c_west_new_lots
+
+# County Title
+title = c_west_new_lots
+
+# Settlements
+max_settlements = 4
+
+b_west_new_lots = castle
+#b_linden_blvd_2 = city
+#b_stanley_ave = temple
+#b_flatlands_ave_3 = castle
+#b_bank_st = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

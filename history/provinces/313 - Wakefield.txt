@@ -1,0 +1,18 @@
+# c_wakefield
+
+# County Title
+title = c_wakefield
+
+# Settlements
+max_settlements = 3
+
+b_wakefield = castle
+#b_nereid_ave = city
+#b_pitman_ave = temple
+#b_bussing_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

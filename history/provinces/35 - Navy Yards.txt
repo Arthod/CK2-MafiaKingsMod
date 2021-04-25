@@ -1,0 +1,18 @@
+# c_navy_yards
+
+# County Title
+title = c_navy_yards
+
+# Settlements
+max_settlements = 3
+
+b_navy_yards = castle
+b_navy_st = city
+#b_market_st = temple
+#b_railroad_ave = castle
+
+# Misc
+culture = naval_base
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_bellaire
+
+# County Title
+title = c_bellaire
+
+# Settlements
+max_settlements = 3
+
+b_bellaire = castle
+#b_winchester_blvd = city
+#b_union_tpke_3 = temple
+#b_hillside_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_paerdegat_basin
+
+# County Title
+title = c_paerdegat_basin
+
+# Settlements
+max_settlements = 3
+
+b_paerdegat_basin = castle
+#b_80th_st_2 = city
+#b_remsen_ave_2 = temple
+#b_paerdegat_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_bay_ridge_waterfront
+
+# County Title
+title = c_bay_ridge_waterfront
+
+# Settlements
+max_settlements = 3
+
+b_bay_ridge_waterfront = castle
+#b_colonial_rd = city
+#b_shore_rd = temple
+#b_bay_ridge_ave = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

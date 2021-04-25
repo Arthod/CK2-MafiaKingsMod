@@ -1,0 +1,18 @@
+# c_baychester
+
+# County Title
+title = c_baychester
+
+# Settlements
+max_settlements = 3
+
+b_baychester = castle
+#b_bartow_ave = city
+#b_baychester_ave = temple
+#b_edson_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

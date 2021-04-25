@@ -1,0 +1,17 @@
+# c_west_schuylerville
+
+# County Title
+title = c_west_schuylerville
+
+# Settlements
+max_settlements = 2
+
+b_west_schuylerville = castle
+#b_brush_ave = city
+#b_balcom_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

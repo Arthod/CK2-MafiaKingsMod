@@ -1,311 +1,927 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-c_astor_place;Astor Place;Astor Place;Astor Place;;Astor Place;;;;;;;;;x
-c_astor_place_adj;Astor Placean;;Astor Placer;;;;;;;;;;;x
-c_baruch_playground;Baruch Playground;Baruch Playground;Baruch Playground;;Baruch Playground;;;;;;;;;x
-c_baruch_playground_adj;Baruch Playgroundian;;Baruch Playgrounder;;;;;;;;;;;x
-c_bond_street;Bond Street;Bond Street;Bond Street;;Bond Street;;;;;;;;;x
-c_bond_street_adj;Bond Streetian;;Bond Streeter;;;;;;;;;;;x
-c_borough_of_manhatten_community_college;Borough of Manhatten Community College;Borough of Manhatten Community College;Borough of Manhatten Community College;;Borough of Manhatten Community College;;;;;;;;;x
-c_borough_of_manhatten_community_college_adj;Borough of Manhatten Community Collegean;;Borough of Manhatten Community Colleger;;;;;;;;;;;x
-c_broome_street;Broome Street;Broome Street;Broome Street;;Broome Street;;;;;;;;;x
-c_broome_street_adj;Broome Streetian;;Broome Streeter;;;;;;;;;;;x
-c_bryant_park;Bryant Park;Bryant Park;Bryant Park;;Bryant Park;;;;;;;;;x
-c_bryant_park_adj;Bryant Parkian;;Bryant Parker;;;;;;;;;;;x
-c_canal_park;Canal Park;Canal Park;Canal Park;;Canal Park;;;;;;;;;x
-c_canal_park_adj;Canal Parkian;;Canal Parker;;;;;;;;;;;x
-c_central_park;Central Park;Central Park;Central Park;;Central Park;;;;;;;;;x
-c_central_park_adj;Central Parkian;;Central Parker;;;;;;;;;;;x
-c_chambers_street;Chambers Street;Chambers Street;Chambers Street;;Chambers Street;;;;;;;;;x
-c_chambers_street_adj;Chambers Streetian;;Chambers Streeter;;;;;;;;;;;x
-c_chrystie_street;Chrystie Street;Chrystie Street;Chrystie Street;;Chrystie Street;;;;;;;;;x
-c_chrystie_street_adj;Chrystie Streetian;;Chrystie Streeter;;;;;;;;;;;x
-c_city_radio;City Radio;City Radio;City Radio;;City Radio;;;;;;;;;x
-c_city_radio_adj;City Radian;;City Rader;;;;;;;;;;;x
-c_columbus_park;Columbus Park;Columbus Park;Columbus Park;;Columbus Park;;;;;;;;;x
-c_columbus_park_adj;Columbus Parkian;;Columbus Parker;;;;;;;;;;;x
-c_consolidated_edison;Consolidated Edison;Consolidated Edison;Consolidated Edison;;Consolidated Edison;;;;;;;;;x
-c_consolidated_edison_adj;Consolidated Edisonian;;Consolidated Edisoner;;;;;;;;;;;x
-c_cortlandt_street;Cortlandt Street;Cortlandt Street;Cortlandt Street;;Cortlandt Street;;;;;;;;;x
-c_cortlandt_street_adj;Cortlandt Streetian;;Cortlandt Streeter;;;;;;;;;;;x
-c_cristopher_street;Cristopher Street;Cristopher Street;Cristopher Street;;Cristopher Street;;;;;;;;;x
-c_cristopher_street_adj;Cristopher Streetian;;Cristopher Streeter;;;;;;;;;;;x
-c_delancey_street;Delancey Street;Delancey Street;Delancey Street;;Delancey Street;;;;;;;;;x
-c_delancey_street_adj;Delancey Streetian;;Delancey Streeter;;;;;;;;;;;x
-c_dey_street;Dey Street;Dey Street;Dey Street;;Dey Street;;;;;;;;;x
-c_dey_street_adj;Dey Streetian;;Dey Streeter;;;;;;;;;;;x
-c_division_street;Division Street;Division Street;Division Street;;Division Street;;;;;;;;;x
-c_division_street_adj;Division Streetian;;Division Streeter;;;;;;;;;;;x
-c_e_housten_street;E Housten Street;E Housten Street;E Housten Street;;E Housten Street;;;;;;;;;x
-c_e_housten_street_adj;E Housten Streetian;;E Housten Streeter;;;;;;;;;;;x
-c_east_fulton_street;East Fulton Street;East Fulton Street;East Fulton Street;;East Fulton Street;;;;;;;;;x
-c_east_fulton_street_adj;East Fulton Streetian;;East Fulton Streeter;;;;;;;;;;;x
+c_allen_st;Allen St;Allen St;Allen St;;Allen St;;;;;;;;;x
+c_allen_st_adj;Allen Stian;;Allen Ster;;;;;;;;;;;x
+c_allerton;Allerton;Allerton;Allerton;;Allerton;;;;;;;;;x
+c_allerton_adj;Allertonian;;allertoner;;;;;;;;;;;x
+c_alphabet_city;Alphabet City;Alphabet City;Alphabet City;;Alphabet City;;;;;;;;;x
+c_alphabet_city_adj;Alphabet Citian;;Alphabet Citer;;;;;;;;;;;x
+c_ansonia;Ansonia;Ansonia;Ansonia;;Ansonia;;;;;;;;;x
+c_ansonia_adj;Ansonian;;ansoner;;;;;;;;;;;x
+c_arden_heights;Arden Heights;Arden Heights;Arden Heights;;Arden Heights;;;;;;;;;x
+c_arden_heights_adj;Arden Heightsian;;Arden Heightser;;;;;;;;;;;x
+c_arverne;Arverne;Arverne;Arverne;;Arverne;;;;;;;;;x
+c_arverne_adj;Arvernean;;arverner;;;;;;;;;;;x
+c_astor_row;Astor Row;Astor Row;Astor Row;;Astor Row;;;;;;;;;x
+c_astor_row_adj;Astor Rowian;;Astor Rower;;;;;;;;;;;x
+c_astoria;Astoria;Astoria;Astoria;;Astoria;;;;;;;;;x
+c_astoria_adj;Astorian;;astorer;;;;;;;;;;;x
+c_astoria_heights;Astoria Heights;Astoria Heights;Astoria Heights;;Astoria Heights;;;;;;;;;x
+c_astoria_heights_adj;Astoria Heightsian;;Astoria Heightser;;;;;;;;;;;x
+c_auburndale;Auburndale;Auburndale;Auburndale;;Auburndale;;;;;;;;;x
+c_auburndale_adj;Auburndalean;;auburndaler;;;;;;;;;;;x
+c_barren_island;Barren Island;Barren Island;Barren Island;;Barren Island;;;;;;;;;x
+c_barren_island_adj;Barren Islandian;;Barren Islander;;;;;;;;;;;x
+c_battery;Battery;Battery;Battery;;Battery;;;;;;;;;x
+c_battery_adj;Batterian;;batterer;;;;;;;;;;;x
+c_bay_ridge;Bay Ridge;Bay Ridge;Bay Ridge;;Bay Ridge;;;;;;;;;x
+c_bay_ridge_adj;Bay Ridgean;;Bay Ridger;;;;;;;;;;;x
+c_bay_ridge_waterfront;Bay Ridge Waterfront;Bay Ridge Waterfront;Bay Ridge Waterfront;;Bay Ridge Waterfront;;;;;;;;;x
+c_bay_ridge_waterfront_adj;Bay Ridge Waterfrontian;;Bay Ridge Waterfronter;;;;;;;;;;;x
+c_bay_terrace;Bay Terrace;Bay Terrace;Bay Terrace;;Bay Terrace;;;;;;;;;x
+c_bay_terrace_adj;Bay Terracean;;Bay Terracer;;;;;;;;;;;x
+c_baychester;Baychester;Baychester;Baychester;;Baychester;;;;;;;;;x
+c_baychester_adj;Baychesterian;;baychesterer;;;;;;;;;;;x
+c_bayside;Bayside;Bayside;Bayside;;Bayside;;;;;;;;;x
+c_bayside_adj;Baysidean;;baysider;;;;;;;;;;;x
+c_bayside_hills;Bayside Hills;Bayside Hills;Bayside Hills;;Bayside Hills;;;;;;;;;x
+c_bayside_hills_adj;Bayside Hillsian;;Bayside Hillser;;;;;;;;;;;x
+c_bayswater;Bayswater;Bayswater;Bayswater;;Bayswater;;;;;;;;;x
+c_bayswater_adj;Bayswaterian;;bayswaterer;;;;;;;;;;;x
+c_bedford;Bedford;Bedford;Bedford;;Bedford;;;;;;;;;x
+c_bedford_adj;Bedfordian;;bedforder;;;;;;;;;;;x
+c_bedford_park;Bedford Park;Bedford Park;Bedford Park;;Bedford Park;;;;;;;;;x
+c_bedford_park_adj;Bedford Parkian;;Bedford Parker;;;;;;;;;;;x
+c_beechhurst;Beechhurst;Beechhurst;Beechhurst;;Beechhurst;;;;;;;;;x
+c_beechhurst_adj;Beechhurstian;;beechhurster;;;;;;;;;;;x
+c_bellaire;Bellaire;Bellaire;Bellaire;;Bellaire;;;;;;;;;x
+c_bellaire_adj;Bellairean;;bellairer;;;;;;;;;;;x
+c_belle_harbor;Belle Harbor;Belle Harbor;Belle Harbor;;Belle Harbor;;;;;;;;;x
+c_belle_harbor_adj;Belle Harborian;;Belle Harborer;;;;;;;;;;;x
+c_bellerose;Bellerose;Bellerose;Bellerose;;Bellerose;;;;;;;;;x
+c_bellerose_adj;Bellerosean;;belleroser;;;;;;;;;;;x
+c_belmont;Belmont;Belmont;Belmont;;Belmont;;;;;;;;;x
+c_belmont_adj;Belmontian;;belmonter;;;;;;;;;;;x
+c_bergen_beach;Bergen Beach;Bergen Beach;Bergen Beach;;Bergen Beach;;;;;;;;;x
+c_bergen_beach_adj;Bergen Beachian;;Bergen Beacher;;;;;;;;;;;x
+c_blackwells_island;Blackwell's Island;Blackwell's Island;Blackwell's Island;;Blackwell's Island;;;;;;;;;x
+c_blackwells_island_adj;Blackwells Islandian;;Blackwell's Islander;;;;;;;;;;;x
+c_blissville;Blissville;Blissville;Blissville;;Blissville;;;;;;;;;x
+c_blissville_adj;Blissvillean;;blissviller;;;;;;;;;;;x
+c_bloomfield;Bloomfield;Bloomfield;Bloomfield;;Bloomfield;;;;;;;;;x
+c_bloomfield_adj;Bloomfieldian;;bloomfielder;;;;;;;;;;;x
+c_boerum_hill;Boerum Hill;Boerum Hill;Boerum Hill;;Boerum Hill;;;;;;;;;x
+c_boerum_hill_adj;Boerum Hillian;;Boerum Hiller;;;;;;;;;;;x
+c_botanical_garden;Botanical Garden;Botanical Garden;Botanical Garden;;Botanical Garden;;;;;;;;;x
+c_botanical_garden_adj;Botanical Gardenian;;Botanical Gardener;;;;;;;;;;;x
+c_breezy_point;Breezy Point;Breezy Point;Breezy Point;;Breezy Point;;;;;;;;;x
+c_breezy_point_adj;Breezy Pointian;;Breezy Pointer;;;;;;;;;;;x
+c_briarwood;Briarwood;Briarwood;Briarwood;;Briarwood;;;;;;;;;x
+c_briarwood_adj;Briarwoodian;;briarwooder;;;;;;;;;;;x
+c_brighton_beach;Brighton Beach;Brighton Beach;Brighton Beach;;Brighton Beach;;;;;;;;;x
+c_brighton_beach_adj;Brighton Beachian;;Brighton Beacher;;;;;;;;;;;x
+c_broad_channel;Broad Channel;Broad Channel;Broad Channel;;Broad Channel;;;;;;;;;x
+c_broad_channel_adj;Broad Channelian;;Broad Channeler;;;;;;;;;;;x
+c_broadway_junction;Broadway Junction;Broadway Junction;Broadway Junction;;Broadway Junction;;;;;;;;;x
+c_broadway_junction_adj;Broadway Junctionian;;Broadway Junctioner;;;;;;;;;;;x
+c_broadway_triangle;Broadway Triangle;Broadway Triangle;Broadway Triangle;;Broadway Triangle;;;;;;;;;x
+c_broadway_triangle_adj;Broadway Trianglean;;Broadway Triangler;;;;;;;;;;;x
+c_bronx_zoo;Bronx Zoo;Bronx Zoo;Bronx Zoo;;Bronx Zoo;;;;;;;;;x
+c_bronx_zoo_adj;Bronx Zian;;Bronx Zer;;;;;;;;;;;x
+c_brooklyn_bridge;Brooklyn Bridge;Brooklyn Bridge;Brooklyn Bridge;;Brooklyn Bridge;;;;;;;;;x
+c_brooklyn_bridge_adj;Brooklyn Bridgean;;Brooklyn Bridger;;;;;;;;;;;x
+c_brooklyn_heights;Brooklyn Heights;Brooklyn Heights;Brooklyn Heights;;Brooklyn Heights;;;;;;;;;x
+c_brooklyn_heights_adj;Brooklyn Heightsian;;Brooklyn Heightser;;;;;;;;;;;x
+c_brookville;Brookville;Brookville;Brookville;;Brookville;;;;;;;;;x
+c_brookville_adj;Brookvillean;;brookviller;;;;;;;;;;;x
+c_brownsville;Brownsville;Brownsville;Brownsville;;Brownsville;;;;;;;;;x
+c_brownsville_adj;Brownsvillean;;brownsviller;;;;;;;;;;;x
+c_bulls_head;Bull's Head;Bull's Head;Bull's Head;;Bull's Head;;;;;;;;;x
+c_bulls_head_adj;Bulls Headian;;Bull's Header;;;;;;;;;;;x
+c_cambria_heights;Cambria Heights;Cambria Heights;Cambria Heights;;Cambria Heights;;;;;;;;;x
+c_cambria_heights_adj;Cambria Heightsian;;Cambria Heightser;;;;;;;;;;;x
+c_canarsie_beach;Canarsie Beach;Canarsie Beach;Canarsie Beach;;Canarsie Beach;;;;;;;;;x
+c_canarsie_beach_adj;Canarsie Beachian;;Canarsie Beacher;;;;;;;;;;;x
+c_carroll_gardens;Carroll Gardens;Carroll Gardens;Carroll Gardens;;Carroll Gardens;;;;;;;;;x
+c_carroll_gardens_adj;Carroll Gardensian;;Carroll Gardenser;;;;;;;;;;;x
+c_castle_hill;Castle Hill;Castle Hill;Castle Hill;;Castle Hill;;;;;;;;;x
+c_castle_hill_adj;Castle Hillian;;Castle Hiller;;;;;;;;;;;x
+c_castleton_corners;Castleton Corners;Castleton Corners;Castleton Corners;;Castleton Corners;;;;;;;;;x
+c_castleton_corners_adj;Castleton Cornersian;;Castleton Cornerser;;;;;;;;;;;x
+c_catherine_slip;Catherine Slip;Catherine Slip;Catherine Slip;;Catherine Slip;;;;;;;;;x
+c_catherine_slip_adj;Catherine Slipian;;Catherine Sliper;;;;;;;;;;;x
+c_central_bowery;Central Bowery;Central Bowery;Central Bowery;;Central Bowery;;;;;;;;;x
+c_central_bowery_adj;Central Bowerian;;Central Bowerer;;;;;;;;;;;x
+c_central_bushwick;Central Bushwick;Central Bushwick;Central Bushwick;;Central Bushwick;;;;;;;;;x
+c_central_bushwick_adj;Central Bushwickian;;Central Bushwicker;;;;;;;;;;;x
+c_central_idlewild;Central Idlewild;Central Idlewild;Central Idlewild;;Central Idlewild;;;;;;;;;x
+c_central_idlewild_adj;Central Idlewildian;;Central Idlewilder;;;;;;;;;;;x
+c_central_jamaica;Central Jamaica;Central Jamaica;Central Jamaica;;Central Jamaica;;;;;;;;;x
+c_central_jamaica_adj;Central Jamaican;;Central Jamaicer;;;;;;;;;;;x
+c_central_park_north;Central Park North;Central Park North;Central Park North;;Central Park North;;;;;;;;;x
+c_central_park_north_adj;Central Park Northian;;Central Park Norther;;;;;;;;;;;x
+c_central_park_west;Central Park West;Central Park West;Central Park West;;Central Park West;;;;;;;;;x
+c_central_park_west_adj;Central Park Westian;;Central Park Wester;;;;;;;;;;;x
+c_chambers_st;Chambers St;Chambers St;Chambers St;;Chambers St;;;;;;;;;x
+c_chambers_st_adj;Chambers Stian;;Chambers Ster;;;;;;;;;;;x
+c_charleston;Charleston;Charleston;Charleston;;Charleston;;;;;;;;;x
+c_charleston_adj;Charlestonian;;charlestoner;;;;;;;;;;;x
+c_charlotte_gardens;Charlotte Gardens;Charlotte Gardens;Charlotte Gardens;;Charlotte Gardens;;;;;;;;;x
+c_charlotte_gardens_adj;Charlotte Gardensian;;Charlotte Gardenser;;;;;;;;;;;x
+c_chelsea;Chelsea;Chelsea;Chelsea;;Chelsea;;;;;;;;;x
+c_chelsea_adj;Chelsean;;chelser;;;;;;;;;;;x
+c_chelsea_2;Chelsea;Chelsea;Chelsea;;Chelsea;;;;;;;;;x
+c_chelsea_2_adj;Chelsean;;chelser;;;;;;;;;;;x
+c_chelsea_waterfront;Chelsea Waterfront;Chelsea Waterfront;Chelsea Waterfront;;Chelsea Waterfront;;;;;;;;;x
+c_chelsea_waterfront_adj;Chelsea Waterfrontian;;Chelsea Waterfronter;;;;;;;;;;;x
+c_christopher_st;Christopher St;Christopher St;Christopher St;;Christopher St;;;;;;;;;x
+c_christopher_st_adj;Christopher Stian;;Christopher Ster;;;;;;;;;;;x
+c_city_hall;City Hall;City Hall;City Hall;;City Hall;;;;;;;;;x
+c_city_hall_adj;City Hallian;;City Haller;;;;;;;;;;;x
+c_city_island;City Island;City Island;City Island;;City Island;;;;;;;;;x
+c_city_island_adj;City Islandian;;City Islander;;;;;;;;;;;x
+c_city_line;City Line;City Line;City Line;;City Line;;;;;;;;;x
+c_city_line_adj;City Linean;;City Liner;;;;;;;;;;;x
+c_claremont_village;Claremont Village;Claremont Village;Claremont Village;;Claremont Village;;;;;;;;;x
+c_claremont_village_adj;Claremont Villagean;;Claremont Villager;;;;;;;;;;;x
+c_clason_point;Clason Point;Clason Point;Clason Point;;Clason Point;;;;;;;;;x
+c_clason_point_adj;Clason Pointian;;Clason Pointer;;;;;;;;;;;x
+c_clearview;Clearview;Clearview;Clearview;;Clearview;;;;;;;;;x
+c_clearview_adj;Clearviewian;;clearviewer;;;;;;;;;;;x
+c_clifton;Clifton;Clifton;Clifton;;Clifton;;;;;;;;;x
+c_clifton_adj;Cliftonian;;cliftoner;;;;;;;;;;;x
+c_clinton_hill;Clinton Hill;Clinton Hill;Clinton Hill;;Clinton Hill;;;;;;;;;x
+c_clinton_hill_adj;Clinton Hillian;;Clinton Hiller;;;;;;;;;;;x
+c_co_op_city;Co-op City;Co-op City;Co-op City;;Co-op City;;;;;;;;;x
+c_co_op_city_adj;Co-op Citian;;Co-op Citer;;;;;;;;;;;x
+c_cobble_hill;Cobble Hill;Cobble Hill;Cobble Hill;;Cobble Hill;;;;;;;;;x
+c_cobble_hill_adj;Cobble Hillian;;Cobble Hiller;;;;;;;;;;;x
+c_college_point;College Point;College Point;College Point;;College Point;;;;;;;;;x
+c_college_point_adj;College Pointian;;College Pointer;;;;;;;;;;;x
+c_columbus_circle;Columbus Circle;Columbus Circle;Columbus Circle;;Columbus Circle;;;;;;;;;x
+c_columbus_circle_adj;Columbus Circlean;;Columbus Circler;;;;;;;;;;;x
+c_concord;Concord;Concord;Concord;;Concord;;;;;;;;;x
+c_concord_adj;Concordian;;concorder;;;;;;;;;;;x
+c_concourse;Concourse;Concourse;Concourse;;Concourse;;;;;;;;;x
+c_concourse_adj;Concoursean;;concourser;;;;;;;;;;;x
+c_concourse_village;Concourse Village;Concourse Village;Concourse Village;;Concourse Village;;;;;;;;;x
+c_concourse_village_adj;Concourse Villagean;;Concourse Villager;;;;;;;;;;;x
+c_concourse_waterfront;Concourse Waterfront;Concourse Waterfront;Concourse Waterfront;;Concourse Waterfront;;;;;;;;;x
+c_concourse_waterfront_adj;Concourse Waterfrontian;;Concourse Waterfronter;;;;;;;;;;;x
+c_coney;Coney;Coney;Coney;;Coney;;;;;;;;;x
+c_coney_adj;Coneian;;coneer;;;;;;;;;;;x
+c_corona;Corona;Corona;Corona;;Corona;;;;;;;;;x
+c_corona_adj;Coronan;;coroner;;;;;;;;;;;x
+c_cortlandt_st;Cortlandt St;Cortlandt St;Cortlandt St;;Cortlandt St;;;;;;;;;x
+c_cortlandt_st_adj;Cortlandt Stian;;Cortlandt Ster;;;;;;;;;;;x
+c_country_club;Country Club;Country Club;Country Club;;Country Club;;;;;;;;;x
+c_country_club_adj;Country Clubian;;Country Cluber;;;;;;;;;;;x
+c_cross_bay;Cross Bay;Cross Bay;Cross Bay;;Cross Bay;;;;;;;;;x
+c_cross_bay_adj;Cross Baian;;Cross Baer;;;;;;;;;;;x
+c_crown_heights;Crown Heights;Crown Heights;Crown Heights;;Crown Heights;;;;;;;;;x
+c_crown_heights_adj;Crown Heightsian;;Crown Heightser;;;;;;;;;;;x
+c_cypress_hills;Cypress Hills;Cypress Hills;Cypress Hills;;Cypress Hills;;;;;;;;;x
+c_cypress_hills_adj;Cypress Hillsian;;Cypress Hillser;;;;;;;;;;;x
+c_d_u_m_b_o_;D.U.M.B.O.;D.U.M.B.O.;D.U.M.B.O.;;D.U.M.B.O.;;;;;;;;;x
+c_d_u_m_b_o__adj;D.U.M.B.O.ian;;d.u.m.b.o.er;;;;;;;;;;;x
+c_diamond_district;Diamond District;Diamond District;Diamond District;;Diamond District;;;;;;;;;x
+c_diamond_district_adj;Diamond Districtian;;Diamond Districter;;;;;;;;;;;x
+c_ditmars;Ditmars;Ditmars;Ditmars;;Ditmars;;;;;;;;;x
+c_ditmars_adj;Ditmarsian;;ditmarser;;;;;;;;;;;x
+c_douglaston;Douglaston;Douglaston;Douglaston;;Douglaston;;;;;;;;;x
+c_douglaston_adj;Douglastonian;;douglastoner;;;;;;;;;;;x
+c_downtown;Downtown;Downtown;Downtown;;Downtown;;;;;;;;;x
+c_downtown_adj;Downtownian;;downtowner;;;;;;;;;;;x
+c_dyckman_st;Dyckman St;Dyckman St;Dyckman St;;Dyckman St;;;;;;;;;x
+c_dyckman_st_adj;Dyckman Stian;;Dyckman Ster;;;;;;;;;;;x
+c_dyker_beach;Dyker Beach;Dyker Beach;Dyker Beach;;Dyker Beach;;;;;;;;;x
+c_dyker_beach_adj;Dyker Beachian;;Dyker Beacher;;;;;;;;;;;x
+c_dyker_heights;Dyker Heights;Dyker Heights;Dyker Heights;;Dyker Heights;;;;;;;;;x
+c_dyker_heights_adj;Dyker Heightsian;;Dyker Heightser;;;;;;;;;;;x
+c_east_102nd_st;East 102nd St;East 102nd St;East 102nd St;;East 102nd St;;;;;;;;;x
+c_east_102nd_st_adj;East 102nd Stian;;East 102nd Ster;;;;;;;;;;;x
+c_east_106th_st;East 106th St;East 106th St;East 106th St;;East 106th St;;;;;;;;;x
+c_east_106th_st_adj;East 106th Stian;;East 106th Ster;;;;;;;;;;;x
+c_east_110th_st;East 110th St;East 110th St;East 110th St;;East 110th St;;;;;;;;;x
+c_east_110th_st_adj;East 110th Stian;;East 110th Ster;;;;;;;;;;;x
+c_east_116th_st;East 116th St;East 116th St;East 116th St;;East 116th St;;;;;;;;;x
+c_east_116th_st_adj;East 116th Stian;;East 116th Ster;;;;;;;;;;;x
+c_east_120th_st;East 120th St;East 120th St;East 120th St;;East 120th St;;;;;;;;;x
+c_east_120th_st_adj;East 120th Stian;;East 120th Ster;;;;;;;;;;;x
+c_east_124th_st;East 124th St;East 124th St;East 124th St;;East 124th St;;;;;;;;;x
+c_east_124th_st_adj;East 124th Stian;;East 124th Ster;;;;;;;;;;;x
+c_east_125th_st;East 125th St;East 125th St;East 125th St;;East 125th St;;;;;;;;;x
+c_east_125th_st_adj;East 125th Stian;;East 125th Ster;;;;;;;;;;;x
+c_east_135th_st;East 135th St;East 135th St;East 135th St;;East 135th St;;;;;;;;;x
+c_east_135th_st_adj;East 135th Stian;;East 135th Ster;;;;;;;;;;;x
+c_east_142nd_st;East 142nd St;East 142nd St;East 142nd St;;East 142nd St;;;;;;;;;x
+c_east_142nd_st_adj;East 142nd Stian;;East 142nd Ster;;;;;;;;;;;x
+c_east_145th_st;East 145th St;East 145th St;East 145th St;;East 145th St;;;;;;;;;x
+c_east_145th_st_adj;East 145th Stian;;East 145th Ster;;;;;;;;;;;x
+c_east_150th_st;East 150th St;East 150th St;East 150th St;;East 150th St;;;;;;;;;x
+c_east_150th_st_adj;East 150th Stian;;East 150th Ster;;;;;;;;;;;x
+c_east_160th_st;East 160th St;East 160th St;East 160th St;;East 160th St;;;;;;;;;x
+c_east_160th_st_adj;East 160th Stian;;East 160th Ster;;;;;;;;;;;x
+c_east_42nd_st;East 42nd St;East 42nd St;East 42nd St;;East 42nd St;;;;;;;;;x
+c_east_42nd_st_adj;East 42nd Stian;;East 42nd Ster;;;;;;;;;;;x
+c_east_4th_st;East 4th St;East 4th St;East 4th St;;East 4th St;;;;;;;;;x
+c_east_4th_st_adj;East 4th Stian;;East 4th Ster;;;;;;;;;;;x
+c_east_50th_st;East 50th St;East 50th St;East 50th St;;East 50th St;;;;;;;;;x
+c_east_50th_st_adj;East 50th Stian;;East 50th Ster;;;;;;;;;;;x
+c_east_57th_st;East 57th St;East 57th St;East 57th St;;East 57th St;;;;;;;;;x
+c_east_57th_st_adj;East 57th Stian;;East 57th Ster;;;;;;;;;;;x
+c_east_62nd_st;East 62nd St;East 62nd St;East 62nd St;;East 62nd St;;;;;;;;;x
+c_east_62nd_st_adj;East 62nd Stian;;East 62nd Ster;;;;;;;;;;;x
+c_east_63rd_st;East 63rd St;East 63rd St;East 63rd St;;East 63rd St;;;;;;;;;x
+c_east_63rd_st_adj;East 63rd Stian;;East 63rd Ster;;;;;;;;;;;x
+c_east_65th_st;East 65th St;East 65th St;East 65th St;;East 65th St;;;;;;;;;x
+c_east_65th_st_adj;East 65th Stian;;East 65th Ster;;;;;;;;;;;x
+c_east_66th_st;East 66th St;East 66th St;East 66th St;;East 66th St;;;;;;;;;x
+c_east_66th_st_adj;East 66th Stian;;East 66th Ster;;;;;;;;;;;x
+c_east_70th_st;East 70th St;East 70th St;East 70th St;;East 70th St;;;;;;;;;x
+c_east_70th_st_adj;East 70th Stian;;East 70th Ster;;;;;;;;;;;x
+c_east_71st_st;East 71st St;East 71st St;East 71st St;;East 71st St;;;;;;;;;x
+c_east_71st_st_adj;East 71st Stian;;East 71st Ster;;;;;;;;;;;x
+c_east_73rd_st;East 73rd St;East 73rd St;East 73rd St;;East 73rd St;;;;;;;;;x
+c_east_73rd_st_adj;East 73rd Stian;;East 73rd Ster;;;;;;;;;;;x
+c_east_76th_st;East 76th St;East 76th St;East 76th St;;East 76th St;;;;;;;;;x
+c_east_76th_st_adj;East 76th Stian;;East 76th Ster;;;;;;;;;;;x
+c_east_79th_st;East 79th St;East 79th St;East 79th St;;East 79th St;;;;;;;;;x
+c_east_79th_st_adj;East 79th Stian;;East 79th Ster;;;;;;;;;;;x
+c_east_86th_st;East 86th St;East 86th St;East 86th St;;East 86th St;;;;;;;;;x
+c_east_86th_st_adj;East 86th Stian;;East 86th Ster;;;;;;;;;;;x
+c_east_90th_st;East 90th St;East 90th St;East 90th St;;East 90th St;;;;;;;;;x
+c_east_90th_st_adj;East 90th Stian;;East 90th Ster;;;;;;;;;;;x
+c_east_91st_st;East 91st St;East 91st St;East 91st St;;East 91st St;;;;;;;;;x
+c_east_91st_st_adj;East 91st Stian;;East 91st Ster;;;;;;;;;;;x
+c_east_96th_st;East 96th St;East 96th St;East 96th St;;East 96th St;;;;;;;;;x
+c_east_96th_st_adj;East 96th Stian;;East 96th Ster;;;;;;;;;;;x
+c_east_97th_st;East 97th St;East 97th St;East 97th St;;East 97th St;;;;;;;;;x
+c_east_97th_st_adj;East 97th Stian;;East 97th Ster;;;;;;;;;;;x
+c_east_bath_beach;East Bath Beach;East Bath Beach;East Bath Beach;;East Bath Beach;;;;;;;;;x
+c_east_bath_beach_adj;East Bath Beachian;;East Bath Beacher;;;;;;;;;;;x
+c_east_bensonhurst;East Bensonhurst;East Bensonhurst;East Bensonhurst;;East Bensonhurst;;;;;;;;;x
+c_east_bensonhurst_adj;East Bensonhurstian;;East Bensonhurster;;;;;;;;;;;x
+c_east_borough_park;East Borough Park;East Borough Park;East Borough Park;;East Borough Park;;;;;;;;;x
+c_east_borough_park_adj;East Borough Parkian;;East Borough Parker;;;;;;;;;;;x
+c_east_broadway;East Broadway;East Broadway;East Broadway;;East Broadway;;;;;;;;;x
+c_east_broadway_adj;East Broadwaian;;East Broadwaer;;;;;;;;;;;x
+c_east_canarsie;East Canarsie;East Canarsie;East Canarsie;;East Canarsie;;;;;;;;;x
+c_east_canarsie_adj;East Canarsiean;;East Canarser;;;;;;;;;;;x
+c_east_elmhurst;East Elmhurst;East Elmhurst;East Elmhurst;;East Elmhurst;;;;;;;;;x
+c_east_elmhurst_adj;East Elmhurstian;;East Elmhurster;;;;;;;;;;;x
+c_east_end_ave;East End Ave;East End Ave;East End Ave;;East End Ave;;;;;;;;;x
+c_east_end_ave_adj;East End Avean;;East End Aver;;;;;;;;;;;x
+c_east_flatbush;East Flatbush;East Flatbush;East Flatbush;;East Flatbush;;;;;;;;;x
+c_east_flatbush_adj;East Flatbushian;;East Flatbusher;;;;;;;;;;;x
+c_east_glendale;East Glendale;East Glendale;East Glendale;;East Glendale;;;;;;;;;x
+c_east_glendale_adj;East Glendalean;;East Glendaler;;;;;;;;;;;x
+c_east_greenpoint;East Greenpoint;East Greenpoint;East Greenpoint;;East Greenpoint;;;;;;;;;x
+c_east_greenpoint_adj;East Greenpointian;;East Greenpointer;;;;;;;;;;;x
+c_east_hunts_point;East Hunts Point;East Hunts Point;East Hunts Point;;East Hunts Point;;;;;;;;;x
+c_east_hunts_point_adj;East Hunts Pointian;;East Hunts Pointer;;;;;;;;;;;x
+c_east_idlewild;East Idlewild;East Idlewild;East Idlewild;;East Idlewild;;;;;;;;;x
+c_east_idlewild_adj;East Idlewildian;;East Idlewilder;;;;;;;;;;;x
+c_east_jamaica;East Jamaica;East Jamaica;East Jamaica;;East Jamaica;;;;;;;;;x
+c_east_jamaica_adj;East Jamaican;;East Jamaicer;;;;;;;;;;;x
+c_east_midwood;East Midwood;East Midwood;East Midwood;;East Midwood;;;;;;;;;x
+c_east_midwood_adj;East Midwoodian;;East Midwooder;;;;;;;;;;;x
+c_east_new_lots;East New Lots;East New Lots;East New Lots;;East New Lots;;;;;;;;;x
+c_east_new_lots_adj;East New Lotsian;;East New Lotser;;;;;;;;;;;x
+c_east_new_york;East New York;East New York;East New York;;East New York;;;;;;;;;x
+c_east_new_york_adj;East New Yorkian;;East New Yorker;;;;;;;;;;;x
+c_east_rochdale;East Rochdale;East Rochdale;East Rochdale;;East Rochdale;;;;;;;;;x
+c_east_rochdale_adj;East Rochdalean;;East Rochdaler;;;;;;;;;;;x
+c_east_schuylerville;East Schuylerville;East Schuylerville;East Schuylerville;;East Schuylerville;;;;;;;;;x
+c_east_schuylerville_adj;East Schuylervillean;;East Schuylerviller;;;;;;;;;;;x
+c_east_steinway;East Steinway;East Steinway;East Steinway;;East Steinway;;;;;;;;;x
+c_east_steinway_adj;East Steinwaian;;East Steinwaer;;;;;;;;;;;x
+c_east_tremont;East Tremont;East Tremont;East Tremont;;East Tremont;;;;;;;;;x
+c_east_tremont_adj;East Tremontian;;East Tremonter;;;;;;;;;;;x
 c_east_village;East Village;East Village;East Village;;East Village;;;;;;;;;x
 c_east_village_adj;East Villagean;;East Villager;;;;;;;;;;;x
-c_eldridge_street;Eldridge Street;Eldridge Street;Eldridge Street;;Eldridge Street;;;;;;;;;x
-c_eldridge_street_adj;Eldridge Streetian;;Eldridge Streeter;;;;;;;;;;;x
-c_eldridge_street_museum;Eldridge Street Museum;Eldridge Street Museum;Eldridge Street Museum;;Eldridge Street Museum;;;;;;;;;x
-c_eldridge_street_museum_adj;Eldridge Street Museumian;;Eldridge Street Museumer;;;;;;;;;;;x
-c_foley_square;Foley Square;Foley Square;Foley Square;;Foley Square;;;;;;;;;x
-c_foley_square_adj;Foley Squarean;;Foley Squarer;;;;;;;;;;;x
-c_franklin_street;Franklin Street;Franklin Street;Franklin Street;;Franklin Street;;;;;;;;;x
-c_franklin_street_adj;Franklin Streetian;;Franklin Streeter;;;;;;;;;;;x
-c_grand_central_terminal;Grand Central Terminal;Grand Central Terminal;Grand Central Terminal;;Grand Central Terminal;;;;;;;;;x
-c_grand_central_terminal_adj;Grand Central Terminalian;;Grand Central Terminaler;;;;;;;;;;;x
-c_grand_street;Grand Street;Grand Street;Grand Street;;Grand Street;;;;;;;;;x
-c_grand_street_adj;Grand Streetian;;Grand Streeter;;;;;;;;;;;x
-c_greene_street;Greene Street;Greene Street;Greene Street;;Greene Street;;;;;;;;;x
-c_greene_street_adj;Greene Streetian;;Greene Streeter;;;;;;;;;;;x
-c_greenwich_ave;Greenwich Ave;Greenwich Ave;Greenwich Ave;;Greenwich Ave;;;;;;;;;x
-c_greenwich_ave_adj;Greenwich Avean;;Greenwich Aver;;;;;;;;;;;x
-c_greenwich_street;Greenwich Street;Greenwich Street;Greenwich Street;;Greenwich Street;;;;;;;;;x
-c_greenwich_street_adj;Greenwich Streetian;;Greenwich Streeter;;;;;;;;;;;x
-c_henry_street;Henry Street;Henry Street;Henry Street;;Henry Street;;;;;;;;;x
-c_henry_street_adj;Henry Streetian;;Henry Streeter;;;;;;;;;;;x
-c_hester_street;Hester Street;Hester Street;Hester Street;;Hester Street;;;;;;;;;x
-c_hester_street_adj;Hester Streetian;;Hester Streeter;;;;;;;;;;;x
-c_howard_street;Howard Street;Howard Street;Howard Street;;Howard Street;;;;;;;;;x
-c_howard_street_adj;Howard Streetian;;Howard Streeter;;;;;;;;;;;x
-c_hudson_river_park;Hudson River Park;Hudson River Park;Hudson River Park;;Hudson River Park;;;;;;;;;x
-c_hudson_river_park_adj;Hudson River Parkian;;Hudson River Parker;;;;;;;;;;;x
-c_jackson_street;Jackson Street;Jackson Street;Jackson Street;;Jackson Street;;;;;;;;;x
-c_jackson_street_adj;Jackson Streetian;;Jackson Streeter;;;;;;;;;;;x
-c_james_walker_park;James Walker Park;James Walker Park;James Walker Park;;James Walker Park;;;;;;;;;x
-c_james_walker_park_adj;James Walker Parkian;;James Walker Parker;;;;;;;;;;;x
-c_jersey_and_brooklyn;Jersey and Brooklyn;Jersey and Brooklyn;Jersey and Brooklyn;;Jersey and Brooklyn;;;;;;;;;x
-c_jersey_and_brooklyn_adj;Jerseian;;Jersey and Brooklyner;;;;;;;;;;;x
-c_jones_street;Jones Street;Jones Street;Jones Street;;Jones Street;;;;;;;;;x
-c_jones_street_adj;Jones Streetian;;Jones Streeter;;;;;;;;;;;x
-c_lafayette_street;Lafayette Street;Lafayette Street;Lafayette Street;;Lafayette Street;;;;;;;;;x
-c_lafayette_street_adj;Lafayette Streetian;;Lafayette Streeter;;;;;;;;;;;x
-c_lexington_street;Lexington Street;Lexington Street;Lexington Street;;Lexington Street;;;;;;;;;x
-c_lexington_street_adj;Lexington Streetian;;Lexington Streeter;;;;;;;;;;;x
-c_madison_street;Madison Street;Madison Street;Madison Street;;Madison Street;;;;;;;;;x
-c_madison_street_adj;Madison Streetian;;Madison Streeter;;;;;;;;;;;x
-c_mercer_playground;Mercer Playground;Mercer Playground;Mercer Playground;;Mercer Playground;;;;;;;;;x
-c_mercer_playground_adj;Mercer Playgroundian;;Mercer Playgrounder;;;;;;;;;;;x
-c_mercer_street;Mercer Street;Mercer Street;Mercer Street;;Mercer Street;;;;;;;;;x
-c_mercer_street_adj;Mercer Streetian;;Mercer Streeter;;;;;;;;;;;x
-c_mott_street;Mott Street;Mott Street;Mott Street;;Mott Street;;;;;;;;;x
-c_mott_street_adj;Mott Streetian;;Mott Streeter;;;;;;;;;;;x
-c_museum_of_jewish_heritage;Museum of Jewish Heritage;Museum of Jewish Heritage;Museum of Jewish Heritage;;Museum of Jewish Heritage;;;;;;;;;x
-c_museum_of_jewish_heritage_adj;Museum of Jewish Heritagean;;Museum of Jewish Heritager;;;;;;;;;;;x
-c_n_moore_street;N Moore Street;N Moore Street;N Moore Street;;N Moore Street;;;;;;;;;x
-c_n_moore_street_adj;N Moore Streetian;;N Moore Streeter;;;;;;;;;;;x
-c_new_york_city_fire_museum;New York City Fire Museum;New York City Fire Museum;New York City Fire Museum;;New York City Fire Museum;;;;;;;;;x
-c_new_york_city_fire_museum_adj;New York City Fire Museumian;;New York City Fire Museumer;;;;;;;;;;;x
-c_new_york_city_hall;New York City Hall;New York City Hall;New York City Hall;;New York City Hall;;;;;;;;;x
-c_new_york_city_hall_adj;New York City Hallian;;New York City Haller;;;;;;;;;;;x
-c_new_york_city_police_department;New York City Police Department;New York City Police Department;New York City Police Department;;New York City Police Department;;;;;;;;;x
-c_new_york_city_police_department_adj;New York City Police Departmentian;;New York City Police Departmenter;;;;;;;;;;;x
-c_new_york_city_transit;New York City Transit;New York City Transit;New York City Transit;;New York City Transit;;;;;;;;;x
-c_new_york_city_transit_adj;New York City Transitian;;New York City Transiter;;;;;;;;;;;x
-c_new_york_east_river_park_track;New York East River Park Track;New York East River Park Track;New York East River Park Track;;New York East River Park Track;;;;;;;;;x
-c_new_york_east_river_park_track_adj;New York East River Park Trackian;;New York East River Park Tracker;;;;;;;;;;;x
-c_new_york_university;New York University;New York University;New York University;;New York University;;;;;;;;;x
-c_new_york_university_adj;New York Universitian;;New York Universiter;;;;;;;;;;;x
-c_north_east_village;North East Village;North East Village;North East Village;;North East Village;;;;;;;;;x
-c_north_east_village_adj;North East Villagean;;North East Villager;;;;;;;;;;;x
-c_pennsylvania_station;Pennsylvania Station;Pennsylvania Station;Pennsylvania Station;;Pennsylvania Station;;;;;;;;;x
-c_pennsylvania_station_adj;Pennsylvania Stationian;;Pennsylvania Stationer;;;;;;;;;;;x
-c_prince_greene_street;Prince Greene Street;Prince Greene Street;Prince Greene Street;;Prince Greene Street;;;;;;;;;x
-c_prince_greene_street_adj;Prince Greene Streetian;;Prince Greene Streeter;;;;;;;;;;;x
-c_prince_thompson_street;Prince Thompson Street;Prince Thompson Street;Prince Thompson Street;;Prince Thompson Street;;;;;;;;;x
-c_prince_thompson_street_adj;Prince Thompson Streetian;;Prince Thompson Streeter;;;;;;;;;;;x
-c_prince_wooster_street;Prince Wooster Street;Prince Wooster Street;Prince Wooster Street;;Prince Wooster Street;;;;;;;;;x
-c_prince_wooster_street_adj;Prince Wooster Streetian;;Prince Wooster Streeter;;;;;;;;;;;x
-c_rivington_street;Rivington Street;Rivington Street;Rivington Street;;Rivington Street;;;;;;;;;x
-c_rivington_street_adj;Rivington Streetian;;Rivington Streeter;;;;;;;;;;;x
-c_rockfeller_park;Rockfeller Park;Rockfeller Park;Rockfeller Park;;Rockfeller Park;;;;;;;;;x
-c_rockfeller_park_adj;Rockfeller Parkian;;Rockfeller Parker;;;;;;;;;;;x
-c_south_island;South Island;South Island;South Island;;South Island;;;;;;;;;x
-c_south_island_adj;South Islandian;;South Islander;;;;;;;;;;;x
-c_staten_island_ferry;Staten Island Ferry;Staten Island Ferry;Staten Island Ferry;;Staten Island Ferry;;;;;;;;;x
-c_staten_island_ferry_adj;Staten Island Ferrian;;Staten Island Ferrer;;;;;;;;;;;x
-c_statue_of_liberty_departure;Statue of Liberty Departure;Statue of Liberty Departure;Statue of Liberty Departure;;Statue of Liberty Departure;;;;;;;;;x
-c_statue_of_liberty_departure_adj;Statue of Liberty Departurean;;Statue of Liberty Departurer;;;;;;;;;;;x
-c_steward_park;Steward Park;Steward Park;Steward Park;;Steward Park;;;;;;;;;x
-c_steward_park_adj;Steward Parkian;;Steward Parker;;;;;;;;;;;x
-c_sullivan_street;Sullivan Street;Sullivan Street;Sullivan Street;;Sullivan Street;;;;;;;;;x
-c_sullivan_street_adj;Sullivan Streetian;;Sullivan Streeter;;;;;;;;;;;x
-c_the_copper_union;The Copper Union;The Copper Union;The Copper Union;;The Copper Union;;;;;;;;;x
-c_the_copper_union_adj;The Copper Unionian;;The Copper Unioner;;;;;;;;;;;x
-c_trinity_church;Trinity Church;Trinity Church;Trinity Church;;Trinity Church;;;;;;;;;x
-c_trinity_church_adj;Trinity Churchian;;Trinity Churcher;;;;;;;;;;;x
-c_ts_public_library;TS Public LIbrary;TS Public LIbrary;TS Public LIbrary;;TS Public LIbrary;;;;;;;;;x
-c_ts_public_library_adj;TS Public LIbrarian;;TS Public LIbrarer;;;;;;;;;;;x
-c_unamed_province_109;Unamed Province 109;Unamed Province 109;Unamed Province 109;;Unamed Province 109;;;;;;;;;x
-c_unamed_province_109_adj;Unamed Province 109ian;;Unamed Province 109er;;;;;;;;;;;x
-c_unamed_province_110;Unamed Province 110;Unamed Province 110;Unamed Province 110;;Unamed Province 110;;;;;;;;;x
-c_unamed_province_110_adj;Unamed Province 110ian;;Unamed Province 110er;;;;;;;;;;;x
-c_unamed_province_111;Unamed Province 111;Unamed Province 111;Unamed Province 111;;Unamed Province 111;;;;;;;;;x
-c_unamed_province_111_adj;Unamed Province 111ian;;Unamed Province 111er;;;;;;;;;;;x
-c_unamed_province_112;Unamed Province 112;Unamed Province 112;Unamed Province 112;;Unamed Province 112;;;;;;;;;x
-c_unamed_province_112_adj;Unamed Province 112ian;;Unamed Province 112er;;;;;;;;;;;x
-c_unamed_province_113;Unamed Province 113;Unamed Province 113;Unamed Province 113;;Unamed Province 113;;;;;;;;;x
-c_unamed_province_113_adj;Unamed Province 113ian;;Unamed Province 113er;;;;;;;;;;;x
-c_unamed_province_114;Unamed Province 114;Unamed Province 114;Unamed Province 114;;Unamed Province 114;;;;;;;;;x
-c_unamed_province_114_adj;Unamed Province 114ian;;Unamed Province 114er;;;;;;;;;;;x
-c_unamed_province_115;Unamed Province 115;Unamed Province 115;Unamed Province 115;;Unamed Province 115;;;;;;;;;x
-c_unamed_province_115_adj;Unamed Province 115ian;;Unamed Province 115er;;;;;;;;;;;x
-c_unamed_province_116;Unamed Province 116;Unamed Province 116;Unamed Province 116;;Unamed Province 116;;;;;;;;;x
-c_unamed_province_116_adj;Unamed Province 116ian;;Unamed Province 116er;;;;;;;;;;;x
-c_unamed_province_117;Unamed Province 117;Unamed Province 117;Unamed Province 117;;Unamed Province 117;;;;;;;;;x
-c_unamed_province_117_adj;Unamed Province 117ian;;Unamed Province 117er;;;;;;;;;;;x
-c_unamed_province_118;Unamed Province 118;Unamed Province 118;Unamed Province 118;;Unamed Province 118;;;;;;;;;x
-c_unamed_province_118_adj;Unamed Province 118ian;;Unamed Province 118er;;;;;;;;;;;x
-c_unamed_province_119;Unamed Province 119;Unamed Province 119;Unamed Province 119;;Unamed Province 119;;;;;;;;;x
-c_unamed_province_119_adj;Unamed Province 119ian;;Unamed Province 119er;;;;;;;;;;;x
-c_unamed_province_120;Unamed Province 120;Unamed Province 120;Unamed Province 120;;Unamed Province 120;;;;;;;;;x
-c_unamed_province_120_adj;Unamed Province 120ian;;Unamed Province 120er;;;;;;;;;;;x
-c_unamed_province_121;Unamed Province 121;Unamed Province 121;Unamed Province 121;;Unamed Province 121;;;;;;;;;x
-c_unamed_province_121_adj;Unamed Province 121ian;;Unamed Province 121er;;;;;;;;;;;x
-c_unamed_province_122;Unamed Province 122;Unamed Province 122;Unamed Province 122;;Unamed Province 122;;;;;;;;;x
-c_unamed_province_122_adj;Unamed Province 122ian;;Unamed Province 122er;;;;;;;;;;;x
-c_unamed_province_123;Unamed Province 123;Unamed Province 123;Unamed Province 123;;Unamed Province 123;;;;;;;;;x
-c_unamed_province_123_adj;Unamed Province 123ian;;Unamed Province 123er;;;;;;;;;;;x
-c_unamed_province_124;Unamed Province 124;Unamed Province 124;Unamed Province 124;;Unamed Province 124;;;;;;;;;x
-c_unamed_province_124_adj;Unamed Province 124ian;;Unamed Province 124er;;;;;;;;;;;x
-c_unamed_province_125;Unamed Province 125;Unamed Province 125;Unamed Province 125;;Unamed Province 125;;;;;;;;;x
-c_unamed_province_125_adj;Unamed Province 125ian;;Unamed Province 125er;;;;;;;;;;;x
-c_unamed_province_126;Unamed Province 126;Unamed Province 126;Unamed Province 126;;Unamed Province 126;;;;;;;;;x
-c_unamed_province_126_adj;Unamed Province 126ian;;Unamed Province 126er;;;;;;;;;;;x
-c_unamed_province_127;Unamed Province 127;Unamed Province 127;Unamed Province 127;;Unamed Province 127;;;;;;;;;x
-c_unamed_province_127_adj;Unamed Province 127ian;;Unamed Province 127er;;;;;;;;;;;x
-c_unamed_province_128;Unamed Province 128;Unamed Province 128;Unamed Province 128;;Unamed Province 128;;;;;;;;;x
-c_unamed_province_128_adj;Unamed Province 128ian;;Unamed Province 128er;;;;;;;;;;;x
-c_unamed_province_129;Unamed Province 129;Unamed Province 129;Unamed Province 129;;Unamed Province 129;;;;;;;;;x
-c_unamed_province_129_adj;Unamed Province 129ian;;Unamed Province 129er;;;;;;;;;;;x
-c_unamed_province_130;Unamed Province 130;Unamed Province 130;Unamed Province 130;;Unamed Province 130;;;;;;;;;x
-c_unamed_province_130_adj;Unamed Province 130ian;;Unamed Province 130er;;;;;;;;;;;x
-c_unamed_province_131;Unamed Province 131;Unamed Province 131;Unamed Province 131;;Unamed Province 131;;;;;;;;;x
-c_unamed_province_131_adj;Unamed Province 131ian;;Unamed Province 131er;;;;;;;;;;;x
-c_unamed_province_132;Unamed Province 132;Unamed Province 132;Unamed Province 132;;Unamed Province 132;;;;;;;;;x
-c_unamed_province_132_adj;Unamed Province 132ian;;Unamed Province 132er;;;;;;;;;;;x
-c_unamed_province_133;Unamed Province 133;Unamed Province 133;Unamed Province 133;;Unamed Province 133;;;;;;;;;x
-c_unamed_province_133_adj;Unamed Province 133ian;;Unamed Province 133er;;;;;;;;;;;x
-c_unamed_province_134;Unamed Province 134;Unamed Province 134;Unamed Province 134;;Unamed Province 134;;;;;;;;;x
-c_unamed_province_134_adj;Unamed Province 134ian;;Unamed Province 134er;;;;;;;;;;;x
-c_unamed_province_135;Unamed Province 135;Unamed Province 135;Unamed Province 135;;Unamed Province 135;;;;;;;;;x
-c_unamed_province_135_adj;Unamed Province 135ian;;Unamed Province 135er;;;;;;;;;;;x
-c_unamed_province_136;Unamed Province 136;Unamed Province 136;Unamed Province 136;;Unamed Province 136;;;;;;;;;x
-c_unamed_province_136_adj;Unamed Province 136ian;;Unamed Province 136er;;;;;;;;;;;x
-c_unamed_province_137;Unamed Province 137;Unamed Province 137;Unamed Province 137;;Unamed Province 137;;;;;;;;;x
-c_unamed_province_137_adj;Unamed Province 137ian;;Unamed Province 137er;;;;;;;;;;;x
-c_unamed_province_138;Unamed Province 138;Unamed Province 138;Unamed Province 138;;Unamed Province 138;;;;;;;;;x
-c_unamed_province_138_adj;Unamed Province 138ian;;Unamed Province 138er;;;;;;;;;;;x
-c_unamed_province_139;Unamed Province 139;Unamed Province 139;Unamed Province 139;;Unamed Province 139;;;;;;;;;x
-c_unamed_province_139_adj;Unamed Province 139ian;;Unamed Province 139er;;;;;;;;;;;x
-c_unamed_province_140;Unamed Province 140;Unamed Province 140;Unamed Province 140;;Unamed Province 140;;;;;;;;;x
-c_unamed_province_140_adj;Unamed Province 140ian;;Unamed Province 140er;;;;;;;;;;;x
-c_unamed_province_141;Unamed Province 141;Unamed Province 141;Unamed Province 141;;Unamed Province 141;;;;;;;;;x
-c_unamed_province_141_adj;Unamed Province 141ian;;Unamed Province 141er;;;;;;;;;;;x
-c_unamed_province_142;Unamed Province 142;Unamed Province 142;Unamed Province 142;;Unamed Province 142;;;;;;;;;x
-c_unamed_province_142_adj;Unamed Province 142ian;;Unamed Province 142er;;;;;;;;;;;x
-c_unamed_province_143;Unamed Province 143;Unamed Province 143;Unamed Province 143;;Unamed Province 143;;;;;;;;;x
-c_unamed_province_143_adj;Unamed Province 143ian;;Unamed Province 143er;;;;;;;;;;;x
-c_unamed_province_144;Unamed Province 144;Unamed Province 144;Unamed Province 144;;Unamed Province 144;;;;;;;;;x
-c_unamed_province_144_adj;Unamed Province 144ian;;Unamed Province 144er;;;;;;;;;;;x
-c_unamed_province_145;Unamed Province 145;Unamed Province 145;Unamed Province 145;;Unamed Province 145;;;;;;;;;x
-c_unamed_province_145_adj;Unamed Province 145ian;;Unamed Province 145er;;;;;;;;;;;x
-c_unamed_province_146;Unamed Province 146;Unamed Province 146;Unamed Province 146;;Unamed Province 146;;;;;;;;;x
-c_unamed_province_146_adj;Unamed Province 146ian;;Unamed Province 146er;;;;;;;;;;;x
-c_unamed_province_147;Unamed Province 147;Unamed Province 147;Unamed Province 147;;Unamed Province 147;;;;;;;;;x
-c_unamed_province_147_adj;Unamed Province 147ian;;Unamed Province 147er;;;;;;;;;;;x
-c_unamed_province_148;Unamed Province 148;Unamed Province 148;Unamed Province 148;;Unamed Province 148;;;;;;;;;x
-c_unamed_province_148_adj;Unamed Province 148ian;;Unamed Province 148er;;;;;;;;;;;x
-c_unamed_province_149;Unamed Province 149;Unamed Province 149;Unamed Province 149;;Unamed Province 149;;;;;;;;;x
-c_unamed_province_149_adj;Unamed Province 149ian;;Unamed Province 149er;;;;;;;;;;;x
-c_unamed_province_150;Unamed Province 150;Unamed Province 150;Unamed Province 150;;Unamed Province 150;;;;;;;;;x
-c_unamed_province_150_adj;Unamed Province 150ian;;Unamed Province 150er;;;;;;;;;;;x
-c_unamed_province_151;Unamed Province 151;Unamed Province 151;Unamed Province 151;;Unamed Province 151;;;;;;;;;x
-c_unamed_province_151_adj;Unamed Province 151ian;;Unamed Province 151er;;;;;;;;;;;x
-c_unamed_province_152;Unamed Province 152;Unamed Province 152;Unamed Province 152;;Unamed Province 152;;;;;;;;;x
-c_unamed_province_152_adj;Unamed Province 152ian;;Unamed Province 152er;;;;;;;;;;;x
-c_unamed_province_153;Unamed Province 153;Unamed Province 153;Unamed Province 153;;Unamed Province 153;;;;;;;;;x
-c_unamed_province_153_adj;Unamed Province 153ian;;Unamed Province 153er;;;;;;;;;;;x
-c_unnamed_province_100;Unnamed Province 100;Unnamed Province 100;Unnamed Province 100;;Unnamed Province 100;;;;;;;;;x
-c_unnamed_province_100_adj;Unnamed Province 100ian;;Unnamed Province 100er;;;;;;;;;;;x
-c_unnamed_province_101;Unnamed Province 101;Unnamed Province 101;Unnamed Province 101;;Unnamed Province 101;;;;;;;;;x
-c_unnamed_province_101_adj;Unnamed Province 101ian;;Unnamed Province 101er;;;;;;;;;;;x
-c_unnamed_province_102;Unnamed Province 102;Unnamed Province 102;Unnamed Province 102;;Unnamed Province 102;;;;;;;;;x
-c_unnamed_province_102_adj;Unnamed Province 102ian;;Unnamed Province 102er;;;;;;;;;;;x
-c_unnamed_province_103;Unnamed Province 103;Unnamed Province 103;Unnamed Province 103;;Unnamed Province 103;;;;;;;;;x
-c_unnamed_province_103_adj;Unnamed Province 103ian;;Unnamed Province 103er;;;;;;;;;;;x
-c_unnamed_province_104;Unnamed Province 104;Unnamed Province 104;Unnamed Province 104;;Unnamed Province 104;;;;;;;;;x
-c_unnamed_province_104_adj;Unnamed Province 104ian;;Unnamed Province 104er;;;;;;;;;;;x
-c_unnamed_province_105;Unnamed Province 105;Unnamed Province 105;Unnamed Province 105;;Unnamed Province 105;;;;;;;;;x
-c_unnamed_province_105_adj;Unnamed Province 105ian;;Unnamed Province 105er;;;;;;;;;;;x
-c_unnamed_province_106;Unnamed Province 106;Unnamed Province 106;Unnamed Province 106;;Unnamed Province 106;;;;;;;;;x
-c_unnamed_province_106_adj;Unnamed Province 106ian;;Unnamed Province 106er;;;;;;;;;;;x
-c_unnamed_province_107;Unnamed Province 107;Unnamed Province 107;Unnamed Province 107;;Unnamed Province 107;;;;;;;;;x
-c_unnamed_province_107_adj;Unnamed Province 107ian;;Unnamed Province 107er;;;;;;;;;;;x
-c_unnamed_province_108;Unnamed Province 108;Unnamed Province 108;Unnamed Province 108;;Unnamed Province 108;;;;;;;;;x
-c_unnamed_province_108_adj;Unnamed Province 108ian;;Unnamed Province 108er;;;;;;;;;;;x
-c_unnamed_province_77;Unnamed Province 77;Unnamed Province 77;Unnamed Province 77;;Unnamed Province 77;;;;;;;;;x
-c_unnamed_province_77_adj;Unnamed Province 77ian;;Unnamed Province 77er;;;;;;;;;;;x
-c_unnamed_province_78;Unnamed Province 78;Unnamed Province 78;Unnamed Province 78;;Unnamed Province 78;;;;;;;;;x
-c_unnamed_province_78_adj;Unnamed Province 78ian;;Unnamed Province 78er;;;;;;;;;;;x
-c_unnamed_province_79;Unnamed Province 79;Unnamed Province 79;Unnamed Province 79;;Unnamed Province 79;;;;;;;;;x
-c_unnamed_province_79_adj;Unnamed Province 79ian;;Unnamed Province 79er;;;;;;;;;;;x
-c_unnamed_province_80;Unnamed Province 80;Unnamed Province 80;Unnamed Province 80;;Unnamed Province 80;;;;;;;;;x
-c_unnamed_province_80_adj;Unnamed Province 80ian;;Unnamed Province 80er;;;;;;;;;;;x
-c_unnamed_province_81;Unnamed Province 81;Unnamed Province 81;Unnamed Province 81;;Unnamed Province 81;;;;;;;;;x
-c_unnamed_province_81_adj;Unnamed Province 81ian;;Unnamed Province 81er;;;;;;;;;;;x
-c_unnamed_province_82;Unnamed Province 82;Unnamed Province 82;Unnamed Province 82;;Unnamed Province 82;;;;;;;;;x
-c_unnamed_province_82_adj;Unnamed Province 82ian;;Unnamed Province 82er;;;;;;;;;;;x
-c_unnamed_province_83;Unnamed Province 83;Unnamed Province 83;Unnamed Province 83;;Unnamed Province 83;;;;;;;;;x
-c_unnamed_province_83_adj;Unnamed Province 83ian;;Unnamed Province 83er;;;;;;;;;;;x
-c_unnamed_province_84;Unnamed Province 84;Unnamed Province 84;Unnamed Province 84;;Unnamed Province 84;;;;;;;;;x
-c_unnamed_province_84_adj;Unnamed Province 84ian;;Unnamed Province 84er;;;;;;;;;;;x
-c_unnamed_province_85;Unnamed Province 85;Unnamed Province 85;Unnamed Province 85;;Unnamed Province 85;;;;;;;;;x
-c_unnamed_province_85_adj;Unnamed Province 85ian;;Unnamed Province 85er;;;;;;;;;;;x
-c_unnamed_province_86;Unnamed Province 86;Unnamed Province 86;Unnamed Province 86;;Unnamed Province 86;;;;;;;;;x
-c_unnamed_province_86_adj;Unnamed Province 86ian;;Unnamed Province 86er;;;;;;;;;;;x
-c_unnamed_province_87;Unnamed Province 87;Unnamed Province 87;Unnamed Province 87;;Unnamed Province 87;;;;;;;;;x
-c_unnamed_province_87_adj;Unnamed Province 87ian;;Unnamed Province 87er;;;;;;;;;;;x
-c_unnamed_province_88;Unnamed Province 88;Unnamed Province 88;Unnamed Province 88;;Unnamed Province 88;;;;;;;;;x
-c_unnamed_province_88_adj;Unnamed Province 88ian;;Unnamed Province 88er;;;;;;;;;;;x
-c_unnamed_province_89;Unnamed Province 89;Unnamed Province 89;Unnamed Province 89;;Unnamed Province 89;;;;;;;;;x
-c_unnamed_province_89_adj;Unnamed Province 89ian;;Unnamed Province 89er;;;;;;;;;;;x
-c_unnamed_province_90;Unnamed Province 90;Unnamed Province 90;Unnamed Province 90;;Unnamed Province 90;;;;;;;;;x
-c_unnamed_province_90_adj;Unnamed Province 90ian;;Unnamed Province 90er;;;;;;;;;;;x
-c_unnamed_province_91;Unnamed Province 91;Unnamed Province 91;Unnamed Province 91;;Unnamed Province 91;;;;;;;;;x
-c_unnamed_province_91_adj;Unnamed Province 91ian;;Unnamed Province 91er;;;;;;;;;;;x
-c_unnamed_province_92;Unnamed Province 92;Unnamed Province 92;Unnamed Province 92;;Unnamed Province 92;;;;;;;;;x
-c_unnamed_province_92_adj;Unnamed Province 92ian;;Unnamed Province 92er;;;;;;;;;;;x
-c_unnamed_province_93;Unnamed Province 93;Unnamed Province 93;Unnamed Province 93;;Unnamed Province 93;;;;;;;;;x
-c_unnamed_province_93_adj;Unnamed Province 93ian;;Unnamed Province 93er;;;;;;;;;;;x
-c_unnamed_province_94;Unnamed Province 94;Unnamed Province 94;Unnamed Province 94;;Unnamed Province 94;;;;;;;;;x
-c_unnamed_province_94_adj;Unnamed Province 94ian;;Unnamed Province 94er;;;;;;;;;;;x
-c_unnamed_province_95;Unnamed Province 95;Unnamed Province 95;Unnamed Province 95;;Unnamed Province 95;;;;;;;;;x
-c_unnamed_province_95_adj;Unnamed Province 95ian;;Unnamed Province 95er;;;;;;;;;;;x
-c_unnamed_province_96;Unnamed Province 96;Unnamed Province 96;Unnamed Province 96;;Unnamed Province 96;;;;;;;;;x
-c_unnamed_province_96_adj;Unnamed Province 96ian;;Unnamed Province 96er;;;;;;;;;;;x
-c_unnamed_province_97;Unnamed Province 97;Unnamed Province 97;Unnamed Province 97;;Unnamed Province 97;;;;;;;;;x
-c_unnamed_province_97_adj;Unnamed Province 97ian;;Unnamed Province 97er;;;;;;;;;;;x
-c_unnamed_province_98;Unnamed Province 98;Unnamed Province 98;Unnamed Province 98;;Unnamed Province 98;;;;;;;;;x
-c_unnamed_province_98_adj;Unnamed Province 98ian;;Unnamed Province 98er;;;;;;;;;;;x
-c_unnamed_province_99;Unnamed Province 99;Unnamed Province 99;Unnamed Province 99;;Unnamed Province 99;;;;;;;;;x
-c_unnamed_province_99_adj;Unnamed Province 99ian;;Unnamed Province 99er;;;;;;;;;;;x
-c_varick_street;Varick Street;Varick Street;Varick Street;;Varick Street;;;;;;;;;x
-c_varick_street_adj;Varick Streetian;;Varick Streeter;;;;;;;;;;;x
-c_vesey_street;Vesey Street;Vesey Street;Vesey Street;;Vesey Street;;;;;;;;;x
-c_vesey_street_adj;Vesey Streetian;;Vesey Streeter;;;;;;;;;;;x
-c_wall_street;Wall Street;Wall Street;Wall Street;;Wall Street;;;;;;;;;x
-c_wall_street_adj;Wall Streetian;;Wall Streeter;;;;;;;;;;;x
-c_warren_street;Warren Street;Warren Street;Warren Street;;Warren Street;;;;;;;;;x
-c_warren_street_adj;Warren Streetian;;Warren Streeter;;;;;;;;;;;x
-c_washington_square_park;Washington Square Park;Washington Square Park;Washington Square Park;;Washington Square Park;;;;;;;;;x
-c_washington_square_park_adj;Washington Square Parkian;;Washington Square Parker;;;;;;;;;;;x
-c_washington_square_village_apt;Washington Square Village Apt;Washington Square Village Apt;Washington Square Village Apt;;Washington Square Village Apt;;;;;;;;;x
-c_washington_square_village_apt_adj;Washington Square Village Aptian;;Washington Square Village Apter;;;;;;;;;;;x
-c_washington_street;Washington Street;Washington Street;Washington Street;;Washington Street;;;;;;;;;x
-c_washington_street_adj;Washington Streetian;;Washington Streeter;;;;;;;;;;;x
-c_west_east_village;West East Village;West East Village;West East Village;;West East Village;;;;;;;;;x
-c_west_east_village_adj;West East Villagean;;West East Villager;;;;;;;;;;;x
-c_west_fulton_street;West Fulton Street;West Fulton Street;West Fulton Street;;West Fulton Street;;;;;;;;;x
-c_west_fulton_street_adj;West Fulton Streetian;;West Fulton Streeter;;;;;;;;;;;x
-c_whitney_museum_of_american_art;Whitney Museum of American Art;Whitney Museum of American Art;Whitney Museum of American Art;;Whitney Museum of American Art;;;;;;;;;x
-c_whitney_museum_of_american_art_adj;Whitney Museum of American Artian;;Whitney Museum of American Arter;;;;;;;;;;;x
-c_worth_street;Worth Street;Worth Street;Worth Street;;Worth Street;;;;;;;;;x
-c_worth_street_adj;Worth Streetian;;Worth Streeter;;;;;;;;;;;x
+c_east_williamsburg;East Williamsburg;East Williamsburg;East Williamsburg;;East Williamsburg;;;;;;;;;x
+c_east_williamsburg_adj;East Williamsburgian;;East Williamsburger;;;;;;;;;;;x
+c_eastchester;Eastchester;Eastchester;Eastchester;;Eastchester;;;;;;;;;x
+c_eastchester_adj;Eastchesterian;;eastchesterer;;;;;;;;;;;x
+c_edenwald;Edenwald;Edenwald;Edenwald;;Edenwald;;;;;;;;;x
+c_edenwald_adj;Edenwaldian;;edenwalder;;;;;;;;;;;x
+c_edgemere;Edgemere;Edgemere;Edgemere;;Edgemere;;;;;;;;;x
+c_edgemere_adj;Edgemerean;;edgemerer;;;;;;;;;;;x
+c_edgewater_park;Edgewater Park;Edgewater Park;Edgewater Park;;Edgewater Park;;;;;;;;;x
+c_edgewater_park_adj;Edgewater Parkian;;Edgewater Parker;;;;;;;;;;;x
+c_elmhurst;Elmhurst;Elmhurst;Elmhurst;;Elmhurst;;;;;;;;;x
+c_elmhurst_adj;Elmhurstian;;elmhurster;;;;;;;;;;;x
+c_eltingville;Eltingville;Eltingville;Eltingville;;Eltingville;;;;;;;;;x
+c_eltingville_adj;Eltingvillean;;eltingviller;;;;;;;;;;;x
+c_emerson_hill;Emerson Hill;Emerson Hill;Emerson Hill;;Emerson Hill;;;;;;;;;x
+c_emerson_hill_adj;Emerson Hillian;;Emerson Hiller;;;;;;;;;;;x
+c_essex_st;Essex St;Essex St;Essex St;;Essex St;;;;;;;;;x
+c_essex_st_adj;Essex Stian;;Essex Ster;;;;;;;;;;;x
+c_far_rockaway;Far Rockaway;Far Rockaway;Far Rockaway;;Far Rockaway;;;;;;;;;x
+c_far_rockaway_adj;Far Rockawaian;;Far Rockawaer;;;;;;;;;;;x
+c_ferry_point;Ferry Point;Ferry Point;Ferry Point;;Ferry Point;;;;;;;;;x
+c_ferry_point_adj;Ferry Pointian;;Ferry Pointer;;;;;;;;;;;x
+c_fieldston;Fieldston;Fieldston;Fieldston;;Fieldston;;;;;;;;;x
+c_fieldston_adj;Fieldstonian;;fieldstoner;;;;;;;;;;;x
+c_five_points;Five Points;Five Points;Five Points;;Five Points;;;;;;;;;x
+c_five_points_adj;Five Pointsian;;Five Pointser;;;;;;;;;;;x
+c_flatbush;Flatbush;Flatbush;Flatbush;;Flatbush;;;;;;;;;x
+c_flatbush_adj;Flatbushian;;flatbusher;;;;;;;;;;;x
+c_flatiron_district;Flatiron District;Flatiron District;Flatiron District;;Flatiron District;;;;;;;;;x
+c_flatiron_district_adj;Flatiron Districtian;;Flatiron Districter;;;;;;;;;;;x
+c_flatlands;Flatlands;Flatlands;Flatlands;;Flatlands;;;;;;;;;x
+c_flatlands_adj;Flatlandsian;;flatlandser;;;;;;;;;;;x
+c_floral_park;Floral Park;Floral Park;Floral Park;;Floral Park;;;;;;;;;x
+c_floral_park_adj;Floral Parkian;;Floral Parker;;;;;;;;;;;x
+c_flushing;Flushing;Flushing;Flushing;;Flushing;;;;;;;;;x
+c_flushing_adj;Flushingian;;flushinger;;;;;;;;;;;x
+c_flushing_meadows;Flushing Meadows;Flushing Meadows;Flushing Meadows;;Flushing Meadows;;;;;;;;;x
+c_flushing_meadows_adj;Flushing Meadowsian;;Flushing Meadowser;;;;;;;;;;;x
+c_fordham;Fordham;Fordham;Fordham;;Fordham;;;;;;;;;x
+c_fordham_adj;Fordhamian;;fordhamer;;;;;;;;;;;x
+c_forest_hills;Forest Hills;Forest Hills;Forest Hills;;Forest Hills;;;;;;;;;x
+c_forest_hills_adj;Forest Hillsian;;Forest Hillser;;;;;;;;;;;x
+c_forest_hills_gardens;Forest Hills Gardens;Forest Hills Gardens;Forest Hills Gardens;;Forest Hills Gardens;;;;;;;;;x
+c_forest_hills_gardens_adj;Forest Hills Gardensian;;Forest Hills Gardenser;;;;;;;;;;;x
+c_forest_houses;Forest Houses;Forest Houses;Forest Houses;;Forest Houses;;;;;;;;;x
+c_forest_houses_adj;Forest Housesian;;Forest Houseser;;;;;;;;;;;x
+c_fort_george;Fort George;Fort George;Fort George;;Fort George;;;;;;;;;x
+c_fort_george_adj;Fort Georgean;;Fort Georger;;;;;;;;;;;x
+c_fort_george_hill;Fort George Hill;Fort George Hill;Fort George Hill;;Fort George Hill;;;;;;;;;x
+c_fort_george_hill_adj;Fort George Hillian;;Fort George Hiller;;;;;;;;;;;x
+c_fort_greene;Fort Greene;Fort Greene;Fort Greene;;Fort Greene;;;;;;;;;x
+c_fort_greene_adj;Fort Greenean;;Fort Greener;;;;;;;;;;;x
+c_fort_hamilton;Fort Hamilton;Fort Hamilton;Fort Hamilton;;Fort Hamilton;;;;;;;;;x
+c_fort_hamilton_adj;Fort Hamiltonian;;Fort Hamiltoner;;;;;;;;;;;x
+c_fort_wadsworth;Fort Wadsworth;Fort Wadsworth;Fort Wadsworth;;Fort Wadsworth;;;;;;;;;x
+c_fort_wadsworth_adj;Fort Wadsworthian;;Fort Wadsworther;;;;;;;;;;;x
+c_foxhurst;Foxhurst;Foxhurst;Foxhurst;;Foxhurst;;;;;;;;;x
+c_foxhurst_adj;Foxhurstian;;foxhurster;;;;;;;;;;;x
+c_franklin_st;Franklin St;Franklin St;Franklin St;;Franklin St;;;;;;;;;x
+c_franklin_st_adj;Franklin Stian;;Franklin Ster;;;;;;;;;;;x
+c_fresh_kills;Fresh Kills;Fresh Kills;Fresh Kills;;Fresh Kills;;;;;;;;;x
+c_fresh_kills_adj;Fresh Killsian;;Fresh Killser;;;;;;;;;;;x
+c_fresh_meadows;Fresh Meadows;Fresh Meadows;Fresh Meadows;;Fresh Meadows;;;;;;;;;x
+c_fresh_meadows_adj;Fresh Meadowsian;;Fresh Meadowser;;;;;;;;;;;x
+c_fresh_pond;Fresh Pond;Fresh Pond;Fresh Pond;;Fresh Pond;;;;;;;;;x
+c_fresh_pond_adj;Fresh Pondian;;Fresh Ponder;;;;;;;;;;;x
+c_fulton_st;Fulton St;Fulton St;Fulton St;;Fulton St;;;;;;;;;x
+c_fulton_st_adj;Fulton Stian;;Fulton Ster;;;;;;;;;;;x
+c_garment_district;Garment District;Garment District;Garment District;;Garment District;;;;;;;;;x
+c_garment_district_adj;Garment Districtian;;Garment Districter;;;;;;;;;;;x
+c_gas_house_district;Gas House District;Gas House District;Gas House District;;Gas House District;;;;;;;;;x
+c_gas_house_district_adj;Gas House Districtian;;Gas House Districter;;;;;;;;;;;x
+c_georgetown;Georgetown;Georgetown;Georgetown;;Georgetown;;;;;;;;;x
+c_georgetown_adj;Georgetownian;;georgetowner;;;;;;;;;;;x
+c_gerritsen_beach;Gerritsen Beach;Gerritsen Beach;Gerritsen Beach;;Gerritsen Beach;;;;;;;;;x
+c_gerritsen_beach_adj;Gerritsen Beachian;;Gerritsen Beacher;;;;;;;;;;;x
+c_glen_oaks;Glen Oaks;Glen Oaks;Glen Oaks;;Glen Oaks;;;;;;;;;x
+c_glen_oaks_adj;Glen Oaksian;;Glen Oakser;;;;;;;;;;;x
+c_gowanus;Gowanus;Gowanus;Gowanus;;Gowanus;;;;;;;;;x
+c_gowanus_adj;Gowanusian;;gowanuser;;;;;;;;;;;x
+c_gramercy_park;Gramercy Park;Gramercy Park;Gramercy Park;;Gramercy Park;;;;;;;;;x
+c_gramercy_park_adj;Gramercy Parkian;;Gramercy Parker;;;;;;;;;;;x
+c_graniteville;Graniteville;Graniteville;Graniteville;;Graniteville;;;;;;;;;x
+c_graniteville_adj;Granitevillean;;graniteviller;;;;;;;;;;;x
+c_grant_city;Grant City;Grant City;Grant City;;Grant City;;;;;;;;;x
+c_grant_city_adj;Grant Citian;;Grant Citer;;;;;;;;;;;x
+c_gravesend_waterfront;Gravesend Waterfront;Gravesend Waterfront;Gravesend Waterfront;;Gravesend Waterfront;;;;;;;;;x
+c_gravesend_waterfront_adj;Gravesend Waterfrontian;;Gravesend Waterfronter;;;;;;;;;;;x
+c_great_kills;Great Kills;Great Kills;Great Kills;;Great Kills;;;;;;;;;x
+c_great_kills_adj;Great Killsian;;Great Killser;;;;;;;;;;;x
+c_great_lawn;Great Lawn;Great Lawn;Great Lawn;;Great Lawn;;;;;;;;;x
+c_great_lawn_adj;Great Lawnian;;Great Lawner;;;;;;;;;;;x
+c_greeley_square;Greeley Square;Greeley Square;Greeley Square;;Greeley Square;;;;;;;;;x
+c_greeley_square_adj;Greeley Squarean;;Greeley Squarer;;;;;;;;;;;x
+c_greenpoint_waterfront;Greenpoint Waterfront;Greenpoint Waterfront;Greenpoint Waterfront;;Greenpoint Waterfront;;;;;;;;;x
+c_greenpoint_waterfront_adj;Greenpoint Waterfrontian;;Greenpoint Waterfronter;;;;;;;;;;;x
+c_greenwood_heights;Greenwood Heights;Greenwood Heights;Greenwood Heights;;Greenwood Heights;;;;;;;;;x
+c_greenwood_heights_adj;Greenwood Heightsian;;Greenwood Heightser;;;;;;;;;;;x
+c_greenwood_waterfront;Greenwood Waterfront;Greenwood Waterfront;Greenwood Waterfront;;Greenwood Waterfront;;;;;;;;;x
+c_greenwood_waterfront_adj;Greenwood Waterfrontian;;Greenwood Waterfronter;;;;;;;;;;;x
+c_hallets_point;Hallets Point;Hallets Point;Hallets Point;;Hallets Point;;;;;;;;;x
+c_hallets_point_adj;Hallets Pointian;;Hallets Pointer;;;;;;;;;;;x
+c_hamilton_heights;Hamilton Heights;Hamilton Heights;Hamilton Heights;;Hamilton Heights;;;;;;;;;x
+c_hamilton_heights_adj;Hamilton Heightsian;;Hamilton Heightser;;;;;;;;;;;x
+c_harlem_river_park;Harlem River Park;Harlem River Park;Harlem River Park;;Harlem River Park;;;;;;;;;x
+c_harlem_river_park_adj;Harlem River Parkian;;Harlem River Parker;;;;;;;;;;;x
+c_herald_square;Herald Square;Herald Square;Herald Square;;Herald Square;;;;;;;;;x
+c_herald_square_adj;Herald Squarean;;Herald Squarer;;;;;;;;;;;x
+c_hester_st;Hester St;Hester St;Hester St;;Hester St;;;;;;;;;x
+c_hester_st_adj;Hester Stian;;Hester Ster;;;;;;;;;;;x
+c_highbridge;Highbridge;Highbridge;Highbridge;;Highbridge;;;;;;;;;x
+c_highbridge_adj;Highbridgean;;highbridger;;;;;;;;;;;x
+c_highbridge_park;Highbridge Park;Highbridge Park;Highbridge Park;;Highbridge Park;;;;;;;;;x
+c_highbridge_park_adj;Highbridge Parkian;;Highbridge Parker;;;;;;;;;;;x
+c_highland_park;Highland Park;Highland Park;Highland Park;;Highland Park;;;;;;;;;x
+c_highland_park_adj;Highland Parkian;;Highland Parker;;;;;;;;;;;x
+c_hillcrest;Hillcrest;Hillcrest;Hillcrest;;Hillcrest;;;;;;;;;x
+c_hillcrest_adj;Hillcrestian;;hillcrester;;;;;;;;;;;x
+c_hollis;Hollis;Hollis;Hollis;;Hollis;;;;;;;;;x
+c_hollis_adj;Hollisian;;holliser;;;;;;;;;;;x
+c_holliswood;Holliswood;Holliswood;Holliswood;;Holliswood;;;;;;;;;x
+c_holliswood_adj;Holliswoodian;;holliswooder;;;;;;;;;;;x
+c_homecrest;Homecrest;Homecrest;Homecrest;;Homecrest;;;;;;;;;x
+c_homecrest_adj;Homecrestian;;homecrester;;;;;;;;;;;x
+c_hoorns_hook;Hoorn's Hook;Hoorn's Hook;Hoorn's Hook;;Hoorn's Hook;;;;;;;;;x
+c_hoorns_hook_adj;Hoorns Hookian;;Hoorn's Hooker;;;;;;;;;;;x
+c_howard_beach;Howard Beach;Howard Beach;Howard Beach;;Howard Beach;;;;;;;;;x
+c_howard_beach_adj;Howard Beachian;;Howard Beacher;;;;;;;;;;;x
+c_howland_hook;Howland Hook;Howland Hook;Howland Hook;;Howland Hook;;;;;;;;;x
+c_howland_hook_adj;Howland Hookian;;Howland Hooker;;;;;;;;;;;x
+c_hudson_heights;Hudson Heights;Hudson Heights;Hudson Heights;;Hudson Heights;;;;;;;;;x
+c_hudson_heights_adj;Hudson Heightsian;;Hudson Heightser;;;;;;;;;;;x
+c_hudson_square;Hudson Square;Hudson Square;Hudson Square;;Hudson Square;;;;;;;;;x
+c_hudson_square_adj;Hudson Squarean;;Hudson Squarer;;;;;;;;;;;x
+c_hudson_yards;Hudson Yards;Hudson Yards;Hudson Yards;;Hudson Yards;;;;;;;;;x
+c_hudson_yards_adj;Hudson Yardsian;;Hudson Yardser;;;;;;;;;;;x
+c_huguenot;Huguenot;Huguenot;Huguenot;;Huguenot;;;;;;;;;x
+c_huguenot_adj;Huguenotian;;huguenoter;;;;;;;;;;;x
+c_hunters_point;Hunters Point;Hunters Point;Hunters Point;;Hunters Point;;;;;;;;;x
+c_hunters_point_adj;Hunters Pointian;;Hunters Pointer;;;;;;;;;;;x
+c_hunts_point;Hunts Point;Hunts Point;Hunts Point;;Hunts Point;;;;;;;;;x
+c_hunts_point_adj;Hunts Pointian;;Hunts Pointer;;;;;;;;;;;x
+c_industry_city;Industry City;Industry City;Industry City;;Industry City;;;;;;;;;x
+c_industry_city_adj;Industry Citian;;Industry Citer;;;;;;;;;;;x
+c_inwood_hill;Inwood Hill;Inwood Hill;Inwood Hill;;Inwood Hill;;;;;;;;;x
+c_inwood_hill_adj;Inwood Hillian;;Inwood Hiller;;;;;;;;;;;x
+c_jackson_heights;Jackson Heights;Jackson Heights;Jackson Heights;;Jackson Heights;;;;;;;;;x
+c_jackson_heights_adj;Jackson Heightsian;;Jackson Heightser;;;;;;;;;;;x
+c_jamaica_hills;Jamaica Hills;Jamaica Hills;Jamaica Hills;;Jamaica Hills;;;;;;;;;x
+c_jamaica_hills_adj;Jamaica Hillsian;;Jamaica Hillser;;;;;;;;;;;x
+c_juniper_valley;Juniper Valley;Juniper Valley;Juniper Valley;;Juniper Valley;;;;;;;;;x
+c_juniper_valley_adj;Juniper Valleian;;Juniper Valleer;;;;;;;;;;;x
+c_kenmare_st;Kenmare St;Kenmare St;Kenmare St;;Kenmare St;;;;;;;;;x
+c_kenmare_st_adj;Kenmare Stian;;Kenmare Ster;;;;;;;;;;;x
+c_kensington;Kensington;Kensington;Kensington;;Kensington;;;;;;;;;x
+c_kensington_adj;Kensingtonian;;kensingtoner;;;;;;;;;;;x
+c_kew_gardens;Kew Gardens;Kew Gardens;Kew Gardens;;Kew Gardens;;;;;;;;;x
+c_kew_gardens_adj;Kew Gardensian;;Kew Gardenser;;;;;;;;;;;x
+c_kew_gardens_hills;Kew Gardens Hills;Kew Gardens Hills;Kew Gardens Hills;;Kew Gardens Hills;;;;;;;;;x
+c_kew_gardens_hills_adj;Kew Gardens Hillsian;;Kew Gardens Hillser;;;;;;;;;;;x
+c_kingsbridge;Kingsbridge;Kingsbridge;Kingsbridge;;Kingsbridge;;;;;;;;;x
+c_kingsbridge_adj;Kingsbridgean;;kingsbridger;;;;;;;;;;;x
+c_kips_bay;Kips Bay;Kips Bay;Kips Bay;;Kips Bay;;;;;;;;;x
+c_kips_bay_adj;Kips Baian;;Kips Baer;;;;;;;;;;;x
+c_kissena;Kissena;Kissena;Kissena;;Kissena;;;;;;;;;x
+c_kissena_adj;Kissenan;;kissener;;;;;;;;;;;x
+c_laconia;Laconia;Laconia;Laconia;;Laconia;;;;;;;;;x
+c_laconia_adj;Laconian;;laconer;;;;;;;;;;;x
+c_laurel_hill_terace;Laurel Hill Terace;Laurel Hill Terace;Laurel Hill Terace;;Laurel Hill Terace;;;;;;;;;x
+c_laurel_hill_terace_adj;Laurel Hill Teracean;;Laurel Hill Teracer;;;;;;;;;;;x
+c_laurelton;Laurelton;Laurelton;Laurelton;;Laurelton;;;;;;;;;x
+c_laurelton_adj;Laureltonian;;laureltoner;;;;;;;;;;;x
+c_lefferts_gardens;Lefferts Gardens;Lefferts Gardens;Lefferts Gardens;;Lefferts Gardens;;;;;;;;;x
+c_lefferts_gardens_adj;Lefferts Gardensian;;Lefferts Gardenser;;;;;;;;;;;x
+c_lefrak_city;LeFrak City;LeFrak City;LeFrak City;;LeFrak City;;;;;;;;;x
+c_lefrak_city_adj;LeFrak Citian;;LeFrak Citer;;;;;;;;;;;x
+c_lenox_hill;Lenox Hill;Lenox Hill;Lenox Hill;;Lenox Hill;;;;;;;;;x
+c_lenox_hill_adj;Lenox Hillian;;Lenox Hiller;;;;;;;;;;;x
+c_lincoln_square;Lincoln Square;Lincoln Square;Lincoln Square;;Lincoln Square;;;;;;;;;x
+c_lincoln_square_adj;Lincoln Squarean;;Lincoln Squarer;;;;;;;;;;;x
+c_lindenwood;Lindenwood;Lindenwood;Lindenwood;;Lindenwood;;;;;;;;;x
+c_lindenwood_adj;Lindenwoodian;;lindenwooder;;;;;;;;;;;x
+c_little_neck;Little Neck;Little Neck;Little Neck;;Little Neck;;;;;;;;;x
+c_little_neck_adj;Little Neckian;;Little Necker;;;;;;;;;;;x
+c_long_island_city;Long Island City;Long Island City;Long Island City;;Long Island City;;;;;;;;;x
+c_long_island_city_adj;Long Island Citian;;Long Island Citer;;;;;;;;;;;x
+c_longwood;Longwood;Longwood;Longwood;;Longwood;;;;;;;;;x
+c_longwood_adj;Longwoodian;;longwooder;;;;;;;;;;;x
+c_lower_murray_hill;Lower Murray Hill;Lower Murray Hill;Lower Murray Hill;;Lower Murray Hill;;;;;;;;;x
+c_lower_murray_hill_adj;Lower Murray Hillian;;Lower Murray Hiller;;;;;;;;;;;x
+c_madison;Madison;Madison;Madison;;Madison;;;;;;;;;x
+c_madison_adj;Madisonian;;madisoner;;;;;;;;;;;x
+c_malba;Malba;Malba;Malba;;Malba;;;;;;;;;x
+c_malba_adj;Malban;;malber;;;;;;;;;;;x
+c_manhattan_beach;Manhattan Beach;Manhattan Beach;Manhattan Beach;;Manhattan Beach;;;;;;;;;x
+c_manhattan_beach_adj;Manhattan Beachian;;Manhattan Beacher;;;;;;;;;;;x
+c_manhattan_bridge;Manhattan Bridge;Manhattan Bridge;Manhattan Bridge;;Manhattan Bridge;;;;;;;;;x
+c_manhattan_bridge_adj;Manhattan Bridgean;;Manhattan Bridger;;;;;;;;;;;x
+c_manhattan_terrace;Manhattan Terrace;Manhattan Terrace;Manhattan Terrace;;Manhattan Terrace;;;;;;;;;x
+c_manhattan_terrace_adj;Manhattan Terracean;;Manhattan Terracer;;;;;;;;;;;x
+c_manhattanville;Manhattanville;Manhattanville;Manhattanville;;Manhattanville;;;;;;;;;x
+c_manhattanville_adj;Manhattanvillean;;manhattanviller;;;;;;;;;;;x
+c_manor_heights;Manor Heights;Manor Heights;Manor Heights;;Manor Heights;;;;;;;;;x
+c_manor_heights_adj;Manor Heightsian;;Manor Heightser;;;;;;;;;;;x
+c_mapleton;Mapleton;Mapleton;Mapleton;;Mapleton;;;;;;;;;x
+c_mapleton_adj;Mapletonian;;mapletoner;;;;;;;;;;;x
+c_marble_hill;Marble Hill;Marble Hill;Marble Hill;;Marble Hill;;;;;;;;;x
+c_marble_hill_adj;Marble Hillian;;Marble Hiller;;;;;;;;;;;x
+c_marine_park;Marine Park;Marine Park;Marine Park;;Marine Park;;;;;;;;;x
+c_marine_park_adj;Marine Parkian;;Marine Parker;;;;;;;;;;;x
+c_mariners_harbor;Mariners Harbor;Mariners Harbor;Mariners Harbor;;Mariners Harbor;;;;;;;;;x
+c_mariners_harbor_adj;Mariners Harborian;;Mariners Harborer;;;;;;;;;;;x
+c_maspeth;Maspeth;Maspeth;Maspeth;;Maspeth;;;;;;;;;x
+c_maspeth_adj;Maspethian;;maspether;;;;;;;;;;;x
+c_mccarren_park;McCarren Park;McCarren Park;McCarren Park;;McCarren Park;;;;;;;;;x
+c_mccarren_park_adj;McCarren Parkian;;McCarren Parker;;;;;;;;;;;x
+c_meatpacking_district;Meatpacking District;Meatpacking District;Meatpacking District;;Meatpacking District;;;;;;;;;x
+c_meatpacking_district_adj;Meatpacking Districtian;;Meatpacking Districter;;;;;;;;;;;x
+c_melrose;Melrose;Melrose;Melrose;;Melrose;;;;;;;;;x
+c_melrose_adj;Melrosean;;melroser;;;;;;;;;;;x
+c_mercer_st;Mercer St;Mercer St;Mercer St;;Mercer St;;;;;;;;;x
+c_mercer_st_adj;Mercer Stian;;Mercer Ster;;;;;;;;;;;x
+c_middle_village;Middle Village;Middle Village;Middle Village;;Middle Village;;;;;;;;;x
+c_middle_village_adj;Middle Villagean;;Middle Villager;;;;;;;;;;;x
+c_middletown;Middletown;Middletown;Middletown;;Middletown;;;;;;;;;x
+c_middletown_adj;Middletownian;;middletowner;;;;;;;;;;;x
+c_midwood;Midwood;Midwood;Midwood;;Midwood;;;;;;;;;x
+c_midwood_adj;Midwoodian;;midwooder;;;;;;;;;;;x
+c_mill_basin;Mill Basin;Mill Basin;Mill Basin;;Mill Basin;;;;;;;;;x
+c_mill_basin_adj;Mill Basinian;;Mill Basiner;;;;;;;;;;;x
+c_mill_island;Mill Island;Mill Island;Mill Island;;Mill Island;;;;;;;;;x
+c_mill_island_adj;Mill Islandian;;Mill Islander;;;;;;;;;;;x
+c_morningside;Morningside;Morningside;Morningside;;Morningside;;;;;;;;;x
+c_morningside_adj;Morningsidean;;morningsider;;;;;;;;;;;x
+c_morningside_park;Morningside Park;Morningside Park;Morningside Park;;Morningside Park;;;;;;;;;x
+c_morningside_park_adj;Morningside Parkian;;Morningside Parker;;;;;;;;;;;x
+c_morris;Morris;Morris;Morris;;Morris;;;;;;;;;x
+c_morris_adj;Morrisian;;morriser;;;;;;;;;;;x
+c_morris_heights;Morris Heights;Morris Heights;Morris Heights;;Morris Heights;;;;;;;;;x
+c_morris_heights_adj;Morris Heightsian;;Morris Heightser;;;;;;;;;;;x
+c_morris_park;Morris Park;Morris Park;Morris Park;;Morris Park;;;;;;;;;x
+c_morris_park_adj;Morris Parkian;;Morris Parker;;;;;;;;;;;x
+c_mott_haven;Mott Haven;Mott Haven;Mott Haven;;Mott Haven;;;;;;;;;x
+c_mott_haven_adj;Mott Havenian;;Mott Havener;;;;;;;;;;;x
+c_mott_st;Mott St;Mott St;Mott St;;Mott St;;;;;;;;;x
+c_mott_st_adj;Mott Stian;;Mott Ster;;;;;;;;;;;x
+c_mount_eden;Mount Eden;Mount Eden;Mount Eden;;Mount Eden;;;;;;;;;x
+c_mount_eden_adj;Mount Edenian;;Mount Edener;;;;;;;;;;;x
+c_mount_hope;Mount Hope;Mount Hope;Mount Hope;;Mount Hope;;;;;;;;;x
+c_mount_hope_adj;Mount Hopean;;Mount Hoper;;;;;;;;;;;x
+c_mount_morris_park;Mount Morris Park;Mount Morris Park;Mount Morris Park;;Mount Morris Park;;;;;;;;;x
+c_mount_morris_park_adj;Mount Morris Parkian;;Mount Morris Parker;;;;;;;;;;;x
+c_mt_olivet;Mt. Olivet;Mt. Olivet;Mt. Olivet;;Mt. Olivet;;;;;;;;;x
+c_mt_olivet_adj;Mt. Olivetian;;Mt. Oliveter;;;;;;;;;;;x
+c_mt_zion;Mt. Zion;Mt. Zion;Mt. Zion;;Mt. Zion;;;;;;;;;x
+c_mt_zion_adj;Mt. Zionian;;Mt. Zioner;;;;;;;;;;;x
+c_murray_hill;Murray Hill;Murray Hill;Murray Hill;;Murray Hill;;;;;;;;;x
+c_murray_hill_adj;Murray Hillian;;Murray Hiller;;;;;;;;;;;x
+c_murray_hill_waterfront;Murray Hill Waterfront;Murray Hill Waterfront;Murray Hill Waterfront;;Murray Hill Waterfront;;;;;;;;;x
+c_murray_hill_waterfront_adj;Murray Hill Waterfrontian;;Murray Hill Waterfronter;;;;;;;;;;;x
+c_murray_st;Murray St;Murray St;Murray St;;Murray St;;;;;;;;;x
+c_murray_st_adj;Murray Stian;;Murray Ster;;;;;;;;;;;x
+c_navy_yards;Navy Yards;Navy Yards;Navy Yards;;Navy Yards;;;;;;;;;x
+c_navy_yards_adj;Navy Yardsian;;Navy Yardser;;;;;;;;;;;x
+c_neponsit;Neponsit;Neponsit;Neponsit;;Neponsit;;;;;;;;;x
+c_neponsit_adj;Neponsitian;;neponsiter;;;;;;;;;;;x
+c_new_dorp;New Dorp;New Dorp;New Dorp;;New Dorp;;;;;;;;;x
+c_new_dorp_adj;New Dorpian;;New Dorper;;;;;;;;;;;x
+c_new_springville;New Springville;New Springville;New Springville;;New Springville;;;;;;;;;x
+c_new_springville_adj;New Springvillean;;New Springviller;;;;;;;;;;;x
+c_noho;Noho;Noho;Noho;;Noho;;;;;;;;;x
+c_noho_adj;Nohian;;noher;;;;;;;;;;;x
+c_north_auburndale;North Auburndale;North Auburndale;North Auburndale;;North Auburndale;;;;;;;;;x
+c_north_auburndale_adj;North Auburndalean;;North Auburndaler;;;;;;;;;;;x
+c_north_borough_park;North Borough Park;North Borough Park;North Borough Park;;North Borough Park;;;;;;;;;x
+c_north_borough_park_adj;North Borough Parkian;;North Borough Parker;;;;;;;;;;;x
+c_north_bowery;North Bowery;North Bowery;North Bowery;;North Bowery;;;;;;;;;x
+c_north_bowery_adj;North Bowerian;;North Bowerer;;;;;;;;;;;x
+c_north_bushwick;North Bushwick;North Bushwick;North Bushwick;;North Bushwick;;;;;;;;;x
+c_north_bushwick_adj;North Bushwickian;;North Bushwicker;;;;;;;;;;;x
+c_north_canarsie;North Canarsie;North Canarsie;North Canarsie;;North Canarsie;;;;;;;;;x
+c_north_canarsie_adj;North Canarsiean;;North Canarser;;;;;;;;;;;x
+c_north_corona;North Corona;North Corona;North Corona;;North Corona;;;;;;;;;x
+c_north_corona_adj;North Coronan;;North Coroner;;;;;;;;;;;x
+c_north_gravesend;North Gravesend;North Gravesend;North Gravesend;;North Gravesend;;;;;;;;;x
+c_north_gravesend_adj;North Gravesendian;;North Gravesender;;;;;;;;;;;x
+c_north_greenpoint;North Greenpoint;North Greenpoint;North Greenpoint;;North Greenpoint;;;;;;;;;x
+c_north_greenpoint_adj;North Greenpointian;;North Greenpointer;;;;;;;;;;;x
+c_north_manhattan_valley;North Manhattan Valley;North Manhattan Valley;North Manhattan Valley;;North Manhattan Valley;;;;;;;;;x
+c_north_manhattan_valley_adj;North Manhattan Valleian;;North Manhattan Valleer;;;;;;;;;;;x
+c_north_meadow;North Meadow;North Meadow;North Meadow;;North Meadow;;;;;;;;;x
+c_north_meadow_adj;North Meadowian;;North Meadower;;;;;;;;;;;x
+c_north_park_slope;North Park Slope;North Park Slope;North Park Slope;;North Park Slope;;;;;;;;;x
+c_north_park_slope_adj;North Park Slopean;;North Park Sloper;;;;;;;;;;;x
+c_north_queens_village;North Queens Village;North Queens Village;North Queens Village;;North Queens Village;;;;;;;;;x
+c_north_queens_village_adj;North Queens Villagean;;North Queens Villager;;;;;;;;;;;x
+c_north_ridgewood;North Ridgewood;North Ridgewood;North Ridgewood;;North Ridgewood;;;;;;;;;x
+c_north_ridgewood_adj;North Ridgewoodian;;North Ridgewooder;;;;;;;;;;;x
+c_north_riverdale;North Riverdale;North Riverdale;North Riverdale;;North Riverdale;;;;;;;;;x
+c_north_riverdale_adj;North Riverdalean;;North Riverdaler;;;;;;;;;;;x
+c_north_riverside_blvd;North Riverside Blvd;North Riverside Blvd;North Riverside Blvd;;North Riverside Blvd;;;;;;;;;x
+c_north_riverside_blvd_adj;North Riverside Blvdian;;North Riverside Blvder;;;;;;;;;;;x
+c_north_side;North Side;North Side;North Side;;North Side;;;;;;;;;x
+c_north_side_adj;North Sidean;;North Sider;;;;;;;;;;;x
+c_norwood;Norwood;Norwood;Norwood;;Norwood;;;;;;;;;x
+c_norwood_adj;Norwoodian;;norwooder;;;;;;;;;;;x
+c_oakland_gardens;Oakland Gardens;Oakland Gardens;Oakland Gardens;;Oakland Gardens;;;;;;;;;x
+c_oakland_gardens_adj;Oakland Gardensian;;Oakland Gardenser;;;;;;;;;;;x
+c_ocean_hill;Ocean Hill;Ocean Hill;Ocean Hill;;Ocean Hill;;;;;;;;;x
+c_ocean_hill_adj;Ocean Hillian;;Ocean Hiller;;;;;;;;;;;x
+c_olinville;Olinville;Olinville;Olinville;;Olinville;;;;;;;;;x
+c_olinville_adj;Olinvillean;;olinviller;;;;;;;;;;;x
+c_ozone_park;Ozone Park;Ozone Park;Ozone Park;;Ozone Park;;;;;;;;;x
+c_ozone_park_adj;Ozone Parkian;;Ozone Parker;;;;;;;;;;;x
+c_paerdegat_basin;Paerdegat Basin;Paerdegat Basin;Paerdegat Basin;;Paerdegat Basin;;;;;;;;;x
+c_paerdegat_basin_adj;Paerdegat Basinian;;Paerdegat Basiner;;;;;;;;;;;x
+c_parkchester;Parkchester;Parkchester;Parkchester;;Parkchester;;;;;;;;;x
+c_parkchester_adj;Parkchesterian;;parkchesterer;;;;;;;;;;;x
+c_parkville;Parkville;Parkville;Parkville;;Parkville;;;;;;;;;x
+c_parkville_adj;Parkvillean;;parkviller;;;;;;;;;;;x
+c_pelham_bay;Pelham Bay;Pelham Bay;Pelham Bay;;Pelham Bay;;;;;;;;;x
+c_pelham_bay_adj;Pelham Baian;;Pelham Baer;;;;;;;;;;;x
+c_pelham_bay_park;Pelham Bay Park;Pelham Bay Park;Pelham Bay Park;;Pelham Bay Park;;;;;;;;;x
+c_pelham_bay_park_adj;Pelham Bay Parkian;;Pelham Bay Parker;;;;;;;;;;;x
+c_pelham_gardens;Pelham Gardens;Pelham Gardens;Pelham Gardens;;Pelham Gardens;;;;;;;;;x
+c_pelham_gardens_adj;Pelham Gardensian;;Pelham Gardenser;;;;;;;;;;;x
+c_pelham_parkway;Pelham Parkway;Pelham Parkway;Pelham Parkway;;Pelham Parkway;;;;;;;;;x
+c_pelham_parkway_adj;Pelham Parkwaian;;Pelham Parkwaer;;;;;;;;;;;x
+c_pell_st;Pell St;Pell St;Pell St;;Pell St;;;;;;;;;x
+c_pell_st_adj;Pell Stian;;Pell Ster;;;;;;;;;;;x
+c_penn_ave;Penn Ave;Penn Ave;Penn Ave;;Penn Ave;;;;;;;;;x
+c_penn_ave_adj;Penn Avean;;Penn Aver;;;;;;;;;;;x
+c_pleasant_ave;Pleasant Ave;Pleasant Ave;Pleasant Ave;;Pleasant Ave;;;;;;;;;x
+c_pleasant_ave_adj;Pleasant Avean;;Pleasant Aver;;;;;;;;;;;x
+c_pleasant_plains;Pleasant Plains;Pleasant Plains;Pleasant Plains;;Pleasant Plains;;;;;;;;;x
+c_pleasant_plains_adj;Pleasant Plainsian;;Pleasant Plainser;;;;;;;;;;;x
+c_pomonok;Pomonok;Pomonok;Pomonok;;Pomonok;;;;;;;;;x
+c_pomonok_adj;Pomonokian;;pomonoker;;;;;;;;;;;x
+c_port_morris;Port Morris;Port Morris;Port Morris;;Port Morris;;;;;;;;;x
+c_port_morris_adj;Port Morrisian;;Port Morriser;;;;;;;;;;;x
+c_port_richmond;Port Richmond;Port Richmond;Port Richmond;;Port Richmond;;;;;;;;;x
+c_port_richmond_adj;Port Richmondian;;Port Richmonder;;;;;;;;;;;x
+c_prince_st;Prince St;Prince St;Prince St;;Prince St;;;;;;;;;x
+c_prince_st_adj;Prince Stian;;Prince Ster;;;;;;;;;;;x
+c_prospect_heights;Prospect Heights;Prospect Heights;Prospect Heights;;Prospect Heights;;;;;;;;;x
+c_prospect_heights_adj;Prospect Heightsian;;Prospect Heightser;;;;;;;;;;;x
+c_prospect_park;Prospect Park;Prospect Park;Prospect Park;;Prospect Park;;;;;;;;;x
+c_prospect_park_adj;Prospect Parkian;;Prospect Parker;;;;;;;;;;;x
+c_prospect_park_south;Prospect Park South;Prospect Park South;Prospect Park South;;Prospect Park South;;;;;;;;;x
+c_prospect_park_south_adj;Prospect Park Southian;;Prospect Park Souther;;;;;;;;;;;x
+c_radio_row;Radio Row;Radio Row;Radio Row;;Radio Row;;;;;;;;;x
+c_radio_row_adj;Radio Rowian;;Radio Rower;;;;;;;;;;;x
+c_randalls_island;Randall's Island;Randall's Island;Randall's Island;;Randall's Island;;;;;;;;;x
+c_randalls_island_adj;Randalls Islandian;;Randall's Islander;;;;;;;;;;;x
+c_ravenswood;Ravenswood;Ravenswood;Ravenswood;;Ravenswood;;;;;;;;;x
+c_ravenswood_adj;Ravenswoodian;;ravenswooder;;;;;;;;;;;x
+c_rector_st;Rector St;Rector St;Rector St;;Rector St;;;;;;;;;x
+c_rector_st_adj;Rector Stian;;Rector Ster;;;;;;;;;;;x
+c_red_hook;Red Hook;Red Hook;Red Hook;;Red Hook;;;;;;;;;x
+c_red_hook_adj;Red Hookian;;Red Hooker;;;;;;;;;;;x
+c_rego_park;Rego Park;Rego Park;Rego Park;;Rego Park;;;;;;;;;x
+c_rego_park_adj;Rego Parkian;;Rego Parker;;;;;;;;;;;x
+c_remsen_village;Remsen Village;Remsen Village;Remsen Village;;Remsen Village;;;;;;;;;x
+c_remsen_village_adj;Remsen Villagean;;Remsen Villager;;;;;;;;;;;x
+c_richmond;Richmond;Richmond;Richmond;;Richmond;;;;;;;;;x
+c_richmond_adj;Richmondian;;richmonder;;;;;;;;;;;x
+c_richmond_hill;Richmond Hill;Richmond Hill;Richmond Hill;;Richmond Hill;;;;;;;;;x
+c_richmond_hill_adj;Richmond Hillian;;Richmond Hiller;;;;;;;;;;;x
+c_rikers_island;Rikers Island;Rikers Island;Rikers Island;;Rikers Island;;;;;;;;;x
+c_rikers_island_adj;Rikers Islandian;;Rikers Islander;;;;;;;;;;;x
+c_riverbank;Riverbank;Riverbank;Riverbank;;Riverbank;;;;;;;;;x
+c_riverbank_adj;Riverbankian;;riverbanker;;;;;;;;;;;x
+c_riverdale;Riverdale;Riverdale;Riverdale;;Riverdale;;;;;;;;;x
+c_riverdale_adj;Riverdalean;;riverdaler;;;;;;;;;;;x
+c_rockaway_park;Rockaway Park;Rockaway Park;Rockaway Park;;Rockaway Park;;;;;;;;;x
+c_rockaway_park_adj;Rockaway Parkian;;Rockaway Parker;;;;;;;;;;;x
+c_rose_hill;Rose Hill;Rose Hill;Rose Hill;;Rose Hill;;;;;;;;;x
+c_rose_hill_adj;Rose Hillian;;Rose Hiller;;;;;;;;;;;x
+c_rosedale;Rosedale;Rosedale;Rosedale;;Rosedale;;;;;;;;;x
+c_rosedale_adj;Rosedalean;;rosedaler;;;;;;;;;;;x
+c_rossville;Rossville;Rossville;Rossville;;Rossville;;;;;;;;;x
+c_rossville_adj;Rossvillean;;rossviller;;;;;;;;;;;x
+c_roxbury;Roxbury;Roxbury;Roxbury;;Roxbury;;;;;;;;;x
+c_roxbury_adj;Roxburian;;roxburer;;;;;;;;;;;x
+c_rugby;Rugby;Rugby;Rugby;;Rugby;;;;;;;;;x
+c_rugby_adj;Rugbian;;rugber;;;;;;;;;;;x
+c_seagate;Seagate;Seagate;Seagate;;Seagate;;;;;;;;;x
+c_seagate_adj;Seagatean;;seagater;;;;;;;;;;;x
+c_seaside;Seaside;Seaside;Seaside;;Seaside;;;;;;;;;x
+c_seaside_adj;Seasidean;;seasider;;;;;;;;;;;x
+c_seward_park;Seward Park;Seward Park;Seward Park;;Seward Park;;;;;;;;;x
+c_seward_park_adj;Seward Parkian;;Seward Parker;;;;;;;;;;;x
+c_sheep_meadow;Sheep Meadow;Sheep Meadow;Sheep Meadow;;Sheep Meadow;;;;;;;;;x
+c_sheep_meadow_adj;Sheep Meadowian;;Sheep Meadower;;;;;;;;;;;x
+c_sheepshead_bay;Sheepshead Bay;Sheepshead Bay;Sheepshead Bay;;Sheepshead Bay;;;;;;;;;x
+c_sheepshead_bay_adj;Sheepshead Baian;;Sheepshead Baer;;;;;;;;;;;x
+c_sheepshead_beach;Sheepshead Beach;Sheepshead Beach;Sheepshead Beach;;Sheepshead Beach;;;;;;;;;x
+c_sheepshead_beach_adj;Sheepshead Beachian;;Sheepshead Beacher;;;;;;;;;;;x
+c_shorehaven;Shorehaven;Shorehaven;Shorehaven;;Shorehaven;;;;;;;;;x
+c_shorehaven_adj;Shorehavenian;;shorehavener;;;;;;;;;;;x
+c_soho;Soho;Soho;Soho;;Soho;;;;;;;;;x
+c_soho_adj;Sohian;;soher;;;;;;;;;;;x
+c_somerville;Somerville;Somerville;Somerville;;Somerville;;;;;;;;;x
+c_somerville_adj;Somervillean;;somerviller;;;;;;;;;;;x
+c_soundview_park;Soundview Park;Soundview Park;Soundview Park;;Soundview Park;;;;;;;;;x
+c_soundview_park_adj;Soundview Parkian;;Soundview Parker;;;;;;;;;;;x
+c_soundview_village;Soundview Village;Soundview Village;Soundview Village;;Soundview Village;;;;;;;;;x
+c_soundview_village_adj;Soundview Villagean;;Soundview Villager;;;;;;;;;;;x
+c_south_beach;South Beach;South Beach;South Beach;;South Beach;;;;;;;;;x
+c_south_beach_adj;South Beachian;;South Beacher;;;;;;;;;;;x
+c_south_bensonhurst;South Bensonhurst;South Bensonhurst;South Bensonhurst;;South Bensonhurst;;;;;;;;;x
+c_south_bensonhurst_adj;South Bensonhurstian;;South Bensonhurster;;;;;;;;;;;x
+c_south_borough_park;South Borough Park;South Borough Park;South Borough Park;;South Borough Park;;;;;;;;;x
+c_south_borough_park_adj;South Borough Parkian;;South Borough Parker;;;;;;;;;;;x
+c_south_bowery;South Bowery;South Bowery;South Bowery;;South Bowery;;;;;;;;;x
+c_south_bowery_adj;South Bowerian;;South Bowerer;;;;;;;;;;;x
+c_south_brownsville;South Brownsville;South Brownsville;South Brownsville;;South Brownsville;;;;;;;;;x
+c_south_brownsville_adj;South Brownsvillean;;South Brownsviller;;;;;;;;;;;x
+c_south_bushwick;South Bushwick;South Bushwick;South Bushwick;;South Bushwick;;;;;;;;;x
+c_south_bushwick_adj;South Bushwickian;;South Bushwicker;;;;;;;;;;;x
+c_south_douglaston;South Douglaston;South Douglaston;South Douglaston;;South Douglaston;;;;;;;;;x
+c_south_douglaston_adj;South Douglastonian;;South Douglastoner;;;;;;;;;;;x
+c_south_flatbush;South Flatbush;South Flatbush;South Flatbush;;South Flatbush;;;;;;;;;x
+c_south_flatbush_adj;South Flatbushian;;South Flatbusher;;;;;;;;;;;x
+c_south_gravesend;South Gravesend;South Gravesend;South Gravesend;;South Gravesend;;;;;;;;;x
+c_south_gravesend_adj;South Gravesendian;;South Gravesender;;;;;;;;;;;x
+c_south_harlem_waterfront;South Harlem Waterfront;South Harlem Waterfront;South Harlem Waterfront;;South Harlem Waterfront;;;;;;;;;x
+c_south_harlem_waterfront_adj;South Harlem Waterfrontian;;South Harlem Waterfronter;;;;;;;;;;;x
+c_south_hunts_point;South Hunts Point;South Hunts Point;South Hunts Point;;South Hunts Point;;;;;;;;;x
+c_south_hunts_point_adj;South Hunts Pointian;;South Hunts Pointer;;;;;;;;;;;x
+c_south_kingsbridge;South Kingsbridge;South Kingsbridge;South Kingsbridge;;South Kingsbridge;;;;;;;;;x
+c_south_kingsbridge_adj;South Kingsbridgean;;South Kingsbridger;;;;;;;;;;;x
+c_south_manhattan_valley;South Manhattan Valley;South Manhattan Valley;South Manhattan Valley;;South Manhattan Valley;;;;;;;;;x
+c_south_manhattan_valley_adj;South Manhattan Valleian;;South Manhattan Valleer;;;;;;;;;;;x
+c_south_midwood;South Midwood;South Midwood;South Midwood;;South Midwood;;;;;;;;;x
+c_south_midwood_adj;South Midwoodian;;South Midwooder;;;;;;;;;;;x
+c_south_ozone_park;South Ozone Park;South Ozone Park;South Ozone Park;;South Ozone Park;;;;;;;;;x
+c_south_ozone_park_adj;South Ozone Parkian;;South Ozone Parker;;;;;;;;;;;x
+c_south_park_slope;South Park Slope;South Park Slope;South Park Slope;;South Park Slope;;;;;;;;;x
+c_south_park_slope_adj;South Park Slopean;;South Park Sloper;;;;;;;;;;;x
+c_south_queens_village;South Queens Village;South Queens Village;South Queens Village;;South Queens Village;;;;;;;;;x
+c_south_queens_village_adj;South Queens Villagean;;South Queens Villager;;;;;;;;;;;x
+c_south_richmond_hill;South Richmond Hill;South Richmond Hill;South Richmond Hill;;South Richmond Hill;;;;;;;;;x
+c_south_richmond_hill_adj;South Richmond Hillian;;South Richmond Hiller;;;;;;;;;;;x
+c_south_ridgewood;South Ridgewood;South Ridgewood;South Ridgewood;;South Ridgewood;;;;;;;;;x
+c_south_ridgewood_adj;South Ridgewoodian;;South Ridgewooder;;;;;;;;;;;x
+c_south_riverside_blvd;South Riverside Blvd;South Riverside Blvd;South Riverside Blvd;;South Riverside Blvd;;;;;;;;;x
+c_south_riverside_blvd_adj;South Riverside Blvdian;;South Riverside Blvder;;;;;;;;;;;x
+c_south_side;South Side;South Side;South Side;;South Side;;;;;;;;;x
+c_south_side_adj;South Sidean;;South Sider;;;;;;;;;;;x
+c_spring_creek;Spring Creek;Spring Creek;Spring Creek;;Spring Creek;;;;;;;;;x
+c_spring_creek_adj;Spring Creekian;;Spring Creeker;;;;;;;;;;;x
+c_springfield_gardens;Springfield Gardens;Springfield Gardens;Springfield Gardens;;Springfield Gardens;;;;;;;;;x
+c_springfield_gardens_adj;Springfield Gardensian;;Springfield Gardenser;;;;;;;;;;;x
+c_spuyten_duyvil;Spuyten Duyvil;Spuyten Duyvil;Spuyten Duyvil;;Spuyten Duyvil;;;;;;;;;x
+c_spuyten_duyvil_adj;Spuyten Duyvilian;;Spuyten Duyviler;;;;;;;;;;;x
+c_st_albans;St. Albans;St. Albans;St. Albans;;St. Albans;;;;;;;;;x
+c_st_albans_adj;St. Albansian;;St. Albanser;;;;;;;;;;;x
+c_st_catherine;St. Catherine;St. Catherine;St. Catherine;;St. Catherine;;;;;;;;;x
+c_st_catherine_adj;St. Catherinean;;St. Catheriner;;;;;;;;;;;x
+c_st_george;St. George;St. George;St. George;;St. George;;;;;;;;;x
+c_st_george_adj;St. Georgean;;St. Georger;;;;;;;;;;;x
+c_st_marys_park;St. Mary's Park;St. Mary's Park;St. Mary's Park;;St. Mary's Park;;;;;;;;;x
+c_st_marys_park_adj;St. Marys Parkian;;St. Mary's Parker;;;;;;;;;;;x
+c_stapleton;Stapleton;Stapleton;Stapleton;;Stapleton;;;;;;;;;x
+c_stapleton_adj;Stapletonian;;stapletoner;;;;;;;;;;;x
+c_starrett_city;Starrett City;Starrett City;Starrett City;;Starrett City;;;;;;;;;x
+c_starrett_city_adj;Starrett Citian;;Starrett Citer;;;;;;;;;;;x
+c_steinway;Steinway;Steinway;Steinway;;Steinway;;;;;;;;;x
+c_steinway_adj;Steinwaian;;steinwaer;;;;;;;;;;;x
+c_strikers_lane;Striker's Lane;Striker's Lane;Striker's Lane;;Striker's Lane;;;;;;;;;x
+c_strikers_lane_adj;Strikers Lanean;;Striker's Laner;;;;;;;;;;;x
+c_strivers_row;Strivers Row;Strivers Row;Strivers Row;;Strivers Row;;;;;;;;;x
+c_strivers_row_adj;Strivers Rowian;;Strivers Rower;;;;;;;;;;;x
+c_stuyvesant;Stuyvesant;Stuyvesant;Stuyvesant;;Stuyvesant;;;;;;;;;x
+c_stuyvesant_adj;Stuyvesantian;;stuyvesanter;;;;;;;;;;;x
+c_stuyvesant_heights;Stuyvesant Heights;Stuyvesant Heights;Stuyvesant Heights;;Stuyvesant Heights;;;;;;;;;x
+c_stuyvesant_heights_adj;Stuyvesant Heightsian;;Stuyvesant Heightser;;;;;;;;;;;x
+c_stuyvesant_square;Stuyvesant Square;Stuyvesant Square;Stuyvesant Square;;Stuyvesant Square;;;;;;;;;x
+c_stuyvesant_square_adj;Stuyvesant Squarean;;Stuyvesant Squarer;;;;;;;;;;;x
+c_sugar_hill;Sugar Hill;Sugar Hill;Sugar Hill;;Sugar Hill;;;;;;;;;x
+c_sugar_hill_adj;Sugar Hillian;;Sugar Hiller;;;;;;;;;;;x
+c_sunnyside;Sunnyside;Sunnyside;Sunnyside;;Sunnyside;;;;;;;;;x
+c_sunnyside_adj;Sunnysidean;;sunnysider;;;;;;;;;;;x
+c_sunnyside_gardens;Sunnyside Gardens;Sunnyside Gardens;Sunnyside Gardens;;Sunnyside Gardens;;;;;;;;;x
+c_sunnyside_gardens_adj;Sunnyside Gardensian;;Sunnyside Gardenser;;;;;;;;;;;x
+c_sunset_park;Sunset Park;Sunset Park;Sunset Park;;Sunset Park;;;;;;;;;x
+c_sunset_park_adj;Sunset Parkian;;Sunset Parker;;;;;;;;;;;x
+c_sunset_south;Sunset South;Sunset South;Sunset South;;Sunset South;;;;;;;;;x
+c_sunset_south_adj;Sunset Southian;;Sunset Souther;;;;;;;;;;;x
+c_sutton_place;Sutton Place;Sutton Place;Sutton Place;;Sutton Place;;;;;;;;;x
+c_sutton_place_adj;Sutton Placean;;Sutton Placer;;;;;;;;;;;x
+c_tenderloin;Tenderloin;Tenderloin;Tenderloin;;Tenderloin;;;;;;;;;x
+c_tenderloin_adj;Tenderloinian;;tenderloiner;;;;;;;;;;;x
+c_thomas_st;Thomas St;Thomas St;Thomas St;;Thomas St;;;;;;;;;x
+c_thomas_st_adj;Thomas Stian;;Thomas Ster;;;;;;;;;;;x
+c_throggs_neck;Throggs Neck;Throggs Neck;Throggs Neck;;Throggs Neck;;;;;;;;;x
+c_throggs_neck_adj;Throggs Neckian;;Throggs Necker;;;;;;;;;;;x
+c_times_square;Times Square;Times Square;Times Square;;Times Square;;;;;;;;;x
+c_times_square_adj;Times Squarean;;Times Squarer;;;;;;;;;;;x
+c_todt_hill;Todt Hill;Todt Hill;Todt Hill;;Todt Hill;;;;;;;;;x
+c_todt_hill_adj;Todt Hillian;;Todt Hiller;;;;;;;;;;;x
+c_tompkins_square;Tompkins Square;Tompkins Square;Tompkins Square;;Tompkins Square;;;;;;;;;x
+c_tompkins_square_adj;Tompkins Squarean;;Tompkins Squarer;;;;;;;;;;;x
+c_tottenville;Tottenville;Tottenville;Tottenville;;Tottenville;;;;;;;;;x
+c_tottenville_adj;Tottenvillean;;tottenviller;;;;;;;;;;;x
+c_tudor_city;Tudor City;Tudor City;Tudor City;;Tudor City;;;;;;;;;x
+c_tudor_city_adj;Tudor Citian;;Tudor Citer;;;;;;;;;;;x
+c_turtle_bay_waterfront;Turtle Bay Waterfront;Turtle Bay Waterfront;Turtle Bay Waterfront;;Turtle Bay Waterfront;;;;;;;;;x
+c_turtle_bay_waterfront_adj;Turtle Bay Waterfrontian;;Turtle Bay Waterfronter;;;;;;;;;;;x
+c_two_bridges;Two Bridges;Two Bridges;Two Bridges;;Two Bridges;;;;;;;;;x
+c_two_bridges_adj;Two Bridgesian;;Two Bridgeser;;;;;;;;;;;x
+c_union_square;Union Square;Union Square;Union Square;;Union Square;;;;;;;;;x
+c_union_square_adj;Union Squarean;;Union Squarer;;;;;;;;;;;x
+c_unionport;Unionport;Unionport;Unionport;;Unionport;;;;;;;;;x
+c_unionport_adj;Unionportian;;unionporter;;;;;;;;;;;x
+c_university_heights;University Heights;University Heights;University Heights;;University Heights;;;;;;;;;x
+c_university_heights_adj;University Heightsian;;University Heightser;;;;;;;;;;;x
+c_upper_murray_hill;Upper Murray Hill;Upper Murray Hill;Upper Murray Hill;;Upper Murray Hill;;;;;;;;;x
+c_upper_murray_hill_adj;Upper Murray Hillian;;Upper Murray Hiller;;;;;;;;;;;x
+c_utopia;Utopia;Utopia;Utopia;;Utopia;;;;;;;;;x
+c_utopia_adj;Utopian;;utoper;;;;;;;;;;;x
+c_van_cortland_park;Van Cortland Park;Van Cortland Park;Van Cortland Park;;Van Cortland Park;;;;;;;;;x
+c_van_cortland_park_adj;Van Cortland Parkian;;Van Cortland Parker;;;;;;;;;;;x
+c_van_nest;Van Nest;Van Nest;Van Nest;;Van Nest;;;;;;;;;x
+c_van_nest_adj;Van Nestian;;Van Nester;;;;;;;;;;;x
+c_vinegar_hill;Vinegar Hill;Vinegar Hill;Vinegar Hill;;Vinegar Hill;;;;;;;;;x
+c_vinegar_hill_adj;Vinegar Hillian;;Vinegar Hiller;;;;;;;;;;;x
+c_wakefield;Wakefield;Wakefield;Wakefield;;Wakefield;;;;;;;;;x
+c_wakefield_adj;Wakefieldian;;wakefielder;;;;;;;;;;;x
+c_wall_st;Wall St;Wall St;Wall St;;Wall St;;;;;;;;;x
+c_wall_st_adj;Wall Stian;;Wall Ster;;;;;;;;;;;x
+c_wards_island;Wards Island;Wards Island;Wards Island;;Wards Island;;;;;;;;;x
+c_wards_island_adj;Wards Islandian;;Wards Islander;;;;;;;;;;;x
+c_washington_square;Washington Square;Washington Square;Washington Square;;Washington Square;;;;;;;;;x
+c_washington_square_adj;Washington Squarean;;Washington Squarer;;;;;;;;;;;x
+c_weeksville;Weeksville;Weeksville;Weeksville;;Weeksville;;;;;;;;;x
+c_weeksville_adj;Weeksvillean;;weeksviller;;;;;;;;;;;x
+c_west_100th_st;West 100th St;West 100th St;West 100th St;;West 100th St;;;;;;;;;x
+c_west_100th_st_adj;West 100th Stian;;West 100th Ster;;;;;;;;;;;x
+c_west_106th_st;West 106th St;West 106th St;West 106th St;;West 106th St;;;;;;;;;x
+c_west_106th_st_adj;West 106th Stian;;West 106th Ster;;;;;;;;;;;x
+c_west_121st_st;West 121st St;West 121st St;West 121st St;;West 121st St;;;;;;;;;x
+c_west_121st_st_adj;West 121st Stian;;West 121st Ster;;;;;;;;;;;x
+c_west_125th_st;West 125th St;West 125th St;West 125th St;;West 125th St;;;;;;;;;x
+c_west_125th_st_adj;West 125th Stian;;West 125th Ster;;;;;;;;;;;x
+c_west_125th_st_2;West 125th St;West 125th St;West 125th St;;West 125th St;;;;;;;;;x
+c_west_125th_st_2_adj;West 125th Stian;;West 125th Ster;;;;;;;;;;;x
+c_west_155th_st;West 155th St;West 155th St;West 155th St;;West 155th St;;;;;;;;;x
+c_west_155th_st_adj;West 155th Stian;;West 155th Ster;;;;;;;;;;;x
+c_west_160th_st;West 160th St;West 160th St;West 160th St;;West 160th St;;;;;;;;;x
+c_west_160th_st_adj;West 160th Stian;;West 160th Ster;;;;;;;;;;;x
+c_west_175th_st;West 175th St;West 175th St;West 175th St;;West 175th St;;;;;;;;;x
+c_west_175th_st_adj;West 175th Stian;;West 175th Ster;;;;;;;;;;;x
+c_west_215th_st;West 215th St;West 215th St;West 215th St;;West 215th St;;;;;;;;;x
+c_west_215th_st_adj;West 215th Stian;;West 215th Ster;;;;;;;;;;;x
+c_west_34th_st;West 34th St;West 34th St;West 34th St;;West 34th St;;;;;;;;;x
+c_west_34th_st_adj;West 34th Stian;;West 34th Ster;;;;;;;;;;;x
+c_west_42nd_st;West 42nd St;West 42nd St;West 42nd St;;West 42nd St;;;;;;;;;x
+c_west_42nd_st_adj;West 42nd Stian;;West 42nd Ster;;;;;;;;;;;x
+c_west_47th_st;West 47th St;West 47th St;West 47th St;;West 47th St;;;;;;;;;x
+c_west_47th_st_adj;West 47th Stian;;West 47th Ster;;;;;;;;;;;x
+c_west_50th_st;West 50th St;West 50th St;West 50th St;;West 50th St;;;;;;;;;x
+c_west_50th_st_adj;West 50th Stian;;West 50th Ster;;;;;;;;;;;x
+c_west_59th_st;West 59th St;West 59th St;West 59th St;;West 59th St;;;;;;;;;x
+c_west_59th_st_adj;West 59th Stian;;West 59th Ster;;;;;;;;;;;x
+c_west_72nd_st;West 72nd St;West 72nd St;West 72nd St;;West 72nd St;;;;;;;;;x
+c_west_72nd_st_adj;West 72nd Stian;;West 72nd Ster;;;;;;;;;;;x
+c_west_79th_st;West 79th St;West 79th St;West 79th St;;West 79th St;;;;;;;;;x
+c_west_79th_st_adj;West 79th Stian;;West 79th Ster;;;;;;;;;;;x
+c_west_86th_st;West 86th St;West 86th St;West 86th St;;West 86th St;;;;;;;;;x
+c_west_86th_st_adj;West 86th Stian;;West 86th Ster;;;;;;;;;;;x
+c_west_96th_st;West 96th St;West 96th St;West 96th St;;West 96th St;;;;;;;;;x
+c_west_96th_st_adj;West 96th Stian;;West 96th Ster;;;;;;;;;;;x
+c_west_bath_beach;West Bath Beach;West Bath Beach;West Bath Beach;;West Bath Beach;;;;;;;;;x
+c_west_bath_beach_adj;West Bath Beachian;;West Bath Beacher;;;;;;;;;;;x
+c_west_bensonhurst;West Bensonhurst;West Bensonhurst;West Bensonhurst;;West Bensonhurst;;;;;;;;;x
+c_west_bensonhurst_adj;West Bensonhurstian;;West Bensonhurster;;;;;;;;;;;x
+c_west_borough_park;West Borough Park;West Borough Park;West Borough Park;;West Borough Park;;;;;;;;;x
+c_west_borough_park_adj;West Borough Parkian;;West Borough Parker;;;;;;;;;;;x
+c_west_brighton;West Brighton;West Brighton;West Brighton;;West Brighton;;;;;;;;;x
+c_west_brighton_adj;West Brightonian;;West Brightoner;;;;;;;;;;;x
+c_west_brighton_2;West Brighton;West Brighton;West Brighton;;West Brighton;;;;;;;;;x
+c_west_brighton_2_adj;West Brightonian;;West Brightoner;;;;;;;;;;;x
+c_west_canarsie;West Canarsie;West Canarsie;West Canarsie;;West Canarsie;;;;;;;;;x
+c_west_canarsie_adj;West Canarsiean;;West Canarser;;;;;;;;;;;x
+c_west_farms;West Farms;West Farms;West Farms;;West Farms;;;;;;;;;x
+c_west_farms_adj;West Farmsian;;West Farmser;;;;;;;;;;;x
+c_west_glendale;West Glendale;West Glendale;West Glendale;;West Glendale;;;;;;;;;x
+c_west_glendale_adj;West Glendalean;;West Glendaler;;;;;;;;;;;x
+c_west_gravesend;West Gravesend;West Gravesend;West Gravesend;;West Gravesend;;;;;;;;;x
+c_west_gravesend_adj;West Gravesendian;;West Gravesender;;;;;;;;;;;x
+c_west_idlewild;West Idlewild;West Idlewild;West Idlewild;;West Idlewild;;;;;;;;;x
+c_west_idlewild_adj;West Idlewildian;;West Idlewilder;;;;;;;;;;;x
+c_west_jamaica;West Jamaica;West Jamaica;West Jamaica;;West Jamaica;;;;;;;;;x
+c_west_jamaica_adj;West Jamaican;;West Jamaicer;;;;;;;;;;;x
+c_west_new_lots;West New Lots;West New Lots;West New Lots;;West New Lots;;;;;;;;;x
+c_west_new_lots_adj;West New Lotsian;;West New Lotser;;;;;;;;;;;x
+c_west_rochdale;West Rochdale;West Rochdale;West Rochdale;;West Rochdale;;;;;;;;;x
+c_west_rochdale_adj;West Rochdalean;;West Rochdaler;;;;;;;;;;;x
+c_west_schuylerville;West Schuylerville;West Schuylerville;West Schuylerville;;West Schuylerville;;;;;;;;;x
+c_west_schuylerville_adj;West Schuylervillean;;West Schuylerviller;;;;;;;;;;;x
+c_west_tremont;West Tremont;West Tremont;West Tremont;;West Tremont;;;;;;;;;x
+c_west_tremont_adj;West Tremontian;;West Tremonter;;;;;;;;;;;x
+c_west_village;West Village;West Village;West Village;;West Village;;;;;;;;;x
+c_west_village_adj;West Villagean;;West Villager;;;;;;;;;;;x
+c_westchester_square;Westchester Square;Westchester Square;Westchester Square;;Westchester Square;;;;;;;;;x
+c_westchester_square_adj;Westchester Squarean;;Westchester Squarer;;;;;;;;;;;x
+c_white_island;White Island;White Island;White Island;;White Island;;;;;;;;;x
+c_white_island_adj;White Islandian;;White Islander;;;;;;;;;;;x
+c_whitehall_st;Whitehall St;Whitehall St;Whitehall St;;Whitehall St;;;;;;;;;x
+c_whitehall_st_adj;Whitehall Stian;;Whitehall Ster;;;;;;;;;;;x
+c_whitestone;Whitestone;Whitestone;Whitestone;;Whitestone;;;;;;;;;x
+c_whitestone_adj;Whitestonean;;whitestoner;;;;;;;;;;;x
+c_willets_point;Willets Point;Willets Point;Willets Point;;Willets Point;;;;;;;;;x
+c_willets_point_adj;Willets Pointian;;Willets Pointer;;;;;;;;;;;x
+c_williamsbridge;Williamsbridge;Williamsbridge;Williamsbridge;;Williamsbridge;;;;;;;;;x
+c_williamsbridge_adj;Williamsbridgean;;williamsbridger;;;;;;;;;;;x
+c_williamsburg;Williamsburg;Williamsburg;Williamsburg;;Williamsburg;;;;;;;;;x
+c_williamsburg_adj;Williamsburgian;;williamsburger;;;;;;;;;;;x
+c_williamsburg_bridge;Williamsburg Bridge;Williamsburg Bridge;Williamsburg Bridge;;Williamsburg Bridge;;;;;;;;;x
+c_williamsburg_bridge_adj;Williamsburg Bridgean;;Williamsburg Bridger;;;;;;;;;;;x
+c_windsor_terrace;Windsor Terrace;Windsor Terrace;Windsor Terrace;;Windsor Terrace;;;;;;;;;x
+c_windsor_terrace_adj;Windsor Terracean;;Windsor Terracer;;;;;;;;;;;x
+c_wingate;Wingate;Wingate;Wingate;;Wingate;;;;;;;;;x
+c_wingate_adj;Wingatean;;wingater;;;;;;;;;;;x
+c_woodhaven;Woodhaven;Woodhaven;Woodhaven;;Woodhaven;;;;;;;;;x
+c_woodhaven_adj;Woodhavenian;;woodhavener;;;;;;;;;;;x
+c_woodlawn;Woodlawn;Woodlawn;Woodlawn;;Woodlawn;;;;;;;;;x
+c_woodlawn_adj;Woodlawnian;;woodlawner;;;;;;;;;;;x
+c_woodrow;Woodrow;Woodrow;Woodrow;;Woodrow;;;;;;;;;x
+c_woodrow_adj;Woodrowian;;woodrower;;;;;;;;;;;x
+c_woodside;Woodside;Woodside;Woodside;;Woodside;;;;;;;;;x
+c_woodside_adj;Woodsidean;;woodsider;;;;;;;;;;;x
+c_woodstock;Woodstock;Woodstock;Woodstock;;Woodstock;;;;;;;;;x
+c_woodstock_adj;Woodstockian;;woodstocker;;;;;;;;;;;x

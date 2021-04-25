@@ -1,0 +1,19 @@
+# c_north_corona
+
+# County Title
+title = c_north_corona
+
+# Settlements
+max_settlements = 4
+
+b_north_corona = castle
+b_junction_blvd_2 = city
+#b_34th_ave = temple
+#b_108th_st_2 = castle
+#b_northern_blvd = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

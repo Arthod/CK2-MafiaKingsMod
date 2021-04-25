@@ -1,0 +1,18 @@
+# c_kissena
+
+# County Title
+title = c_kissena
+
+# Settlements
+max_settlements = 3
+
+b_kissena = castle
+#b_kissena_blvd = city
+#b_164th_st = temple
+#b_booth_memorial_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

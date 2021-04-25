@@ -1,0 +1,19 @@
+# c_belmont
+
+# County Title
+title = c_belmont
+
+# Settlements
+max_settlements = 4
+
+b_belmont = castle
+b_crescent_ave = city
+#b_ciccarone = temple
+#b_e_187th_st = castle
+#b_quarry_rd = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

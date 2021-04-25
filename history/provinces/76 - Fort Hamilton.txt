@@ -1,0 +1,19 @@
+# c_fort_hamilton
+
+# County Title
+title = c_fort_hamilton
+
+# Settlements
+max_settlements = 4
+
+b_fort_hamilton = castle
+#b_fort_hamilton_pkwy_2 = city
+#b_13th_ave = temple
+#b_65th_st = castle
+#b_bay_ridge_pkwy = city
+
+# Misc
+culture = fort
+religion = upright
+
+#History

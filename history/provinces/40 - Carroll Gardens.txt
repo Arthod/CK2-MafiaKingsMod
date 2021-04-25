@@ -1,0 +1,19 @@
+# c_carroll_gardens
+
+# County Title
+title = c_carroll_gardens
+
+# Settlements
+max_settlements = 4
+
+b_carroll_gardens = castle
+b_carroll_st = city
+#b_summit_st = temple
+#b_luquer_st = castle
+#b_rapelye_st = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

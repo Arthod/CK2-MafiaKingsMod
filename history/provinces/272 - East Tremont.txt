@@ -1,0 +1,18 @@
+# c_east_tremont
+
+# County Title
+title = c_east_tremont
+
+# Settlements
+max_settlements = 3
+
+b_east_tremont = castle
+b_crotona = city
+#b_southern_blvd_5 = temple
+#b_tremont_ave_2 = castle
+
+# Misc
+culture = yankee
+religion = criminal
+
+#History

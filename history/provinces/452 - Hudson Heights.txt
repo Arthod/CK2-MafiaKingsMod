@@ -1,0 +1,18 @@
+# c_hudson_heights
+
+# County Title
+title = c_hudson_heights
+
+# Settlements
+max_settlements = 3
+
+b_hudson_heights = castle
+#b_181st_st = city
+#b_bennett_ave = temple
+#b_cabrini_blvd = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

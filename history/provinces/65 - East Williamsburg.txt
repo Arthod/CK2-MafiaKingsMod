@@ -1,0 +1,20 @@
+# c_east_williamsburg
+
+# County Title
+title = c_east_williamsburg
+
+# Settlements
+max_settlements = 5
+
+b_east_williamsburg = castle
+b_morgan_ave = city
+#b_metropolitan_ave_2 = temple
+#b_maspeth_ave = castle
+#b_lombardy_st = city
+#b_johnson_ave = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

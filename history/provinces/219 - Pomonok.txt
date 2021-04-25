@@ -1,0 +1,18 @@
+# c_pomonok
+
+# County Title
+title = c_pomonok
+
+# Settlements
+max_settlements = 3
+
+b_pomonok = castle
+#b_jewel_ave_2 = city
+#b_melbourne_ave = temple
+#b_parsons_blvd_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

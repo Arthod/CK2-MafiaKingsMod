@@ -1,0 +1,21 @@
+# c_five_points
+
+# County Title
+title = c_five_points
+
+# Settlements
+max_settlements = 7
+
+b_five_points = castle
+b_lafayette_st = city
+b_centre_st = temple
+b_worth_st = castle
+b_duane_st = city
+#b_reade_st = temple
+#b_broadway_9 = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

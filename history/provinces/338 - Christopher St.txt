@@ -1,0 +1,21 @@
+# c_christopher_st
+
+# County Title
+title = c_christopher_st
+
+# Settlements
+max_settlements = 6
+
+b_christopher_st = castle
+b_spring_st_3 = city
+b_houston_st_2 = temple
+b_charles_st = castle
+#b_barrow_st = city
+#b_morton_st = temple
+#b_leroy_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

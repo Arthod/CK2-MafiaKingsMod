@@ -1,0 +1,21 @@
+# c_whitehall_st
+
+# County Title
+title = c_whitehall_st
+
+# Settlements
+max_settlements = 7
+
+b_whitehall_st = castle
+b_water_st_5 = city
+b_pearl_st_4 = temple
+b_broad_st = castle
+#b_beaver_st_2 = city
+#b_old_slip = temple
+#b_hanover_square = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

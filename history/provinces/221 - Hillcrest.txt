@@ -1,0 +1,18 @@
+# c_hillcrest
+
+# County Title
+title = c_hillcrest
+
+# Settlements
+max_settlements = 3
+
+b_hillcrest = castle
+#b_union_tpke_2 = city
+#b_utopia_pkwy = temple
+#b_goethals_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

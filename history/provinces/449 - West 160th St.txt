@@ -1,0 +1,18 @@
+# c_west_160th_st
+
+# County Title
+title = c_west_160th_st
+
+# Settlements
+max_settlements = 3
+
+b_west_160th_st = castle
+b_riverside_dr_2 = city
+#b_fort_washington_ave = temple
+#b_broadway_15 = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

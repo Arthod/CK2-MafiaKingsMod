@@ -1,0 +1,17 @@
+# c_rossville
+
+# County Title
+title = c_rossville
+
+# Settlements
+max_settlements = 2
+
+b_rossville = castle
+#b_rossville_ave = city
+#b_correll_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

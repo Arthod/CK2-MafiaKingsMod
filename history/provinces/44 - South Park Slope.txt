@@ -1,0 +1,21 @@
+# c_south_park_slope
+
+# County Title
+title = c_south_park_slope
+
+# Settlements
+max_settlements = 6
+
+b_south_park_slope = castle
+b_7th_ave_2 = city
+b_5th_ave_2 = temple
+#b_6th_ave_2 = castle
+#b_8th_ave_2 = city
+#b_prospect_ave = temple
+#b_20th_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

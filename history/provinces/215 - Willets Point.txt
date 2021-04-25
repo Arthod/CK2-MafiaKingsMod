@@ -1,0 +1,17 @@
+# c_willets_point
+
+# County Title
+title = c_willets_point
+
+# Settlements
+max_settlements = 2
+
+b_willets_point = castle
+#b_shea_rd = city
+#b_meridian_rd = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

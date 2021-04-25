@@ -1,0 +1,17 @@
+# c_pelham_bay_park
+
+# County Title
+title = c_pelham_bay_park
+
+# Settlements
+max_settlements = 2
+
+b_pelham_bay_park = castle
+#b_shore_rd_3 = city
+#b_orchard_beach = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

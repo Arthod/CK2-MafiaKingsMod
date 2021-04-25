@@ -1,0 +1,17 @@
+# c_co_op_city
+
+# County Title
+title = c_co_op_city
+
+# Settlements
+max_settlements = 2
+
+b_co_op_city = castle
+#b_co_op_city_blvd = city
+#b_peartree_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

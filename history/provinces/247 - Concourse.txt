@@ -1,0 +1,19 @@
+# c_concourse
+
+# County Title
+title = c_concourse
+
+# Settlements
+max_settlements = 4
+
+b_concourse = castle
+#b_mcclellan_st = city
+#b_morris_ave_2 = temple
+#b_findlay_ave = castle
+#b_walton_ave = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

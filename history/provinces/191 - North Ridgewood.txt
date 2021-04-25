@@ -1,0 +1,18 @@
+# c_north_ridgewood
+
+# County Title
+title = c_north_ridgewood
+
+# Settlements
+max_settlements = 3
+
+b_north_ridgewood = castle
+b_forest_ave_3 = city
+#b_gates_ave_4 = temple
+#b_cypress_ave_2 = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

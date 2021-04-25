@@ -1,0 +1,17 @@
+# c_canarsie_beach
+
+# County Title
+title = c_canarsie_beach
+
+# Settlements
+max_settlements = 2
+
+b_canarsie_beach = castle
+#b_seaview_ave_2 = city
+#b_canarsie_rd = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_north_auburndale
+
+# County Title
+title = c_north_auburndale
+
+# Settlements
+max_settlements = 3
+
+b_north_auburndale = castle
+#b_39th_ave = city
+#b_utopia_pkwy_3 = temple
+#b_francis_lewis_blvd_4 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

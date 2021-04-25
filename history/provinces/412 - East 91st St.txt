@@ -1,0 +1,19 @@
+# c_east_91st_st
+
+# County Title
+title = c_east_91st_st
+
+# Settlements
+max_settlements = 4
+
+b_east_91st_st = castle
+b_e_90th_st_2 = city
+b_e_87th_st_3 = temple
+#b_e_89th_st_3 = castle
+#b_e_88th_st = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

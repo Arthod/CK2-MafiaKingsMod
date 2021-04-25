@@ -1,0 +1,18 @@
+# c_holliswood
+
+# County Title
+title = c_holliswood
+
+# Settlements
+max_settlements = 3
+
+b_holliswood = castle
+#b_188th_st = city
+#b_salerno_ave = temple
+#b_palermo_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

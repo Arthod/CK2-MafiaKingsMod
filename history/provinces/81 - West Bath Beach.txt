@@ -1,0 +1,18 @@
+# c_west_bath_beach
+
+# County Title
+title = c_west_bath_beach
+
+# Settlements
+max_settlements = 3
+
+b_west_bath_beach = castle
+b_16th_ave_2 = city
+#b_cropsey_ave_2 = temple
+#b_shore_pkwy = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

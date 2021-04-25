@@ -1,0 +1,18 @@
+# c_far_rockaway
+
+# County Title
+title = c_far_rockaway
+
+# Settlements
+max_settlements = 3
+
+b_far_rockaway = castle
+b_beach_20th_st = city
+#b_cornaga_ave = temple
+#b_mott_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

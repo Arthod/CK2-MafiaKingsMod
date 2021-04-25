@@ -1,0 +1,21 @@
+# c_st_george
+
+# County Title
+title = c_st_george
+
+# Settlements
+max_settlements = 4
+
+b_st_george = castle
+b_jersey_st = city
+#b_ferry_terminal = temple
+#b_fort_hill = castle
+#b_westervelt_ave = city
+#b_hamilton_ave = temple
+#b_st_marks_pl = castle
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

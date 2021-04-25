@@ -1,0 +1,18 @@
+# c_juniper_valley
+
+# County Title
+title = c_juniper_valley
+
+# Settlements
+max_settlements = 3
+
+b_juniper_valley = castle
+#b_juniper_blvd = city
+#b_dry_harbor_rd = temple
+#b_80th_st_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

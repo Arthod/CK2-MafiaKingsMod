@@ -1,0 +1,21 @@
+# c_prince_st
+
+# County Title
+title = c_prince_st
+
+# Settlements
+max_settlements = 5
+
+b_prince_st_3 = castle
+b_bleecker_st = city
+b_mulberry_st_2 = temple
+#b_bowery_2 = castle
+#b_elizabeth_st = city
+#b_mott_st_2 = temple
+#b_houston_st = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

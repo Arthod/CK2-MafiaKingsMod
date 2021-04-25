@@ -1,0 +1,21 @@
+# c_essex_st
+
+# County Title
+title = c_essex_st
+
+# Settlements
+max_settlements = 7
+
+b_essex_st = castle
+b_norfolk_st = city
+b_suffolk_st = temple
+b_ridge_st = castle
+b_pitt_st = city
+b_attorney_st = temple
+b_clinton_st = castle
+
+# Misc
+culture = litvak
+religion = criminal
+
+#History

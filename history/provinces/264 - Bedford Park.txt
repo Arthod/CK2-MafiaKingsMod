@@ -1,0 +1,19 @@
+# c_bedford_park
+
+# County Title
+title = c_bedford_park
+
+# Settlements
+max_settlements = 4
+
+b_bedford_park = castle
+b_grand_concourse = city
+#b_bedford_park_blvd = temple
+#b_goulden_ave = castle
+#b_jerome_ave_3 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

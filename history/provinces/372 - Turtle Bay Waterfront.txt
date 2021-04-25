@@ -1,0 +1,21 @@
+# c_turtle_bay_waterfront
+
+# County Title
+title = c_turtle_bay_waterfront
+
+# Settlements
+max_settlements = 7
+
+b_turtle_bay_waterfront = castle
+b_e_42nd_st = city
+b_e_49th_st = temple
+b_e_45th_st = castle
+b_e_43rd_st = city
+#b_e_48th_st = temple
+#b_e_43rd_st_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

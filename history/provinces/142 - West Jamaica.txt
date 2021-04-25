@@ -1,0 +1,18 @@
+# c_west_jamaica
+
+# County Title
+title = c_west_jamaica
+
+# Settlements
+max_settlements = 3
+
+b_west_jamaica = castle
+b_sutphin_blvd = city
+#b_lakewood_ave = temple
+#b_liberty_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

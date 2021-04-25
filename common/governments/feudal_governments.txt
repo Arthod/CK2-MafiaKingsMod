@@ -1,0 +1,74 @@
+feudal_governments = {
+	
+	business_government = {
+		color = {0.85 0.75 0.20}
+		title_prefix = "business_"
+		frame_suffix = "_business"
+		potential = {
+			religion_group = legal_group
+		}
+		
+		uses_decadence = yes
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE 
+			FORT
+			HOSPITAL
+		}
+		
+		can_demand_religious_conversion = no
+	}
+	
+	mafia_government = {
+		color = {0.55 0.15 0.10}
+		title_prefix = "mafia_"
+		frame_suffix = "_mafia"
+		potential = {
+			AND = {
+				religion_group = illegal_group
+				culture_group = italian
+			}
+		}
+		
+		uses_decadence = yes
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE 
+			FORT
+			HOSPITAL
+		}
+		
+		can_demand_religious_conversion = no
+	}
+	
+	gang_government = {
+		color = {0.45 0.35 0.10}
+		title_prefix = "gang_"
+		frame_suffix = "_gang"
+		potential = {
+			AND = {
+				religion_group = illegal_group
+				NOT = {culture_group = italian}
+			}
+		}
+		
+		uses_decadence = yes
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+		
+		preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE 
+			FORT
+			HOSPITAL
+		}
+		
+		can_demand_religious_conversion = no
+	}
+}

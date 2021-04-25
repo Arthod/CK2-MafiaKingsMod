@@ -1,0 +1,18 @@
+# c_eastchester
+
+# County Title
+title = c_eastchester
+
+# Settlements
+max_settlements = 3
+
+b_eastchester = castle
+#b_dyre_ave = city
+#b_233rd_st = temple
+#b_pratt_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

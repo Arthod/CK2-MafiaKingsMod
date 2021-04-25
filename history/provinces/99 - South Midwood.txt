@@ -1,0 +1,17 @@
+# c_south_midwood
+
+# County Title
+title = c_south_midwood
+
+# Settlements
+max_settlements = 2
+
+b_south_midwood = castle
+#b_coney_island_ave_3 = city
+#b_kings_hwy_2 = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

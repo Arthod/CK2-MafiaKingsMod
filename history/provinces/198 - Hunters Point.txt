@@ -1,0 +1,20 @@
+# c_hunters_point
+
+# County Title
+title = c_hunters_point
+
+# Settlements
+max_settlements = 5
+
+b_hunters_point = castle
+b_vernon_blvd = city
+b_48th_ave = temple
+#b_center_blvd = castle
+#b_borden_ave = city
+#b_5th_st_2 = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

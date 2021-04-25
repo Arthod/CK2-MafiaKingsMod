@@ -1,0 +1,14 @@
+# e_brooklyn
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_brooklyn
+}
+1907.1.1={
+	holder=57
+}
+1916.1.1={
+	holder=58
+}

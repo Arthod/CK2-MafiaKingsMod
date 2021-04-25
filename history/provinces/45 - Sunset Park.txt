@@ -1,0 +1,19 @@
+# c_sunset_park
+
+# County Title
+title = c_sunset_park
+
+# Settlements
+max_settlements = 4
+
+b_sunset_park = castle
+#b_5th_ave_3 = city
+#b_39th_st = temple
+#b_4th_ave_2 = castle
+#b_7th_ave_3 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

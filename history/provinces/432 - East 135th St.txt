@@ -1,0 +1,20 @@
+# c_east_135th_st
+
+# County Title
+title = c_east_135th_st
+
+# Settlements
+max_settlements = 5
+
+b_east_135th_st = castle
+b_e_136th_st = city
+b_e_137th_st = temple
+#b_edgecombe_ave = castle
+#b_douglass_blvd = city
+#b_malcolm_x_blvd = temple
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

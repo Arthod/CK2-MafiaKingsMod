@@ -227,21 +227,8 @@ character_event = {
 	option = {
 		name = {
 			text = EVTOPTC73001 # These are books created by satan!
-			trigger = {
-				religion_group = christian
-			}
-		}
-		name = {
-			text = EVTOPTD73001 # These are books created by Shaytan!
-			trigger = {
-				religion_group = muslim
-			}
 		}
 		trigger = {
-			OR = {
-				religion_group = christian
-				religion_group = muslim
-			}
 		}
 		ai_chance = {
 			factor = 1
@@ -254,7 +241,7 @@ character_event = {
 			if = {
 				limit = {
 					NOT = {
-						religion_group = muslim
+						
 					}
 				}
 				add_trait = chaste
@@ -276,7 +263,6 @@ character_event = {
 	min_age = 16
 	only_playable = yes
 	prisoner = no
-	religion = catholic
 	
 	trigger = {
 		in_command = no
@@ -337,7 +323,7 @@ character_event = {
 	min_age = 16
 	only_playable = yes
 	prisoner = no
-	religion_group = christian
+	
 	
 	trigger = {
 		in_command = no
@@ -666,20 +652,20 @@ character_event = {
 		name = EVTOPTD73006 #Send him to confess his sins
 		trigger = {
 			OR = {
-				religion_group = christian
-				religion_group = muslim
+				
+				
 			}
 		}
 		event_target:knocked_up_maid = {
 			if = {
 				limit = {
-					religion_group = christian
+					
 				}
 				add_trait = chaste
 			}
 			if = {
 				limit = {
-					religion_group = muslim
+					
 				}
 				piety = -10
 			}
@@ -752,7 +738,7 @@ character_event = {
 	option = {
 		name = EVTOPTB73007 #Let's go to the church instead, darling
 		trigger = {
-			religion_group = christian
+			
 		}
 		if = {
 			limit = { trait = cynical }
@@ -987,11 +973,7 @@ character_event = {
 	trigger = {
 		year = 1415
 		OR = {
-			religion = catholic
-			religion = cathar
-			religion = fraticelli
-			religion = waldensian
-			religion = lollard
+		
 		}
 		NOT = { has_character_flag = ars_moriendi }
 	}
@@ -1881,17 +1863,11 @@ character_event = {
 	
 	trigger = {
 		NOT = {
-			religion_group = muslim
+			
 		}
 		OR = {
 			is_theocracy = yes
-			AND = {
-				is_ruler = no
-				NOT = { religion = orthodox }
-				NOT = { is_heresy_of = orthodox }
-				NOT = { religion = miaphysite }
-				NOT = { is_heresy_of = miaphysite }
-			}
+			is_ruler = no
 		}
 		independent = no
 		is_councillor = no
@@ -1933,7 +1909,7 @@ character_event = {
 		if = {
 			limit = {
 				NOT = {
-					religion_group = muslim
+					
 				}
 			}
 			liege = { letter_event = { id = 73231 tooltip = EVTTOOLTIP73231 } }

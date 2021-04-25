@@ -1,0 +1,19 @@
+# c_auburndale
+
+# County Title
+title = c_auburndale
+
+# Settlements
+max_settlements = 4
+
+b_auburndale = castle
+#b_47th_ave = city
+#b_francis_lewis_blvd_2 = temple
+#b_hollis_blvd = castle
+#b_58th_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

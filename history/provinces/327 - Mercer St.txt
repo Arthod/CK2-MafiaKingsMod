@@ -1,0 +1,21 @@
+# c_mercer_st
+
+# County Title
+title = c_mercer_st
+
+# Settlements
+max_settlements = 7
+
+b_mercer_st = castle
+b_broadway_10 = city
+b_crosby_st = temple
+#b_lafayette_st_2 = castle
+#b_centre_st_2 = city
+#b_spring_st_2 = temple
+#b_broome_st_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

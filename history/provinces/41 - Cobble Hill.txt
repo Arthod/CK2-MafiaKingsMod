@@ -1,0 +1,19 @@
+# c_cobble_hill
+
+# County Title
+title = c_cobble_hill
+
+# Settlements
+max_settlements = 4
+
+b_cobble_hill = castle
+b_congress_st = city
+b_baltic_st = temple
+#b_kane_st = castle
+#b_warren_st = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

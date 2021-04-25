@@ -1,0 +1,21 @@
+# c_north_bowery
+
+# County Title
+title = c_north_bowery
+
+# Settlements
+max_settlements = 7
+
+b_north_bowery = castle
+b_e_8th_st = city
+b_e_1st_st = temple
+b_e_7th_st_3 = castle
+b_e_4th_st = city
+b_e_5th_st = temple
+#b_e_6th_st_3 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_rose_hill
+
+# County Title
+title = c_rose_hill
+
+# Settlements
+max_settlements = 5
+
+b_rose_hill = castle
+b_e_23rd_st_3 = city
+b_e_26th_st = temple
+#b_e_27th_st = castle
+#b_e_25th_st_2 = city
+#b_e_24th_st_2 = temple
+#b_e_28th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

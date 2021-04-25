@@ -1,0 +1,17 @@
+# c_edgewater_park
+
+# County Title
+title = c_edgewater_park
+
+# Settlements
+max_settlements = 2
+
+b_edgewater_park = castle
+#b_miles_ave = city
+#b_longstreet_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

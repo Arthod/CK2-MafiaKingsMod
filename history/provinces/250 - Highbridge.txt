@@ -1,0 +1,20 @@
+# c_highbridge
+
+# County Title
+title = c_highbridge
+
+# Settlements
+max_settlements = 5
+
+b_highbridge = castle
+#b_university_ave = city
+#b_jerome_ave = temple
+#b_woodycrest_ave = castle
+#b_nelson_ave = city
+#b_ogden_ave = temple
+
+# Misc
+culture = yankee
+religion = criminal
+
+#History

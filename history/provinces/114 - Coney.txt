@@ -1,0 +1,19 @@
+# c_coney
+
+# County Title
+title = c_coney
+
+# Settlements
+max_settlements = 5
+
+b_coney = castle
+b_surf_ave = city
+#b_mermaid_ave = temple
+#b_stillwell_ave = castle
+#b_w_17th_st = city
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

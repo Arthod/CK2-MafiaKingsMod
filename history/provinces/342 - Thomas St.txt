@@ -1,0 +1,21 @@
+# c_thomas_st
+
+# County Title
+title = c_thomas_st
+
+# Settlements
+max_settlements = 5
+
+b_thomas_st = castle
+b_walker_st_3 = city
+b_canal_st_3 = temple
+#b_white_st_2 = castle
+#b_franklin_st_4 = city
+#b_leonard_st_2 = temple
+#b_worth_st_2 = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

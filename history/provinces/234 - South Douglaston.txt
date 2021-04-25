@@ -1,0 +1,17 @@
+# c_south_douglaston
+
+# County Title
+title = c_south_douglaston
+
+# Settlements
+max_settlements = 2
+
+b_south_douglaston = castle
+#b_61st_ave = city
+#b_hewlett_st = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

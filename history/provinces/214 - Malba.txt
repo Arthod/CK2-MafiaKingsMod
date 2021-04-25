@@ -1,0 +1,18 @@
+# c_malba
+
+# County Title
+title = c_malba
+
+# Settlements
+max_settlements = 3
+
+b_malba = castle
+b_malba_dr = city
+#b_parsons_blvd_2 = temple
+#b_south_dr = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

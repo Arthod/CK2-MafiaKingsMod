@@ -1,0 +1,17 @@
+# c_barren_island
+
+# County Title
+title = c_barren_island
+
+# Settlements
+max_settlements = 2
+
+b_barren_island = castle
+#b_flatbush_ave_6 = city
+#b_belt_pkwy = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,17 @@
+# c_randalls_island
+
+# County Title
+title = c_randalls_island
+
+# Settlements
+max_settlements = 2
+
+b_randalls_island = castle
+#b_central_rd = city
+#b_reilly_blvd = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

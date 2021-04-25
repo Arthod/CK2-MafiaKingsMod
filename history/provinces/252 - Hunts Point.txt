@@ -1,0 +1,19 @@
+# c_hunts_point
+
+# County Title
+title = c_hunts_point
+
+# Settlements
+max_settlements = 4
+
+b_hunts_point = castle
+#b_lafayette_ave_3 = city
+#b_edgewater_rd = temple
+#b_spofford_ave = castle
+#b_garrison_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

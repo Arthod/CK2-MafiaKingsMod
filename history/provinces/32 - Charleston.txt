@@ -1,0 +1,17 @@
+# c_charleston
+
+# County Title
+title = c_charleston
+
+# Settlements
+max_settlements = 2
+
+b_charleston = castle
+#b_sharrots_rd = city
+#b_bricktown_way = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

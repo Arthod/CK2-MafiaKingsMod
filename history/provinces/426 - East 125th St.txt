@@ -1,0 +1,20 @@
+# c_east_125th_st
+
+# County Title
+title = c_east_125th_st
+
+# Settlements
+max_settlements = 5
+
+b_east_125th_st = castle
+b_e_124th_st = city
+b_e_129th_st = temple
+#b_e_127th_st = castle
+#b_e_128th_st = city
+#b_e_126th_st = temple
+
+# Misc
+culture = litvak
+religion = upright
+
+#History

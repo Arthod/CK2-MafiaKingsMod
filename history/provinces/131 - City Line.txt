@@ -1,0 +1,19 @@
+# c_city_line
+
+# County Title
+title = c_city_line
+
+# Settlements
+max_settlements = 4
+
+b_city_line = castle
+#b_pitkin_ave = city
+#b_sutter_ave_2 = temple
+#b_conduit_blvd = castle
+#b_euclid_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

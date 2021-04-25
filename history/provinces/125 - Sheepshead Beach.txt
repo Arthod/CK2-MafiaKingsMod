@@ -1,0 +1,19 @@
+# c_sheepshead_beach
+
+# County Title
+title = c_sheepshead_beach
+
+# Settlements
+max_settlements = 4
+
+b_sheepshead_beach = castle
+b_emmons_ave = city
+#b_voorhies_ave = temple
+#b_ocean_ave_4 = castle
+#b_nostrand_ave_4 = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

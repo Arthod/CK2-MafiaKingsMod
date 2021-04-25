@@ -1,0 +1,21 @@
+# c_gowanus
+
+# County Title
+title = c_gowanus
+
+# Settlements
+max_settlements = 6
+
+b_gowanus = castle
+b_3rd_ave = city
+#b_2nd_ave = temple
+#b_union_st = castle
+#b_carroll_st_2 = city
+#b_4th_ave = temple
+#b_12th_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

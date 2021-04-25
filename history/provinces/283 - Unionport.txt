@@ -1,0 +1,19 @@
+# c_unionport
+
+# County Title
+title = c_unionport
+
+# Settlements
+max_settlements = 4
+
+b_unionport = castle
+b_westchester_ave_2 = city
+#b_castle_hill_ave = temple
+#b_waterbury_ave = castle
+#b_zerega_ave_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

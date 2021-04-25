@@ -1,0 +1,21 @@
+# c_east_broadway
+
+# County Title
+title = c_east_broadway
+
+# Settlements
+max_settlements = 7
+
+b_east_broadway = castle
+b_montgomery_st_2 = city
+b_madison_st_3 = temple
+b_henry_st_2 = castle
+b_water_st_6 = city
+#b_jefferson_st = temple
+#b_jackson_st = castle
+
+# Misc
+culture = litvak
+religion = criminal
+
+#History

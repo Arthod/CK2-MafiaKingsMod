@@ -1,0 +1,19 @@
+# c_ravenswood
+
+# County Title
+title = c_ravenswood
+
+# Settlements
+max_settlements = 4
+
+b_ravenswood = castle
+b_36th_ave = city
+#b_21st_st = temple
+#b_vernon_blvd_2 = castle
+#b_crescent_st = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

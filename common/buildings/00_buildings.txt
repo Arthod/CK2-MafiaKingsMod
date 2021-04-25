@@ -1,0 +1,15 @@
+
+castle = {
+	mafia_test_building = {
+		desc = ct_wall_q_1_desc
+		potential = { religion_group = illegal_group }
+		trigger = { FROM = { government = mafia_government } }
+		prerequisites = {  }
+		gold_cost = 50
+		build_time = 182
+		fort_level = 0.4
+		ai_creation_factor = 60
+		
+		extra_tech_building_start = 1.0
+	}
+}

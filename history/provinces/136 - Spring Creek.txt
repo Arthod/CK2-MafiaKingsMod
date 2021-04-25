@@ -1,0 +1,18 @@
+# c_spring_creek
+
+# County Title
+title = c_spring_creek
+
+# Settlements
+max_settlements = 3
+
+b_spring_creek = castle
+#b_vandalia_ave = city
+#b_erskine_st = temple
+#b_gateway_dr = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

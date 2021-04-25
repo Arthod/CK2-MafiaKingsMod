@@ -1,0 +1,42 @@
+murder_investigation;Murder;;;;;;;;;;;x
+murder_suspect;Murder Suspect;;;;;;;;;;;x
+murder_suspect_desc;This character is under police investigation for charges of first degree murder.;;;;;;;;;;;x
+EVTDESCMMI.1;After the murder of [plot_target.GetFullName] police are now investigating in your neighborhood.;;;;;;;;;;;x
+EVTOPTAMMI.1;Damn!;;;;;;;;;;;x
+EVTOPTBMMI.1;Make it stop!;;;;;;;;;;;x
+EVTDESCMMP.1;Kill?;;;;;;;;;;;x
+EVTOPTAMMP.1;KILL!;;;;;;;;;;;x
+MURDER_INVESTIGATION_INFO;Police lead investigations for first degree murder in this neighborhood.;;;;;;;;;;;x
+
+CHARACTER_CONTRACTED_DISEASE_SETUP;Character Under Investigation;;;;;;;;;;;;;x
+CHARACTER_CONTRACTED_DISEASE_LOG;§Y$NAME$§! is under investigation for §Y$DIS_NAME$§!.;;;;;;;;;;;;;x
+DISEASE_OUTBREAK_SETUP;Investigations under way;;;;;;;;;;;;;x
+DISEASE_OUTBREAK_LOG;§Y$NAME$§! investigations launched in §Y$PROV_NAME$§!.;;;;;;;;;;;;;x
+DISEASE_OUTBREAK_LETTER;I have heard of investigations for §Y$NAME$§! in §Y$PROV_NAME$§!.;;;;;;;;;;;;;x
+HASNT_EPIDEMIC;Is NOT currently affected by investigations;;;;;;;;;;;;;x
+HAS_EPIDEMIC;Is affected by investigations;;;;;;;;;;;;;x
+PROVINCE_HAS_DISEASE;Ongoing investigations for $DISEASE$\n;;;;;;;;;;;;;x
+PROVINCE_DOES_NOT_HAVE_DISEASE;Does NOT have ongoing investigations for $DISEASE$\n;;;;;;;;;;;;;x
+PROVINCE_HAS_ANY_DISEASE;Has any ongoing investigations\n;;;;;;;;;;;;;x
+PROVINCE_DOES_NOT_HAVE_ANY_DISEASE;Does NOT have any ongoing investigations\n;;;;;;;;;;;;;x
+COVERAGE;This investigation currently covers $NUM$ neighborhoods;;;;;;;;;;;;;x
+DISEASE_INCREASED;Duration of investigations increased by $VAL$ months.\n;;;;;;;;;;;;;x
+DISEASE_DECREASED;Duration of investigations reduced by $VAL$ months.\n;;;;;;;;;;;;;x
+MODIFIER_DISEASE_DEFENCE;Investigation Resistance;;;;;;;;;;;;;x
+PROVINCE_INFECTED_WITH;Ongoing investigations for:;;;;;;;;;;;;;x
+PROVINCE_PROTECTED_BY;Has $VALUE|G$% investigation resistance;;;;;;;;;;;;;x
+PROVINCE_MIGHT_GET;Suspicions of:;;;;;;;;;;;;;x
+PROVINCE_MIGHT_GET_LINE;- $VALUE|Y$ chances of being investigated for $DISEASE|Y$;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_TITLE;§YInvestigations§!;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_TOTAL;The NYPD currently has $VALUE|Y$ major investigations going on, including $MAJOR|R$ shakedowns.;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_TOTAL_MAJOR_ONLY;The NYPD currently has $MAJOR|R$ shakedowns going on.;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_TOTAL_MINOR_ONLY;The NYPD currently has $VALUE|Y$ major investigations going on.;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_PLAYER_MAJOR_MINOR;Your own territory is affected by $MAJOR|R$ shakedowns and $MINOR|Y$ major investigations;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_PLAYER_MAJOR_ONLY;Your own territory is affected by $MAJOR|R$ shakedowns;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_PLAYER_MINOR_ONLY;Your own territory is affected by $MINOR|Y$ major investigations;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_DELAYED_PLAYER;The investigations going on in your territory:;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_DELAYED_VALUE;- $DISEASE$ investigations started in $PROVINCE|Y$ on $START_DATE|Y$;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_DELAYED_OTHERS;Other investigations in the world:;;;;;;;;;;;;;x
+EPIDEMICS_TOOLTIP_DELAYED_OTHERS_NOPLAYER;New York's ongoing major investigations:;;;;;;;;;;;;;x
+MAPMODE_EPIDEMICS;§YInvestigations§!;;;;;;;;;;;;;x
+MAPMODE_EPIDEMICS_DESC;This map mode shows all neighborhoods affected by investigations.;;;;;;;;;;;;;x

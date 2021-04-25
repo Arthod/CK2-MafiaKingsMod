@@ -1,0 +1,20 @@
+# c_south_borough_park
+
+# County Title
+title = c_south_borough_park
+
+# Settlements
+max_settlements = 5
+
+b_south_borough_park = castle
+b_new_utrecht_ave = city
+#b_60th_st = temple
+#b_57th_st = castle
+#b_65th_st_2 = city
+#b_55th_st = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

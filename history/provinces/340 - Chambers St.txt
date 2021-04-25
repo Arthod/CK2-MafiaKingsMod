@@ -1,0 +1,21 @@
+# c_chambers_st
+
+# County Title
+title = c_chambers_st
+
+# Settlements
+max_settlements = 6
+
+b_chambers_st_2 = castle
+b_harrison_st = city
+b_hudson_st_2 = temple
+#b_jay_st_2 = castle
+#b_duane_st_2 = city
+#b_reade_st_2 = temple
+#b_broadway_13 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

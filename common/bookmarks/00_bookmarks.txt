@@ -1,26 +1,86 @@
-m_first = {
-	name = "m_first"
-	desc = "m_first_desc"
-	date = 800.7.18
+bm_prohibition = {
+	name = "BM_PROHIBITION"
+	desc = "BM_PROHIBITION_INFO"
+	date = 1920.1.17
 	custom_start = yes
+	picture = GFX_pick_era_image_3
 	
-	era = yes						## Will be shown on Era screen.
-	picture = GFX_pick_era_image_5
+	era = yes
 	
 	selectable_character = {
-		id = 1 # King of Vale
-		age = 35
+		id = 1 # Giuseppe Morello
+		age = 52
 		name = ERA_CHAR_NAME_1
-		title = k_vale
-		title_name = ERA_VALE
+		title = c_east_106th_st
+		title_name = MORELLO_CRIME_FAMILY
 		
 		character = {
-			dna = dhcjffdbaaa
-			properties = ag0aea000000
-			religion="remnantan"
-			culture="valean"
-			government = parliamentary_government
-			dynasty=1
+			dna = bc0ce0eaee0
+			properties = bl0ffk00000
+			religion="criminal"
+			culture="sicilian"
+			government = feudal_government
+			dynasty=8
 		}
 	}
 }
+
+#bm_castellammarese_war = {
+#	name = "BM_CASTELLAMMARESE_WAR"
+#	desc = "BM_CASTELLAMMARESE_WAR"
+#	date = 1931.4.15
+#	custom_start = yes
+#	picture = GFX_pick_era_image_3
+#	
+#	era = yes
+#}
+
+#bm_after_the_war = {
+#	name = "BM_AFTER_THE_WAR"
+#	desc = "BM_AFTER_THE_WAR"
+#	date = 1945.9.2
+#	custom_start = yes
+#	picture = GFX_pick_era_image_3
+#	
+#	era = yes
+#}
+
+#bm_after_the_coldwar = {
+#	name = "BM_AFTER_THE_COLDWAR"
+#	desc = "BM_AFTER_THE_COLDWAR"
+#	date = 1990.1.1
+#	custom_start = yes
+#	picture = GFX_pick_era_image_3
+#	
+#	era = yes
+#}
+
+bm_family_tree_test = {
+	name = "BM_FAMILY_TREE_TEST"
+	desc = "BM_FAMILY_TREE_TEST"
+	date = 2077.10.23
+	custom_start = yes
+	picture = GFX_pick_era_image_3
+	
+	era = yes
+}
+
+#A secret start
+#bm_new_amsterdam = {
+#	name = "BM_NEW_AMSTERDAM"
+#	desc = "BM_NEW_AMSTERDAM"
+#	date = 1610.1.1
+#	custom_start = yes
+#	picture = GFX_pick_era_image_3
+#	
+#	era = no
+#}
+#bm_after_the_end = {
+#	name = "BM_AFTER_THE_END"
+#	desc = "BM_AFTER_THE_END"
+#	date = 2666.6.4
+#	custom_start = yes
+#	picture = GFX_pick_era_image_3
+#	
+#	era = no
+#}

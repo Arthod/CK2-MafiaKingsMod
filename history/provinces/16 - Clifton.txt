@@ -1,0 +1,20 @@
+# c_clifton
+
+# County Title
+title = c_clifton
+
+# Settlements
+max_settlements = 3
+
+b_clifton = castle
+b_park_hill = city
+#b_rosebank = temple
+#b_shore_acres = castle
+#b_tompkins_ave = city
+#b_vanderbilt_ave = temple
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

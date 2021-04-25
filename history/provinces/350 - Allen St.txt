@@ -1,0 +1,21 @@
+# c_allen_st
+
+# County Title
+title = c_allen_st
+
+# Settlements
+max_settlements = 7
+
+b_allen_st = castle
+b_rivington_st_2 = city
+b_stanton_st_2 = temple
+b_broome_st_5 = castle
+b_grand_st_5 = city
+b_hester_st_3 = temple
+#b_canal_st_5 = castle
+
+# Misc
+culture = litvak
+religion = criminal
+
+#History

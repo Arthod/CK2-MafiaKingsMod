@@ -1,0 +1,17 @@
+# c_remsen_village
+
+# County Title
+title = c_remsen_village
+
+# Settlements
+max_settlements = 3
+
+b_remsen_village = castle
+#b_remsen_ave = city
+#b_avenue_a = temple
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

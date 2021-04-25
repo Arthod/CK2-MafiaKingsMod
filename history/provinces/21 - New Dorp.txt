@@ -1,0 +1,19 @@
+# c_new_dorp
+
+# County Title
+title = c_new_dorp
+
+# Settlements
+max_settlements = 2
+
+b_new_dorp = castle
+#b_new_dorp_2 = city
+#b_oakwood = temple
+#b_new_dorp_beach = castle
+#b_oakwood_heights = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

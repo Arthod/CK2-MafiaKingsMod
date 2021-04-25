@@ -1,0 +1,19 @@
+# c_ansonia
+
+# County Title
+title = c_ansonia
+
+# Settlements
+max_settlements = 4
+
+b_ansonia = castle
+b_w_70th_st = city
+b_w_69th_st_2 = temple
+#b_w_71st_st = castle
+#b_w_72nd_st_2 = city
+
+# Misc
+culture = irish
+religion = upright
+
+#History

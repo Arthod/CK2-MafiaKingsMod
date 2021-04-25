@@ -1,0 +1,18 @@
+# c_mt_zion
+
+# County Title
+title = c_mt_zion
+
+# Settlements
+max_settlements = 3
+
+b_mt_zion = castle
+b_58th_st_3 = city
+#b_tyler_ave = temple
+#b_55th_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

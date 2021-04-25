@@ -1,0 +1,19 @@
+# c_brooklyn_bridge
+
+# County Title
+title = c_brooklyn_bridge
+
+# Settlements
+max_settlements = 4
+
+b_brooklyn_bridge = castle
+b_frankfort_st = city
+b_avenue_of_the_finest = temple
+b_dover_st = castle
+#b_pearl_st_2 = city
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

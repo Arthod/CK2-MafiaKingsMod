@@ -1,0 +1,18 @@
+# c_west_175th_st
+
+# County Title
+title = c_west_175th_st
+
+# Settlements
+max_settlements = 3
+
+b_west_175th_st = castle
+#b_haven_ave = city
+#b_broadway_16 = temple
+#b_fort_washington_ave_2 = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

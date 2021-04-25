@@ -1,0 +1,255 @@
+castle = {
+	# restaurant1
+	legal_restaurant_1 = {
+		desc = legal_restaurant_1_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 90
+
+		not_if_x_exists = { legal_main_test_1 legal_main_test_2 legal_main_test_3 }
+
+		tax_income = -2
+		ai_creation_factor = 90
+	}
+	# restaurant2
+	legal_restaurant_2 = {
+		desc = legal_restaurant_2_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		upgrades_from = legal_restaurant_1
+		gold_cost = 300
+		build_time = 120
+		tax_income = -2
+		ai_creation_factor = 89
+	}
+	# restaurant3
+	legal_restaurant_3 = {
+		desc = legal_restaurant_3_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		upgrades_from = legal_restaurant_2
+		gold_cost = 350
+		build_time = 150
+		tax_income = -2
+		ai_creation_factor = 88
+	}
+	# restaurant4
+	legal_restaurant_4 = {
+		desc = legal_restaurant_4_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		upgrades_from = legal_restaurant_3
+		gold_cost = 400
+		build_time = 180
+		tax_income = -2
+		ai_creation_factor = 87
+	}
+	# restaurant5
+	legal_restaurant_5 = {
+		desc = legal_restaurant_5_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		upgrades_from = legal_restaurant_4
+		gold_cost = 450
+		build_time = 210
+		tax_income = -2
+		ai_creation_factor = 86
+	}
+	# restaurant6
+	legal_restaurant_6 = {
+		desc = legal_restaurant_6_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		upgrades_from = legal_restaurant_5
+		gold_cost = 500
+		build_time = 240
+		tax_income = -2
+		ai_creation_factor = 85
+	}
+	# Wine Cellar 1
+	legal_restaurant_cellar_1 = {
+		desc = legal_restaurant_cellar_1_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		prerequisites = { legal_restaurant_1 }
+		gold_cost = 150
+		build_time = 50
+		ai_creation_factor = 100
+		
+		tax_income = 4
+		fertility = 0.1
+		monthly_character_prestige = 0.1
+	}
+	
+	# Wine Cellar 2
+	legal_restaurant_cellar_2 = {
+		desc = legal_restaurant_cellar_2_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 99
+
+		upgrades_from = legal_restaurant_cellar_1
+		prerequisites = { legal_restaurant_3 }
+		
+		tax_income = 4
+		monthly_character_prestige = 0.1
+	}
+	# Wine Cellar 3
+	legal_restaurant_cellar_3 = {
+		desc = legal_restaurant_cellar_3_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		upgrades_from = legal_restaurant_cellar_2
+		prerequisites = { legal_restaurant_6 }
+		
+		tax_income = 5
+		diplomacy = 1
+		monthly_character_prestige = 0.1
+	}
+	# Dining Room 1
+	legal_restaurant_dining_1 = {
+		desc = legal_restaurant_dining_1_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		prerequisites = { legal_restaurant_1 }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+		
+		tax_income = 5
+		diplomacy = 1
+		monthly_character_prestige = 0.1
+	}
+	# Dining Room 2
+	legal_restaurant_dining_2 = {
+		desc = legal_restaurant_dining_2_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		upgrades_from = legal_restaurant_dining_1
+		prerequisites = { legal_restaurant_2 }
+		
+		tax_income = 5
+		diplomacy = 1
+		monthly_character_prestige = 0.1
+	}
+	# Dining Room 3
+	legal_restaurant_dining_3 = {
+		desc = legal_restaurant_dining_3_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		upgrades_from = legal_restaurant_dining_2
+		prerequisites = { legal_restaurant_3 }
+		
+		tax_income = 5
+		diplomacy = 1
+		monthly_character_prestige = 0.1
+	}
+	# Dining Room 4
+	legal_restaurant_dining_4 = {
+		desc = legal_restaurant_dining_4_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		upgrades_from = legal_restaurant_dining_3
+		prerequisites = { legal_restaurant_4 }
+		
+		tax_income = 5
+		diplomacy = 1
+		monthly_character_prestige = 0.1
+	}
+	# Dining Room 5
+	legal_restaurant_dining_5 = {
+		desc = legal_restaurant_dining_5_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		upgrades_from = legal_restaurant_dining_4
+		prerequisites = { legal_restaurant_5 }
+		
+		tax_income = 5
+		diplomacy = 1
+		monthly_character_prestige = 0.1
+	}
+	# Dining Room 6
+	legal_restaurant_dining_6 = {
+		desc = legal_restaurant_dining_6_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		upgrades_from = legal_restaurant_dining_5
+		prerequisites = { legal_restaurant_6 }
+		
+		tax_income = 5
+		diplomacy = 1
+		monthly_character_prestige = 0.1
+	}
+	# Test visible 1
+	legal_main_test_1 = {
+		desc = legal_main_test_1_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		not_if_x_exists = { legal_main_test_2 legal_restaurant_1 legal_main_test_3 }
+		
+		tax_income = 5
+		monthly_character_prestige = 0.1
+	}
+	# Test visible 2
+	legal_main_test_2 = {
+		desc = legal_main_test_2_desc
+		potential = { religion_group = legal_group }
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		not_if_x_exists = { legal_main_test_1 legal_restaurant_1 legal_main_test_3 }
+		
+		tax_income = 5
+		monthly_character_prestige = 0.1
+	}
+	# Test visible 3
+	legal_main_test_3 = {
+		desc = legal_main_test_3_desc
+		potential = { 
+			religion_group = legal_group 
+			FROMFROM = { NOT = { has_building = legal_restaurant_1 } }
+		}
+		trigger = { FROM = { government = business_government } }
+		gold_cost = 250
+		build_time = 80
+		ai_creation_factor = 98
+
+		not_if_x_exists = { legal_main_test_1 legal_restaurant_1 legal_main_test_2 }
+		
+		tax_income = 5
+		monthly_character_prestige = 0.1
+	}
+}

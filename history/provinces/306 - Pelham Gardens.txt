@@ -1,0 +1,19 @@
+# c_pelham_gardens
+
+# County Title
+title = c_pelham_gardens
+
+# Settlements
+max_settlements = 4
+
+b_pelham_gardens = castle
+#b_waring_ave = city
+#b_stillwell_ave_4 = temple
+#b_astor_ave = castle
+#b_mace_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

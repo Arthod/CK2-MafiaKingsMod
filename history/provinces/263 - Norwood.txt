@@ -1,0 +1,18 @@
+# c_norwood
+
+# County Title
+title = c_norwood
+
+# Settlements
+max_settlements = 3
+
+b_norwood = castle
+#b_bainbridge_ave = city
+#b_gun_hill_rd = temple
+#b_reservoir_oval = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

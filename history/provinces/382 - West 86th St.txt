@@ -1,0 +1,21 @@
+# c_west_86th_st
+
+# County Title
+title = c_west_86th_st
+
+# Settlements
+max_settlements = 6
+
+b_west_86th_st = castle
+b_w_92nd_st = city
+b_w_89th_st = temple
+b_w_91st_st = castle
+#b_w_87th_st = city
+#b_w_90th_st = temple
+#b_w_88th_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

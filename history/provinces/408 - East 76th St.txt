@@ -1,0 +1,21 @@
+# c_east_76th_st
+
+# County Title
+title = c_east_76th_st
+
+# Settlements
+max_settlements = 7
+
+b_east_76th_st = castle
+b_e_73rd_st = city
+b_e_83rd_st_2 = temple
+b_e_79th_st_2 = castle
+#b_e_75th_st_2 = city
+#b_e_78th_st_2 = temple
+#b_e_81st_st_2 = castle
+
+# Misc
+culture = galizianer
+religion = criminal
+
+#History

@@ -1,0 +1,21 @@
+# c_morningside
+
+# County Title
+title = c_morningside
+
+# Settlements
+max_settlements = 6
+
+b_morningside = castle
+b_w_116th_st = city
+b_w_120th_st = temple
+b_w_114th_st = castle
+#b_w_111th_st = city
+#b_w_122nd_st = temple
+#b_w_112th_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

@@ -1,0 +1,20 @@
+# c_melrose
+
+# County Title
+title = c_melrose
+
+# Settlements
+max_settlements = 5
+
+b_melrose = castle
+b_149th_st_2 = city
+#b_3rd_ave_8 = temple
+#b_courtlandt_ave = castle
+#b_morris_ave = city
+#b_156th_st = temple
+
+# Misc
+culture = unknown_italian
+religion = criminal
+
+#History

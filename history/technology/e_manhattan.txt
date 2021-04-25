@@ -1,53 +1,44 @@
 #MANHATTAN
 technology = {
 	titles = {
-		d_dewitt
-		d_columbus_circle
-		d_hells_kitchen
-		d_lincoln_square
-		d_plaza
+		d_carnegie_hill
+		d_central_harlem
+		d_central_park
 		d_chelsea
-		d_clinton
-		d_flatiron
-		d_gramercy
-		d_madison_square
-		d_midtown
-		d_midtown_south
-		d_stuyvesant_square
-		d_times_square
-		d_yorkville
-		d_queensboro_bridge
-		d_sutton_place
-		d_tudor_city
-		d_turtle_bay
-		d_cherysite
-		d_community_college
-		d_e_housten
-		d_east_river_park
+		d_civic_center
+		d_east_harlem
 		d_east_village
-		d_gansevoort
-		d_grand_street
+		d_financial_district
+		d_gramercy
 		d_greenwich
-		d_hudson_river_park
-		d_inner_town
-		d_james_slip
-		d_lower_manhatten
-		d_new_york_university
-		d_prince_streets
-		d_radio_row
-		d_radio_row_north
-		d_the_battery
-		d_the_other_places
-		d_wall_street
-		d_washington_square_park
-		d_worth_street
+		d_hamilton_heights
+		d_hells_kitchen
+		d_hudson_heights
+		d_inwood
+		d_lenox_hill
+		d_lincoln_square
+		d_little_italy
+		d_lower_east_side
+		d_manhattan_valley
+		d_midtown
+		d_morningside
+		d_murray_hill
+		d_north_harlem
+		d_randalls_and_wards_island
+		d_south_harlem
+		d_tribeca
+		d_turtle_bay
+		d_upper_east_side
+		d_upper_west_side
+		d_washington_heights
+		d_yorkville
 	}
 	1800 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0
 	}
-	1900 = {
+	2500 = {
 		military = 5.0
 		economy = 5.0
 		culture = 5.0

@@ -1,0 +1,18 @@
+# c_throggs_neck
+
+# County Title
+title = c_throggs_neck
+
+# Settlements
+max_settlements = 3
+
+b_throggs_neck = castle
+#b_harding_ave = city
+#b_lawton_ave = temple
+#b_pennyfield_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

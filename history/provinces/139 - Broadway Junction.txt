@@ -1,0 +1,18 @@
+# c_broadway_junction
+
+# County Title
+title = c_broadway_junction
+
+# Settlements
+max_settlements = 3
+
+b_broadway_junction = castle
+b_broadway_4 = city
+#b_fulton_st_2 = temple
+#b_atlantic_ave_3 = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

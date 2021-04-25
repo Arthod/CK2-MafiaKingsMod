@@ -1,0 +1,19 @@
+# c_south_ozone_park
+
+# County Title
+title = c_south_ozone_park
+
+# Settlements
+max_settlements = 4
+
+b_south_ozone_park = castle
+#b_rockaway_blvd_6 = city
+#b_130th_st = temple
+#b_114th_st = castle
+#b_lefferts_blvd_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

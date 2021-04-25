@@ -1,0 +1,18 @@
+# c_bayswater
+
+# County Title
+title = c_bayswater
+
+# Settlements
+max_settlements = 3
+
+b_bayswater = castle
+b_bayswater_ave = city
+#b_healy_ave = temple
+#b_dickens_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

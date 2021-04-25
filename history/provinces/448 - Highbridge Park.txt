@@ -1,0 +1,18 @@
+# c_highbridge_park
+
+# County Title
+title = c_highbridge_park
+
+# Settlements
+max_settlements = 3
+
+b_highbridge_park = castle
+b_st_nicholas_ave_2 = city
+#b_amsterdam_ave = temple
+#b_edgecombe_ave_2 = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

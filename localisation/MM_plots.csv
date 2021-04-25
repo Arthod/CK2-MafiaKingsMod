@@ -1,0 +1,46 @@
+X;Framing events;;;;;;;;;;;x
+EVTDESCMMP.2;The plotter sees an opportunity.;;;;;;;;;;;x
+EVTOPTAMMP.2;The plot backers provide the gun.;;;;;;;;;;;x
+EVTOPTBMMP.2;Buying gun to plant.;;;;;;;;;;;x
+EVTOPTCMMP.2;Buy expensive gun.;;;;;;;;;;;x
+EVTDESCMMP.3;A plot backer sees an opportunity.;;;;;;;;;;;x
+EVTOPTAMMP.3;The conspirators provide the gun.;;;;;;;;;;;x
+EVTOPTBMMP.3;Ask the Plotter for funds.;;;;;;;;;;;x
+EVTDESCMMP.4;Plot backer requests funds.;;;;;;;;;;;x
+EVTOPTAMMP.4;Pay funds to plot backer.;;;;;;;;;;;x
+EVTOPTBMMP.4;I do not have enough money.;;;;;;;;;;;x
+EVTDESCMMP.5;Plot backer receives funds.;;;;;;;;;;;x
+EVTOPTAMMP.5;Excellent.;;;;;;;;;;;x
+EVTDESCMMP.6;plot backer does not receive funds.;;;;;;;;;;;x
+EVTOPTAMMP.6;Pay for it myself.;;;;;;;;;;;x
+EVTOPTBMMP.6;Screw this.;;;;;;;;;;;x
+EVTDESCMMP.7;Framing attempt.;;;;;;;;;;;x
+EVTOPTAMMP.7;Police makes an arrest.;;;;;;;;;;;x
+EVTOPTBMMP.7;The framed goes unnoticed by the police.;;;;;;;;;;;x
+EVTDESCMMP.8;Police arrests the framed. Plotter is discovered.;;;;;;;;;;;x
+EVTOPTAMMP.8;MMP.8;;;;;;;;;;;x
+EVTDESCMMP.9;Police arrests the framed. Plotter is not discovered.;;;;;;;;;;;x
+EVTOPTAMMP.9;MMP.9;;;;;;;;;;;x
+EVTDESCMMP.10;Framed goes frees. Plotter is discovered.;;;;;;;;;;;x
+EVTOPTAMMP.10;MMP.10;;;;;;;;;;;x
+EVTDESCMMP.11;Framed goes frees. Plotter is not discovered.;;;;;;;;;;;x
+EVTOPTAMMP.11;MMP.11;;;;;;;;;;;x
+EVTDESCMMP.12;[ROOT.GetFirstNameWithNick] has informed me of a plan to frame the target succesfully.;;;;;;;;;;;x
+EVTOPTAMMP.12;Interesting plan.;;;;;;;;;;;x
+EVTDESCMMP.13;Plotter tells backer to go ahead.;;;;;;;;;;;x
+EVTOPTAMMP.13;MMP.13;;;;;;;;;;;x
+EVTDESCMMP.14;Initiator informs other plotter.;;;;;;;;;;;x
+EVTOPTAMMP.14;MMP.14;;;;;;;;;;;x
+EVTDESCMMP.15;It seems [ROOT.GetFirstNameWithNick] has been framed and now a suspect of murder to the police. Unfortunatly my involvements have been discovered.;;;;;;;;;;;x
+EVTOPTAMMP.15;Oh no.;;;;;;;;;;;x
+EVTDESCMMP.16;It seems [ROOT.GetFirstNameWithNick] has been framed and now a suspect of murder to the police. This has been done without any trace of my involvement.;;;;;;;;;;;x
+EVTOPTAMMP.16;Wonderful! We shall meet in court.;;;;;;;;;;;x
+EVTDESCMMP.17;Notification: Failure, and discovered;;;;;;;;;;;x
+EVTOPTAMMP.17;MMP.17;;;;;;;;;;;x
+EVTDESCMMP.18;Notification: Failure, but NOT discovered;;;;;;;;;;;x
+EVTOPTAMMP.18;MMP.18;;;;;;;;;;;x
+
+
+
+
+

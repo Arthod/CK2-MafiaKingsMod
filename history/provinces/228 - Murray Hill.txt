@@ -1,0 +1,19 @@
+# c_murray_hill
+
+# County Title
+title = c_murray_hill
+
+# Settlements
+max_settlements = 4
+
+b_murray_hill = castle
+#b_northern_blvd_3 = city
+#b_150th_st_4 = temple
+#b_162nd_st = castle
+#b_bayside_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

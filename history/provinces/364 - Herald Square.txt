@@ -1,0 +1,21 @@
+# c_herald_square
+
+# County Title
+title = c_herald_square
+
+# Settlements
+max_settlements = 6
+
+b_herald_square = castle
+b_w_40th_st = city
+b_w_34th_st_2 = temple
+#b_w_36th_st = castle
+#b_w_38th_st = city
+#b_w_39th_st = temple
+#b_w_41st_st = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

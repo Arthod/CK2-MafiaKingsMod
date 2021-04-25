@@ -1,0 +1,18 @@
+# c_brookville
+
+# County Title
+title = c_brookville
+
+# Settlements
+max_settlements = 2
+
+b_brookville = castle
+#b_brookville_blvd = city
+#b_147th_ave_2 = temple
+#b_230th_st = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

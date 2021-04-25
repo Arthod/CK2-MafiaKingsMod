@@ -1,0 +1,17 @@
+# c_fort_george
+
+# County Title
+title = c_fort_george
+
+# Settlements
+max_settlements = 2
+
+b_fort_george = castle
+#b_henry_hudson_pkwy = city
+#b_sherman_ave = temple
+
+# Misc
+culture = irish
+religion = upright
+
+#History

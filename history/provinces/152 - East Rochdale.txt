@@ -1,0 +1,19 @@
+# c_east_rochdale
+
+# County Title
+title = c_east_rochdale
+
+# Settlements
+max_settlements = 4
+
+b_east_rochdale = castle
+#b_bedell_st = city
+#b_baisley_blvd_2 = temple
+#b_farmers_blvd_4 = castle
+#b_137th_ave = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

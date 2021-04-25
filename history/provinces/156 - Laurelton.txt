@@ -1,0 +1,18 @@
+# c_laurelton
+
+# County Title
+title = c_laurelton
+
+# Settlements
+max_settlements = 3
+
+b_laurelton = castle
+#b_springfield_blvd_2 = city
+#b_merrick_blvd_2 = temple
+#b_francis_lewis_blvd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_howland_hook
+
+# County Title
+title = c_howland_hook
+
+# Settlements
+max_settlements = 3
+
+b_howland_hook = castle
+#b_western_ave = city
+#b_mariners_marsh = temple
+#b_goethals_rd = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,18 @@
+# c_midwood
+
+# County Title
+title = c_midwood
+
+# Settlements
+max_settlements = 3
+
+b_midwood = castle
+b_avenue_j = city
+#b_coney_island_ave_2 = temple
+#b_avenue_l = castle
+
+# Misc
+culture = galizianer
+religion = upright
+
+#History

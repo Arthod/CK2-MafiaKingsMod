@@ -1,0 +1,20 @@
+# c_west_gravesend
+
+# County Title
+title = c_west_gravesend
+
+# Settlements
+max_settlements = 5
+
+b_west_gravesend = castle
+b_86th_st_3 = city
+#b_stillwell_ave_2 = temple
+#b_highlawn_ave = castle
+#b_kings_hwy_5 = city
+#b_avenue_p = temple
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

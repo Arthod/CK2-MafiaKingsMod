@@ -1,0 +1,18 @@
+# c_middletown
+
+# County Title
+title = c_middletown
+
+# Settlements
+max_settlements = 3
+
+b_middletown = castle
+#b_middletown_rd = city
+#b_crosby_ave = temple
+#b_dudley_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

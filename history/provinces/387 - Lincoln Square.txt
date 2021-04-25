@@ -1,0 +1,21 @@
+# c_lincoln_square
+
+# County Title
+title = c_lincoln_square
+
+# Settlements
+max_settlements = 7
+
+b_lincoln_square = castle
+b_w_66th_st = city
+b_w_64th_st = temple
+#b_w_65th_st = castle
+#b_w_67th_st = city
+#b_w_68th_st = temple
+#b_w_69th_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History

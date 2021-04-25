@@ -1,0 +1,18 @@
+# c_east_greenpoint
+
+# County Title
+title = c_east_greenpoint
+
+# Settlements
+max_settlements = 3
+
+b_east_greenpoint = castle
+#b_bridgewater_st = city
+#b_nassau_ave_2 = temple
+#b_meeker_ave = castle
+
+# Misc
+culture = unknown_italian
+religion = upright
+
+#History

@@ -1,0 +1,21 @@
+# c_mariners_harbor
+
+# County Title
+title = c_mariners_harbor
+
+# Settlements
+max_settlements = 3
+
+b_mariners_harbor = castle
+b_morningside_rd = city
+#b_south_ave = temple
+#b_walker_st = castle
+#b_harbor_rd = city
+#b_maple_pkwy = temple
+#b_lake_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

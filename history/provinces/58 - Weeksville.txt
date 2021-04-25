@@ -1,0 +1,20 @@
+# c_weeksville
+
+# County Title
+title = c_weeksville
+
+# Settlements
+max_settlements = 5
+
+b_weeksville = castle
+b_utica_ave = city
+#b_st_johns_pl = temple
+#b_ralph_ave = castle
+#b_schenectady_ave = city
+#b_saratoga_ave = temple
+
+# Misc
+culture = afro_american
+religion = upright
+
+#History

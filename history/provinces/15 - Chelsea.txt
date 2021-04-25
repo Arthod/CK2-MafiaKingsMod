@@ -1,0 +1,18 @@
+# c_chelsea
+
+# County Title
+title = c_chelsea
+
+# Settlements
+max_settlements = 2
+
+b_chelsea = castle
+#b_travis = city
+#b_victory_blvd_3 = temple
+#b_wild_ave = castle
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

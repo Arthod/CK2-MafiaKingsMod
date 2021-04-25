@@ -1,0 +1,16 @@
+# c_cross_bay
+
+# County Title
+title = c_cross_bay
+
+# Settlements
+max_settlements = 1
+
+b_cross_bay = castle
+#b_cross_bay_blvd_2 = city
+
+# Misc
+culture = yankee
+religion = upright
+
+#History

@@ -1,0 +1,84 @@
+law_groups = {
+	infamy_policy = {
+		law_type = realm
+	}
+}
+
+laws = {
+	infamy_policy_0 = {
+		group = infamy_policy
+		allow = {
+			has_law = infamy_policy_1
+		}
+		potential = {
+			holy_order = no
+			holder_scope = {
+				independent = yes
+				religion_group = illegal_group
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		pass_effect = {
+			
+		}
+		effect = {
+			if = {
+				limit = {
+					has_law = infamy_policy_1
+				}
+				custom_tooltip = {
+					text = TOOLTIP_INFAMY_POLICY_0
+				}
+			}
+			hidden_tooltip = {
+				revoke_law = infamy_policy_1
+			}
+		}
+	}
+	infamy_policy_1 = {
+		group = infamy_policy
+		allow = {
+			has_law = infamy_policy_0
+		}
+		potential = {
+			holy_order = no
+			holder_scope = {
+				independent = yes
+				religion_group = illegal_group
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		pass_effect = {
+			
+		}
+		effect = {
+			if = {
+				limit = {
+					has_law = infamy_policy_0
+				}
+				custom_tooltip = {
+					text = TOOLTIP_INFAMY_POLICY_1
+				}
+			}
+			hidden_tooltip = {
+				revoke_law = infamy_policy_0
+			}
+		}
+	}
+}

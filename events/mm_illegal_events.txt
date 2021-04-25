@@ -1,0 +1,192 @@
+namespace = MMIE
+
+character_event = {
+	id = MMIE.1
+	desc = EVTDESCMMIE.1
+	
+	trigger = {
+		OR = {
+			has_character_modifier = high_infamy
+			AND = {
+				decadence = 75
+				is_ruler = yes
+				religion_group = illegal_group
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 108
+	}
+	
+	option = {
+		name = EVTOPTAMMIE.1
+		effect = {
+			decadence = 10
+			scaled_wealth = 0.5	# needs calibrating
+		}
+	}
+	option = {
+		name = EVTOPTBMMIE.1
+		effect = {
+			decadence = -5
+			if = {
+				limit = {
+					NOT = { trait = charitable }
+				}
+				add_trait = charitable
+			}
+		}
+	}
+}
+character_event = {
+	id = MMIE.2
+	desc = EVTDESCMMIE.2
+	
+	trigger = {
+		OR = {
+			has_character_modifier = high_infamy
+			AND = {
+				decadence = 75
+				is_ruler = yes
+				religion_group = illegal_group
+			}
+		}
+		NOT = { has_character_modifier = complicated_management }
+	}
+	mean_time_to_happen = {
+		months = 108
+	}
+	
+	option = {
+		name = EVTOPTAMMIE.2
+		effect = {
+			decadence = 5
+		}
+	}
+	option = {
+		name = EVTOPTBMMIE.2
+		effect = {
+			decadence = -5
+			add_character_modifier = {
+				name = complicated_management
+				years = 6	# needs calibrating
+				stacking = no
+			}
+		}
+	}
+}
+character_event = {
+	id = MMIE.3
+	desc = EVTDESCMMIE.3
+	
+	trigger = {
+		OR = {
+			has_character_modifier = high_infamy
+			AND = {
+				decadence = 75
+				is_ruler = yes
+				religion_group = illegal_group
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 108
+	}
+	
+	option = {
+		name = EVTOPTAMMIE.3
+		effect = {
+			decadence = 10
+			prestige = 250
+			if = {
+				limit = {
+					NOT = { trait = proud }
+				}
+				add_trait = proud
+			}
+		}
+	}
+	option = {
+		name = EVTOPTBMMIE.3
+		effect = {
+			if = {
+				limit = {
+					prestige = 250
+				}
+				decadence = -10
+				prestige = -250
+			}
+			else = {
+				decadence = -5
+			}
+			if = {
+				limit = {
+					trait = proud
+				}
+				remove_trait = proud
+			}
+		}
+	}
+}
+
+# Add decadent trait
+character_event = {
+	id = MMIE.4
+	hide_window = yes
+	
+	trigger = {
+		religion_group = illegal_group
+		NOT = { trait = decadent }
+		top_liege = {
+			has_law = infamy_policy_1
+		}
+		is_ruler = yes
+		age = 16
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		add_trait = decadent
+	}
+	
+}
+# Remove decadent trait
+character_event = {
+	id = MMIE.5
+	hide_window = yes
+	
+	trigger = {
+		religion_group = illegal_group
+		trait = decadent
+		top_liege = {
+			has_law = infamy_policy_0
+		}
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	immediate = {
+		remove_trait = decadent
+	}
+}
+
+# Temporary: Add made man trait
+character_event = {
+	id = MMIE.6
+	hide_window = yes
+	
+	trigger = {
+		religion_group = illegal_group
+		age = 16
+		NOT = { trait = made_man }
+		is_female = no
+		#culture_group = italian
+	}
+	mean_time_to_happen = {
+		months = 1
+	}
+	immediate = {
+		add_trait = made_man
+	}

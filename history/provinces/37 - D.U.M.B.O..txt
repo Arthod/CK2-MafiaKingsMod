@@ -1,0 +1,18 @@
+# c_d_u_m_b_o_
+
+# County Title
+title = c_d_u_m_b_o_
+
+# Settlements
+max_settlements = 3
+
+b_d_u_m_b_o_ = castle
+#b_main_st_2 = city
+#b_washington_st = temple
+#b_vine_st = castle
+
+# Misc
+culture = irish
+religion = upright
+
+#History
